@@ -525,71 +525,71 @@ V,QID9_QuestionText,"Heeft u nog steeds symptomen?&nbsp;<span style=""caret-colo
 V,QID9_Choice1,Ja
 V,QID9_Choice2,Nee
 V,QID10_QuestionText,"Hoeveel dagen in totaal had u symptomen?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID13_QuestionText,Did you have any of these <strong>pre-existing</strong> conditions/diagnoses or did you experience any of the following pre-COVID?
- ,QID13_Choice2,Diabetes Type 1
- ,QID13_Choice3,Diabetes Type 2
- ,QID13_Choice6,Mast Cell Activation Syndrome (MCAS)
- ,QID13_Choice8,Celiac Disease
- ,QID13_Choice9,Acid Reflux Disease
- ,QID13_Choice10,Cancer (all types)
- ,QID13_Choice11,Seasonal Allergies
- ,QID13_Choice12,Food Allergies
- ,QID13_Choice13,Chemical Allergies
- ,QID13_Choice14,Other allergies </br>
- ,QID13_Choice15,Vitamin D deficiency
- ,QID13_Choice16,HIV
- ,QID13_Choice17,Insomnia
- ,QID13_Choice19,Postural Orthostatic Tachycardia Syndrome (POTS)
- ,QID13_Choice20,Anemia
- ,QID13_Choice25,Myalgic Encephalomyelitis / Chronic Fatigue Syndrome (ME/CFS)
- ,QID13_Choice29,Lucid dreams (dreams where you are aware you are dreaming or have some control over what you dream)
- ,QID13_Choice30,Vivid dreams
- ,QID13_Choice31,Nightmares
- ,QID13_Choice32,Night sweats
- ,QID13_Choice33,Restless leg syndrome
- ,QID13_Choice34,Sleep apnea
- ,QID13_Choice35,Obesity
- ,QID13_Choice38,Interstitial Cystitis (Bladder Pain Syndrome)
- ,QID13_Choice39,Ehlers-Danlos Syndrome (EDS)
- ,QID13_Choice43,"<span style=""font-size:16px;""><strong>None of the above</strong></span>"
- ,QID13_Choice44,Allergies of unknown origin
- ,QID13_Choice45,"Environmental Allergies (dust, mold)"
- ,QID13_Choice47,Autism
- ,QID13_Choice48,Endometriosis
- ,QID13_Choice49,Auto-immune/rheumatological conditions
- ,QID13_Choice50,Crohn's Disease
- ,QID13_Choice51,Other GI issues
- ,QID13_Choice52,Ulcerative Colitis
- ,QID13_Choice60,Asthma
- ,QID13_Choice62,COPD
- ,QID13_Choice63,Tuberculosis
- ,QID13_Choice64,Eczema
- ,QID13_Choice65,"Viral skin conditions (cold sores, herpes, warts, molluscum)"
- ,QID13_Choice66,Dementia
- ,QID13_Choice67,Seizures/epilepsy
- ,QID13_Choice68,Migraine
- ,QID13_Choice69,ALS
- ,QID13_Choice70,Parkinson's disease
- ,QID13_Choice71,Multiple Sclerosis
- ,QID13_Choice72,Peripheral neuropathy
- ,QID13_Choice73,Fibromyalgia
- ,QID13_Choice74,Coronary Heart Disease
- ,QID13_Choice75,Heart failure
- ,QID13_Choice76,Hypertension (high blood pressure)
- ,QID13_Choice77,Hypotension (low blood pressure) 
- ,QID13_Choice78,History of clotting
- ,QID13_Choice79,History of strokes
- ,QID13_Choice80,High cholesterol / hyperlipidemia
- ,QID13_Choice81,Mitral valve prolapse
- ,QID13_Choice82,Irritable Bowel Syndrome (IBS)
- ,QID13_Choice83,Chronic kidney disease
- ,QID13_Choice84,Hepatitis (A/B/C)
- ,QID13_Choice85,Recurrent bacterial infections
- ,QID13_Choice86,Recurrent viral infections
- ,QID13_Choice87,IgA deficiency
- ,QID13_Choice88,TMJ (temporomandibular joint dysfunction)
- ,QID13_Choice90,Vertigo
- ,QID13_Choice91,Vision: near-sighted/far-sighted
+V,QID13_QuestionText,Had u één of meerdere van deze <strong>bestaande</strong> aandoeningen/diagnoses, of ervaarde u één of meerdere van deze voor COVID?
+V,QID13_Choice2,Diabetes type 1
+V,QID13_Choice3,Diabetes type 2
+V,QID13_Choice6,Mast Cell Activation Syndrome (MCAS)
+V,QID13_Choice8,Coeliakie (Celiac Disease)
+V,QID13_Choice9,Refluxziekte
+V,QID13_Choice10,Kanker (alle soorten)
+V,QID13_Choice11,Seizoensgebonden allergieën
+V,QID13_Choice12,Voedselallergiën
+V,QID13_Choice13,Chemische allergieën
+V,QID13_Choice14,Andere allergieën </br>
+V,QID13_Choice15,Vitamine D-tekort
+V,QID13_Choice16,HIV
+V,QID13_Choice17,Slapeloosheid
+V,QID13_Choice19,Posturaal orthostatisch tachycardiesyndroom (POTS)
+V,QID13_Choice20,Bloedarmoede
+V,QID13_Choice25,Myalgische encefalomyelitis / chronisch vermoeidheidssyndroom (ME/CVS)
+V,QID13_Choice29,Lucide dromen (dromen waarvan u zich bewust bent dat u droomt of enige controle heeft over wat u droomt)
+V,QID13_Choice30,Levendige dromen
+V,QID13_Choice31,Nachtmerries
+V,QID13_Choice32,Nachtzweten
+V,QID13_Choice33,Rustelozebenensyndroom
+V,QID13_Choice34,Slaapapneu
+V,QID13_Choice35,Zwaarlijvigheid
+V,QID13_Choice38,Interstitiële cystitis (blaaspijnsyndroom)
+V,QID13_Choice39,Ehlers-Danlos-syndroom (EDS)
+V,QID13_Choice43,"<span style = ""font-size: 16px;""> <strong> Geen van bovenstaande </strong> </span>"
+V,QID13_Choice44,Allergieën van onbekende oorsprong
+V,QID13_Choice45,"Milieuallergieën (stof, schimmel)"
+V,QID13_Choice47,Autisme
+V,QID13_Choice48,Endometriose
+V,QID13_Choice49,Auto-immuun / reumatologische aandoeningen
+V,QID13_Choice50,Ziekte van Crohn
+V,QID13_Choice51,Andere gastro-intestinale problemen
+V,QID13_Choice52,Colitis ulcerosa
+V,QID13_Choice60,Astma
+V,QID13_Choice62,COPD
+V,QID13_Choice63,Tuberculose
+V,QID13_Choice64,Eczeem
+V,QID13_Choice65,"Virale huidaandoeningen (koortsblaasjes, herpes, wratten, molluscum)"
+V,QID13_Choice66,Dementie
+V,QID13_Choice67,Toevallen / epilepsie
+V,QID13_Choice68,Migraine
+V,QID13_Choice69,ALS
+V,QID13_Choice70,Ziekte van Parkinson
+V,QID13_Choice71,Multiple sclerose
+V,QID13_Choice72,Perifere neuropathie
+V,QID13_Choice73,Fibromyalgie
+V,QID13_Choice74,Coronaire hartziekte
+V,QID13_Choice75,Hartfalen
+V,QID13_Choice76,Hypertensie (hoge bloeddruk)
+V,QID13_Choice77,Hypotensie (lage bloeddruk)
+V,QID13_Choice78,Bloedstolling in het verleden
+V,QID13_Choice79,Beroerte in het verleden
+V,QID13_Choice80,Hoog cholesterol / hyperlipidemie
+V,QID13_Choice81,Mitralisklepprolaps
+V,QID13_Choice82,Prikkelbare Darm Syndroom (PBS/IBS)
+V,QID13_Choice83,Chronische nierziekte
+V,QID13_Choice84,Hepatitis (A /B/C)
+V,QID13_Choice85,Terugkerende bacteriële infecties
+V,QID13_Choice86,Terugkerende virale infecties
+V,QID13_Choice87,IgA-deficiëntie
+V,QID13_Choice88,TMJ (temporomandibulaire gewrichtsdisfunctie)
+V,QID13_Choice90,Duizeligheid
+V,QID13_Choice91,Zicht: bijziend / verziend
  ,QID14_QuestionText,"Please indicate other pre-existing conditions/diagnoses not listed here. If multiple, please separate them with a comma. Please only list the conditions, no descriptions or explanations.&nbsp;"
  ,QID15_QuestionText,Did any of your pre-existing conditions change during the course of your COVID19 symptoms?
  ,QID15_Choice1,"Yes, they got worse."
