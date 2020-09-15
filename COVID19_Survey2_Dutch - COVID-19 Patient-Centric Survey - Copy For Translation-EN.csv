@@ -1,0 +1,3092 @@
+PhraseID,EN
+SV_5nbGvIjLvUJItjT,
+QID316_QuestionText,"<br>➘<span style=""font-size:16px;""><strong><span style=""font-family: Arial; color: rgb(0, 0, 0); white-space: pre-wrap;"">You may find it helpful to have the below items ready as you complete the survey.</span></strong></span><em><span style=""font-size:16px;"">&nbsp;<span style=""color:#996600;"">If you do not have these items, please still fill in the information as best you can.</span></span><br>➘&nbsp; </em>➘<table class=""UserTable"">➘	<tbody>➘		<tr>➘			<td><em><span style=""font-size:16px;""><strong><span style=""color:#2980b9;"">Testing results</span></strong></span></em></td>➘			<td><em><span style=""font-size:16px;"">Dates, type (PCR, antibody) and result of tests</span> <u> <span style=""font-size:14px;"">If you do not remember the exact date, the estimated date is enough.</span> <span style=""font-size:14px;"">If you have had antibody tests, we will ask about the manufacturer, but this information is not required.&nbsp;</span> </u></em></td>➘		</tr>➘		<tr>➘			<td><em><span style=""font-size:16px;""><strong><span style=""color:#2980b9;"">Symptom time and severity</span></strong></span></em></td>➘			<td><em><span style=""font-size:16px;"">Your symptom log</span> <u> <span style=""font-size:14px;"">You will be asked to pick symptoms you had <strong>during the first 4 weeks</strong>, and the subsequent months after that, <strong>up to month 7</strong>.</span> </u></em></td>➘		</tr>➘		<tr>➘			<td><em><span style=""font-size:16px;""><strong><span style=""color:#2980b9;"">Other diagnostic tests</span></strong></span></em></td>➘			<td><em><span style=""font-size:16px;"">Your medical test results</span> <u> <span style=""font-size:14px;"">You will be asked several questions about medical testing for your COVID-19 physical symptoms&nbsp;(blood tests, MRI/CT scans/X-rays, ultrasounds, ECGs). If you don't have these tests, that is fine.&nbsp;</span> </u></em></td>➘		</tr>➘	</tbody>➘</table>➘"
+QID431_QuestionText,"<p><span style=""font-size:16px;""><span style=""color:#3498db;"">Please remember that at any point, you may stop and resume this survey at a later time.&nbsp;We recommend taking breaks especially if you are currently experiencing symptoms in order to limit mental exertion.&nbsp;</span></span><br>➘&nbsp;</p>➘➘<p><span style=""color:#e67e22;""><span style=""font-size:16px;""><strong>To return to the survey:</strong></span></span></p>➘➘<ul>➘	<li><span style=""font-size:16px;""><span style=""color:#e67e22;""><strong>Save the link that is in your browser to continue with the survey later.&nbsp;</strong></span></span></li>➘	<li><span style=""font-size:16px;"">Do not complete the survey in private/incognito mode.&nbsp;</span></li>➘	<li><span style=""font-size:16px;"">Do not clear your browser cookies.</span></li>➘</ul>➘➘<p><span style=""color:#3498db;""><span style=""font-size:16px;"">Your progress will be saved for <strong>one&nbsp;week</strong>.&nbsp;</span></span></p>"
+QID217_QuestionText,"In which country do you currently reside?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID217_Choice1,Afghanistan
+QID217_Choice2,Albania
+QID217_Choice3,Algeria
+QID217_Choice4,Andorra
+QID217_Choice5,Angola
+QID217_Choice6,Antigua and Barbuda
+QID217_Choice7,Argentina
+QID217_Choice8,Armenia
+QID217_Choice9,Australia
+QID217_Choice10,Austria
+QID217_Choice11,Azerbaijan
+QID217_Choice12,Bahamas
+QID217_Choice13,Bahrain
+QID217_Choice14,Bangladesh
+QID217_Choice15,Barbados
+QID217_Choice16,Belarus
+QID217_Choice17,Belgium
+QID217_Choice18,Belize
+QID217_Choice19,Benin
+QID217_Choice20,Bhutan
+QID217_Choice21,Bolivia
+QID217_Choice22,Bosnia and Herzegovina
+QID217_Choice23,Botswana
+QID217_Choice24,Brazil
+QID217_Choice25,Brunei Darussalam
+QID217_Choice26,Bulgaria
+QID217_Choice27,Burkina Faso
+QID217_Choice28,Burundi
+QID217_Choice29,Cambodia
+QID217_Choice30,Cameroon
+QID217_Choice31,Canada
+QID217_Choice32,Cape Verde
+QID217_Choice33,Central African Republic
+QID217_Choice34,Chad
+QID217_Choice35,Chile
+QID217_Choice36,China
+QID217_Choice37,Colombia
+QID217_Choice38,Comoros
+QID217_Choice39,"Congo, Republic of the..."
+QID217_Choice40,Costa Rica
+QID217_Choice41,Côte d'Ivoire
+QID217_Choice42,Croatia
+QID217_Choice43,Cuba
+QID217_Choice44,Cyprus
+QID217_Choice45,Czech Republic
+QID217_Choice46,Democratic People's Republic of Korea
+QID217_Choice47,Democratic Republic of the Congo
+QID217_Choice48,Denmark
+QID217_Choice49,Djibouti
+QID217_Choice50,Dominica
+QID217_Choice51,Dominican Republic
+QID217_Choice52,Ecuador
+QID217_Choice53,Egypt
+QID217_Choice54,El Salvador
+QID217_Choice55,Equatorial Guinea
+QID217_Choice56,Eritrea
+QID217_Choice57,Estonia
+QID217_Choice58,Ethiopia
+QID217_Choice59,Fiji
+QID217_Choice60,Finland
+QID217_Choice61,France
+QID217_Choice62,Gabon
+QID217_Choice63,Gambia
+QID217_Choice64,Georgia
+QID217_Choice65,Germany
+QID217_Choice66,Ghana
+QID217_Choice67,Greece
+QID217_Choice68,Grenada
+QID217_Choice69,Guatemala
+QID217_Choice70,Guinea
+QID217_Choice71,Guinea-Bissau
+QID217_Choice72,Guyana
+QID217_Choice73,Haiti
+QID217_Choice74,Honduras
+QID217_Choice75,Hong Kong (S.A.R.)
+QID217_Choice76,Hungary
+QID217_Choice77,Iceland
+QID217_Choice78,India
+QID217_Choice79,Indonesia
+QID217_Choice80,"Iran, Islamic Republic of..."
+QID217_Choice81,Iraq
+QID217_Choice82,Ireland
+QID217_Choice83,Israel
+QID217_Choice84,Italy
+QID217_Choice85,Jamaica
+QID217_Choice86,Japan
+QID217_Choice87,Jordan
+QID217_Choice88,Kazakhstan
+QID217_Choice89,Kenya
+QID217_Choice90,Kiribati
+QID217_Choice91,Kuwait
+QID217_Choice92,Kyrgyzstan
+QID217_Choice93,Lao People's Democratic Republic
+QID217_Choice94,Latvia
+QID217_Choice95,Lebanon
+QID217_Choice96,Lesotho
+QID217_Choice97,Liberia
+QID217_Choice98,Libyan Arab Jamahiriya
+QID217_Choice99,Liechtenstein
+QID217_Choice100,Lithuania
+QID217_Choice101,Luxembourg
+QID217_Choice102,Madagascar
+QID217_Choice103,Malawi
+QID217_Choice104,Malaysia
+QID217_Choice105,Maldives
+QID217_Choice106,Mali
+QID217_Choice107,Malta
+QID217_Choice108,Marshall Islands
+QID217_Choice109,Mauritania
+QID217_Choice110,Mauritius
+QID217_Choice111,Mexico
+QID217_Choice112,"Micronesia, Federated States of..."
+QID217_Choice113,Monaco
+QID217_Choice114,Mongolia
+QID217_Choice115,Montenegro
+QID217_Choice116,Morocco
+QID217_Choice117,Mozambique
+QID217_Choice118,Myanmar
+QID217_Choice119,Namibia
+QID217_Choice120,Nauru
+QID217_Choice121,Nepal
+QID217_Choice122,Netherlands
+QID217_Choice123,New Zealand
+QID217_Choice124,Nicaragua
+QID217_Choice125,Niger
+QID217_Choice126,Nigeria
+QID217_Choice127,North Korea
+QID217_Choice128,Norway
+QID217_Choice129,Oman
+QID217_Choice130,Pakistan
+QID217_Choice131,Palau
+QID217_Choice132,Panama
+QID217_Choice133,Papua New Guinea
+QID217_Choice134,Paraguay
+QID217_Choice135,Peru
+QID217_Choice136,Philippines
+QID217_Choice137,Poland
+QID217_Choice138,Portugal
+QID217_Choice139,Qatar
+QID217_Choice140,Republic of Korea
+QID217_Choice141,Republic of Moldova
+QID217_Choice142,Romania
+QID217_Choice143,Russian Federation
+QID217_Choice144,Rwanda
+QID217_Choice145,Saint Kitts and Nevis
+QID217_Choice146,Saint Lucia
+QID217_Choice147,Saint Vincent and the Grenadines
+QID217_Choice148,Samoa
+QID217_Choice149,San Marino
+QID217_Choice150,Sao Tome and Principe
+QID217_Choice151,Saudi Arabia
+QID217_Choice152,Senegal
+QID217_Choice153,Serbia
+QID217_Choice154,Seychelles
+QID217_Choice155,Sierra Leone
+QID217_Choice156,Singapore
+QID217_Choice157,Slovakia
+QID217_Choice158,Slovenia
+QID217_Choice159,Solomon Islands
+QID217_Choice160,Somalia
+QID217_Choice161,South Africa
+QID217_Choice162,South Korea
+QID217_Choice163,Spain
+QID217_Choice164,Sri Lanka
+QID217_Choice165,Sudan
+QID217_Choice166,Suriname
+QID217_Choice167,Swaziland
+QID217_Choice168,Sweden
+QID217_Choice169,Switzerland
+QID217_Choice170,Syrian Arab Republic
+QID217_Choice171,Tajikistan
+QID217_Choice172,Thailand
+QID217_Choice173,The former Yugoslav Republic of Macedonia
+QID217_Choice174,Timor-Leste
+QID217_Choice175,Togo
+QID217_Choice176,Tonga
+QID217_Choice177,Trinidad and Tobago
+QID217_Choice178,Tunisia
+QID217_Choice179,Turkey
+QID217_Choice180,Turkmenistan
+QID217_Choice181,Tuvalu
+QID217_Choice182,Uganda
+QID217_Choice183,Ukraine
+QID217_Choice184,United Arab Emirates
+QID217_Choice185,United Kingdom and Northern Ireland
+QID217_Choice186,United Republic of Tanzania
+QID217_Choice187,United States of America
+QID217_Choice188,Uruguay
+QID217_Choice189,Uzbekistan
+QID217_Choice190,Vanuatu
+QID217_Choice191,"Venezuela, Bolivarian Republic of..."
+QID217_Choice192,Viet Nam
+QID217_Choice193,Yemen
+QID217_Choice194,Zambia
+QID217_Choice195,Zimbabwe
+QID217_Choice196,Palestine
+QID218_QuestionText,"What city do you live in? Please include state if applicable. (i.e. New York, NY)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID219_QuestionText,"What type of area do you live in?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID219_Choice1,Suburban
+QID219_Choice2,Urban
+QID219_Choice3,Rural
+QID220_QuestionText,"What age group do you fall into?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID220_Choice1,18-29
+QID220_Choice2,30-39
+QID220_Choice3,40-49
+QID220_Choice4,50-59
+QID220_Choice5,60-69
+QID220_Choice6,80+
+QID220_Choice8,70-79
+QID221_QuestionText,"What is your gender?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID221_Choice1,Female/Woman
+QID221_Choice2,Male/Man
+QID221_Choice3,Non-binary/Genderqueer/Gender non-conforming
+QID221_Choice4,Prefer not to say
+QID221_Choice5,Other
+QID222_QuestionText,"Does your gender match your gender assigned at birth?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID222_Choice1,Yes
+QID222_Choice2,No
+QID223_QuestionText,"If applicable, are you pregnant?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID223_Choice1,Yes
+QID223_Choice2,No
+QID223_Choice3,N/A
+QID224_QuestionText,"If applicable, are you 6 months or less postpartum?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID224_Choice1,Yes
+QID224_Choice2,No
+QID224_Choice3,N/A
+QID451_QuestionText,"If applicable, do you have periods/a menstrual cycle?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID451_Choice1,Yes
+QID451_Choice2,"No, post-menopausal"
+QID451_Choice3,N/A
+QID451_Choice4,"No, other reason"
+QID225_QuestionText,"Which of the following best describes your ancestry? Select all that apply.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID225_Choice1,"Asian, South Asian, South East Asian (Chinese, Asian Indian, Vietnamese, Filipino...)"
+QID225_Choice2,"Black (African American, Jamaican, Nigerian, Haitian...)"
+QID225_Choice3,"White (German, Italian, English, Polish, French...)"
+QID225_Choice4,"Hispanic, Latino, or Spanish Origin (Mexican, Mexican American, Puerto Rican, Cuban...)"
+QID225_Choice5,"Indigenous Peoples (Navajo Nation, Blackfeet Tribe, Mayan, Inupiat...)"
+QID225_Choice6,"Pacific Islander (Native Hawaiian, Samoan, Fujian, Chamorro...)"
+QID225_Choice7,Prefer not to answer
+QID225_Choice8,Other
+QID225_Choice9,"Middle Eastern, North African (Lebanese, Iranian, Egyptian, Moroccan...)"
+QID226_QuestionText,"What was your household annual income immediately <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID226_Choice1,"$0 - $10,000 USD"
+QID226_Choice2,"$10,001 - $40,000 USD"
+QID226_Choice3,"$40,001 - $85,000 USD"
+QID226_Choice4,"$85,001 - $150,000 USD"
+QID226_Choice5,">$150,000 USD"
+QID226_Choice6,Prefer not to answer
+QID328_QuestionText,"What is your household annual income now,<strong> AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID328_Choice1,"$0 - $10,000 USD"
+QID328_Choice2,"$10,001 - $40,000 USD"
+QID328_Choice3,"$40,001 - $85,000 USD"
+QID328_Choice4,"$85,001 - $150,000 USD"
+QID328_Choice5,">$150,000 USD"
+QID328_Choice6,Prefer not to answer
+QID448_QuestionText,"What was your household annual income immediately <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID448_Choice1,"$0 - $10,000 CAD"
+QID448_Choice2,"$10,001 - $40,000 CAD"
+QID448_Choice3,"$40,001 - $85,000 CAD"
+QID448_Choice4,"$85,001 - $150,000 CAD"
+QID448_Choice5,">$150,000 CAD"
+QID448_Choice6,Prefer not to answer
+QID449_QuestionText,"What is your household annual income now,<strong> AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID449_Choice1,"$0 - $10,000 CAD"
+QID449_Choice2,"$10,001 - $40,000 CAD"
+QID449_Choice3,"$40,001 - $85,000 CAD"
+QID449_Choice4,"$85,001 - $150,000 CAD"
+QID449_Choice5,">$150,000 CAD"
+QID449_Choice6,Prefer not to answer
+QID408_QuestionText,"What is your household annual income, <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID408_Choice1,"£0 - £20,000 GBP"
+QID408_Choice2,"£20,000 - £40,000 GBP"
+QID408_Choice3,"£40,000 - £60,000 GBP"
+QID408_Choice4,"£60,000 - £80,000 GBP"
+QID408_Choice5,">£80,000 GBP"
+QID408_Choice6,Prefer not to answer
+QID409_QuestionText,"What is your household annual income, <strong>AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID409_Choice1,"£0 - £20,000 GBP"
+QID409_Choice2,"£20,000 - £40,000 GBP"
+QID409_Choice3,"£40,000 - £60,000 GBP"
+QID409_Choice4,"£60,000 - £80,000 GBP"
+QID409_Choice5,">£80,000 GBP"
+QID409_Choice6,Prefer not to answer
+QID445_QuestionText,"What is your household annual income, <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID445_Choice1,"€0 - €20,000 EUR"
+QID445_Choice2,"€20,000 - €40,000 EUR"
+QID445_Choice3,"€40,000 - €60,000 EUR"
+QID445_Choice4,"€60,000 - €80,000 EUR"
+QID445_Choice5,">€80,000 EUR"
+QID445_Choice6,Prefer not to answer
+QID447_QuestionText,"What is your household annual income, <strong>AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID447_Choice1,"€0 - €20,000 EUR"
+QID447_Choice2,"€20,000 - €40,000 EUR"
+QID447_Choice3,"€40,000 - €60,000 EUR"
+QID447_Choice4,"€60,000 - €80,000 EUR"
+QID447_Choice5,">€80,000 EUR"
+QID447_Choice6,Prefer not to answer
+QID228_QuestionText,"What is your highest educational level achieved?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID228_Choice1,Some high school or less
+QID228_Choice2,High school graduate
+QID228_Choice3,Baccalaureate/undergraduate degree
+QID228_Choice4,Graduate degree
+QID229_QuestionText,"Are you a healthcare professional?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID229_Choice1,Yes
+QID229_Choice2,No
+QID230_QuestionText,"How did you find this survey?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID230_Choice1,Body Politic Slack Group
+QID230_Choice2,Long Haul COVID Fighters Group on Facebook
+QID230_Choice3,Long Covid Support Group on Facebook
+QID230_Choice4,Other support group
+QID230_Choice5,Facebook
+QID230_Choice6,Twitter
+QID230_Choice7,Instagram
+QID230_Choice8,Friend/Family shared it with me
+QID230_Choice9,Patient Led Research mailing list
+QID230_Choice10,"Media (article, newspaper, blog)"
+QID230_Choice11,Other
+QID7_QuestionText,"When did your symptoms begin?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID7_Choice1,Please Select:
+QID7_Subquestion1_QuestionText,Month
+QID7_Subquestion1_Choice1,Please Select:
+QID7_Subquestion1_Answer1,January
+QID7_Subquestion1_Answer2,February
+QID7_Subquestion1_Answer3,March
+QID7_Subquestion1_Answer4,April
+QID7_Subquestion1_Answer5,May
+QID7_Subquestion1_Answer6,June
+QID7_Subquestion1_Answer7,July
+QID7_Subquestion1_Answer8,August
+QID7_Subquestion1_Answer9,September
+QID7_Subquestion1_Answer10,October
+QID7_Subquestion1_Answer11,November
+QID7_Subquestion1_Answer12,December
+QID7_Subquestion2_QuestionText,Day
+QID7_Subquestion2_Choice1,Please Select:
+QID7_Subquestion2_Answer1,1
+QID7_Subquestion2_Answer2,2
+QID7_Subquestion2_Answer3,3
+QID7_Subquestion2_Answer4,4
+QID7_Subquestion2_Answer5,5
+QID7_Subquestion2_Answer6,6
+QID7_Subquestion2_Answer7,7
+QID7_Subquestion2_Answer8,8
+QID7_Subquestion2_Answer9,9
+QID7_Subquestion2_Answer10,10
+QID7_Subquestion2_Answer11,11
+QID7_Subquestion2_Answer12,12
+QID7_Subquestion2_Answer13,13
+QID7_Subquestion2_Answer14,14
+QID7_Subquestion2_Answer15,15
+QID7_Subquestion2_Answer16,16
+QID7_Subquestion2_Answer17,17
+QID7_Subquestion2_Answer18,18
+QID7_Subquestion2_Answer19,19
+QID7_Subquestion2_Answer20,20
+QID7_Subquestion2_Answer21,21
+QID7_Subquestion2_Answer22,22
+QID7_Subquestion2_Answer23,23
+QID7_Subquestion2_Answer24,24
+QID7_Subquestion2_Answer25,25
+QID7_Subquestion2_Answer26,26
+QID7_Subquestion2_Answer27,27
+QID7_Subquestion2_Answer28,28
+QID7_Subquestion2_Answer29,29
+QID7_Subquestion2_Answer30,30
+QID7_Subquestion2_Answer31,31
+QID7_Subquestion3_QuestionText,Year
+QID7_Subquestion3_Choice1,Please Select:
+QID7_Subquestion3_Answer1,1900
+QID7_Subquestion3_Answer2,1901
+QID7_Subquestion3_Answer3,1902
+QID7_Subquestion3_Answer4,1903
+QID7_Subquestion3_Answer5,1904
+QID7_Subquestion3_Answer6,1905
+QID7_Subquestion3_Answer7,1906
+QID7_Subquestion3_Answer8,1907
+QID7_Subquestion3_Answer9,1908
+QID7_Subquestion3_Answer10,1909
+QID7_Subquestion3_Answer11,1910
+QID7_Subquestion3_Answer12,1911
+QID7_Subquestion3_Answer13,1912
+QID7_Subquestion3_Answer14,1913
+QID7_Subquestion3_Answer15,1914
+QID7_Subquestion3_Answer16,1915
+QID7_Subquestion3_Answer17,1916
+QID7_Subquestion3_Answer18,1917
+QID7_Subquestion3_Answer19,1918
+QID7_Subquestion3_Answer20,1919
+QID7_Subquestion3_Answer21,1920
+QID7_Subquestion3_Answer22,1921
+QID7_Subquestion3_Answer23,1922
+QID7_Subquestion3_Answer24,1923
+QID7_Subquestion3_Answer25,1924
+QID7_Subquestion3_Answer26,1925
+QID7_Subquestion3_Answer27,1926
+QID7_Subquestion3_Answer28,1927
+QID7_Subquestion3_Answer29,1928
+QID7_Subquestion3_Answer30,1929
+QID7_Subquestion3_Answer31,1930
+QID7_Subquestion3_Answer32,1931
+QID7_Subquestion3_Answer33,1932
+QID7_Subquestion3_Answer34,1933
+QID7_Subquestion3_Answer35,1934
+QID7_Subquestion3_Answer36,1935
+QID7_Subquestion3_Answer37,1936
+QID7_Subquestion3_Answer38,1937
+QID7_Subquestion3_Answer39,1938
+QID7_Subquestion3_Answer40,1939
+QID7_Subquestion3_Answer41,1940
+QID7_Subquestion3_Answer42,1941
+QID7_Subquestion3_Answer43,1942
+QID7_Subquestion3_Answer44,1943
+QID7_Subquestion3_Answer45,1944
+QID7_Subquestion3_Answer46,1945
+QID7_Subquestion3_Answer47,1946
+QID7_Subquestion3_Answer48,1947
+QID7_Subquestion3_Answer49,1948
+QID7_Subquestion3_Answer50,1949
+QID7_Subquestion3_Answer51,1950
+QID7_Subquestion3_Answer52,1951
+QID7_Subquestion3_Answer53,1952
+QID7_Subquestion3_Answer54,1953
+QID7_Subquestion3_Answer55,1954
+QID7_Subquestion3_Answer56,1955
+QID7_Subquestion3_Answer57,1956
+QID7_Subquestion3_Answer58,1957
+QID7_Subquestion3_Answer59,1958
+QID7_Subquestion3_Answer60,1959
+QID7_Subquestion3_Answer61,1960
+QID7_Subquestion3_Answer62,1961
+QID7_Subquestion3_Answer63,1962
+QID7_Subquestion3_Answer64,1963
+QID7_Subquestion3_Answer65,1964
+QID7_Subquestion3_Answer66,1965
+QID7_Subquestion3_Answer67,1966
+QID7_Subquestion3_Answer68,1967
+QID7_Subquestion3_Answer69,1968
+QID7_Subquestion3_Answer70,1969
+QID7_Subquestion3_Answer71,1970
+QID7_Subquestion3_Answer72,1971
+QID7_Subquestion3_Answer73,1972
+QID7_Subquestion3_Answer74,1973
+QID7_Subquestion3_Answer75,1974
+QID7_Subquestion3_Answer76,1975
+QID7_Subquestion3_Answer77,1976
+QID7_Subquestion3_Answer78,1977
+QID7_Subquestion3_Answer79,1978
+QID7_Subquestion3_Answer80,1979
+QID7_Subquestion3_Answer81,1980
+QID7_Subquestion3_Answer82,1981
+QID7_Subquestion3_Answer83,1982
+QID7_Subquestion3_Answer84,1983
+QID7_Subquestion3_Answer85,1984
+QID7_Subquestion3_Answer86,1985
+QID7_Subquestion3_Answer87,1986
+QID7_Subquestion3_Answer88,1987
+QID7_Subquestion3_Answer89,1988
+QID7_Subquestion3_Answer90,1989
+QID7_Subquestion3_Answer91,1990
+QID7_Subquestion3_Answer92,1991
+QID7_Subquestion3_Answer93,1992
+QID7_Subquestion3_Answer94,1993
+QID7_Subquestion3_Answer95,1994
+QID7_Subquestion3_Answer96,1995
+QID7_Subquestion3_Answer97,1996
+QID7_Subquestion3_Answer98,1997
+QID7_Subquestion3_Answer99,1998
+QID7_Subquestion3_Answer100,1999
+QID7_Subquestion3_Answer101,2000
+QID7_Subquestion3_Answer102,2001
+QID7_Subquestion3_Answer103,2002
+QID7_Subquestion3_Answer104,2003
+QID7_Subquestion3_Answer105,2004
+QID7_Subquestion3_Answer106,2005
+QID7_Subquestion3_Answer107,2006
+QID7_Subquestion3_Answer108,2007
+QID7_Subquestion3_Answer109,2008
+QID7_Subquestion3_Answer110,2009
+QID7_Subquestion3_Answer111,2010
+QID7_Subquestion3_Answer112,2011
+QID7_Subquestion3_Answer113,2012
+QID7_Subquestion3_Answer114,2013
+QID7_Subquestion3_Answer115,2014
+QID7_Subquestion3_Answer116,2015
+QID7_Subquestion3_Answer117,2016
+QID7_Subquestion3_Answer118,2017
+QID7_Subquestion3_Answer119,2018
+QID7_Subquestion3_Answer120,2019
+QID7_Subquestion3_Answer121,2020
+QID7_Subquestion3_Answer122,2021
+QID7_Subquestion3_Answer123,2022
+QID7_Subquestion3_Answer124,2023
+QID7_Subquestion3_Answer125,2024
+QID7_Subquestion3_Answer126,2025
+QID7_Subquestion3_Answer127,2026
+QID7_Subquestion3_Answer128,2027
+QID7_Subquestion3_Answer129,2028
+QID7_Subquestion3_Answer130,2029
+QID7_Subquestion3_Answer131,2030
+QID7_Subquestion3_Answer132,2031
+QID7_Subquestion3_Answer133,2032
+QID7_Subquestion3_Answer134,2033
+QID7_Subquestion3_Answer135,2034
+QID7_Subquestion3_Answer136,2035
+QID7_Subquestion3_Answer137,2036
+QID7_Subquestion3_Answer138,2037
+QID7_Subquestion3_Answer139,2038
+QID7_Subquestion3_Answer140,2039
+QID7_Subquestion3_Answer141,2040
+QID7_Subquestion3_Answer142,2041
+QID7_Subquestion3_Answer143,2042
+QID7_Subquestion3_Answer144,2043
+QID7_Subquestion3_Answer145,2044
+QID7_Subquestion3_Answer146,2045
+QID7_Subquestion3_Answer147,2046
+QID7_Subquestion3_Answer148,2047
+QID7_Subquestion3_Answer149,2048
+QID7_Subquestion3_Answer150,2049
+QID9_QuestionText,"Are you still experiencing symptoms?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID9_Choice1,Yes
+QID9_Choice2,No
+QID10_QuestionText,"How many days total did you experience symptoms?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID13_QuestionText,Did you have any of these <strong>pre-existing</strong> conditions/diagnoses or did you experience any of the following pre-COVID?
+QID13_Choice2,Diabetes Type 1
+QID13_Choice3,Diabetes Type 2
+QID13_Choice6,Mast Cell Activation Syndrome (MCAS)
+QID13_Choice8,Celiac Disease
+QID13_Choice9,Acid Reflux Disease
+QID13_Choice10,Cancer (all types)
+QID13_Choice11,Seasonal Allergies
+QID13_Choice12,Food Allergies
+QID13_Choice13,Chemical Allergies
+QID13_Choice14,Other allergies </br>
+QID13_Choice15,Vitamin D deficiency
+QID13_Choice16,HIV
+QID13_Choice17,Insomnia
+QID13_Choice19,Postural Orthostatic Tachycardia Syndrome (POTS)
+QID13_Choice20,Anemia
+QID13_Choice25,Myalgic Encephalomyelitis / Chronic Fatigue Syndrome (ME/CFS)
+QID13_Choice29,Lucid dreams (dreams where you are aware you are dreaming or have some control over what you dream)
+QID13_Choice30,Vivid dreams
+QID13_Choice31,Nightmares
+QID13_Choice32,Night sweats
+QID13_Choice33,Restless leg syndrome
+QID13_Choice34,Sleep apnea
+QID13_Choice35,Obesity
+QID13_Choice38,Interstitial Cystitis (Bladder Pain Syndrome)
+QID13_Choice39,Ehlers-Danlos Syndrome (EDS)
+QID13_Choice43,"<span style=""font-size:16px;""><strong>None of the above</strong></span>"
+QID13_Choice44,Allergies of unknown origin
+QID13_Choice45,"Environmental Allergies (dust, mold)"
+QID13_Choice47,Autism
+QID13_Choice48,Endometriosis
+QID13_Choice49,Auto-immune/rheumatological conditions
+QID13_Choice50,Crohn's Disease
+QID13_Choice51,Other GI issues
+QID13_Choice52,Ulcerative Colitis
+QID13_Choice60,Asthma
+QID13_Choice62,COPD
+QID13_Choice63,Tuberculosis
+QID13_Choice64,Eczema
+QID13_Choice65,"Viral skin conditions (cold sores, herpes, warts, molluscum)"
+QID13_Choice66,Dementia
+QID13_Choice67,Seizures/epilepsy
+QID13_Choice68,Migraine
+QID13_Choice69,ALS
+QID13_Choice70,Parkinson's disease
+QID13_Choice71,Multiple Sclerosis
+QID13_Choice72,Peripheral neuropathy
+QID13_Choice73,Fibromyalgia
+QID13_Choice74,Coronary Heart Disease
+QID13_Choice75,Heart failure
+QID13_Choice76,Hypertension (high blood pressure)
+QID13_Choice77,Hypotension (low blood pressure) 
+QID13_Choice78,History of clotting
+QID13_Choice79,History of strokes
+QID13_Choice80,High cholesterol / hyperlipidemia
+QID13_Choice81,Mitral valve prolapse
+QID13_Choice82,Irritable Bowel Syndrome (IBS)
+QID13_Choice83,Chronic kidney disease
+QID13_Choice84,Hepatitis (A/B/C)
+QID13_Choice85,Recurrent bacterial infections
+QID13_Choice86,Recurrent viral infections
+QID13_Choice87,IgA deficiency
+QID13_Choice88,TMJ (temporomandibular joint dysfunction)
+QID13_Choice90,Vertigo
+QID13_Choice91,Vision: near-sighted/far-sighted
+QID14_QuestionText,"Please indicate other pre-existing conditions/diagnoses not listed here. If multiple, please separate them with a comma. Please only list the conditions, no descriptions or explanations.&nbsp;"
+QID15_QuestionText,Did any of your pre-existing conditions change during the course of your COVID19 symptoms?
+QID15_Choice1,"Yes, they got worse."
+QID15_Choice2,"Yes, they got better."
+QID15_Choice3,"Some got better, some stayed the same, some got worse (please add an explanation in the text boxes in the following page)."
+QID15_Choice4,"No, they stayed the same."
+QID15_Choice5,N/A (I did not have any pre-existing condition)
+QID16_QuestionText,"If any of your pre-existing conditions got worse, please describe here. (optional)"
+QID17_QuestionText,"If any of your pre-existing conditions got better, please describe here. (optional)"
+QID19_QuestionText,"What is your blood type? If you don't know, please select 'Don't know'.&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID19_Choice1,O positive
+QID19_Choice2,O negative
+QID19_Choice3,A positive
+QID19_Choice4,A negative
+QID19_Choice5,B positive
+QID19_Choice6,B negative
+QID19_Choice7,AB positive
+QID19_Choice8,AB negative
+QID19_Choice9,Don't know
+QID239_QuestionText,"<strong><span style=""font-size:19px;"">Hospitalization</span></strong>"
+QID65_QuestionText,"Did you consult with a physician(s) for your COVID symptoms? Select all that apply. This can include both in-person appointments and telemedicine, like phone calls.&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*&nbsp;</span>"
+QID65_Choice1,My primary care doctor/General practitioner
+QID65_Choice2,Hospitalist
+QID65_Choice3,Cardiologist
+QID65_Choice4,Neurologist/Neuroimmunologist
+QID65_Choice5,Hematologist
+QID65_Choice6,Psychiatrist
+QID65_Choice7,Gastroenterologist
+QID65_Choice8,Rheumatologist
+QID65_Choice9,Infectious disease specialist
+QID65_Choice10,Dermatologist
+QID65_Choice11,Pulmonologist
+QID65_Choice12,Alternative Medicine doctor
+QID65_Choice13,I have not seen any physician
+QID65_Choice14,Other
+QID65_Choice15,Obstetrician-Gynecologist (OB-GYN)
+QID65_Choice16,Immunologist/Allergist
+QID62_QuestionText,"Were you hospitalized?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID62_Choice1,Yes
+QID62_Choice2,No
+QID62_Choice3,I visited ER/Urgent care but was not admitted/did not stay overnight at a hospital
+QID63_QuestionText,"If yes: how long were you hospitalized for? [Number of days]&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID64_QuestionText,"Did you receive oxygen support in the hospital?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID64_Choice1,"Yes, nasal cannula"
+QID64_Choice2,"Yes, I was intubated"
+QID64_Choice3,No
+QID64_Choice4,Other
+QID64_Choice5,I was not hospitalized
+QID66_QuestionText,"(Optional) If you'd like, please describe your experience with medical care."
+QID20_QuestionText,"Were you tested for COVID-19 using a Swab test? (This is not asking about antibody tests, which are covered in a separate section of the survey.)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID20_Choice1,"Yes, I was tested at least once."
+QID20_Choice2,"No, I did not try to get tested."
+QID20_Choice3,"No, I tried to get tested but was unable."
+QID22_QuestionText,"How many times were you tested (Swab test)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID22_Choice4,1
+QID22_Choice5,2
+QID22_Choice6,3
+QID22_Choice9,Other
+QID330_QuestionText,"On what date did you&nbsp;<span style=""color: rgb(231, 76, 60);"">first</span>&nbsp;get tested? (if you don't remember the exact date, enter an estimate)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID330_Choice1,Please Select:
+QID330_Subquestion1_QuestionText,Month
+QID330_Subquestion1_Choice1,Please Select:
+QID330_Subquestion1_Answer1,January
+QID330_Subquestion1_Answer2,February
+QID330_Subquestion1_Answer3,March
+QID330_Subquestion1_Answer4,April
+QID330_Subquestion1_Answer5,May
+QID330_Subquestion1_Answer6,June
+QID330_Subquestion1_Answer7,July
+QID330_Subquestion1_Answer8,August
+QID330_Subquestion1_Answer9,September
+QID330_Subquestion1_Answer10,October
+QID330_Subquestion1_Answer11,November
+QID330_Subquestion1_Answer12,December
+QID330_Subquestion2_QuestionText,Day
+QID330_Subquestion2_Choice1,Please Select:
+QID330_Subquestion2_Answer1,1
+QID330_Subquestion2_Answer2,2
+QID330_Subquestion2_Answer3,3
+QID330_Subquestion2_Answer4,4
+QID330_Subquestion2_Answer5,5
+QID330_Subquestion2_Answer6,6
+QID330_Subquestion2_Answer7,7
+QID330_Subquestion2_Answer8,8
+QID330_Subquestion2_Answer9,9
+QID330_Subquestion2_Answer10,10
+QID330_Subquestion2_Answer11,11
+QID330_Subquestion2_Answer12,12
+QID330_Subquestion2_Answer13,13
+QID330_Subquestion2_Answer14,14
+QID330_Subquestion2_Answer15,15
+QID330_Subquestion2_Answer16,16
+QID330_Subquestion2_Answer17,17
+QID330_Subquestion2_Answer18,18
+QID330_Subquestion2_Answer19,19
+QID330_Subquestion2_Answer20,20
+QID330_Subquestion2_Answer21,21
+QID330_Subquestion2_Answer22,22
+QID330_Subquestion2_Answer23,23
+QID330_Subquestion2_Answer24,24
+QID330_Subquestion2_Answer25,25
+QID330_Subquestion2_Answer26,26
+QID330_Subquestion2_Answer27,27
+QID330_Subquestion2_Answer28,28
+QID330_Subquestion2_Answer29,29
+QID330_Subquestion2_Answer30,30
+QID330_Subquestion2_Answer31,31
+QID330_Subquestion3_QuestionText,Year
+QID330_Subquestion3_Choice1,Please Select:
+QID330_Subquestion3_Answer1,1900
+QID330_Subquestion3_Answer2,1901
+QID330_Subquestion3_Answer3,1902
+QID330_Subquestion3_Answer4,1903
+QID330_Subquestion3_Answer5,1904
+QID330_Subquestion3_Answer6,1905
+QID330_Subquestion3_Answer7,1906
+QID330_Subquestion3_Answer8,1907
+QID330_Subquestion3_Answer9,1908
+QID330_Subquestion3_Answer10,1909
+QID330_Subquestion3_Answer11,1910
+QID330_Subquestion3_Answer12,1911
+QID330_Subquestion3_Answer13,1912
+QID330_Subquestion3_Answer14,1913
+QID330_Subquestion3_Answer15,1914
+QID330_Subquestion3_Answer16,1915
+QID330_Subquestion3_Answer17,1916
+QID330_Subquestion3_Answer18,1917
+QID330_Subquestion3_Answer19,1918
+QID330_Subquestion3_Answer20,1919
+QID330_Subquestion3_Answer21,1920
+QID330_Subquestion3_Answer22,1921
+QID330_Subquestion3_Answer23,1922
+QID330_Subquestion3_Answer24,1923
+QID330_Subquestion3_Answer25,1924
+QID330_Subquestion3_Answer26,1925
+QID330_Subquestion3_Answer27,1926
+QID330_Subquestion3_Answer28,1927
+QID330_Subquestion3_Answer29,1928
+QID330_Subquestion3_Answer30,1929
+QID330_Subquestion3_Answer31,1930
+QID330_Subquestion3_Answer32,1931
+QID330_Subquestion3_Answer33,1932
+QID330_Subquestion3_Answer34,1933
+QID330_Subquestion3_Answer35,1934
+QID330_Subquestion3_Answer36,1935
+QID330_Subquestion3_Answer37,1936
+QID330_Subquestion3_Answer38,1937
+QID330_Subquestion3_Answer39,1938
+QID330_Subquestion3_Answer40,1939
+QID330_Subquestion3_Answer41,1940
+QID330_Subquestion3_Answer42,1941
+QID330_Subquestion3_Answer43,1942
+QID330_Subquestion3_Answer44,1943
+QID330_Subquestion3_Answer45,1944
+QID330_Subquestion3_Answer46,1945
+QID330_Subquestion3_Answer47,1946
+QID330_Subquestion3_Answer48,1947
+QID330_Subquestion3_Answer49,1948
+QID330_Subquestion3_Answer50,1949
+QID330_Subquestion3_Answer51,1950
+QID330_Subquestion3_Answer52,1951
+QID330_Subquestion3_Answer53,1952
+QID330_Subquestion3_Answer54,1953
+QID330_Subquestion3_Answer55,1954
+QID330_Subquestion3_Answer56,1955
+QID330_Subquestion3_Answer57,1956
+QID330_Subquestion3_Answer58,1957
+QID330_Subquestion3_Answer59,1958
+QID330_Subquestion3_Answer60,1959
+QID330_Subquestion3_Answer61,1960
+QID330_Subquestion3_Answer62,1961
+QID330_Subquestion3_Answer63,1962
+QID330_Subquestion3_Answer64,1963
+QID330_Subquestion3_Answer65,1964
+QID330_Subquestion3_Answer66,1965
+QID330_Subquestion3_Answer67,1966
+QID330_Subquestion3_Answer68,1967
+QID330_Subquestion3_Answer69,1968
+QID330_Subquestion3_Answer70,1969
+QID330_Subquestion3_Answer71,1970
+QID330_Subquestion3_Answer72,1971
+QID330_Subquestion3_Answer73,1972
+QID330_Subquestion3_Answer74,1973
+QID330_Subquestion3_Answer75,1974
+QID330_Subquestion3_Answer76,1975
+QID330_Subquestion3_Answer77,1976
+QID330_Subquestion3_Answer78,1977
+QID330_Subquestion3_Answer79,1978
+QID330_Subquestion3_Answer80,1979
+QID330_Subquestion3_Answer81,1980
+QID330_Subquestion3_Answer82,1981
+QID330_Subquestion3_Answer83,1982
+QID330_Subquestion3_Answer84,1983
+QID330_Subquestion3_Answer85,1984
+QID330_Subquestion3_Answer86,1985
+QID330_Subquestion3_Answer87,1986
+QID330_Subquestion3_Answer88,1987
+QID330_Subquestion3_Answer89,1988
+QID330_Subquestion3_Answer90,1989
+QID330_Subquestion3_Answer91,1990
+QID330_Subquestion3_Answer92,1991
+QID330_Subquestion3_Answer93,1992
+QID330_Subquestion3_Answer94,1993
+QID330_Subquestion3_Answer95,1994
+QID330_Subquestion3_Answer96,1995
+QID330_Subquestion3_Answer97,1996
+QID330_Subquestion3_Answer98,1997
+QID330_Subquestion3_Answer99,1998
+QID330_Subquestion3_Answer100,1999
+QID330_Subquestion3_Answer101,2000
+QID330_Subquestion3_Answer102,2001
+QID330_Subquestion3_Answer103,2002
+QID330_Subquestion3_Answer104,2003
+QID330_Subquestion3_Answer105,2004
+QID330_Subquestion3_Answer106,2005
+QID330_Subquestion3_Answer107,2006
+QID330_Subquestion3_Answer108,2007
+QID330_Subquestion3_Answer109,2008
+QID330_Subquestion3_Answer110,2009
+QID330_Subquestion3_Answer111,2010
+QID330_Subquestion3_Answer112,2011
+QID330_Subquestion3_Answer113,2012
+QID330_Subquestion3_Answer114,2013
+QID330_Subquestion3_Answer115,2014
+QID330_Subquestion3_Answer116,2015
+QID330_Subquestion3_Answer117,2016
+QID330_Subquestion3_Answer118,2017
+QID330_Subquestion3_Answer119,2018
+QID330_Subquestion3_Answer120,2019
+QID330_Subquestion3_Answer121,2020
+QID330_Subquestion3_Answer122,2021
+QID330_Subquestion3_Answer123,2022
+QID330_Subquestion3_Answer124,2023
+QID330_Subquestion3_Answer125,2024
+QID330_Subquestion3_Answer126,2025
+QID330_Subquestion3_Answer127,2026
+QID330_Subquestion3_Answer128,2027
+QID330_Subquestion3_Answer129,2028
+QID330_Subquestion3_Answer130,2029
+QID330_Subquestion3_Answer131,2030
+QID330_Subquestion3_Answer132,2031
+QID330_Subquestion3_Answer133,2032
+QID330_Subquestion3_Answer134,2033
+QID330_Subquestion3_Answer135,2034
+QID330_Subquestion3_Answer136,2035
+QID330_Subquestion3_Answer137,2036
+QID330_Subquestion3_Answer138,2037
+QID330_Subquestion3_Answer139,2038
+QID330_Subquestion3_Answer140,2039
+QID330_Subquestion3_Answer141,2040
+QID330_Subquestion3_Answer142,2041
+QID330_Subquestion3_Answer143,2042
+QID330_Subquestion3_Answer144,2043
+QID330_Subquestion3_Answer145,2044
+QID330_Subquestion3_Answer146,2045
+QID330_Subquestion3_Answer147,2046
+QID330_Subquestion3_Answer148,2047
+QID330_Subquestion3_Answer149,2048
+QID330_Subquestion3_Answer150,2049
+QID296_QuestionText,Was this an estimated date?
+QID296_Choice1,This was an estimate
+QID24_QuestionText,"What was the type of your&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">first</span>&nbsp;COVID-19 test?➘<div><span style=""font-size:16px;""><strong>&nbsp;</strong></span></div>"
+QID24_Choice1,"Nasal (nasal secretions from nostrils, without moving forward into the back of the nose and throat)"
+QID24_Choice2,"Nasopharyngeal (nasal secretions from end of the nostrils, by moving to the cavity in back of the nose and throat)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
+QID24_Choice3,Throat
+QID24_Choice4,Other
+QID26_QuestionText,"What was the status of your test?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID26_Choice1,Positive
+QID26_Choice2,Negative
+QID26_Choice3,Inconclusive/Awaiting results
+QID29_QuestionText,"On what date were your tested the&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">second</span>&nbsp;time? (if you don't remember the exact date, enter an estimate)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID29_Choice1,Please Select:
+QID29_Subquestion1_QuestionText,Month
+QID29_Subquestion1_Choice1,Please Select:
+QID29_Subquestion1_Answer1,January
+QID29_Subquestion1_Answer2,February
+QID29_Subquestion1_Answer3,March
+QID29_Subquestion1_Answer4,April
+QID29_Subquestion1_Answer5,May
+QID29_Subquestion1_Answer6,June
+QID29_Subquestion1_Answer7,July
+QID29_Subquestion1_Answer8,August
+QID29_Subquestion1_Answer9,September
+QID29_Subquestion1_Answer10,October
+QID29_Subquestion1_Answer11,November
+QID29_Subquestion1_Answer12,December
+QID29_Subquestion2_QuestionText,Day
+QID29_Subquestion2_Choice1,Please Select:
+QID29_Subquestion2_Answer1,1
+QID29_Subquestion2_Answer2,2
+QID29_Subquestion2_Answer3,3
+QID29_Subquestion2_Answer4,4
+QID29_Subquestion2_Answer5,5
+QID29_Subquestion2_Answer6,6
+QID29_Subquestion2_Answer7,7
+QID29_Subquestion2_Answer8,8
+QID29_Subquestion2_Answer9,9
+QID29_Subquestion2_Answer10,10
+QID29_Subquestion2_Answer11,11
+QID29_Subquestion2_Answer12,12
+QID29_Subquestion2_Answer13,13
+QID29_Subquestion2_Answer14,14
+QID29_Subquestion2_Answer15,15
+QID29_Subquestion2_Answer16,16
+QID29_Subquestion2_Answer17,17
+QID29_Subquestion2_Answer18,18
+QID29_Subquestion2_Answer19,19
+QID29_Subquestion2_Answer20,20
+QID29_Subquestion2_Answer21,21
+QID29_Subquestion2_Answer22,22
+QID29_Subquestion2_Answer23,23
+QID29_Subquestion2_Answer24,24
+QID29_Subquestion2_Answer25,25
+QID29_Subquestion2_Answer26,26
+QID29_Subquestion2_Answer27,27
+QID29_Subquestion2_Answer28,28
+QID29_Subquestion2_Answer29,29
+QID29_Subquestion2_Answer30,30
+QID29_Subquestion2_Answer31,31
+QID29_Subquestion3_QuestionText,Year
+QID29_Subquestion3_Choice1,Please Select:
+QID29_Subquestion3_Answer1,1900
+QID29_Subquestion3_Answer2,1901
+QID29_Subquestion3_Answer3,1902
+QID29_Subquestion3_Answer4,1903
+QID29_Subquestion3_Answer5,1904
+QID29_Subquestion3_Answer6,1905
+QID29_Subquestion3_Answer7,1906
+QID29_Subquestion3_Answer8,1907
+QID29_Subquestion3_Answer9,1908
+QID29_Subquestion3_Answer10,1909
+QID29_Subquestion3_Answer11,1910
+QID29_Subquestion3_Answer12,1911
+QID29_Subquestion3_Answer13,1912
+QID29_Subquestion3_Answer14,1913
+QID29_Subquestion3_Answer15,1914
+QID29_Subquestion3_Answer16,1915
+QID29_Subquestion3_Answer17,1916
+QID29_Subquestion3_Answer18,1917
+QID29_Subquestion3_Answer19,1918
+QID29_Subquestion3_Answer20,1919
+QID29_Subquestion3_Answer21,1920
+QID29_Subquestion3_Answer22,1921
+QID29_Subquestion3_Answer23,1922
+QID29_Subquestion3_Answer24,1923
+QID29_Subquestion3_Answer25,1924
+QID29_Subquestion3_Answer26,1925
+QID29_Subquestion3_Answer27,1926
+QID29_Subquestion3_Answer28,1927
+QID29_Subquestion3_Answer29,1928
+QID29_Subquestion3_Answer30,1929
+QID29_Subquestion3_Answer31,1930
+QID29_Subquestion3_Answer32,1931
+QID29_Subquestion3_Answer33,1932
+QID29_Subquestion3_Answer34,1933
+QID29_Subquestion3_Answer35,1934
+QID29_Subquestion3_Answer36,1935
+QID29_Subquestion3_Answer37,1936
+QID29_Subquestion3_Answer38,1937
+QID29_Subquestion3_Answer39,1938
+QID29_Subquestion3_Answer40,1939
+QID29_Subquestion3_Answer41,1940
+QID29_Subquestion3_Answer42,1941
+QID29_Subquestion3_Answer43,1942
+QID29_Subquestion3_Answer44,1943
+QID29_Subquestion3_Answer45,1944
+QID29_Subquestion3_Answer46,1945
+QID29_Subquestion3_Answer47,1946
+QID29_Subquestion3_Answer48,1947
+QID29_Subquestion3_Answer49,1948
+QID29_Subquestion3_Answer50,1949
+QID29_Subquestion3_Answer51,1950
+QID29_Subquestion3_Answer52,1951
+QID29_Subquestion3_Answer53,1952
+QID29_Subquestion3_Answer54,1953
+QID29_Subquestion3_Answer55,1954
+QID29_Subquestion3_Answer56,1955
+QID29_Subquestion3_Answer57,1956
+QID29_Subquestion3_Answer58,1957
+QID29_Subquestion3_Answer59,1958
+QID29_Subquestion3_Answer60,1959
+QID29_Subquestion3_Answer61,1960
+QID29_Subquestion3_Answer62,1961
+QID29_Subquestion3_Answer63,1962
+QID29_Subquestion3_Answer64,1963
+QID29_Subquestion3_Answer65,1964
+QID29_Subquestion3_Answer66,1965
+QID29_Subquestion3_Answer67,1966
+QID29_Subquestion3_Answer68,1967
+QID29_Subquestion3_Answer69,1968
+QID29_Subquestion3_Answer70,1969
+QID29_Subquestion3_Answer71,1970
+QID29_Subquestion3_Answer72,1971
+QID29_Subquestion3_Answer73,1972
+QID29_Subquestion3_Answer74,1973
+QID29_Subquestion3_Answer75,1974
+QID29_Subquestion3_Answer76,1975
+QID29_Subquestion3_Answer77,1976
+QID29_Subquestion3_Answer78,1977
+QID29_Subquestion3_Answer79,1978
+QID29_Subquestion3_Answer80,1979
+QID29_Subquestion3_Answer81,1980
+QID29_Subquestion3_Answer82,1981
+QID29_Subquestion3_Answer83,1982
+QID29_Subquestion3_Answer84,1983
+QID29_Subquestion3_Answer85,1984
+QID29_Subquestion3_Answer86,1985
+QID29_Subquestion3_Answer87,1986
+QID29_Subquestion3_Answer88,1987
+QID29_Subquestion3_Answer89,1988
+QID29_Subquestion3_Answer90,1989
+QID29_Subquestion3_Answer91,1990
+QID29_Subquestion3_Answer92,1991
+QID29_Subquestion3_Answer93,1992
+QID29_Subquestion3_Answer94,1993
+QID29_Subquestion3_Answer95,1994
+QID29_Subquestion3_Answer96,1995
+QID29_Subquestion3_Answer97,1996
+QID29_Subquestion3_Answer98,1997
+QID29_Subquestion3_Answer99,1998
+QID29_Subquestion3_Answer100,1999
+QID29_Subquestion3_Answer101,2000
+QID29_Subquestion3_Answer102,2001
+QID29_Subquestion3_Answer103,2002
+QID29_Subquestion3_Answer104,2003
+QID29_Subquestion3_Answer105,2004
+QID29_Subquestion3_Answer106,2005
+QID29_Subquestion3_Answer107,2006
+QID29_Subquestion3_Answer108,2007
+QID29_Subquestion3_Answer109,2008
+QID29_Subquestion3_Answer110,2009
+QID29_Subquestion3_Answer111,2010
+QID29_Subquestion3_Answer112,2011
+QID29_Subquestion3_Answer113,2012
+QID29_Subquestion3_Answer114,2013
+QID29_Subquestion3_Answer115,2014
+QID29_Subquestion3_Answer116,2015
+QID29_Subquestion3_Answer117,2016
+QID29_Subquestion3_Answer118,2017
+QID29_Subquestion3_Answer119,2018
+QID29_Subquestion3_Answer120,2019
+QID29_Subquestion3_Answer121,2020
+QID29_Subquestion3_Answer122,2021
+QID29_Subquestion3_Answer123,2022
+QID29_Subquestion3_Answer124,2023
+QID29_Subquestion3_Answer125,2024
+QID29_Subquestion3_Answer126,2025
+QID29_Subquestion3_Answer127,2026
+QID29_Subquestion3_Answer128,2027
+QID29_Subquestion3_Answer129,2028
+QID29_Subquestion3_Answer130,2029
+QID29_Subquestion3_Answer131,2030
+QID29_Subquestion3_Answer132,2031
+QID29_Subquestion3_Answer133,2032
+QID29_Subquestion3_Answer134,2033
+QID29_Subquestion3_Answer135,2034
+QID29_Subquestion3_Answer136,2035
+QID29_Subquestion3_Answer137,2036
+QID29_Subquestion3_Answer138,2037
+QID29_Subquestion3_Answer139,2038
+QID29_Subquestion3_Answer140,2039
+QID29_Subquestion3_Answer141,2040
+QID29_Subquestion3_Answer142,2041
+QID29_Subquestion3_Answer143,2042
+QID29_Subquestion3_Answer144,2043
+QID29_Subquestion3_Answer145,2044
+QID29_Subquestion3_Answer146,2045
+QID29_Subquestion3_Answer147,2046
+QID29_Subquestion3_Answer148,2047
+QID29_Subquestion3_Answer149,2048
+QID29_Subquestion3_Answer150,2049
+QID297_QuestionText,Was this an estimated date?
+QID297_Choice1,This was an estimate
+QID28_QuestionText,"What was the type of your <span style=""color:#e74c3c;"">second</span> COVID-19 test?"
+QID28_Choice1,"Nasal (nasal secretions from nostrils, without moving forward into the back of the nose and throat)"
+QID28_Choice2,"Nasopharyngeal (nasal secretions from end of the nostrils, by moving to the cavity in back of the nose and throat)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
+QID28_Choice3,Throat
+QID28_Choice4,Other
+QID30_QuestionText,"What was the status of your test?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID30_Choice1,Positive
+QID30_Choice2,Negative
+QID30_Choice3,Inconclusive/Awaiting results
+QID331_QuestionText,"<br><div>On what date were you tested the&nbsp;<span style=""color: rgb(231, 76, 60);"">third</span>&nbsp;time?&nbsp;(if you don't remember the exact date, enter an estimate)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span></div>"
+QID331_Choice1,Please Select:
+QID331_Subquestion1_QuestionText,Month
+QID331_Subquestion1_Choice1,Please Select:
+QID331_Subquestion1_Answer1,January
+QID331_Subquestion1_Answer2,February
+QID331_Subquestion1_Answer3,March
+QID331_Subquestion1_Answer4,April
+QID331_Subquestion1_Answer5,May
+QID331_Subquestion1_Answer6,June
+QID331_Subquestion1_Answer7,July
+QID331_Subquestion1_Answer8,August
+QID331_Subquestion1_Answer9,September
+QID331_Subquestion1_Answer10,October
+QID331_Subquestion1_Answer11,November
+QID331_Subquestion1_Answer12,December
+QID331_Subquestion2_QuestionText,Day
+QID331_Subquestion2_Choice1,Please Select:
+QID331_Subquestion2_Answer1,1
+QID331_Subquestion2_Answer2,2
+QID331_Subquestion2_Answer3,3
+QID331_Subquestion2_Answer4,4
+QID331_Subquestion2_Answer5,5
+QID331_Subquestion2_Answer6,6
+QID331_Subquestion2_Answer7,7
+QID331_Subquestion2_Answer8,8
+QID331_Subquestion2_Answer9,9
+QID331_Subquestion2_Answer10,10
+QID331_Subquestion2_Answer11,11
+QID331_Subquestion2_Answer12,12
+QID331_Subquestion2_Answer13,13
+QID331_Subquestion2_Answer14,14
+QID331_Subquestion2_Answer15,15
+QID331_Subquestion2_Answer16,16
+QID331_Subquestion2_Answer17,17
+QID331_Subquestion2_Answer18,18
+QID331_Subquestion2_Answer19,19
+QID331_Subquestion2_Answer20,20
+QID331_Subquestion2_Answer21,21
+QID331_Subquestion2_Answer22,22
+QID331_Subquestion2_Answer23,23
+QID331_Subquestion2_Answer24,24
+QID331_Subquestion2_Answer25,25
+QID331_Subquestion2_Answer26,26
+QID331_Subquestion2_Answer27,27
+QID331_Subquestion2_Answer28,28
+QID331_Subquestion2_Answer29,29
+QID331_Subquestion2_Answer30,30
+QID331_Subquestion2_Answer31,31
+QID331_Subquestion3_QuestionText,Year
+QID331_Subquestion3_Choice1,Please Select:
+QID331_Subquestion3_Answer1,1900
+QID331_Subquestion3_Answer2,1901
+QID331_Subquestion3_Answer3,1902
+QID331_Subquestion3_Answer4,1903
+QID331_Subquestion3_Answer5,1904
+QID331_Subquestion3_Answer6,1905
+QID331_Subquestion3_Answer7,1906
+QID331_Subquestion3_Answer8,1907
+QID331_Subquestion3_Answer9,1908
+QID331_Subquestion3_Answer10,1909
+QID331_Subquestion3_Answer11,1910
+QID331_Subquestion3_Answer12,1911
+QID331_Subquestion3_Answer13,1912
+QID331_Subquestion3_Answer14,1913
+QID331_Subquestion3_Answer15,1914
+QID331_Subquestion3_Answer16,1915
+QID331_Subquestion3_Answer17,1916
+QID331_Subquestion3_Answer18,1917
+QID331_Subquestion3_Answer19,1918
+QID331_Subquestion3_Answer20,1919
+QID331_Subquestion3_Answer21,1920
+QID331_Subquestion3_Answer22,1921
+QID331_Subquestion3_Answer23,1922
+QID331_Subquestion3_Answer24,1923
+QID331_Subquestion3_Answer25,1924
+QID331_Subquestion3_Answer26,1925
+QID331_Subquestion3_Answer27,1926
+QID331_Subquestion3_Answer28,1927
+QID331_Subquestion3_Answer29,1928
+QID331_Subquestion3_Answer30,1929
+QID331_Subquestion3_Answer31,1930
+QID331_Subquestion3_Answer32,1931
+QID331_Subquestion3_Answer33,1932
+QID331_Subquestion3_Answer34,1933
+QID331_Subquestion3_Answer35,1934
+QID331_Subquestion3_Answer36,1935
+QID331_Subquestion3_Answer37,1936
+QID331_Subquestion3_Answer38,1937
+QID331_Subquestion3_Answer39,1938
+QID331_Subquestion3_Answer40,1939
+QID331_Subquestion3_Answer41,1940
+QID331_Subquestion3_Answer42,1941
+QID331_Subquestion3_Answer43,1942
+QID331_Subquestion3_Answer44,1943
+QID331_Subquestion3_Answer45,1944
+QID331_Subquestion3_Answer46,1945
+QID331_Subquestion3_Answer47,1946
+QID331_Subquestion3_Answer48,1947
+QID331_Subquestion3_Answer49,1948
+QID331_Subquestion3_Answer50,1949
+QID331_Subquestion3_Answer51,1950
+QID331_Subquestion3_Answer52,1951
+QID331_Subquestion3_Answer53,1952
+QID331_Subquestion3_Answer54,1953
+QID331_Subquestion3_Answer55,1954
+QID331_Subquestion3_Answer56,1955
+QID331_Subquestion3_Answer57,1956
+QID331_Subquestion3_Answer58,1957
+QID331_Subquestion3_Answer59,1958
+QID331_Subquestion3_Answer60,1959
+QID331_Subquestion3_Answer61,1960
+QID331_Subquestion3_Answer62,1961
+QID331_Subquestion3_Answer63,1962
+QID331_Subquestion3_Answer64,1963
+QID331_Subquestion3_Answer65,1964
+QID331_Subquestion3_Answer66,1965
+QID331_Subquestion3_Answer67,1966
+QID331_Subquestion3_Answer68,1967
+QID331_Subquestion3_Answer69,1968
+QID331_Subquestion3_Answer70,1969
+QID331_Subquestion3_Answer71,1970
+QID331_Subquestion3_Answer72,1971
+QID331_Subquestion3_Answer73,1972
+QID331_Subquestion3_Answer74,1973
+QID331_Subquestion3_Answer75,1974
+QID331_Subquestion3_Answer76,1975
+QID331_Subquestion3_Answer77,1976
+QID331_Subquestion3_Answer78,1977
+QID331_Subquestion3_Answer79,1978
+QID331_Subquestion3_Answer80,1979
+QID331_Subquestion3_Answer81,1980
+QID331_Subquestion3_Answer82,1981
+QID331_Subquestion3_Answer83,1982
+QID331_Subquestion3_Answer84,1983
+QID331_Subquestion3_Answer85,1984
+QID331_Subquestion3_Answer86,1985
+QID331_Subquestion3_Answer87,1986
+QID331_Subquestion3_Answer88,1987
+QID331_Subquestion3_Answer89,1988
+QID331_Subquestion3_Answer90,1989
+QID331_Subquestion3_Answer91,1990
+QID331_Subquestion3_Answer92,1991
+QID331_Subquestion3_Answer93,1992
+QID331_Subquestion3_Answer94,1993
+QID331_Subquestion3_Answer95,1994
+QID331_Subquestion3_Answer96,1995
+QID331_Subquestion3_Answer97,1996
+QID331_Subquestion3_Answer98,1997
+QID331_Subquestion3_Answer99,1998
+QID331_Subquestion3_Answer100,1999
+QID331_Subquestion3_Answer101,2000
+QID331_Subquestion3_Answer102,2001
+QID331_Subquestion3_Answer103,2002
+QID331_Subquestion3_Answer104,2003
+QID331_Subquestion3_Answer105,2004
+QID331_Subquestion3_Answer106,2005
+QID331_Subquestion3_Answer107,2006
+QID331_Subquestion3_Answer108,2007
+QID331_Subquestion3_Answer109,2008
+QID331_Subquestion3_Answer110,2009
+QID331_Subquestion3_Answer111,2010
+QID331_Subquestion3_Answer112,2011
+QID331_Subquestion3_Answer113,2012
+QID331_Subquestion3_Answer114,2013
+QID331_Subquestion3_Answer115,2014
+QID331_Subquestion3_Answer116,2015
+QID331_Subquestion3_Answer117,2016
+QID331_Subquestion3_Answer118,2017
+QID331_Subquestion3_Answer119,2018
+QID331_Subquestion3_Answer120,2019
+QID331_Subquestion3_Answer121,2020
+QID331_Subquestion3_Answer122,2021
+QID331_Subquestion3_Answer123,2022
+QID331_Subquestion3_Answer124,2023
+QID331_Subquestion3_Answer125,2024
+QID331_Subquestion3_Answer126,2025
+QID331_Subquestion3_Answer127,2026
+QID331_Subquestion3_Answer128,2027
+QID331_Subquestion3_Answer129,2028
+QID331_Subquestion3_Answer130,2029
+QID331_Subquestion3_Answer131,2030
+QID331_Subquestion3_Answer132,2031
+QID331_Subquestion3_Answer133,2032
+QID331_Subquestion3_Answer134,2033
+QID331_Subquestion3_Answer135,2034
+QID331_Subquestion3_Answer136,2035
+QID331_Subquestion3_Answer137,2036
+QID331_Subquestion3_Answer138,2037
+QID331_Subquestion3_Answer139,2038
+QID331_Subquestion3_Answer140,2039
+QID331_Subquestion3_Answer141,2040
+QID331_Subquestion3_Answer142,2041
+QID331_Subquestion3_Answer143,2042
+QID331_Subquestion3_Answer144,2043
+QID331_Subquestion3_Answer145,2044
+QID331_Subquestion3_Answer146,2045
+QID331_Subquestion3_Answer147,2046
+QID331_Subquestion3_Answer148,2047
+QID331_Subquestion3_Answer149,2048
+QID331_Subquestion3_Answer150,2049
+QID298_QuestionText,Was this an estimated date?
+QID298_Choice1,This was an estimate
+QID32_QuestionText,"What was the type of your&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">third</span>&nbsp;COVID19 test?"
+QID32_Choice1,"Nasal (nasal secretions from nostrils, without moving forward into the back of the nose and throat)"
+QID32_Choice2,"Nasopharyngeal (nasal secretions from end of the nostrils, by moving to the cavity in back of the nose and throat)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
+QID32_Choice3,Throat
+QID32_Choice4,Other
+QID34_QuestionText,"What was the status of your test?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID34_Choice1,Positive
+QID34_Choice2,Negative
+QID34_Choice3,Inconclusive/Awaiting results
+QID35_QuestionText,"If you had any other tests, please list them here. Please put each test on a new line with the type, date, and status separated by a comma. For example: Nasopharyngeal, 4-1-20, Positive. If you do not remember the exact date, please enter the closest date possible"
+QID36_QuestionText,"Did you receive an antibody test?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID36_Choice1,"Yes, I was tested at least once for antibodies"
+QID36_Choice2,"No, I was NOT tested at all for antibodies"
+QID37_QuestionText,"How many times were you tested for antibodies?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID38_QuestionText,"What was your antibody test result?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID38_Choice1,I tested positive for both (IgG and IgM) antibodies
+QID38_Choice2,I only tested positive for IgM antibodies
+QID38_Choice3,I only tested positive for IgG antibodies
+QID38_Choice4,I tested negative for antibodies
+QID38_Choice5,I don't know the antibodies type but I tested positive.
+QID39_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgM?&nbsp;"
+QID40_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgG?&nbsp;"
+QID41_QuestionText,"What type of test was it?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID41_Choice1,Blood Draw
+QID41_Choice2,Blood Finger Prick
+QID333_QuestionText,"Enter the date of the antibody test (if you don't remember the exact date, enter an estimate).&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID333_Choice1,Please Select:
+QID333_Subquestion1_QuestionText,Month
+QID333_Subquestion1_Choice1,Please Select:
+QID333_Subquestion1_Answer1,January
+QID333_Subquestion1_Answer2,February
+QID333_Subquestion1_Answer3,March
+QID333_Subquestion1_Answer4,April
+QID333_Subquestion1_Answer5,May
+QID333_Subquestion1_Answer6,June
+QID333_Subquestion1_Answer7,July
+QID333_Subquestion1_Answer8,August
+QID333_Subquestion1_Answer9,September
+QID333_Subquestion1_Answer10,October
+QID333_Subquestion1_Answer11,November
+QID333_Subquestion1_Answer12,December
+QID333_Subquestion2_QuestionText,Day
+QID333_Subquestion2_Choice1,Please Select:
+QID333_Subquestion2_Answer1,1
+QID333_Subquestion2_Answer2,2
+QID333_Subquestion2_Answer3,3
+QID333_Subquestion2_Answer4,4
+QID333_Subquestion2_Answer5,5
+QID333_Subquestion2_Answer6,6
+QID333_Subquestion2_Answer7,7
+QID333_Subquestion2_Answer8,8
+QID333_Subquestion2_Answer9,9
+QID333_Subquestion2_Answer10,10
+QID333_Subquestion2_Answer11,11
+QID333_Subquestion2_Answer12,12
+QID333_Subquestion2_Answer13,13
+QID333_Subquestion2_Answer14,14
+QID333_Subquestion2_Answer15,15
+QID333_Subquestion2_Answer16,16
+QID333_Subquestion2_Answer17,17
+QID333_Subquestion2_Answer18,18
+QID333_Subquestion2_Answer19,19
+QID333_Subquestion2_Answer20,20
+QID333_Subquestion2_Answer21,21
+QID333_Subquestion2_Answer22,22
+QID333_Subquestion2_Answer23,23
+QID333_Subquestion2_Answer24,24
+QID333_Subquestion2_Answer25,25
+QID333_Subquestion2_Answer26,26
+QID333_Subquestion2_Answer27,27
+QID333_Subquestion2_Answer28,28
+QID333_Subquestion2_Answer29,29
+QID333_Subquestion2_Answer30,30
+QID333_Subquestion2_Answer31,31
+QID333_Subquestion3_QuestionText,Year
+QID333_Subquestion3_Choice1,Please Select:
+QID333_Subquestion3_Answer1,1900
+QID333_Subquestion3_Answer2,1901
+QID333_Subquestion3_Answer3,1902
+QID333_Subquestion3_Answer4,1903
+QID333_Subquestion3_Answer5,1904
+QID333_Subquestion3_Answer6,1905
+QID333_Subquestion3_Answer7,1906
+QID333_Subquestion3_Answer8,1907
+QID333_Subquestion3_Answer9,1908
+QID333_Subquestion3_Answer10,1909
+QID333_Subquestion3_Answer11,1910
+QID333_Subquestion3_Answer12,1911
+QID333_Subquestion3_Answer13,1912
+QID333_Subquestion3_Answer14,1913
+QID333_Subquestion3_Answer15,1914
+QID333_Subquestion3_Answer16,1915
+QID333_Subquestion3_Answer17,1916
+QID333_Subquestion3_Answer18,1917
+QID333_Subquestion3_Answer19,1918
+QID333_Subquestion3_Answer20,1919
+QID333_Subquestion3_Answer21,1920
+QID333_Subquestion3_Answer22,1921
+QID333_Subquestion3_Answer23,1922
+QID333_Subquestion3_Answer24,1923
+QID333_Subquestion3_Answer25,1924
+QID333_Subquestion3_Answer26,1925
+QID333_Subquestion3_Answer27,1926
+QID333_Subquestion3_Answer28,1927
+QID333_Subquestion3_Answer29,1928
+QID333_Subquestion3_Answer30,1929
+QID333_Subquestion3_Answer31,1930
+QID333_Subquestion3_Answer32,1931
+QID333_Subquestion3_Answer33,1932
+QID333_Subquestion3_Answer34,1933
+QID333_Subquestion3_Answer35,1934
+QID333_Subquestion3_Answer36,1935
+QID333_Subquestion3_Answer37,1936
+QID333_Subquestion3_Answer38,1937
+QID333_Subquestion3_Answer39,1938
+QID333_Subquestion3_Answer40,1939
+QID333_Subquestion3_Answer41,1940
+QID333_Subquestion3_Answer42,1941
+QID333_Subquestion3_Answer43,1942
+QID333_Subquestion3_Answer44,1943
+QID333_Subquestion3_Answer45,1944
+QID333_Subquestion3_Answer46,1945
+QID333_Subquestion3_Answer47,1946
+QID333_Subquestion3_Answer48,1947
+QID333_Subquestion3_Answer49,1948
+QID333_Subquestion3_Answer50,1949
+QID333_Subquestion3_Answer51,1950
+QID333_Subquestion3_Answer52,1951
+QID333_Subquestion3_Answer53,1952
+QID333_Subquestion3_Answer54,1953
+QID333_Subquestion3_Answer55,1954
+QID333_Subquestion3_Answer56,1955
+QID333_Subquestion3_Answer57,1956
+QID333_Subquestion3_Answer58,1957
+QID333_Subquestion3_Answer59,1958
+QID333_Subquestion3_Answer60,1959
+QID333_Subquestion3_Answer61,1960
+QID333_Subquestion3_Answer62,1961
+QID333_Subquestion3_Answer63,1962
+QID333_Subquestion3_Answer64,1963
+QID333_Subquestion3_Answer65,1964
+QID333_Subquestion3_Answer66,1965
+QID333_Subquestion3_Answer67,1966
+QID333_Subquestion3_Answer68,1967
+QID333_Subquestion3_Answer69,1968
+QID333_Subquestion3_Answer70,1969
+QID333_Subquestion3_Answer71,1970
+QID333_Subquestion3_Answer72,1971
+QID333_Subquestion3_Answer73,1972
+QID333_Subquestion3_Answer74,1973
+QID333_Subquestion3_Answer75,1974
+QID333_Subquestion3_Answer76,1975
+QID333_Subquestion3_Answer77,1976
+QID333_Subquestion3_Answer78,1977
+QID333_Subquestion3_Answer79,1978
+QID333_Subquestion3_Answer80,1979
+QID333_Subquestion3_Answer81,1980
+QID333_Subquestion3_Answer82,1981
+QID333_Subquestion3_Answer83,1982
+QID333_Subquestion3_Answer84,1983
+QID333_Subquestion3_Answer85,1984
+QID333_Subquestion3_Answer86,1985
+QID333_Subquestion3_Answer87,1986
+QID333_Subquestion3_Answer88,1987
+QID333_Subquestion3_Answer89,1988
+QID333_Subquestion3_Answer90,1989
+QID333_Subquestion3_Answer91,1990
+QID333_Subquestion3_Answer92,1991
+QID333_Subquestion3_Answer93,1992
+QID333_Subquestion3_Answer94,1993
+QID333_Subquestion3_Answer95,1994
+QID333_Subquestion3_Answer96,1995
+QID333_Subquestion3_Answer97,1996
+QID333_Subquestion3_Answer98,1997
+QID333_Subquestion3_Answer99,1998
+QID333_Subquestion3_Answer100,1999
+QID333_Subquestion3_Answer101,2000
+QID333_Subquestion3_Answer102,2001
+QID333_Subquestion3_Answer103,2002
+QID333_Subquestion3_Answer104,2003
+QID333_Subquestion3_Answer105,2004
+QID333_Subquestion3_Answer106,2005
+QID333_Subquestion3_Answer107,2006
+QID333_Subquestion3_Answer108,2007
+QID333_Subquestion3_Answer109,2008
+QID333_Subquestion3_Answer110,2009
+QID333_Subquestion3_Answer111,2010
+QID333_Subquestion3_Answer112,2011
+QID333_Subquestion3_Answer113,2012
+QID333_Subquestion3_Answer114,2013
+QID333_Subquestion3_Answer115,2014
+QID333_Subquestion3_Answer116,2015
+QID333_Subquestion3_Answer117,2016
+QID333_Subquestion3_Answer118,2017
+QID333_Subquestion3_Answer119,2018
+QID333_Subquestion3_Answer120,2019
+QID333_Subquestion3_Answer121,2020
+QID333_Subquestion3_Answer122,2021
+QID333_Subquestion3_Answer123,2022
+QID333_Subquestion3_Answer124,2023
+QID333_Subquestion3_Answer125,2024
+QID333_Subquestion3_Answer126,2025
+QID333_Subquestion3_Answer127,2026
+QID333_Subquestion3_Answer128,2027
+QID333_Subquestion3_Answer129,2028
+QID333_Subquestion3_Answer130,2029
+QID333_Subquestion3_Answer131,2030
+QID333_Subquestion3_Answer132,2031
+QID333_Subquestion3_Answer133,2032
+QID333_Subquestion3_Answer134,2033
+QID333_Subquestion3_Answer135,2034
+QID333_Subquestion3_Answer136,2035
+QID333_Subquestion3_Answer137,2036
+QID333_Subquestion3_Answer138,2037
+QID333_Subquestion3_Answer139,2038
+QID333_Subquestion3_Answer140,2039
+QID333_Subquestion3_Answer141,2040
+QID333_Subquestion3_Answer142,2041
+QID333_Subquestion3_Answer143,2042
+QID333_Subquestion3_Answer144,2043
+QID333_Subquestion3_Answer145,2044
+QID333_Subquestion3_Answer146,2045
+QID333_Subquestion3_Answer147,2046
+QID333_Subquestion3_Answer148,2047
+QID333_Subquestion3_Answer149,2048
+QID333_Subquestion3_Answer150,2049
+QID299_QuestionText,Was this an estimated date?
+QID299_Choice1,This was an estimated date
+QID43_QuestionText,"Who was the manufacturer of the test? (Please only select the specific manufacturer if you are certain. Otherwise select ""I don’t know."")&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID43_Choice1,Abbott
+QID43_Choice2,Roche
+QID43_Choice3,Mt. Sinai
+QID43_Choice4,EuroImmun
+QID43_Choice5,Ortho-Clinical Diagnostics Vitros
+QID43_Choice6,DiaSorin
+QID43_Choice7,I don't know
+QID45_QuestionText,"Do you have another antibody test to report?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID45_Choice1,Yes
+QID45_Choice2,No
+QID46_QuestionText,"What was your antibody test result?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID46_Choice1,I tested positive for both (IgG and IgM) antibodies
+QID46_Choice2,I only tested positive for IgM antibodies
+QID46_Choice3,I only tested positive for IgG antibodies
+QID46_Choice4,I tested negative for antibodies
+QID46_Choice5,I don't know the antibodies type but I tested positive.
+QID47_QuestionText,"If you tested positive and your test included a titer value, what was the value (in&nbsp;<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">mg/dL)&nbsp;</span>for IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID48_QuestionText,"If you tested positive and your test included a titer value, what was the value (in&nbsp;<span style=""font-family: arial, sans-serif; color: rgb(34, 34, 34); font-size: 14px;"">mg/dL)</span>&nbsp;for<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">&nbsp;</span>IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID49_QuestionText,"What type of test was it?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID49_Choice1,Blood Draw
+QID49_Choice2,Blood Finger Prick
+QID334_QuestionText,"Enter the date of the antibody test (if you don't remember the exact date, enter an estimate).&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID334_Choice1,Please Select:
+QID334_Subquestion1_QuestionText,Month
+QID334_Subquestion1_Choice1,Please Select:
+QID334_Subquestion1_Answer1,January
+QID334_Subquestion1_Answer2,February
+QID334_Subquestion1_Answer3,March
+QID334_Subquestion1_Answer4,April
+QID334_Subquestion1_Answer5,May
+QID334_Subquestion1_Answer6,June
+QID334_Subquestion1_Answer7,July
+QID334_Subquestion1_Answer8,August
+QID334_Subquestion1_Answer9,September
+QID334_Subquestion1_Answer10,October
+QID334_Subquestion1_Answer11,November
+QID334_Subquestion1_Answer12,December
+QID334_Subquestion2_QuestionText,Day
+QID334_Subquestion2_Choice1,Please Select:
+QID334_Subquestion2_Answer1,1
+QID334_Subquestion2_Answer2,2
+QID334_Subquestion2_Answer3,3
+QID334_Subquestion2_Answer4,4
+QID334_Subquestion2_Answer5,5
+QID334_Subquestion2_Answer6,6
+QID334_Subquestion2_Answer7,7
+QID334_Subquestion2_Answer8,8
+QID334_Subquestion2_Answer9,9
+QID334_Subquestion2_Answer10,10
+QID334_Subquestion2_Answer11,11
+QID334_Subquestion2_Answer12,12
+QID334_Subquestion2_Answer13,13
+QID334_Subquestion2_Answer14,14
+QID334_Subquestion2_Answer15,15
+QID334_Subquestion2_Answer16,16
+QID334_Subquestion2_Answer17,17
+QID334_Subquestion2_Answer18,18
+QID334_Subquestion2_Answer19,19
+QID334_Subquestion2_Answer20,20
+QID334_Subquestion2_Answer21,21
+QID334_Subquestion2_Answer22,22
+QID334_Subquestion2_Answer23,23
+QID334_Subquestion2_Answer24,24
+QID334_Subquestion2_Answer25,25
+QID334_Subquestion2_Answer26,26
+QID334_Subquestion2_Answer27,27
+QID334_Subquestion2_Answer28,28
+QID334_Subquestion2_Answer29,29
+QID334_Subquestion2_Answer30,30
+QID334_Subquestion2_Answer31,31
+QID334_Subquestion3_QuestionText,Year
+QID334_Subquestion3_Choice1,Please Select:
+QID334_Subquestion3_Answer1,1900
+QID334_Subquestion3_Answer2,1901
+QID334_Subquestion3_Answer3,1902
+QID334_Subquestion3_Answer4,1903
+QID334_Subquestion3_Answer5,1904
+QID334_Subquestion3_Answer6,1905
+QID334_Subquestion3_Answer7,1906
+QID334_Subquestion3_Answer8,1907
+QID334_Subquestion3_Answer9,1908
+QID334_Subquestion3_Answer10,1909
+QID334_Subquestion3_Answer11,1910
+QID334_Subquestion3_Answer12,1911
+QID334_Subquestion3_Answer13,1912
+QID334_Subquestion3_Answer14,1913
+QID334_Subquestion3_Answer15,1914
+QID334_Subquestion3_Answer16,1915
+QID334_Subquestion3_Answer17,1916
+QID334_Subquestion3_Answer18,1917
+QID334_Subquestion3_Answer19,1918
+QID334_Subquestion3_Answer20,1919
+QID334_Subquestion3_Answer21,1920
+QID334_Subquestion3_Answer22,1921
+QID334_Subquestion3_Answer23,1922
+QID334_Subquestion3_Answer24,1923
+QID334_Subquestion3_Answer25,1924
+QID334_Subquestion3_Answer26,1925
+QID334_Subquestion3_Answer27,1926
+QID334_Subquestion3_Answer28,1927
+QID334_Subquestion3_Answer29,1928
+QID334_Subquestion3_Answer30,1929
+QID334_Subquestion3_Answer31,1930
+QID334_Subquestion3_Answer32,1931
+QID334_Subquestion3_Answer33,1932
+QID334_Subquestion3_Answer34,1933
+QID334_Subquestion3_Answer35,1934
+QID334_Subquestion3_Answer36,1935
+QID334_Subquestion3_Answer37,1936
+QID334_Subquestion3_Answer38,1937
+QID334_Subquestion3_Answer39,1938
+QID334_Subquestion3_Answer40,1939
+QID334_Subquestion3_Answer41,1940
+QID334_Subquestion3_Answer42,1941
+QID334_Subquestion3_Answer43,1942
+QID334_Subquestion3_Answer44,1943
+QID334_Subquestion3_Answer45,1944
+QID334_Subquestion3_Answer46,1945
+QID334_Subquestion3_Answer47,1946
+QID334_Subquestion3_Answer48,1947
+QID334_Subquestion3_Answer49,1948
+QID334_Subquestion3_Answer50,1949
+QID334_Subquestion3_Answer51,1950
+QID334_Subquestion3_Answer52,1951
+QID334_Subquestion3_Answer53,1952
+QID334_Subquestion3_Answer54,1953
+QID334_Subquestion3_Answer55,1954
+QID334_Subquestion3_Answer56,1955
+QID334_Subquestion3_Answer57,1956
+QID334_Subquestion3_Answer58,1957
+QID334_Subquestion3_Answer59,1958
+QID334_Subquestion3_Answer60,1959
+QID334_Subquestion3_Answer61,1960
+QID334_Subquestion3_Answer62,1961
+QID334_Subquestion3_Answer63,1962
+QID334_Subquestion3_Answer64,1963
+QID334_Subquestion3_Answer65,1964
+QID334_Subquestion3_Answer66,1965
+QID334_Subquestion3_Answer67,1966
+QID334_Subquestion3_Answer68,1967
+QID334_Subquestion3_Answer69,1968
+QID334_Subquestion3_Answer70,1969
+QID334_Subquestion3_Answer71,1970
+QID334_Subquestion3_Answer72,1971
+QID334_Subquestion3_Answer73,1972
+QID334_Subquestion3_Answer74,1973
+QID334_Subquestion3_Answer75,1974
+QID334_Subquestion3_Answer76,1975
+QID334_Subquestion3_Answer77,1976
+QID334_Subquestion3_Answer78,1977
+QID334_Subquestion3_Answer79,1978
+QID334_Subquestion3_Answer80,1979
+QID334_Subquestion3_Answer81,1980
+QID334_Subquestion3_Answer82,1981
+QID334_Subquestion3_Answer83,1982
+QID334_Subquestion3_Answer84,1983
+QID334_Subquestion3_Answer85,1984
+QID334_Subquestion3_Answer86,1985
+QID334_Subquestion3_Answer87,1986
+QID334_Subquestion3_Answer88,1987
+QID334_Subquestion3_Answer89,1988
+QID334_Subquestion3_Answer90,1989
+QID334_Subquestion3_Answer91,1990
+QID334_Subquestion3_Answer92,1991
+QID334_Subquestion3_Answer93,1992
+QID334_Subquestion3_Answer94,1993
+QID334_Subquestion3_Answer95,1994
+QID334_Subquestion3_Answer96,1995
+QID334_Subquestion3_Answer97,1996
+QID334_Subquestion3_Answer98,1997
+QID334_Subquestion3_Answer99,1998
+QID334_Subquestion3_Answer100,1999
+QID334_Subquestion3_Answer101,2000
+QID334_Subquestion3_Answer102,2001
+QID334_Subquestion3_Answer103,2002
+QID334_Subquestion3_Answer104,2003
+QID334_Subquestion3_Answer105,2004
+QID334_Subquestion3_Answer106,2005
+QID334_Subquestion3_Answer107,2006
+QID334_Subquestion3_Answer108,2007
+QID334_Subquestion3_Answer109,2008
+QID334_Subquestion3_Answer110,2009
+QID334_Subquestion3_Answer111,2010
+QID334_Subquestion3_Answer112,2011
+QID334_Subquestion3_Answer113,2012
+QID334_Subquestion3_Answer114,2013
+QID334_Subquestion3_Answer115,2014
+QID334_Subquestion3_Answer116,2015
+QID334_Subquestion3_Answer117,2016
+QID334_Subquestion3_Answer118,2017
+QID334_Subquestion3_Answer119,2018
+QID334_Subquestion3_Answer120,2019
+QID334_Subquestion3_Answer121,2020
+QID334_Subquestion3_Answer122,2021
+QID334_Subquestion3_Answer123,2022
+QID334_Subquestion3_Answer124,2023
+QID334_Subquestion3_Answer125,2024
+QID334_Subquestion3_Answer126,2025
+QID334_Subquestion3_Answer127,2026
+QID334_Subquestion3_Answer128,2027
+QID334_Subquestion3_Answer129,2028
+QID334_Subquestion3_Answer130,2029
+QID334_Subquestion3_Answer131,2030
+QID334_Subquestion3_Answer132,2031
+QID334_Subquestion3_Answer133,2032
+QID334_Subquestion3_Answer134,2033
+QID334_Subquestion3_Answer135,2034
+QID334_Subquestion3_Answer136,2035
+QID334_Subquestion3_Answer137,2036
+QID334_Subquestion3_Answer138,2037
+QID334_Subquestion3_Answer139,2038
+QID334_Subquestion3_Answer140,2039
+QID334_Subquestion3_Answer141,2040
+QID334_Subquestion3_Answer142,2041
+QID334_Subquestion3_Answer143,2042
+QID334_Subquestion3_Answer144,2043
+QID334_Subquestion3_Answer145,2044
+QID334_Subquestion3_Answer146,2045
+QID334_Subquestion3_Answer147,2046
+QID334_Subquestion3_Answer148,2047
+QID334_Subquestion3_Answer149,2048
+QID334_Subquestion3_Answer150,2049
+QID300_QuestionText,Was this an estimated date?
+QID300_Choice1,This was an estimated date
+QID51_QuestionText,"Who was the manufacturer of the test? (Please only select specific manufacturer if you are certain. Otherwise select ""I don’t know."")&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID51_Choice1,Abbott
+QID51_Choice2,Roche
+QID51_Choice3,Mt. Sinai
+QID51_Choice4,EuroImmun
+QID51_Choice5,Ortho-Clinical Diagnostics Vitros
+QID51_Choice6,DiaSorin
+QID51_Choice7,I don't know
+QID53_QuestionText,"Do you have another antibody test to report?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID53_Choice1,Yes
+QID53_Choice2,No
+QID54_QuestionText,"What was your antibody test result?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID54_Choice1,I tested positive for both (IgG and IgM) antibodies
+QID54_Choice2,I only tested positive for IgM antibodies
+QID54_Choice3,I only tested positive for IgG antibodies
+QID54_Choice4,I tested negative for antibodies
+QID54_Choice5,I don't know the antibodies type but I tested positive.
+QID55_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID56_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID57_QuestionText,"What type of test was it?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID57_Choice1,Blood Draw
+QID57_Choice2,Blood Finger Prick
+QID335_QuestionText,"Enter the date of the antibody test (if you don't remember the exact date, enter an estimate).&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+QID335_Choice1,Please Select:
+QID335_Subquestion1_QuestionText,Month
+QID335_Subquestion1_Choice1,Please Select:
+QID335_Subquestion1_Answer1,January
+QID335_Subquestion1_Answer2,February
+QID335_Subquestion1_Answer3,March
+QID335_Subquestion1_Answer4,April
+QID335_Subquestion1_Answer5,May
+QID335_Subquestion1_Answer6,June
+QID335_Subquestion1_Answer7,July
+QID335_Subquestion1_Answer8,August
+QID335_Subquestion1_Answer9,September
+QID335_Subquestion1_Answer10,October
+QID335_Subquestion1_Answer11,November
+QID335_Subquestion1_Answer12,December
+QID335_Subquestion2_QuestionText,Day
+QID335_Subquestion2_Choice1,Please Select:
+QID335_Subquestion2_Answer1,1
+QID335_Subquestion2_Answer2,2
+QID335_Subquestion2_Answer3,3
+QID335_Subquestion2_Answer4,4
+QID335_Subquestion2_Answer5,5
+QID335_Subquestion2_Answer6,6
+QID335_Subquestion2_Answer7,7
+QID335_Subquestion2_Answer8,8
+QID335_Subquestion2_Answer9,9
+QID335_Subquestion2_Answer10,10
+QID335_Subquestion2_Answer11,11
+QID335_Subquestion2_Answer12,12
+QID335_Subquestion2_Answer13,13
+QID335_Subquestion2_Answer14,14
+QID335_Subquestion2_Answer15,15
+QID335_Subquestion2_Answer16,16
+QID335_Subquestion2_Answer17,17
+QID335_Subquestion2_Answer18,18
+QID335_Subquestion2_Answer19,19
+QID335_Subquestion2_Answer20,20
+QID335_Subquestion2_Answer21,21
+QID335_Subquestion2_Answer22,22
+QID335_Subquestion2_Answer23,23
+QID335_Subquestion2_Answer24,24
+QID335_Subquestion2_Answer25,25
+QID335_Subquestion2_Answer26,26
+QID335_Subquestion2_Answer27,27
+QID335_Subquestion2_Answer28,28
+QID335_Subquestion2_Answer29,29
+QID335_Subquestion2_Answer30,30
+QID335_Subquestion2_Answer31,31
+QID335_Subquestion3_QuestionText,Year
+QID335_Subquestion3_Choice1,Please Select:
+QID335_Subquestion3_Answer1,1900
+QID335_Subquestion3_Answer2,1901
+QID335_Subquestion3_Answer3,1902
+QID335_Subquestion3_Answer4,1903
+QID335_Subquestion3_Answer5,1904
+QID335_Subquestion3_Answer6,1905
+QID335_Subquestion3_Answer7,1906
+QID335_Subquestion3_Answer8,1907
+QID335_Subquestion3_Answer9,1908
+QID335_Subquestion3_Answer10,1909
+QID335_Subquestion3_Answer11,1910
+QID335_Subquestion3_Answer12,1911
+QID335_Subquestion3_Answer13,1912
+QID335_Subquestion3_Answer14,1913
+QID335_Subquestion3_Answer15,1914
+QID335_Subquestion3_Answer16,1915
+QID335_Subquestion3_Answer17,1916
+QID335_Subquestion3_Answer18,1917
+QID335_Subquestion3_Answer19,1918
+QID335_Subquestion3_Answer20,1919
+QID335_Subquestion3_Answer21,1920
+QID335_Subquestion3_Answer22,1921
+QID335_Subquestion3_Answer23,1922
+QID335_Subquestion3_Answer24,1923
+QID335_Subquestion3_Answer25,1924
+QID335_Subquestion3_Answer26,1925
+QID335_Subquestion3_Answer27,1926
+QID335_Subquestion3_Answer28,1927
+QID335_Subquestion3_Answer29,1928
+QID335_Subquestion3_Answer30,1929
+QID335_Subquestion3_Answer31,1930
+QID335_Subquestion3_Answer32,1931
+QID335_Subquestion3_Answer33,1932
+QID335_Subquestion3_Answer34,1933
+QID335_Subquestion3_Answer35,1934
+QID335_Subquestion3_Answer36,1935
+QID335_Subquestion3_Answer37,1936
+QID335_Subquestion3_Answer38,1937
+QID335_Subquestion3_Answer39,1938
+QID335_Subquestion3_Answer40,1939
+QID335_Subquestion3_Answer41,1940
+QID335_Subquestion3_Answer42,1941
+QID335_Subquestion3_Answer43,1942
+QID335_Subquestion3_Answer44,1943
+QID335_Subquestion3_Answer45,1944
+QID335_Subquestion3_Answer46,1945
+QID335_Subquestion3_Answer47,1946
+QID335_Subquestion3_Answer48,1947
+QID335_Subquestion3_Answer49,1948
+QID335_Subquestion3_Answer50,1949
+QID335_Subquestion3_Answer51,1950
+QID335_Subquestion3_Answer52,1951
+QID335_Subquestion3_Answer53,1952
+QID335_Subquestion3_Answer54,1953
+QID335_Subquestion3_Answer55,1954
+QID335_Subquestion3_Answer56,1955
+QID335_Subquestion3_Answer57,1956
+QID335_Subquestion3_Answer58,1957
+QID335_Subquestion3_Answer59,1958
+QID335_Subquestion3_Answer60,1959
+QID335_Subquestion3_Answer61,1960
+QID335_Subquestion3_Answer62,1961
+QID335_Subquestion3_Answer63,1962
+QID335_Subquestion3_Answer64,1963
+QID335_Subquestion3_Answer65,1964
+QID335_Subquestion3_Answer66,1965
+QID335_Subquestion3_Answer67,1966
+QID335_Subquestion3_Answer68,1967
+QID335_Subquestion3_Answer69,1968
+QID335_Subquestion3_Answer70,1969
+QID335_Subquestion3_Answer71,1970
+QID335_Subquestion3_Answer72,1971
+QID335_Subquestion3_Answer73,1972
+QID335_Subquestion3_Answer74,1973
+QID335_Subquestion3_Answer75,1974
+QID335_Subquestion3_Answer76,1975
+QID335_Subquestion3_Answer77,1976
+QID335_Subquestion3_Answer78,1977
+QID335_Subquestion3_Answer79,1978
+QID335_Subquestion3_Answer80,1979
+QID335_Subquestion3_Answer81,1980
+QID335_Subquestion3_Answer82,1981
+QID335_Subquestion3_Answer83,1982
+QID335_Subquestion3_Answer84,1983
+QID335_Subquestion3_Answer85,1984
+QID335_Subquestion3_Answer86,1985
+QID335_Subquestion3_Answer87,1986
+QID335_Subquestion3_Answer88,1987
+QID335_Subquestion3_Answer89,1988
+QID335_Subquestion3_Answer90,1989
+QID335_Subquestion3_Answer91,1990
+QID335_Subquestion3_Answer92,1991
+QID335_Subquestion3_Answer93,1992
+QID335_Subquestion3_Answer94,1993
+QID335_Subquestion3_Answer95,1994
+QID335_Subquestion3_Answer96,1995
+QID335_Subquestion3_Answer97,1996
+QID335_Subquestion3_Answer98,1997
+QID335_Subquestion3_Answer99,1998
+QID335_Subquestion3_Answer100,1999
+QID335_Subquestion3_Answer101,2000
+QID335_Subquestion3_Answer102,2001
+QID335_Subquestion3_Answer103,2002
+QID335_Subquestion3_Answer104,2003
+QID335_Subquestion3_Answer105,2004
+QID335_Subquestion3_Answer106,2005
+QID335_Subquestion3_Answer107,2006
+QID335_Subquestion3_Answer108,2007
+QID335_Subquestion3_Answer109,2008
+QID335_Subquestion3_Answer110,2009
+QID335_Subquestion3_Answer111,2010
+QID335_Subquestion3_Answer112,2011
+QID335_Subquestion3_Answer113,2012
+QID335_Subquestion3_Answer114,2013
+QID335_Subquestion3_Answer115,2014
+QID335_Subquestion3_Answer116,2015
+QID335_Subquestion3_Answer117,2016
+QID335_Subquestion3_Answer118,2017
+QID335_Subquestion3_Answer119,2018
+QID335_Subquestion3_Answer120,2019
+QID335_Subquestion3_Answer121,2020
+QID335_Subquestion3_Answer122,2021
+QID335_Subquestion3_Answer123,2022
+QID335_Subquestion3_Answer124,2023
+QID335_Subquestion3_Answer125,2024
+QID335_Subquestion3_Answer126,2025
+QID335_Subquestion3_Answer127,2026
+QID335_Subquestion3_Answer128,2027
+QID335_Subquestion3_Answer129,2028
+QID335_Subquestion3_Answer130,2029
+QID335_Subquestion3_Answer131,2030
+QID335_Subquestion3_Answer132,2031
+QID335_Subquestion3_Answer133,2032
+QID335_Subquestion3_Answer134,2033
+QID335_Subquestion3_Answer135,2034
+QID335_Subquestion3_Answer136,2035
+QID335_Subquestion3_Answer137,2036
+QID335_Subquestion3_Answer138,2037
+QID335_Subquestion3_Answer139,2038
+QID335_Subquestion3_Answer140,2039
+QID335_Subquestion3_Answer141,2040
+QID335_Subquestion3_Answer142,2041
+QID335_Subquestion3_Answer143,2042
+QID335_Subquestion3_Answer144,2043
+QID335_Subquestion3_Answer145,2044
+QID335_Subquestion3_Answer146,2045
+QID335_Subquestion3_Answer147,2046
+QID335_Subquestion3_Answer148,2047
+QID335_Subquestion3_Answer149,2048
+QID335_Subquestion3_Answer150,2049
+QID301_QuestionText,Was this an estimated date?
+QID301_Choice1,This was an estimated date
+QID59_QuestionText,"Who was the manufacturer of the test? (Please only select specific manufacturer if you are certain. Otherwise select ""I don’t know."")&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID59_Choice1,Abbott
+QID59_Choice2,Roche
+QID59_Choice3,Mt. Sinai
+QID59_Choice4,EuroImmun
+QID59_Choice5,Ortho-Clinical Diagnostics Vitros
+QID59_Choice6,DiaSorin
+QID59_Choice7,I don't know
+QID452_QuestionText,<strong>Memory Symptoms</strong>
+QID375_QuestionText,"Have you experienced any <strong>MEMORY RELATED SYMPTOMS</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
+QID375_Choice1,Yes
+QID375_Choice2,No
+QID336_QuestionText,"Which of the following memory symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID336_Choice1,"Short-term memory loss (memory that lasts ~30 seconds, i.e. remembering a phone number before writing it down, or forgetting you’re in the middle of a task)"
+QID336_Choice2,"Long-term memory loss (long-term memory can be anything from remembering yesterday, forgetting you’ve done a task, forgetting recently learned information, or forgetting your third-grade experience)"
+QID336_Choice3,Not being able to make new memories
+QID336_Choice4,"Forgetting how to do routine tasks (tying your shoe laces, washing your hands)"
+QID336_Choice5,Other
+QID336_Choice6,None of the above
+QID68_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID68_Choice1,Memory symptoms
+QID68_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
+QID68_Answer2,Week 2
+QID68_Answer3,Week 3
+QID68_Answer4,Week 4
+QID68_Answer5,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Month 2</strong></span></span>"
+QID68_Answer6,Month 3
+QID68_Answer7,Month 4
+QID68_Answer8,Month 5
+QID68_Answer9,Month 6
+QID68_Answer12,Month 7
+QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">Have you experienced issues with <strong>BRAIN FOG</strong>&nbsp;(inability to focus, think clearly, plan, process, understand, and maintain a coherent stream of thought; abnormally slow or fast thoughts)&nbsp;since the start of your COVID-19 illness?&nbsp;<span style=""color:#e74c3c;"">*</span></span>"
+QID376_Choice1,Yes
+QID376_Choice2,No
+QID261_QuestionText,"Which of the following brain fog/cognitive functioning symptoms have you experienced since the start of your COVID-19 illness?<span style=""color:#e74c3c;""><strong>&nbsp;*</strong></span>"
+QID261_Choice1,"Difficulty with executive functioning (planning, organizing, figuring out the sequence of actions, abstracting)"
+QID261_Choice2,Agnosia (failure to recognize or identify objects despite intact sensory functioning)
+QID261_Choice3,Difficulty problem-solving or decision-making
+QID261_Choice4,Difficulty thinking
+QID261_Choice5,Thoughts moving too quickly
+QID261_Choice6,Slowed thoughts
+QID261_Choice7,Poor attention or concentration
+QID261_Choice8,Other
+QID261_Choice10,I did NOT have any Brain Fog symptoms
+QID337_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID337_Choice1,Brain fog/cognitive functioning symptoms
+QID337_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
+QID337_Answer2,Week 2
+QID337_Answer3,Week 3
+QID337_Answer4,Week 4
+QID337_Answer5,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Month 2</strong></span></span>"
+QID337_Answer6,Month 3
+QID337_Answer7,Month 4
+QID337_Answer8,Month 5
+QID337_Answer9,Month 6
+QID337_Answer12,Month 7
+QID73_QuestionText,"Have you felt significantly limited or unable to do any of the following due to<strong>&nbsp;MEMORY LOSS OR BRAIN FOG</strong> (including issues with attention, cognitive functioning, and awareness)&nbsp;specifically?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID73_Choice1,Drive
+QID73_Choice2,Watch children
+QID73_Choice3,Cook or use hot items
+QID73_Choice4,Feed yourself
+QID73_Choice5,Shower or bathe regularly
+QID73_Choice6,Make serious decisions
+QID73_Choice7,Leave the house and return without getting lost
+QID73_Choice8,Remember the correct month or year
+QID73_Choice9,Have conversations with others
+QID73_Choice10,Maintain your medication schedule (forgetting to take medication or forgetting you’ve taken medication)
+QID73_Choice11,Work
+QID73_Choice12,Follow simple instructions
+QID73_Choice13,Communicate your thoughts and needs
+QID73_Choice14,Other
+QID73_Answer1,Severely unable
+QID73_Answer2,Moderately unable
+QID73_Answer3,Mildly unable
+QID73_Answer4,Able
+QID73_Answer5,Not applicable
+QID74_QuestionText,"Optional: If you have other areas of your life that were affected by memory loss or brain fog, please include them here. Please note whether they were mildly, moderately, or severely limiting.&nbsp;"
+QID133_QuestionText,"Optional: Please use this space to describe examples of your brain fog, memory loss, and attention span.<div>Please do not include any identifying information (such as name or location).</div>"
+QID399_QuestionText,<strong>Emotional and Behavioral Changes</strong>
+QID77_QuestionText,"Compared to how you felt before COVID, have you experienced an increase in any of the following?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID77_Choice1,Difficulty controlling your emotions
+QID77_Choice2,Lack of inhibition (difficulty controlling your behavior)
+QID77_Choice3,Irritability
+QID77_Choice4,Anger
+QID77_Choice5,Impulsivity (acting on a whim without self-control)
+QID77_Choice6,Aggression
+QID77_Choice7,Euphoria (a feeling or state of intense excitement and happiness)
+QID77_Choice8,Delusions
+QID77_Choice9,Depression
+QID77_Choice10,"Apathy (lack of feeling, emotion, interest, or concern)"
+QID77_Choice11,Suicidality
+QID77_Choice12,Mood swings
+QID77_Choice13,Anxiety
+QID77_Choice14,"Mania (abnormally elevated/excited mood, decreased need for sleep, occasionally with delusions)"
+QID77_Choice15,Hypomania (a milder form of mania)
+QID77_Choice16,Tearfulness
+QID77_Choice17,Sense of doom
+QID77_Choice18,Other
+QID77_Choice20,None of the above
+QID136_QuestionText,"Optional: Please use this space to describe examples of your emotional changes during your illness.&nbsp;<div>Please do not include any identifying information (name, location, etc.).</div>"
+QID79_QuestionText,"Optional: If you had any of these emotional experiences <b>pre</b>-COVID, please describe how they differed <b>post</b>-COVID. <br><br>Please do not include any identifying information (name, location, etc.)."
+QID398_QuestionText,<strong>Speech and Language Issues</strong>
+QID411_QuestionText,"Have you experienced any issues with <strong>SPEECH AND LANGUAGE</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
+QID411_Choice1,Yes
+QID411_Choice2,No
+QID293_QuestionText,"Which of the following speech and language symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID293_Choice1,Difficulty finding the right words while speaking/writing
+QID293_Choice2,Difficulty communicating verbally
+QID293_Choice3,Difficulting speaking in complete sentences
+QID293_Choice4,Speaking unrecognizable words
+QID293_Choice5,Difficulty communicating in writing
+QID293_Choice6,Difficulty processing/understanding what others say
+QID293_Choice7,Difficulty reading/processing written text
+QID293_Choice8,Other
+QID293_Choice9,(If applicable) changes to your non-primary (second/third) language skills
+QID293_Choice11,None of the above
+QID341_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID341_Choice1,Speech/language issues
+QID341_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
+QID341_Answer2,Week 2
+QID341_Answer3,Week 3
+QID341_Answer4,Week 4
+QID341_Answer5,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Month 2</span></span></strong>"
+QID341_Answer6,Month 3
+QID341_Answer7,Month 4
+QID341_Answer8,Month 5
+QID341_Answer9,Month 6
+QID341_Answer12,Month 7
+QID302_QuestionText,"Do you speak multiple languages?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID302_Choice1,Yes
+QID302_Choice2,No
+QID134_QuestionText,"Optional: Please use this space to describe examples of your language issues, including speech, writing, reading, and listening to words. Please include any changes to your speech/language that are not mentioned above. For instance, if you speak multiple languages and have noticed different problems with your primary and non-primary language.&nbsp; &nbsp;"
+QID401_QuestionText,<strong>Headaches</strong>
+QID374_QuestionText,"Have you experienced any new <strong>HEADACHES OR RELATED ISSUES</strong> since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID374_Choice1,Yes
+QID374_Choice2,No
+QID345_QuestionText,"Which of the following symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID345_Choice20,"Headaches, at the base of the skull"
+QID345_Choice21,"Headaches, in the temples"
+QID345_Choice22,"Headaches, behind the eyes"
+QID345_Choice23,"Headaches, diffuse (entire brain)"
+QID345_Choice24,Headaches/pain after mental exertion
+QID345_Choice25,"Sensation of brain warmth/""on fire"""
+QID345_Choice26,Migraines
+QID345_Choice27,Stiff neck
+QID345_Choice51,Sensation of brain pressure
+QID345_Choice52,"Headaches, other"
+QID345_Choice54,None of the above
+QID346_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable).&nbsp;</span>Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID346_Choice20,Headaches and related symptoms
+QID346_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
+QID346_Answer2,Week 2
+QID346_Answer3,Week 3
+QID346_Answer4,Week 4
+QID346_Answer5,"<span style=""font-size:16px;""><strong><span style=""color:#e74c3c;"">Month 2</span></strong></span>"
+QID346_Answer6,Month 3
+QID346_Answer7,Month 4
+QID346_Answer8,Month 5
+QID346_Answer9,Month 6
+QID346_Answer12,Month 7
+QID402_QuestionText,<strong>Sense of Smell and Taste</strong>
+QID379_QuestionText,"Have you experienced any changes to your <strong>SENSE OF SMELL OR TASTE</strong>&nbsp;since the start of your COVID-19 illness? <span style=""color:#e74c3c;""><strong>*</strong></span>&nbsp;"
+QID379_Choice1,Yes
+QID379_Choice2,No
+QID106_QuestionText,"Which of the following symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID106_Choice1,Loss of smell
+QID106_Choice2,Phantom smells (imagining/hallucinating smells - smelling things that aren't there)
+QID106_Choice3,Heightened sense of smell
+QID106_Choice4,Loss of taste
+QID106_Choice5,Phantom taste (imagining/hallucinating tastes - tasting things when there's nothing in your mouth)
+QID106_Choice6,Heightened sense of taste
+QID106_Choice7,Altered sense of smell
+QID106_Choice8,Altered sense of taste
+QID106_Choice9,None of the above
+QID363_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID363_Choice1,Changes to sense of smell and taste
+QID363_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID363_Answer2,Week 2
+QID363_Answer3,Week 3
+QID363_Answer4,Week 4
+QID363_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID363_Answer6,Month 3
+QID363_Answer7,Month 4
+QID363_Answer8,Month 5
+QID363_Answer9,Month 6
+QID363_Answer12,Month 7
+QID107_QuestionText,"If you had phantom tastes, please describe them:"
+QID108_QuestionText,"If you had phantom smells, please describe them:"
+QID403_QuestionText,<strong>Tremors and Vibrating Sensations</strong>
+QID410_QuestionText,"Have you experienced any <strong>TREMOR OR VIBRATION SENTATIONS</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Involuntary, rhythmic muscle contraction leading to shaking movements in one or more parts of the body&nbsp;</div>➘➘<div><strong>Vibration sensation</strong>: A buzzing feeling, when you feel like your muscles, fingers, or legs are&nbsp;vibrating&nbsp;or shaking inside, but you don&#39;t see the movement&nbsp;</div>"
+QID410_Choice1,Yes
+QID410_Choice2,No
+QID347_QuestionText,"Which of the following symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span></div><div><span style=""color: rgb(231, 76, 60); font-size: 16px; caret-color: rgb(0, 0, 0);"">Please specify the location on your body in the text box. If multiple locations, please separate them with a comma (i.e. leg, torso, hand).</span><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span><div><br></div></div>"
+QID347_Choice33,Tremors
+QID347_Choice35,Vibrating sensations
+QID348_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID348_Choice33,Tremors
+QID348_Choice55,Vibrating Sensations
+QID348_Answer13,N/A
+QID348_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
+QID348_Answer2,Week 2
+QID348_Answer3,Week 3
+QID348_Answer4,Week 4
+QID348_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID348_Answer6,Month 3
+QID348_Answer7,Month 4
+QID348_Answer8,Month 5
+QID348_Answer9,Month 6
+QID348_Answer12,Month 7
+QID137_QuestionText,Please use this space to describe examples of your tremors or body vibration/shaking during your illness.&nbsp;<div>Please do not include any identifying information (such as name or location).</div>
+QID404_QuestionText,<strong>Sleeping issues</strong>
+QID380_QuestionText,"Have you experienced any <strong>SLEEPING ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""color:#e74c3c;""><strong> *</strong></span>"
+QID380_Choice1,Yes
+QID380_Choice2,No
+QID98_QuestionText,"Which of the following sleeping issues have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID98_Choice1,Lucid dreams (dreams where you are aware you are dreaming or have some control over what you dream about)
+QID98_Choice2,Vivid dreams
+QID98_Choice3,Nightmares
+QID98_Choice4,Insomnia
+QID98_Choice5,Night sweats
+QID98_Choice6,Restless leg syndrome
+QID98_Choice7,Awakened by feeling like you couldn’t breathe
+QID98_Choice8,Sleep apnea
+QID98_Choice9,Other
+QID362_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID362_Choice1,Insomnia
+QID362_Choice9,Sleep apnea
+QID362_Choice10,All the other sleeping symptoms
+QID362_Answer13,N/A
+QID362_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
+QID362_Answer2,Week 2
+QID362_Answer3,Week 3
+QID362_Answer4,Week 4
+QID362_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
+QID362_Answer6,Month 3
+QID362_Answer7,Month 4
+QID362_Answer8,Month 5
+QID362_Answer9,Month 6
+QID362_Answer12,Month 7
+QID99_QuestionText,"If you have/had insomnia, which best describes the type of insomnia?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID99_Choice1,Difficulty falling asleep
+QID99_Choice2,Waking up early in the morning
+QID99_Choice3,Waking up several times during the night
+QID99_Choice4,None of the above
+QID100_QuestionText,"<p>What is causing/caused your insomnia?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p><p></p>"
+QID100_Choice1,Pain
+QID100_Choice2,Sensitivity to outside light/noise
+QID100_Choice3,Other physical discomfort
+QID100_Choice4,Anxiety/depression/racing thoughts
+QID100_Choice5,Difficulty breathing
+QID100_Choice6,A sensation of adrenaline/energy
+QID100_Choice7,A sensation like the virus was keeping me awake
+QID100_Choice8,Other
+QID405_QuestionText,<strong>Hallucinations</strong>
+QID381_QuestionText,"Have you experienced any <strong>HALLUCINATIONS</strong>&nbsp;(visual, hearing, or touch) since the start of your COVID-19 illness?<span style=""color:#e74c3c;""><strong> *</strong></span>"
+QID381_Choice1,Yes
+QID381_Choice2,No
+QID349_QuestionText,"<span class=""qordoba-embed-panel__status""><div>Which of the following hallucinations have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></div><em></em><p><em></em></p></span>"
+QID349_Choice28,Visual (seeing) Hallucinations
+QID349_Choice29,Auditory (hearing) Hallucinations
+QID349_Choice30,Tactile (touch) Hallucinations
+QID349_Choice51,"Hallucinations, other"
+QID350_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID350_Choice28,Hallucinations
+QID350_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
+QID350_Answer2,Week 2
+QID350_Answer3,Week 3
+QID350_Answer4,Week 4
+QID350_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
+QID350_Answer6,Month 3
+QID350_Answer7,Month 4
+QID350_Answer8,Month 5
+QID350_Answer9,Month 6
+QID350_Answer12,Month 7
+QID406_QuestionText,"<strong>Weakness, numbness, tingling, coldness, and other sensations</strong>"
+QID343_QuestionText,"Which of the following <strong>NEUROLOGICAL SENSATION SYMPTOMS</strong>&nbsp;have you experienced since the start of your COVID-19 illness, if any?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*<br />➘<br />➘Please specify the location on your body in the text box. If multiple locations, please separate them with a comma (i.e. hand, leg, foot).</span>"
+QID343_Choice1,"Skin sensations: burning, tingling, or itchiness without rash"
+QID343_Choice2,Numbness/loss of sensation
+QID343_Choice6,Numbness/weakness on one side of the body only
+QID343_Choice9,Coldness
+QID343_Choice14,Tingling/prickling/pins and needles sensation
+QID343_Choice17,Electrical zaps/electrical shock sensation
+QID343_Choice37,Weakness
+QID343_Choice51,"Sensation of facial pressure/numbness, left side"
+QID343_Choice52,"Sensation of facial pressure/numbness, right side"
+QID343_Choice53,"Sensation of facial pressure/numbness, other:"
+QID343_Choice56,Facial paralysis (please indicate where on face was paralyzed)
+QID343_Choice57,None of the above
+QID344_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID344_Choice1,All neurological sensations
+QID344_Answer13,N/A
+QID344_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID344_Answer2,Week 2
+QID344_Answer3,Week 3
+QID344_Answer4,Week 4
+QID344_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID344_Answer6,Month 3
+QID344_Answer7,Month 4
+QID344_Answer8,Month 5
+QID344_Answer9,Month 6
+QID344_Answer12,Month 7
+QID407_QuestionText,<strong>Temperature Issues</strong>
+QID397_QuestionText,"Have you experienced any <strong>TEMPERATURE ISSUES</strong>&nbsp;(including heat intolerance, chills, high/low temperature) since the start of your COVID-19 illness?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
+QID397_Choice1,Yes
+QID397_Choice2,No
+QID102_QuestionText,"Did you experience any of the following <strong>TEMPERATURE ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID102_Choice4,Temperature lability (quick swings in and out of fever or elevated temperature)
+QID102_Choice5,Heat intolerance
+QID102_Choice6,Other temperature issues (not listed above or below)
+QID359_QuestionText,"If you experienced any of the following temperature issues, when did you experience the following symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID359_Choice1,Chills/flushing/sweats
+QID359_Choice8,All other temperature issues
+QID359_Choice10,"Elevated temperature (98.8-100.4 degrees Fahrenheit, 37.1-37.9 Celsius)"
+QID359_Choice11,Fever (100.4 degrees Fahrenheit / 38 degrees Celsius or above)
+QID359_Choice12,Low temperature
+QID359_Answer13,N/A
+QID359_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID359_Answer2,Week 2
+QID359_Answer3,Week 3
+QID359_Answer4,Week 4
+QID359_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID359_Answer6,Month 3
+QID359_Answer7,Month 4
+QID359_Answer8,Month 5
+QID359_Answer9,Month 6
+QID359_Answer12,Month 7
+QID103_QuestionText,"If you had a low temperature, what was your lowest temperature? Please input number only."
+QID104_QuestionText,"If you had a high temperature, what was your highest temperature? Please input number only."
+QID433_QuestionText,"<span style=""font-size: 19px;"">Cardiovascular Symptoms</span>"
+QID369_QuestionText,"<div>When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>, even if you have only experienced these symptoms for part of a week or month.</div></div><div>➘</div>"
+QID369_Choice1,"Tachycardia (high heart rate, >90 beats per minute)"
+QID369_Choice8,"Bradycardia (low heart rate, <60 beats per minute)"
+QID369_Choice9,"Heart palpitations (sensation or awareness of your heart beating. Feeling like your heart is racing, thumping or skipping beats)"
+QID369_Choice10,Abnormally high blood pressure
+QID369_Choice11,Abnormally low blood pressure
+QID369_Choice12,Visibly inflamed/bulging veins
+QID369_Choice13,Fainting
+QID369_Choice14,Blood clots (Thrombosis)
+QID369_Answer13,N/A
+QID369_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
+QID369_Answer2,Week 2
+QID369_Answer3,Week 3
+QID369_Answer4,Week 4
+QID369_Answer5,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Month 2</span></span></strong>"
+QID369_Answer6,Month 3
+QID369_Answer7,Month 4
+QID369_Answer8,Month 5
+QID369_Answer9,Month 6
+QID369_Answer12,Month 7
+QID119_QuestionText,"If you had tachycardia and were able to measure it, what was the maximum heart rate (in bpm) that you measured, <strong><span style=""font-size:16px;"">at rest</span></strong><span style=""font-size:16px;"">?</span>"
+QID260_QuestionText,"If you had tachycardia and were able to measure it, what was the maximum heart rate (in bpm) that you measured, <strong><span style=""font-size:16px;"">at exertion </span></strong><span style=""font-size:16px;"">(during physical activity)?</span>"
+QID120_QuestionText,"If you had tachycardia and were able to measure it, was your heart rate higher when standing compared to sitting?&nbsp;"
+QID120_Choice1,"Yes, it was higher when I was standing"
+QID120_Choice2,"No, it was higher when I was sitting"
+QID120_Choice3,It was about the same while standing or sitting
+QID121_QuestionText,"If you had tachycardia and were able to measure it, how much did your heart rate generally change from lying position to standing, last time you measured? (In BPM, beats per minute)"
+QID443_QuestionText,"<div>This section has multiple groups of questions about multiple symptoms/issues organized by body area (<b>Generic Issues, Gastrointestinal issues, Respiratory and sinus symptoms, ear/hearing symptoms, eye symptoms, Reproductive and urinary symptoms, skin and allergy symptoms, and muscle and joint issues</b>)</div><div><br></div>Did you experience these symptoms, and when did you experience them?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it. <b>If you experienced none of the symptoms in a set, select the checkbox (None of the below issues apply to me) above the grouped set.&nbsp;</b></div></div>"
+QID434_QuestionText,<strong>Generic Issues</strong>
+QID434_Choice1,None of the below generic symptoms apply to me
+QID394_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID394_Choice1,Dizziness / vertigo / unsteadiness or balance issues
+QID394_Choice52,Neuralgia (nerve pain)
+QID394_Choice53,Seizures (confirmed)
+QID394_Choice54,Seizures (suspected)
+QID394_Choice55,Episodes of breathing difficulty/gasping for air when your oxygen saturation is normal
+QID394_Choice56,Low oxygen levels (<94%)
+QID394_Choice57,New/unexpected anaphylaxis reaction
+QID394_Choice58,Acute (sudden) confusion/disorientation
+QID394_Choice59,Slurring words/speech
+QID394_Choice60,High blood sugar (if measured)
+QID394_Choice61,Low blood sugar (if measured)
+QID394_Answer13,N/A
+QID394_Answer1,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
+QID394_Answer2,Week 2
+QID394_Answer3,Week 3
+QID394_Answer4,Week 4
+QID394_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
+QID394_Answer6,Month 3
+QID394_Answer7,Month 4
+QID394_Answer8,Month 5
+QID394_Answer9,Month 6
+QID394_Answer12,Month 7
+QID436_QuestionText,<p><strong>Gastrointestinal Issues</strong></p>
+QID436_Choice1,None of the below gastrointestinal symptoms apply to me
+QID414_QuestionText,Gastrointestinal Issues
+QID414_Choice1,Abdominal pain
+QID414_Choice10,Constipation
+QID414_Choice11,Diarrhea
+QID414_Choice12,Vomiting
+QID414_Choice13,Nausea
+QID414_Choice14,Loss of Appetite
+QID414_Choice15,Lower Esophagus Burning / gastroesophageal reflux / acid reflux
+QID414_Answer13,N/A
+QID414_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID414_Answer2,Week 2
+QID414_Answer3,Week 3
+QID414_Answer4,Week 4
+QID414_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID414_Answer6,Month 3
+QID414_Answer7,Month 4
+QID414_Answer8,Month 5
+QID414_Answer9,Month 6
+QID414_Answer12,Month 7
+QID437_QuestionText,<strong>Respiratory and Sinus Symptoms</strong>
+QID437_Choice1,None of the below respiratory and sinus symptoms apply to me
+QID114_QuestionText,Respiratory and Sinus Symptoms
+QID114_Choice1,Dry cough
+QID114_Choice2,Cough with mucus production
+QID114_Choice3,Coughing up Blood
+QID114_Choice4,Shortness of Breath
+QID114_Choice5,Tightness of Chest
+QID114_Choice6,Sneezing
+QID114_Choice7,Runny nose
+QID114_Choice8,Pain/burning in chest
+QID114_Choice9,Rattling of breath
+QID114_Choice10,Sore Throat
+QID114_Choice11,Other
+QID114_Answer22,N/A
+QID114_Answer12,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
+QID114_Answer13,Week 2
+QID114_Answer14,Week 3
+QID114_Answer15,Week 4
+QID114_Answer16,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID114_Answer17,Month 3
+QID114_Answer18,Month 4
+QID114_Answer19,Month 5
+QID114_Answer20,Month 6
+QID114_Answer21,Month 7
+QID438_QuestionText,<b>Ear and Hearing Symptoms</b>
+QID438_Choice1,None of the below ear and hearing symptoms apply to me
+QID396_QuestionText,Ear and Hearing Symptoms
+QID396_Choice1,Hearing loss
+QID396_Choice52,Tinnitus
+QID396_Choice58,Other ear/hearing issues
+QID396_Answer13,N/A
+QID396_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID396_Answer2,Week 2
+QID396_Answer3,Week 3
+QID396_Answer4,Week 4
+QID396_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID396_Answer6,Month 3
+QID396_Answer7,Month 4
+QID396_Answer8,Month 5
+QID396_Answer9,Month 6
+QID396_Answer12,Month 7
+QID439_QuestionText,<b>Eye and Vision Symptoms</b>
+QID439_Choice1,None of the below eye and vision symptoms apply to me
+QID361_QuestionText,Eye and Vision Symptoms
+QID361_Choice1,Vision symptoms
+QID361_Choice20,Other eye symptoms
+QID361_Answer13,N/A
+QID361_Answer1,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
+QID361_Answer2,Week 2
+QID361_Answer3,Week 3
+QID361_Answer4,Week 4
+QID361_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
+QID361_Answer6,Month 3
+QID361_Answer7,Month 4
+QID361_Answer8,Month 5
+QID361_Answer9,Month 6
+QID361_Answer12,Month 7
+QID440_QuestionText,<b>Reproductive and Urinary Symptoms</b>
+QID440_Choice1,None of the below reproductive and urinary symptoms apply to me
+QID353_QuestionText,Reproductive and Urinary Symptoms
+QID353_Choice60,All menstrual/period issues
+QID353_Choice61,Bladder control issues
+QID353_Answer13,N/A
+QID353_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID353_Answer2,Week 2
+QID353_Answer3,Week 3
+QID353_Answer4,Week 4
+QID353_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID353_Answer6,Month 3
+QID353_Answer7,Month 4
+QID353_Answer8,Month 5
+QID353_Answer9,Month 6
+QID353_Answer12,Month 7
+QID441_QuestionText,<b>Skin and Allergy Symptoms</b>
+QID441_Choice1,None of the below skin and allergy symptoms apply to me
+QID367_QuestionText,Skin and Allergy Symptoms
+QID367_Choice7,Peeling skin
+QID367_Choice27,"Petechiae (tiny purple, red, or brown spots on the skin, usually on arms, legs, stomach, buttocks, and occasionally inside mouth or on eyelids)"
+QID367_Choice32,"COVID toes (discoloration, swelling, painful, or blistering toes)"
+QID367_Choice33,Dermatographia (writing on your skin causes red lines where you scratched)
+QID367_Choice34,"New allergies (food, chemical, environmental, etc)"
+QID367_Choice35,Other
+QID367_Choice36,Skin rashes
+QID367_Answer13,N/A
+QID367_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID367_Answer2,Week 2
+QID367_Answer3,Week 3
+QID367_Answer4,Week 4
+QID367_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID367_Answer6,Month 3
+QID367_Answer7,Month 4
+QID367_Answer8,Month 5
+QID367_Answer9,Month 6
+QID367_Answer12,Month 7
+QID442_QuestionText,<b>Muscle and Joint issues</b>
+QID442_Choice1,None of the below muscle and joint symptoms apply to me
+QID356_QuestionText,Muscle and Joint issues
+QID356_Choice2,Muscle spasms
+QID356_Choice23,Muscle aches
+QID356_Choice24,Joint pain
+QID356_Choice25,Bone ache or burning
+QID356_Answer13,N/A
+QID356_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID356_Answer2,Week 2
+QID356_Answer3,Week 3
+QID356_Answer4,Week 4
+QID356_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID356_Answer6,Month 3
+QID356_Answer7,Month 4
+QID356_Answer8,Month 5
+QID356_Answer9,Month 6
+QID356_Answer12,Month 7
+QID377_QuestionText,"<span style=""font-weight: bolder;"">All Other Symptoms</span><div><b><br></b>Have you experienced any of these symptoms since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Please choose all options that&nbsp;apply)</div></div>"
+QID377_Choice42,Inability to cry
+QID377_Choice49,Lump in throat/difficulty swallowing
+QID377_Choice50,Changes in the voice
+QID377_Choice52,Inability to yawn
+QID377_Choice56,Coughing up Blood
+QID377_Choice57,None of the above
+QID377_Choice58,Feeling like you aren’t real/like you’re observing yourself from outside your body (depersonalization)
+QID377_Choice59,Feeling like the world isn’t real (derealization)
+QID377_Choice60,Extreme thirst
+QID360_QuestionText,<b>Ear and Hearing</b>
+QID360_Choice1,Other ear/hearing symptoms
+QID360_Choice8,Ear pain
+QID360_Choice12,"Changes to the ear canal (such as pressure, blockage, burning, swelling)"
+QID360_Choice13,Numbness/loss of sensation
+QID360_Choice14,None of the above
+QID360_Choice15,Sensitivity to noise
+QID96_QuestionText,<b>Eye and Vision</b>
+QID96_Choice1,Vision symptoms - Blurred vision
+QID96_Choice2,Vision symptoms - Double vision
+QID96_Choice3,Vision symptoms - Sensitivity to light
+QID96_Choice4,Vision symptoms - Tunnel vision
+QID96_Choice5,Vision symptoms - Total loss of vision
+QID96_Choice6,Eye pressure or pain
+QID96_Choice7,Pink eye (conjunctivitis)
+QID96_Choice8,Bloodshot eyes
+QID96_Choice9,Redness on the outside of eyes
+QID96_Choice10,Floaters
+QID96_Choice11,Seeing things in your peripheral vision
+QID96_Choice12,Other eye issues:
+QID96_Choice13,Dry eyes
+QID96_Choice14,None of the above
+QID352_QuestionText,<b>Reproductive and Urinary</b>
+QID352_Choice7,Early Menopause
+QID352_Choice8,Abnormally heavy periods/clotting
+QID352_Choice31,Decrease in size of testicles/penis
+QID352_Choice47,"Sexual dysfunction (difficulty maintaining erection, vaginal dryness, difficulty orgasming)"
+QID352_Choice51,Post-Menopausal bleeding/spotting
+QID352_Choice52,"Urinary issues, other"
+QID352_Choice53,Pain in testicles
+QID352_Choice54,Other semen/penis/testicles issues
+QID352_Choice55,Other menstrual issues
+QID352_Choice56,Abnormally irregular periods
+QID352_Choice57,None of the above
+QID116_QuestionText,<b>Gastrointestinal</b>
+QID116_Choice6,Feeling full quickly when eating
+QID116_Choice7,Abdominal pain
+QID116_Choice8,Hyperactive bowel sensations
+QID116_Choice11,None of the above
+QID366_QuestionText,<b>Skin and Allergy</b>
+QID366_Choice22,"New allergies (food, chemical, environmental, etc)"
+QID366_Choice23,Heightened reaction to old allergies
+QID366_Choice24,Itchy skin
+QID366_Choice25,Itchy eyes
+QID366_Choice26,"Itchy, other"
+QID366_Choice32,Brittle/discolored nail
+QID366_Choice34,None of the above
+QID366_Choice35,Shingles
+QID147_QuestionText,"How severe were/are your symptoms over the course of the <span style=""color:#c0392b;"">weeks</span>/<span style=""color:#c0392b;"">months</span>?&nbsp;<span style=""color:#c0392b;"">*</span>➘<div>&nbsp;➘<div>If you experienced multiple severities for symptoms within the time period, select the most severe within that time period.</div>➘</div>"
+QID147_Choice1,Week 1
+QID147_Choice2,Week 2
+QID147_Choice3,Week 3
+QID147_Choice4,Week 4
+QID147_Choice5,Month 2
+QID147_Choice6,Month 3
+QID147_Choice7,Month 4
+QID147_Choice8,Month 5
+QID147_Choice9,Month 6
+QID147_Choice18,Month 7+
+QID147_Answer1,No symptom
+QID147_Answer2,Very Mild
+QID147_Answer3,Mild
+QID147_Answer4,Moderate
+QID147_Answer13,Severe
+QID147_Answer14,Very Severe
+QID429_QuestionText,"Which of these descriptions appropriately describes your experience with relapses, and your symptom course overall? Please select all that apply:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID429_Choice1,I don't experience relapses/have not yet experienced relapses.
+QID429_Choice12,"Overall, my symptoms have slowly gotten better over time."
+QID429_Choice13,"Overall, my symptoms have stayed about the same over time."
+QID429_Choice14,"Overall, my symptoms have slowly worsened over time."
+QID429_Choice15,I got worse rapidly.
+QID429_Choice16,"My relapses happen in a regular pattern (monthly, daily, or weekly)."
+QID429_Choice17,My relapses happen in an irregular pattern (randomly).
+QID429_Choice18,"My relapses happen in response to a trigger (stress, alcohol, exercise/exertion, etc)."
+QID429_Choice19,I got better rapidly.
+QID429_Choice20,My relapses are getting shorter/easier over time.
+QID429_Choice21,My relapses are getting longer/harder over time.
+QID429_Choice22,My relapse severity has stayed about the same over time.
+QID429_Choice23,Other
+QID450_QuestionText,"Which of these trigger a relapse or worsening of symptoms? Please select all that apply:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID450_Choice1,Stress
+QID450_Choice24,Alcohol
+QID450_Choice25,Caffeine
+QID450_Choice26,Heat
+QID450_Choice27,Period/menstruation
+QID450_Choice28,Week before period/menstruation
+QID450_Choice29,Other
+QID450_Choice30,Exercise
+QID450_Choice31,Physical activity
+QID450_Choice32,Mental activity
+QID430_QuestionText,"How would you rate how you feel today, on a scale of 0-100% (with 100% being your pre-COVID baseline)?➘&nbsp;"
+QID430_Choice1,%
+QID271_QuestionText,"List at least&nbsp;<b>three symptoms</b> that have been the most debilitating during recovery.<div>On a scale of 0-10, how severe have they been? (0 is completely fine, 10 is completely debilitating).&nbsp;</div><div><div><br></div></div>"
+QID271_Choice4,"Symptom 1<span style=""color:#e74c3c;""> *</span>"
+QID271_Choice5,"Symptom 2<span style=""color:#e74c3c;""> *</span>"
+QID271_Choice6,"Symptom 3<span style=""color:#e74c3c;""> *</span>"
+QID271_Choice7,Symptom 4
+QID271_Choice8,Symptom 5
+QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Worsening or relapse of symptoms after physical and/or mental activity</i></div></div>
+QID253_QuestionText,"During your COVID-19 recovery, have you experienced any worsening or relapse of your symptoms after physical activity or mental activity?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID253_Choice23,Yes
+QID253_Choice24,No
+QID280_QuestionText,"How strongly have you experienced worsening/relapse of your symptoms, on average? Please keep the slider at 0 if you did not experience this.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID280_Choice1,Physical
+QID280_Choice2,Cognitive
+QID280_Label1,No post-exertional malaise
+QID280_Label2,Some post-exertional malaise
+QID280_Label3,Strong post-exersional malaise
+QID314_QuestionText,"<p>If you have experienced worsening or a relapse after&nbsp;<span style=""font-weight: bolder;"">Physical</span>&nbsp;Activity, when does the worsening/relapse of symptoms happen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
+QID314_Choice1,Immediately
+QID314_Choice2,"The same day, after a few hours"
+QID314_Choice3,The following day
+QID314_Choice4,A couple of days later
+QID314_Choice5,I do not experience worsening/relapse of symptoms after Physical Activity
+QID314_Choice6,It varies
+QID319_QuestionText,"<p>If you have experienced worsening or a relapse after&nbsp;<span style=""font-weight: bolder;"">Mental</span>&nbsp;Activity, when does the worsening/relapse of symptoms happen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
+QID319_Choice1,Immediately
+QID319_Choice2,"The same day, after a few hours"
+QID319_Choice3,The following day
+QID319_Choice4,A couple of days later
+QID319_Choice5,I do not experience worsening/relapse of symptoms after Mental Activity
+QID319_Choice6,It varies
+QID315_QuestionText,"How long does the worsening/relapse of symptoms usually last following Physical or Mental Activity?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID315_Choice1,Few hours
+QID315_Choice2,Few days
+QID315_Choice3,Few weeks
+QID315_Choice4,Other
+QID322_QuestionText,"(Optional) Please explain anything else you'd like to share about your experience with Post-Exertional Malaise. For instance, you can list the type of activities that worsens your symptoms strongest (walking, strenuous exercise, reading, watching movies, etc)."
+QID342_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID342_Choice1,Worsening/relapses of symptoms from physical and mental exertion
+QID342_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID342_Answer2,Week 2
+QID342_Answer4,Week 3
+QID342_Answer5,Week 4
+QID342_Answer6,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID342_Answer7,Month 3
+QID342_Answer8,Month 4
+QID342_Answer9,Month 5
+QID342_Answer10,Month 6
+QID342_Answer11,Month 7
+QID321_QuestionText,<b>Fatigue</b>
+QID146_QuestionText,"The following ten statements refer to how you feel at the <strong>current</strong> stage of your COVID-19&nbsp;recovery (over the past week).&nbsp;<strong>Please give an answer to each question, even if you do not have any complaints at the moment.&nbsp;<span style=""color:#c0392b;"">*</span>&nbsp;</strong>"
+QID146_Choice1,I am bothered by fatigue
+QID146_Choice2,I get tired very quickly
+QID146_Choice3,I don't do much during the day
+QID146_Choice4,I have enough energy for everyday life
+QID146_Choice5,"Physically, I feel exhausted"
+QID146_Choice6,I have problems starting things
+QID146_Choice7,I have problems thinking clearly
+QID146_Choice8,I feel no desire to do anything
+QID146_Choice9,"Mentally, I feel exhausted"
+QID146_Choice10,"When I am doing something, I can concentrate quite well"
+QID146_Answer1,Never
+QID146_Answer2,Sometimes
+QID146_Answer3,Regularly
+QID146_Answer4,Often
+QID146_Answer5,Always
+QID313_QuestionText,"Compared to how you felt before contracting COVID-19, how would you describe your level of fatigue <strong>during</strong> COVID recovery?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*&nbsp;</span>"
+QID313_Choice1,Significantly more than pre-COVID
+QID313_Choice2,Moderately more than pre-COVID
+QID313_Choice3,Slightly more than pre-COVID
+QID313_Choice4,Same as pre-COVID
+QID313_Choice5,Less than pre-COVID
+QID276_QuestionText,"How much DAILY rest are/were you able to get on average, DURING your COVID-19 recovery? (Rest means time recovering/relaxing without work, childcare, or other obligations).&nbsp;<span style=""color: rgb(231, 76, 60);"">Please do not include your daily sleep, or naps.&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID276_Choice1,less than 2hrs per day
+QID276_Choice2,2-4hrs
+QID276_Choice3,4-6hrs
+QID276_Choice4,6-8hrs
+QID276_Choice5,more than 8 hours per day
+QID422_QuestionText,"If you experienced fatigue, when did you feel fatigue?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
+QID422_Choice1,Fatigue
+QID422_Answer13,N/A
+QID422_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+QID422_Answer2,Week 2
+QID422_Answer4,Week 3
+QID422_Answer5,Week 4
+QID422_Answer6,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
+QID422_Answer7,Month 3
+QID422_Answer8,Month 4
+QID422_Answer9,Month 5
+QID422_Answer10,Month 6
+QID422_Answer11,Month 7
+QID245_QuestionText,<b>Changes in Sensitivity to Medication or Other Substances</b>
+QID109_QuestionText,"Did you experience issues with changes in sensitivity to medication or other substances?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID109_Choice1,Yes
+QID109_Choice2,No
+QID110_QuestionText,"What medication(s) or substance(s)? If multiple, please separate with a comma."
+QID111_QuestionText,"If medication, what do you take this for?&nbsp;"
+QID112_QuestionText,Please describe the changes you noticed:
+QID140_QuestionText,"In general, would you say your health BEFORE the onset of COVID was:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID140_Choice1,Excellent
+QID140_Choice2,Very good
+QID140_Choice3,Good
+QID140_Choice4,Fair
+QID140_Choice5,Poor
+QID141_QuestionText,"In general, would you say your health CURRENTLY is:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID141_Choice1,Excellent
+QID141_Choice2,Very good
+QID141_Choice3,Good
+QID141_Choice4,Fair
+QID141_Choice5,Poor
+QID143_QuestionText,"Does your health currently limit your ability to climb several flights of stairs?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID143_Choice1,"Yes, limited a lot"
+QID143_Choice2,"Yes, limited a little"
+QID143_Choice3,"No, not limited at all"
+QID419_QuestionText,"Does your health currently limit your ability to walk one block?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID419_Choice1,"Yes, limited a lot"
+QID419_Choice2,"Yes, limited a little"
+QID419_Choice3,"No, not limited at all"
+QID420_QuestionText,"Does your health currently limit your ability to bathe or dress yourself?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID420_Choice1,"Yes, limited a lot"
+QID420_Choice2,"Yes, limited a little"
+QID420_Choice3,"No, not limited at all"
+QID144_QuestionText,"During the last 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your <strong>physical health</strong>? (check all that apply)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID144_Choice1,Accomplished less than you would like
+QID144_Choice2,Were limited in the kind of work or other activities
+QID144_Choice3,Not limited
+QID145_QuestionText,"During the last 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your <strong>emotional health</strong>? (check all that apply)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID145_Choice1,Accomplished less than you would like
+QID145_Choice2,Were limited in the kind of work or other activities
+QID145_Choice3,Not limited
+QID150_QuestionText,"<div><strong>Mental Health Symptoms</strong><br />➘<em>You may choose not to answer any of questions.</em></div>➘➘<div>&nbsp;</div>➘➘<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">If you are having&nbsp;suicidal&nbsp;thoughts, these free helplines are available 24/7 to offer support:</span></span></strong>➘➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>US</b>:&nbsp;1-800-273-8255 (Crisis Text Line: text TALK to 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Netherlands</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />➘Find </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>additional crisis lines</u></span></a><span style=""color:#744210;""> for your country</span></span></div>➘</div>"
+QID151_QuestionText,"Have you ever (before COVID-19 symptoms) been diagnosed with a mental health condition (e.g. depression, anxiety, panic disorder, psychosis, etc.)?"
+QID151_Choice1,Yes
+QID151_Choice2,No
+QID152_QuestionText,Do you believe you have or have had a mental health condition that has not been diagnosed?
+QID152_Choice1,Yes
+QID152_Choice2,No
+QID153_QuestionText,"If you answered yes to either question above, Which of the following have you experienced? (check all that apply)"
+QID153_Choice1,Depression
+QID153_Choice2,Bipolar Disorder
+QID153_Choice4,Anxiety Disorder
+QID153_Choice5,Substance Use Disorder
+QID153_Choice6,Eating Disorder
+QID153_Choice7,Personality Disorder
+QID153_Choice8,Psychotic Disorder
+QID153_Choice9,Delirium
+QID153_Choice10,Other
+QID153_Choice11,Post-traumatic stress disorder (PTSD)
+QID154_QuestionText,"For each condition that apply to you, please specify:"
+QID154_Choice29,Depression
+QID154_Choice30,Bipolar Disorder
+QID154_Choice32,Anxiety Disorder
+QID154_Choice33,Substance Use Disorder
+QID154_Choice34,Eating Disorder
+QID154_Choice35,Personality Disorder
+QID154_Choice36,Psychotic Disorder
+QID154_Choice37,Delirium
+QID154_Choice39,Post-traumatic stress disorder (PTSD)
+QID154_Choice40,Other
+QID154_Answer1,N/A
+QID154_Answer2,No change during COVID-19
+QID154_Answer3,Onset during COVID-19
+QID154_Answer4,Significant worsening during COVID-19
+QID154_Answer5,Moderate worsening during COVID-19
+QID154_Answer6,Moderate improvement during COVID-19
+QID154_Answer7,Significant improvement during COVID-19
+QID155_QuestionText,Optionally describe how the conditions felt or affected you during COVID-19.
+QID156_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
+QID156_Choice1,Little interest or pleasure in doing things
+QID156_Choice2,"Feeling down, depressed, or hopeless"
+QID156_Choice3,"Trouble falling/staying asleep, sleeping too much"
+QID156_Choice4,Feeling tired or having little energy
+QID156_Choice5,Feeling bad about yourself or that you are a failure or have let yourself or your family down
+QID156_Choice6,Moving or speaking so slowly that other people could have noticed. Or the opposite; being so fidgety or restless that you have been moving around a lot more than usual.
+QID156_Choice7,Thoughts that you would be better off dead or of hurting yourself in some way.
+QID156_Answer1,Not at all
+QID156_Answer2,Several Days
+QID156_Answer3,More Than Half the Days
+QID156_Answer4,Nearly Every day
+QID157_QuestionText,"If you checked off any of the above problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
+QID157_Choice1,Not difficult at all
+QID157_Choice2,Somewhat difficult
+QID157_Choice3,Very difficult
+QID157_Choice4,Extremely difficult
+QID158_QuestionText,"(Optional) If desired, please share more about your experience."
+QID160_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
+QID160_Choice1,"Feeling nervous, anxious, or on edge"
+QID160_Choice2,Not being able to stop or control worrying
+QID160_Choice3,Worrying too much about different things
+QID160_Choice4,Trouble relaxing
+QID160_Choice5,Being so restless that it is hard to sit still
+QID160_Choice6,Becoming easily annoyed or irritable
+QID160_Choice7,Feeling afraid as if something awful might happen
+QID160_Answer1,Not at all
+QID160_Answer2,Several Days
+QID160_Answer3,More Than Half the Days
+QID160_Answer4,Nearly Every day
+QID161_QuestionText,"If you checked off any of the above problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
+QID161_Choice1,Not difficult at all
+QID161_Choice2,Somewhat difficult
+QID161_Choice3,Very difficult
+QID161_Choice5,Extremely difficult
+QID162_QuestionText,"(Optional) If desired, please share more about your experience."
+QID163_QuestionText,"<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">If you are having&nbsp;suicidal&nbsp;thoughts, these free helplines are available 24/7 to offer support:</span></span></strong>➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>US</b>:&nbsp;1-800-273-8255 (Crisis Text Line: text TALK to 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Netherlands</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />➘Find </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>additional crisis lines</u></span></a><span style=""color:#744210;""> for your country</span></span></div>➘</div>➘<br />➘At any time during the COVID-19 pandemic, have you ever:"
+QID163_Choice1,Wished you were dead or wished you could go to sleep and not wake up
+QID163_Choice2,Had thoughts of killing yourself
+QID163_Choice3,Had thoughts of harming yourself
+QID163_Choice4,Done anything to harm yourself
+QID163_Choice5,Other
+QID163_Choice6,I did not have any suicidal thoughts
+QID164_QuestionText,Have you been taking prescribed psychiatric medication while in recovery?
+QID164_Choice4,Yes
+QID164_Choice5,No
+QID165_QuestionText,"At any time during the COVID-19 pandemic, were there changes to your psychiatric medication?"
+QID165_Choice1,"Yes, a dose adjustment was made to my prior medication"
+QID165_Choice2,"Yes, new medications were prescribed to me"
+QID165_Choice3,"No, I continued taking medication at the prior dose"
+QID165_Choice4,"No, I have not required psychiatric medication"
+QID166_QuestionText,"If you were prescribed NEW medications, what were they?"
+QID166_Choice23,Antidepressant (Not Bupropion)
+QID166_Choice24,Benzodiazepine (anti-anxiety medication)
+QID166_Choice25,Antipsychotic
+QID166_Choice26,"Z-drug for insomnia (e.g. zolpidem, zopiclone, zaleplon)"
+QID166_Choice27,Melatonin for insomnia
+QID166_Choice28,"Mood stabilizer (e.g. lithium, valproic acid, topiramate, etc)"
+QID166_Choice29,Stimulant
+QID166_Choice30,Other
+QID166_Choice31,Wellbutrin (Bupropion)
+QID264_QuestionText,"Have you been taking any of these medications, please indicate how they affected your condition. (Answer any that apply)"
+QID264_Choice1,"Antidepressant (SSRI/SNRI/Wellbutrin, etc.)"
+QID264_Choice2,Benzodiazepine (anti-anxiety medication)
+QID264_Choice3,Antipsychotic
+QID264_Choice4,"Z-drug for insomnia (e.g. zolpidem, zopiclone, zaleplon)"
+QID264_Choice5,Melatonin for insomnia
+QID264_Choice6,"Mood stabilizer (e.g. lithium, valproic acid, topiramate, etc)"
+QID264_Choice7,Stimulant
+QID264_Choice8,Other
+QID264_Answer15,Much better
+QID264_Answer16,Moderately better
+QID264_Answer17,Slightly better
+QID264_Answer18,About the same
+QID264_Answer19,Slightly worse
+QID264_Answer20,Moderately worse
+QID264_Answer21,Much worse
+QID167_QuestionText,"If you required psychiatric treatment during COVID-19, please check all that apply:"
+QID167_Choice1,I received treatment from my primary care provider / GP
+QID167_Choice2,I received treatment from my prior mental health practitioner
+QID167_Choice3,I received treatment from a new mental health practitioner
+QID167_Choice4,I was unable to obtain the treatment that I needed
+QID168_QuestionText,"If you were not able to get psychiatric treatment, which of the following factored into the inability to receive care?"
+QID168_Choice1,Cost
+QID168_Choice2,Access to a device compatible with tele-health
+QID168_Choice3,Preferred provider does not take my insurance
+QID168_Choice4,Preferred provider does not see patients via telehealth
+QID168_Choice5,Other
+QID169_QuestionText,What wellbeing activities have you done/participated in to help you cope? (check all that apply)
+QID169_Choice1,Online COVID-19 specific support groups/communities
+QID169_Choice2,Online non-COVID-19 specific support groups/communities
+QID169_Choice3,Therapy
+QID169_Choice4,Yoga
+QID169_Choice5,Aerobic exercise
+QID169_Choice6,Meditation
+QID169_Choice7,None of the above
+QID170_QuestionText,"If you have joined an online COVID-19 community, what is the effect of participation on your psychological wellbeing?"
+QID170_Choice1,Significantly improved my psychological wellbeing
+QID170_Choice2,Moderately improved my psychological wellbeing
+QID170_Choice3,Had no effect on my psychological wellbeing
+QID170_Choice4,Moderately worsened my psychological wellbeing
+QID170_Choice5,Significantly worsened my psychological wellbeing
+QID279_QuestionText,"Do you agree with this statement? ""I was not believed by one or more of my physicians"""
+QID279_Choice4,Strongly agree
+QID279_Choice5,Agree
+QID279_Choice6,Somewhat agree
+QID279_Choice7,Neither agree nor disagree
+QID279_Choice8,Somewhat disagree
+QID279_Choice9,Disagree
+QID279_Choice10,Strongly disagree
+QID171_QuestionText,(Optional) Describe how participation in online communities affect your wellbeing.
+QID172_QuestionText,Being physically secluded from others has:
+QID172_Choice1,Had a strong negative impact on my mental wellbeing
+QID172_Choice2,Had a negative impact on my mental wellbeing
+QID172_Choice3,Had no impact on my mental wellbeing
+QID172_Choice4,Had a positive impact on my mental wellbeing
+QID172_Choice5,Had a strong positive impact on my mental wellbeing
+QID172_Choice6,I have not been physically secluded from others
+QID173_QuestionText,(Optional) Rate the below 28 statements about methods of coping
+QID173_Choice1,I’ve been turning to work or other activities to take my mind off things
+QID173_Choice2,I’ve been concentrating my efforts on doing something about the situation I’m in
+QID173_Choice3,I’ve been saying to myself “this isn’t real”
+QID173_Choice4,I’ve been using alcohol or other drugs to make myself feel better
+QID173_Choice5,I’ve been getting emotional support from others
+QID173_Choice6,I’ve been giving up trying to deal with it
+QID173_Choice7,I’ve been taking action to try to make the situation better
+QID173_Choice8,I’ve been refusing to believe that it has happened
+QID173_Choice9,I’ve been saying things to let my unpleasant feelings escape
+QID173_Choice10,I’ve been getting help and advice from other people
+QID173_Choice12,"I’ve been trying to see it in a different light, to make it seem more positive"
+QID173_Choice13,I’ve been criticizing myself
+QID173_Choice14,I’ve been trying to come up with a strategy about what to do
+QID173_Choice15,I’ve been getting comfort and understanding from someone
+QID173_Choice16,I’ve been giving up the attempt to cope
+QID173_Choice17,I’ve been looking for something good in what is happening
+QID173_Choice18,I’ve been making jokes about it
+QID173_Choice19,"I’ve been doing something to think about it less, such as going to movies, watching TV, reading, daydreaming, sleeping, or shopping"
+QID173_Choice20,I’ve been accepting the reality of the fact that it has happened
+QID173_Choice21,I’ve been expressing my negative feelings
+QID173_Choice22,I've been trying to find comfort in my religion or spiritual beliefs
+QID173_Choice23,I’ve been trying to get advice or help from other people about what to do
+QID173_Choice24,I've been learning to live with it
+QID173_Choice25,I've been thinking hard about what steps to take
+QID173_Choice26,I’ve been blaming myself for things that happened
+QID173_Choice27,I've been praying or meditating
+QID173_Choice28,I've been making fun of the situation
+QID173_Answer1,I haven’t been doing this at all
+QID173_Answer2,A little bit
+QID173_Answer3,A medium amount
+QID173_Answer4,I’ve been doing this a lot
+QID175_QuestionText,Anything else you'd like to share regarding coping.
+QID176_QuestionText,How would you describe the support or lack of support from the following people during your illness?
+QID176_Choice1,Medical Providers
+QID176_Choice2,Friends
+QID176_Choice3,Spouse / Partner
+QID176_Choice4,Employer
+QID176_Choice5,Other
+QID176_Choice6,Family (not Spouse/Partner)
+QID176_Answer1,Harmful
+QID176_Answer2,Dismissive
+QID176_Answer4,Skeptical
+QID176_Answer5,Apathetic
+QID176_Answer10,Slightly concerned
+QID176_Answer11,Supportive
+QID176_Answer12,Actively engaged in support
+QID176_Answer13,N/A
+QID182_QuestionText,"(Optional) If you'd like, feel free to share your experience of the support or lack of support of people during your illness."
+QID183_QuestionText,"While you have been ill, which of these scenarios matched your experience?"
+QID183_Choice1,I lived alone and felt well-equipped to take care of myself
+QID183_Choice2,I lived alone and needed more help than I could get
+QID183_Choice3,I lived with someone and they took care of me well
+QID183_Choice4,I lived with someone and needed more help than I could get
+QID183_Choice5,Other
+QID184_QuestionText,"If you were isolating, either in a space within the same house or in a different house, which of these scenarios matched your experienced best?<br>➘<br>➘Please consider '<span style=""color:#e74c3c;"">reunited</span>' to mean you began living with others again, not just visiting/socializing with others."
+QID184_Choice1,I was not isolating/I have been living with others throughout my illness.
+QID184_Choice2,I reunited with others at some point during weeks 1-3 and they did not get infected
+QID184_Choice3,I reunited with others at some point during weeks 4-6 and they got infected
+QID184_Choice4,I reunited with others at some point during weeks 4-6 and they did not get infected
+QID184_Choice5,I reunited with others at some point after week 6 and they got infected
+QID184_Choice6,I reunited with others at some point after week 6 and they did not get infected
+QID184_Choice9,I am still isolating/have not reunited with others
+QID184_Choice10,I reunited with others at some point during weeks 1-3 and they got infected (most likely from me)
+QID184_Choice12,N/A
+QID254_QuestionText,"Do you have any animal pets at home?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID254_Choice23,Yes
+QID254_Choice24,No
+QID255_QuestionText,"If yes, please specify:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID255_Choice1,Cats
+QID255_Choice2,Dogs
+QID255_Choice3,Rodents
+QID255_Choice4,Others
+QID185_QuestionText,"Regarding the medical care you have received during the COVID-19 pandemic:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID185_Choice1,I believe I received the appropriate amount of care
+QID185_Choice2,I believe I received somewhat below the appropriate amount of care
+QID185_Choice3,I believe I received significantly below the appropriate amount of care
+QID185_Choice4,I did not require any medical care
+QID186_QuestionText,"Regarding financial status during the COVID-19 pandemic (choose all that apply):<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID186_Choice1,I lost my job or have been unable to work if self-employed
+QID186_Choice2,I have been unable to afford basic necessities like food and rent
+QID186_Choice3,I have been under financial pressure but have been able to make ends meet
+QID186_Choice4,I have not felt any financial pressures
+QID187_QuestionText,"(Optional) I believe my federal government and national public health institutions did the best they possibly could in handling the COVID-19 pandemic<span style=""caret-color: rgb(0, 0, 0);"">.</span>"
+QID187_Choice1,Strongly agree
+QID187_Choice2,Agree
+QID187_Choice3,Somewhat agree
+QID187_Choice4,Neither agree nor disagree
+QID187_Choice5,Somewhat disagree
+QID187_Choice6,Disagree
+QID187_Choice7,Strongly disagree
+QID427_QuestionText,"If you have children, have your children been sick with COVID (or suspected COVID) for over three weeks?&nbsp;"
+QID427_Choice1,I don't have children.
+QID427_Choice2,All of my children have been sick for over 3 weeks.
+QID427_Choice7,My children did not get sick.
+QID427_Choice8,My children got sick but recovered in less than 3 weeks.
+QID427_Choice9,"One or more of my children have been sick for over 3 weeks, and one or more of my children have recovered before 3 weeks."
+QID370_QuestionText,Were you employed pre-COVID?<div><br></div>
+QID370_Choice1,"Yes, full-time"
+QID370_Choice2,No
+QID370_Choice4,"Yes, part-time"
+QID370_Choice5,"I was self-employed, full-time"
+QID370_Choice6,"I was self-employed, part-time"
+QID371_QuestionText,Did/do you need accommodation or reduced hours because of persistent issues/symptoms?&nbsp;&nbsp;
+QID371_Choice2,"Yes, I needed to reduce my hours (working in-person)."
+QID371_Choice3,"No, I have been able to continue working as normal."
+QID371_Choice4,"Yes, I needed to reduce my hours (working remotely)."
+QID371_Choice5,"Yes, I had to quit my job or was fired."
+QID371_Choice6,"Other, please describe"
+QID258_QuestionText,"Have you received any medical diagnostic testing for your COVID-19 physical symptoms? (Scans, ultrasounds, ECGs)"
+QID258_Choice1,Yes
+QID258_Choice2,No
+QID201_QuestionText,"Have you completed any of the following medical diagnostic testing? Note: If you have had any test done multiple times, please enter “Abnormal” if you received an abnormal result at any time.&nbsp;"
+QID201_Choice1,MRI - brain
+QID201_Choice2,MRI - chest
+QID201_Choice3,CT scan - chest
+QID201_Choice4,CT scan - brain
+QID201_Choice5,CT scan - abdomen
+QID201_Choice6,CT scan - pulmonary angiogram
+QID201_Choice7,X-ray - chest
+QID201_Choice8,Spinal tap (lumbar puncture)
+QID201_Choice9,Ultrasound - leg
+QID201_Choice10,Ultrasound (echo) - heart
+QID201_Choice11,Ultrasound - abdomen
+QID201_Choice12,ECG/EKG (heart)
+QID201_Choice13,EEG (brain)
+QID201_Choice14,EMG (muscle/nerves)
+QID201_Choice15,Other
+QID201_Answer1,Not tested
+QID201_Answer2,Yes - normal
+QID201_Answer3,Yes - abnormal
+QID202_QuestionText,"If the brain MRI, brain CT, or brain EEG were abnormal, please describe the results here."
+QID203_QuestionText,"If the chest MRI, chest CT, or chest X-ray were abnormal, please describe the results here."
+QID204_QuestionText,"If the spinal tap was abnormal, please describe the results here."
+QID205_QuestionText,"If the EMG was abnormal, please describe the results here."
+QID206_QuestionText,"If any of the other tests listed above were abnormal, please describe the results here."
+QID207_QuestionText,"If you had any abnormal tests that were not listed here, please describe the results here."
+QID257_QuestionText,Have you received diagnostic blood tests for your COVID-19 symptoms? (e.g. CBC)
+QID257_Choice4,Yes
+QID257_Choice5,No
+QID208_QuestionText,"What was the result of your blood tests for the following? If these were abnormal at one point but then resolved, please include the abnormal result."
+QID208_Choice1,Creatinine (usually part of the basic metabolic panel)
+QID208_Choice2,"Lymphocyte count (usually part of the CBC, complete blood count)"
+QID208_Choice3,Eosinophils count (usually part of the CBC)
+QID208_Choice4,Eosinophils % (usually part of the CBC)
+QID208_Choice5,Hepatic Panel/Liver function test
+QID208_Choice6,D-dimer
+QID208_Choice7,C-Reactive Protein
+QID208_Choice8,ESR (sedimentation rate)
+QID208_Choice9,Fibrinogen
+QID208_Choice10,Other
+QID208_Answer15,Not tested
+QID208_Answer10,Normal
+QID208_Answer11,"Abnormal, high"
+QID208_Answer12,"Abnormal, low"
+QID208_Answer13,Unsure/Can't find it
+QID208_Answer14,Wanted to get tested but was unable
+QID209_QuestionText,"For any abnormal blood tests, please describe the result further"
+QID210_QuestionText,List any other abnormal blood tests. (Please put each abnormal test on a new line).
+QID211_QuestionText,Have you been tested for these conditions since COVID?
+QID211_Choice1,Epstein-Barr (mono)
+QID211_Choice2,Lyme disease
+QID211_Choice3,Cytomegalovirus (CMV)
+QID211_Answer1,Not tested
+QID211_Answer2,Negative
+QID211_Answer3,Current/recent infection (since COVID)
+QID211_Answer4,Past infection
+QID212_QuestionText,Were you given any of these diagnoses for any of your symptoms? Please select all that apply.
+QID212_Choice1,Guillain-Barre Syndrome
+QID212_Choice2,Small fiber neuropathy
+QID212_Choice3,Autonomic neuropathy
+QID212_Choice4,Polyneuropathy
+QID212_Choice5,Neuralgia (please include type of neuralgia in text box)
+QID212_Choice6,"Antiphospholipid Syndrome, viral induced or autoimmune"
+QID212_Choice7,Sarcoidosis
+QID212_Choice8,Stroke (please include type of stroke in text box)
+QID212_Choice9,Demyelinating lesions
+QID212_Choice10,POTS
+QID212_Choice11,Encephalopathy
+QID212_Choice12,Encephalitis (please include type of encephalitis in text box)
+QID212_Choice13,Mengingoencephalitis
+QID212_Choice14,Meningitis
+QID212_Choice15,Acute Disseminated Encephalomyelitis
+QID212_Choice16,Acute myelitis
+QID212_Choice17,Ophthalmoparesis
+QID212_Choice18,Psychiatric Diagnosis
+QID212_Choice19,Migraine
+QID212_Choice20,Motor Peripheral or Cranial Neuropathies
+QID212_Choice21,Posterior reversible encephalopathy syndrome
+QID212_Choice22,Myasthenia
+QID212_Choice23,Thrombotic microangiopathy
+QID212_Choice24,Tapia Syndrome
+QID212_Choice25,Epilepsy
+QID212_Choice26,Traumatic Brain Injury (TBI) or TBI-like symptoms
+QID212_Choice27,Myalgic Encephalomyelitis / Chronic Fatigue Syndrome (ME/CFS)
+QID212_Choice28,Cranial nerve involvement
+QID212_Choice29,Macular hole
+QID212_Choice30,Costochondritis
+QID212_Choice31,Blood clot
+QID212_Choice32,Myocarditis
+QID216_QuestionText,"Please describe any other diagnosis you were given (if multiple, please put each diagnosis on a new line and press ""enter"" between each of them.)"
+QID373_QuestionText,"Have you tried any of the following treatments for your COVID19 symptoms, if yes, how helpful it was? (choose all that apply)➘<div>&nbsp;</div>➘➘<div><span style=""caret-color: rgb(29, 28, 29); color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif;"">This includes Prescription or off-the-counter&nbsp;Medications, or Alternative Treatments.</span></div>"
+QID373_Choice5,<strong>Non-medication treatment options</strong><br />➘Electrolytes
+QID373_Choice6,"Compression garments (socks, leggings)"
+QID373_Choice7,"<strong>Over the counter painkillers</strong><br />➘Non-NSAIDs (Tylenol, Paracetamol)"
+QID373_Choice8,<strong>Cannabis&nbsp;</strong><br />➘CBD/THC products
+QID373_Choice9,CBD-only products
+QID373_Choice10,Acupuncture
+QID373_Choice11,Adding salt to food and drinks
+QID373_Choice12,Lymphatic massage
+QID373_Choice15,<strong>Anti-inflammatories </strong><br />➘Curcumin (tumeric)
+QID373_Choice16,<strong>Blood-thinners</strong><br />➘Baby aspirin (75-81mg)
+QID373_Choice17,"<strong>Anti-histamines</strong><br />➘H1 type Anti-histamines (diphenhydramine, acrivastine and cetirizine, like benadryl, zyrtec, claritin)"
+QID373_Choice26,<strong>Steroids</strong><br />➘Prednisone and Dexamethasone
+QID373_Choice27,<strong>Immune system treatments</strong><br />➘Intravenous gamma globulin
+QID373_Choice28,<strong>Anti-viral medication</strong><br />➘Remsdesevir (Veklury)
+QID373_Choice29,Convalescent plasma
+QID373_Choice30,<strong>Antibiotics</strong><br />➘Azithromycin
+QID373_Choice31,<strong>Malaria treatments</strong><br />➘Chloroquine
+QID373_Choice33,<strong>Anti-oxidants</strong><br />➘Oxaloacetate
+QID373_Choice35,"H2 type Anti-histamines (cimetidine, famotidine, like Pepcid)"
+QID373_Choice38,Omega 3 / DHA / EPA (Fish oil)
+QID373_Choice39,Hydroxychloroquine
+QID373_Choice41,"NSAIDs (Ibuprofen, Naproxen,&nbsp;Adult aspirin (full dose))"
+QID373_Choice42,Pacing programs (regulating the amount of activity)
+QID373_Choice43,"Direct oral anticoagulants, Rivaroxaban (Xarelto)"
+QID373_Choice44,Warfarin (Coumadin)
+QID373_Answer1,Did not try this
+QID373_Answer2,Slightly helpful
+QID373_Answer5,Significantly helpful
+QID373_Answer6,Not Helpful
+QID373_Answer7,Unsure
+QID378_QuestionText,"<div>Please describe any other treatments, medications/supplements, or anything else that significantly improved your symptoms. (Please put each on a new line by pressing 'enter' after each one).</div><div>&nbsp;</div>"
+QID138_QuestionText,"<b>Optional:</b> Please use this space to describe anything you particularly want others to know about the COVID experience, or that haven’t been captured here. Please do not include any identifying information (such as name or location).&nbsp;"
+QID454_QuestionText,"<strong><span style=""font-size:26px;"">You have recached the end of the survey!</span></strong><br>➘<br>Please take a moment to review&nbsp;anything you may have missed. Once you are sure of your responses, <em>hit next to submit.</em><br>➘<br>➘Once submitted, you cannot&nbsp;go back to make modifications. Thank you for your energy and time!&nbsp;"
