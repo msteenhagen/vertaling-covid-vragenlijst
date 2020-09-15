@@ -199,19 +199,19 @@ V,QID217_Choice193,Jemen
 V,QID217_Choice194,Zambia
 V,QID217_Choice195,Zimbabwe
 V,QID217_Choice196,Palestina
- ,QID218_QuestionText,"What city do you live in? Please include state if applicable. (i.e. New York, NY)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID219_QuestionText,"What type of area do you live in?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID219_Choice1,Suburban
- ,QID219_Choice2,Urban
- ,QID219_Choice3,Rural
- ,QID220_QuestionText,"What age group do you fall into?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID220_Choice1,18-29
- ,QID220_Choice2,30-39
- ,QID220_Choice3,40-49
- ,QID220_Choice4,50-59
- ,QID220_Choice5,60-69
- ,QID220_Choice6,80+
- ,QID220_Choice8,70-79
+V,QID218_QuestionText,"In welke stad woont u? Waar van toepassing, vermeld ook de staat. (bijv. New York, NY)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID219_QuestionText,"In wat voor soort gebied woont u?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID219_Choice1,Randgemeente
+V,QID219_Choice2,Stad
+V,QID219_Choice3,Platteland
+V,QID220_QuestionText,"Wat is uw leeftijdscategorie?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID220_Choice1,18-29
+V,QID220_Choice2,30-39
+V,QID220_Choice3,40-49
+V,QID220_Choice4,50-59
+V,QID220_Choice5,60-69
+V,QID220_Choice6,80+
+V,QID220_Choice8,70-79
  ,QID221_QuestionText,"What is your gender?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID221_Choice1,Female/Woman
  ,QID221_Choice2,Male/Man
