@@ -4,201 +4,201 @@ QID316_QuestionText,"<br>➘<span style=""font-size:16px;""><strong><span style=
 QID431_QuestionText,"<p><span style=""font-size:16px;""><span style=""color:#3498db;"">Please remember that at any point, you may stop and resume this survey at a later time.&nbsp;We recommend taking breaks especially if you are currently experiencing symptoms in order to limit mental exertion.&nbsp;</span></span><br>➘&nbsp;</p>➘➘<p><span style=""color:#e67e22;""><span style=""font-size:16px;""><strong>To return to the survey:</strong></span></span></p>➘➘<ul>➘	<li><span style=""font-size:16px;""><span style=""color:#e67e22;""><strong>Save the link that is in your browser to continue with the survey later.&nbsp;</strong></span></span></li>➘	<li><span style=""font-size:16px;"">Do not complete the survey in private/incognito mode.&nbsp;</span></li>➘	<li><span style=""font-size:16px;"">Do not clear your browser cookies.</span></li>➘</ul>➘➘<p><span style=""color:#3498db;""><span style=""font-size:16px;"">Your progress will be saved for <strong>one&nbsp;week</strong>.&nbsp;</span></span></p>"
 QID217_QuestionText,"In which country do you currently reside?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID217_Choice1,Afghanistan
-QID217_Choice2,Albania
-QID217_Choice3,Algeria
+QID217_Choice2,Albanië
+QID217_Choice3,Algerije
 QID217_Choice4,Andorra
 QID217_Choice5,Angola
-QID217_Choice6,Antigua and Barbuda
-QID217_Choice7,Argentina
-QID217_Choice8,Armenia
-QID217_Choice9,Australia
-QID217_Choice10,Austria
-QID217_Choice11,Azerbaijan
-QID217_Choice12,Bahamas
-QID217_Choice13,Bahrain
+QID217_Choice6,Antigua en Barbuda
+QID217_Choice7,Argentinië
+QID217_Choice8,Armenië
+QID217_Choice9,Australië
+QID217_Choice10,Oostenrijk
+QID217_Choice11,Azerbeidzjan
+QID217_Choice12,Bahama’s
+QID217_Choice13,Bahrein
 QID217_Choice14,Bangladesh
 QID217_Choice15,Barbados
-QID217_Choice16,Belarus
-QID217_Choice17,Belgium
+QID217_Choice16,Wit-Rusland
+QID217_Choice17,België
 QID217_Choice18,Belize
 QID217_Choice19,Benin
 QID217_Choice20,Bhutan
 QID217_Choice21,Bolivia
-QID217_Choice22,Bosnia and Herzegovina
+QID217_Choice22,Bosnië en Herzegovina
 QID217_Choice23,Botswana
-QID217_Choice24,Brazil
-QID217_Choice25,Brunei Darussalam
-QID217_Choice26,Bulgaria
+QID217_Choice24,Brazilië
+QID217_Choice25,Brunei
+QID217_Choice26,Bulgarije
 QID217_Choice27,Burkina Faso
 QID217_Choice28,Burundi
-QID217_Choice29,Cambodia
-QID217_Choice30,Cameroon
+QID217_Choice29,Cambodja
+QID217_Choice30,Kameroen
 QID217_Choice31,Canada
-QID217_Choice32,Cape Verde
-QID217_Choice33,Central African Republic
-QID217_Choice34,Chad
-QID217_Choice35,Chile
+QID217_Choice32,Kaapverdië
+QID217_Choice33,Centraal-Afrikaanse Republiek
+QID217_Choice34,Tsjaad
+QID217_Choice35,Chili
 QID217_Choice36,China
 QID217_Choice37,Colombia
-QID217_Choice38,Comoros
-QID217_Choice39,"Congo, Republic of the..."
+QID217_Choice38,Comoren
+QID217_Choice39,Republiek Congo
 QID217_Choice40,Costa Rica
-QID217_Choice41,Côte d'Ivoire
-QID217_Choice42,Croatia
+QID217_Choice41,Ivoorkust
+QID217_Choice42,Kroatië
 QID217_Choice43,Cuba
 QID217_Choice44,Cyprus
-QID217_Choice45,Czech Republic
-QID217_Choice46,Democratic People's Republic of Korea
-QID217_Choice47,Democratic Republic of the Congo
-QID217_Choice48,Denmark
+QID217_Choice45,Tsjechië
+QID217_Choice46,Democratische Volksrepubliek Korea
+QID217_Choice47,Democratische Republiek Congo
+QID217_Choice48,Denemarken
 QID217_Choice49,Djibouti
 QID217_Choice50,Dominica
-QID217_Choice51,Dominican Republic
+QID217_Choice51,Dominicaanse Republiek
 QID217_Choice52,Ecuador
-QID217_Choice53,Egypt
+QID217_Choice53,Egypte
 QID217_Choice54,El Salvador
-QID217_Choice55,Equatorial Guinea
+QID217_Choice55,Equatoriaal-Guinea
 QID217_Choice56,Eritrea
-QID217_Choice57,Estonia
-QID217_Choice58,Ethiopia
+QID217_Choice57,Estland
+QID217_Choice58,Ethiopië
 QID217_Choice59,Fiji
 QID217_Choice60,Finland
-QID217_Choice61,France
+QID217_Choice61,Frankrijk
 QID217_Choice62,Gabon
 QID217_Choice63,Gambia
-QID217_Choice64,Georgia
-QID217_Choice65,Germany
+QID217_Choice64,Georgië
+QID217_Choice65,Duitsland
 QID217_Choice66,Ghana
-QID217_Choice67,Greece
+QID217_Choice67,Griekenland
 QID217_Choice68,Grenada
 QID217_Choice69,Guatemala
-QID217_Choice70,Guinea
-QID217_Choice71,Guinea-Bissau
+QID217_Choice70,Guinee
+QID217_Choice71,Guinee-Bissau
 QID217_Choice72,Guyana
-QID217_Choice73,Haiti
+QID217_Choice73,Haïti
 QID217_Choice74,Honduras
 QID217_Choice75,Hong Kong (S.A.R.)
-QID217_Choice76,Hungary
-QID217_Choice77,Iceland
+QID217_Choice76,Hongarije
+QID217_Choice77,IJsland
 QID217_Choice78,India
-QID217_Choice79,Indonesia
-QID217_Choice80,"Iran, Islamic Republic of..."
-QID217_Choice81,Iraq
-QID217_Choice82,Ireland
-QID217_Choice83,Israel
-QID217_Choice84,Italy
+QID217_Choice79,Indonesië
+QID217_Choice80,"Iran, Islamitische Republiek ..."
+QID217_Choice81,Irak
+QID217_Choice82,Ierland
+QID217_Choice83,Israël
+QID217_Choice84,Italië
 QID217_Choice85,Jamaica
 QID217_Choice86,Japan
-QID217_Choice87,Jordan
-QID217_Choice88,Kazakhstan
-QID217_Choice89,Kenya
+QID217_Choice87,Jordanië
+QID217_Choice88,Kazachstan
+QID217_Choice89,Kenia
 QID217_Choice90,Kiribati
-QID217_Choice91,Kuwait
-QID217_Choice92,Kyrgyzstan
-QID217_Choice93,Lao People's Democratic Republic
-QID217_Choice94,Latvia
-QID217_Choice95,Lebanon
+QID217_Choice91,Koeweit
+QID217_Choice92,Kirgizië
+QID217_Choice93,"Laos, Democratische Volksrepubliek"
+QID217_Choice94,Letland
+QID217_Choice95,Libanon
 QID217_Choice96,Lesotho
 QID217_Choice97,Liberia
-QID217_Choice98,Libyan Arab Jamahiriya
+QID217_Choice98,Libië
 QID217_Choice99,Liechtenstein
-QID217_Choice100,Lithuania
-QID217_Choice101,Luxembourg
+QID217_Choice100,Litouwen
+QID217_Choice101,Luxemburg
 QID217_Choice102,Madagascar
 QID217_Choice103,Malawi
-QID217_Choice104,Malaysia
-QID217_Choice105,Maldives
+QID217_Choice104,Maleisië
+QID217_Choice105,Maldiven
 QID217_Choice106,Mali
 QID217_Choice107,Malta
-QID217_Choice108,Marshall Islands
-QID217_Choice109,Mauritania
+QID217_Choice108,Marshalleilanden
+QID217_Choice109,Mauritanië
 QID217_Choice110,Mauritius
 QID217_Choice111,Mexico
-QID217_Choice112,"Micronesia, Federated States of..."
+QID217_Choice112,"Micronesia, Federale Staten van ..."
 QID217_Choice113,Monaco
-QID217_Choice114,Mongolia
+QID217_Choice114,Mongolië
 QID217_Choice115,Montenegro
-QID217_Choice116,Morocco
+QID217_Choice116,Marokko
 QID217_Choice117,Mozambique
 QID217_Choice118,Myanmar
-QID217_Choice119,Namibia
+QID217_Choice119,Namibië
 QID217_Choice120,Nauru
 QID217_Choice121,Nepal
-QID217_Choice122,Netherlands
-QID217_Choice123,New Zealand
+QID217_Choice122,Nederland
+QID217_Choice123,Nieuw-Zeeland
 QID217_Choice124,Nicaragua
 QID217_Choice125,Niger
 QID217_Choice126,Nigeria
-QID217_Choice127,North Korea
-QID217_Choice128,Norway
+QID217_Choice127,Noord-Korea
+QID217_Choice128,Noorwegen
 QID217_Choice129,Oman
 QID217_Choice130,Pakistan
 QID217_Choice131,Palau
 QID217_Choice132,Panama
-QID217_Choice133,Papua New Guinea
+QID217_Choice133,Papoea-Nieuw-Guinea
 QID217_Choice134,Paraguay
 QID217_Choice135,Peru
-QID217_Choice136,Philippines
-QID217_Choice137,Poland
+QID217_Choice136,Filippijnen
+QID217_Choice137,Polen
 QID217_Choice138,Portugal
 QID217_Choice139,Qatar
-QID217_Choice140,Republic of Korea
-QID217_Choice141,Republic of Moldova
-QID217_Choice142,Romania
-QID217_Choice143,Russian Federation
+QID217_Choice140,Republiek Korea
+QID217_Choice141,"Moldavië, Republiek van "
+QID217_Choice142,Roemenië
+QID217_Choice143,Rusland
 QID217_Choice144,Rwanda
-QID217_Choice145,Saint Kitts and Nevis
+QID217_Choice145,Saint Kitts en Nevis
 QID217_Choice146,Saint Lucia
-QID217_Choice147,Saint Vincent and the Grenadines
+QID217_Choice147,Saint Vincent en de Grenadines
 QID217_Choice148,Samoa
 QID217_Choice149,San Marino
-QID217_Choice150,Sao Tome and Principe
-QID217_Choice151,Saudi Arabia
+QID217_Choice150,Sao Tomé en Principe
+QID217_Choice151,Saoedi-Arabië
 QID217_Choice152,Senegal
-QID217_Choice153,Serbia
-QID217_Choice154,Seychelles
+QID217_Choice153,Servië
+QID217_Choice154,Seychellen
 QID217_Choice155,Sierra Leone
 QID217_Choice156,Singapore
-QID217_Choice157,Slovakia
-QID217_Choice158,Slovenia
-QID217_Choice159,Solomon Islands
-QID217_Choice160,Somalia
-QID217_Choice161,South Africa
-QID217_Choice162,South Korea
-QID217_Choice163,Spain
+QID217_Choice157,Slowakije
+QID217_Choice158,Slovenië
+QID217_Choice159,Salomonseilanden
+QID217_Choice160,Somalië
+QID217_Choice161,Zuid-Afrika
+QID217_Choice162,Zuid-Korea
+QID217_Choice163,Spanje
 QID217_Choice164,Sri Lanka
-QID217_Choice165,Sudan
+QID217_Choice165,Soedan
 QID217_Choice166,Suriname
 QID217_Choice167,Swaziland
-QID217_Choice168,Sweden
-QID217_Choice169,Switzerland
-QID217_Choice170,Syrian Arab Republic
-QID217_Choice171,Tajikistan
+QID217_Choice168,Zweden
+QID217_Choice169,Zwitserland
+QID217_Choice170,Syrië
+QID217_Choice171,Tadzjikistan
 QID217_Choice172,Thailand
-QID217_Choice173,The former Yugoslav Republic of Macedonia
-QID217_Choice174,Timor-Leste
+QID217_Choice173,De voormalige Joegoslavische Republiek Macedonië
+QID217_Choice174,Oost-Timor
 QID217_Choice175,Togo
 QID217_Choice176,Tonga
-QID217_Choice177,Trinidad and Tobago
-QID217_Choice178,Tunisia
-QID217_Choice179,Turkey
+QID217_Choice177,Trinidad en Tobago
+QID217_Choice178,Tunesië
+QID217_Choice179,Turkije
 QID217_Choice180,Turkmenistan
 QID217_Choice181,Tuvalu
-QID217_Choice182,Uganda
-QID217_Choice183,Ukraine
-QID217_Choice184,United Arab Emirates
-QID217_Choice185,United Kingdom and Northern Ireland
-QID217_Choice186,United Republic of Tanzania
-QID217_Choice187,United States of America
+QID217_Choice182,Oeganda
+QID217_Choice183,Oekraïne
+QID217_Choice184,Verenigde Arabische Emiraten
+QID217_Choice185,Verenigd Koninkrijk en Noord-Ierland
+QID217_Choice186,Verenigde Republiek Tanzania
+QID217_Choice187,Verenigde Staten van Amerika
 QID217_Choice188,Uruguay
-QID217_Choice189,Uzbekistan
+QID217_Choice189,Oezbekistan
 QID217_Choice190,Vanuatu
-QID217_Choice191,"Venezuela, Bolivarian Republic of..."
-QID217_Choice192,Viet Nam
-QID217_Choice193,Yemen
+QID217_Choice191,"Venezuela, Bolivariaanse Republiek ..."
+QID217_Choice192,Vietnam
+QID217_Choice193,Jemen
 QID217_Choice194,Zambia
 QID217_Choice195,Zimbabwe
-QID217_Choice196,Palestine
+QID217_Choice196,Palestina
 QID218_QuestionText,"What city do you live in? Please include state if applicable. (i.e. New York, NY)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID219_QuestionText,"What type of area do you live in?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID219_Choice1,Suburban
