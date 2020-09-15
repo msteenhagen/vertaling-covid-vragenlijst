@@ -525,7 +525,7 @@ V,QID9_QuestionText,"Heeft u nog steeds symptomen?&nbsp;<span style=""caret-colo
 V,QID9_Choice1,Ja
 V,QID9_Choice2,Nee
 V,QID10_QuestionText,"Hoeveel dagen in totaal had u symptomen?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
-V,QID13_QuestionText,Had u één of meerdere van deze <strong>bestaande</strong> aandoeningen/diagnoses of ervoer u één of meerdere van deze voor COVID?
+V,QID13_QuestionText,Had u één of meerdere van deze <strong>bestaande</strong> aandoeningen/diagnoses of ervaarde u één of meerdere van deze voor COVID?
 V,QID13_Choice2,Diabetes type 1
 V,QID13_Choice3,Diabetes type 2
 V,QID13_Choice6,Mast Cell Activation Syndrome (MCAS)
