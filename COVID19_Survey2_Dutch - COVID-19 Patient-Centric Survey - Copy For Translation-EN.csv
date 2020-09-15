@@ -199,7 +199,7 @@ V,QID217_Choice193,Jemen
 V,QID217_Choice194,Zambia
 V,QID217_Choice195,Zimbabwe
 V,QID217_Choice196,Palestina
-V,QID218_QuestionText,"In welke stad woont u? Waar van toepassing, vermeld ook de staat. (bijv. New York, NY)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID218_QuestionText,"In welke stad woont u? Waar van toepassing, vermeld ook de staat (bijv. New York, NY).<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID219_QuestionText,"In wat voor soort gebied woont u?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID219_Choice1,Randgemeente
 V,QID219_Choice2,Stad
