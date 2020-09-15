@@ -212,23 +212,23 @@ V,QID220_Choice4,50-59
 V,QID220_Choice5,60-69
 V,QID220_Choice6,80+
 V,QID220_Choice8,70-79
- ,QID221_QuestionText,"What is your gender?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID221_Choice1,Female/Woman
- ,QID221_Choice2,Male/Man
- ,QID221_Choice3,Non-binary/Genderqueer/Gender non-conforming
- ,QID221_Choice4,Prefer not to say
- ,QID221_Choice5,Other
- ,QID222_QuestionText,"Does your gender match your gender assigned at birth?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID222_Choice1,Yes
- ,QID222_Choice2,No
- ,QID223_QuestionText,"If applicable, are you pregnant?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID223_Choice1,Yes
- ,QID223_Choice2,No
- ,QID223_Choice3,N/A
- ,QID224_QuestionText,"If applicable, are you 6 months or less postpartum?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID224_Choice1,Yes
- ,QID224_Choice2,No
- ,QID224_Choice3,N/A
+V,QID221_QuestionText,"Wat is uw gender?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID221_Choice1,Vrouw
+V,QID221_Choice2,Man
+V,QID221_Choice3,Non-binair/Genderqueer/Gender non-conform
+V,QID221_Choice4,Zeg ik liever niet
+V,QID221_Choice5,Anders
+V,QID222_QuestionText,"Komt uw gender overeen met het bij uw geboorte toegewezen gender?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID222_Choice1,Ja
+V,QID222_Choice2,Nee
+V,QID223_QuestionText,"Indien van toepassing, bent u zwanger?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID223_Choice1,Ja
+V,QID223_Choice2,Nee
+V,QID223_Choice3,N.v.t.
+V,QID224_QuestionText,"Indien van toepassing, bent u 6 maanden of minder post-partum?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID224_Choice1,Ja
+V,QID224_Choice2,Nee
+V,QID224_Choice3,N.v.t.
  ,QID451_QuestionText,"If applicable, do you have periods/a menstrual cycle?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID451_Choice1,Yes
  ,QID451_Choice2,"No, post-menopausal"
