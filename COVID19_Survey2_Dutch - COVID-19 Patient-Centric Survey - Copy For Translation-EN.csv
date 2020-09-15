@@ -229,77 +229,77 @@ V,QID224_QuestionText,"Indien van toepassing, bent u 6 maanden of minder post-pa
 V,QID224_Choice1,Ja
 V,QID224_Choice2,Nee
 V,QID224_Choice3,N.v.t.
- ,QID451_QuestionText,"If applicable, do you have periods/a menstrual cycle?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID451_Choice1,Yes
- ,QID451_Choice2,"No, post-menopausal"
- ,QID451_Choice3,N/A
- ,QID451_Choice4,"No, other reason"
- ,QID225_QuestionText,"Which of the following best describes your ancestry? Select all that apply.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID225_Choice1,"Asian, South Asian, South East Asian (Chinese, Asian Indian, Vietnamese, Filipino...)"
- ,QID225_Choice2,"Black (African American, Jamaican, Nigerian, Haitian...)"
- ,QID225_Choice3,"White (German, Italian, English, Polish, French...)"
- ,QID225_Choice4,"Hispanic, Latino, or Spanish Origin (Mexican, Mexican American, Puerto Rican, Cuban...)"
- ,QID225_Choice5,"Indigenous Peoples (Navajo Nation, Blackfeet Tribe, Mayan, Inupiat...)"
- ,QID225_Choice6,"Pacific Islander (Native Hawaiian, Samoan, Fujian, Chamorro...)"
- ,QID225_Choice7,Prefer not to answer
- ,QID225_Choice8,Other
- ,QID225_Choice9,"Middle Eastern, North African (Lebanese, Iranian, Egyptian, Moroccan...)"
- ,QID226_QuestionText,"What was your household annual income immediately <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID226_Choice1,"$0 - $10,000 USD"
- ,QID226_Choice2,"$10,001 - $40,000 USD"
- ,QID226_Choice3,"$40,001 - $85,000 USD"
- ,QID226_Choice4,"$85,001 - $150,000 USD"
- ,QID226_Choice5,">$150,000 USD"
- ,QID226_Choice6,Prefer not to answer
- ,QID328_QuestionText,"What is your household annual income now,<strong> AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID328_Choice1,"$0 - $10,000 USD"
- ,QID328_Choice2,"$10,001 - $40,000 USD"
- ,QID328_Choice3,"$40,001 - $85,000 USD"
- ,QID328_Choice4,"$85,001 - $150,000 USD"
- ,QID328_Choice5,">$150,000 USD"
- ,QID328_Choice6,Prefer not to answer
- ,QID448_QuestionText,"What was your household annual income immediately <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID448_Choice1,"$0 - $10,000 CAD"
- ,QID448_Choice2,"$10,001 - $40,000 CAD"
- ,QID448_Choice3,"$40,001 - $85,000 CAD"
- ,QID448_Choice4,"$85,001 - $150,000 CAD"
- ,QID448_Choice5,">$150,000 CAD"
- ,QID448_Choice6,Prefer not to answer
- ,QID449_QuestionText,"What is your household annual income now,<strong> AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID449_Choice1,"$0 - $10,000 CAD"
- ,QID449_Choice2,"$10,001 - $40,000 CAD"
- ,QID449_Choice3,"$40,001 - $85,000 CAD"
- ,QID449_Choice4,"$85,001 - $150,000 CAD"
- ,QID449_Choice5,">$150,000 CAD"
- ,QID449_Choice6,Prefer not to answer
- ,QID408_QuestionText,"What is your household annual income, <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID408_Choice1,"£0 - £20,000 GBP"
- ,QID408_Choice2,"£20,000 - £40,000 GBP"
- ,QID408_Choice3,"£40,000 - £60,000 GBP"
- ,QID408_Choice4,"£60,000 - £80,000 GBP"
- ,QID408_Choice5,">£80,000 GBP"
- ,QID408_Choice6,Prefer not to answer
- ,QID409_QuestionText,"What is your household annual income, <strong>AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID409_Choice1,"£0 - £20,000 GBP"
- ,QID409_Choice2,"£20,000 - £40,000 GBP"
- ,QID409_Choice3,"£40,000 - £60,000 GBP"
- ,QID409_Choice4,"£60,000 - £80,000 GBP"
- ,QID409_Choice5,">£80,000 GBP"
- ,QID409_Choice6,Prefer not to answer
- ,QID445_QuestionText,"What is your household annual income, <strong>BEFORE COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID445_Choice1,"€0 - €20,000 EUR"
- ,QID445_Choice2,"€20,000 - €40,000 EUR"
- ,QID445_Choice3,"€40,000 - €60,000 EUR"
- ,QID445_Choice4,"€60,000 - €80,000 EUR"
- ,QID445_Choice5,">€80,000 EUR"
- ,QID445_Choice6,Prefer not to answer
- ,QID447_QuestionText,"What is your household annual income, <strong>AFTER COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID447_Choice1,"€0 - €20,000 EUR"
- ,QID447_Choice2,"€20,000 - €40,000 EUR"
- ,QID447_Choice3,"€40,000 - €60,000 EUR"
- ,QID447_Choice4,"€60,000 - €80,000 EUR"
- ,QID447_Choice5,">€80,000 EUR"
- ,QID447_Choice6,Prefer not to answer
+V,QID451_QuestionText,"Indien van toepassing, heeft u een menstruatiecyclus?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID451_Choice1,Ja
+V,QID451_Choice2,"Nee, postmenopauzaal"
+V,QID451_Choice3,N.v.t.
+V,QID451_Choice4,"Nee, andere reden"
+V,QID225_QuestionText,"Welke van de volgende beschrijft het beste uw afkomst? Kies alle die van toepassing zijn.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID225_Choice1,"Aziatisch, Zuid-Aziatisch, Zuidoost-Aziatisch (Chinees, Asiatisch Indisch, Vietnamees, Filipino...)"
+V,QID225_Choice2,"Zwart (Afro-Amerikaans, Jamaicaans, Nigeriaans, Haïtiaans...)"
+V,QID225_Choice3,"Wit (Duits, Italiaans, Engels, Pools, Frans...)"
+V,QID225_Choice4,"Hispanic, Latino, of Spaanse origine (Mexicaans, Mexicaans-Americaans, Puerto Ricaans, Cubaans...)"
+V,QID225_Choice5,"Inheemse volkeren (Navajo Nation, Blackfeet Tribe, Mayan, Inupiat...)"
+V,QID225_Choice6,"Pacifische Eilander (Inheems Hawaaïans, Samoaans, Fujiaans, Chamorro...)"
+V,QID225_Choice7,Zeg ik liever niet
+V,QID225_Choice8,Anders
+V,QID225_Choice9,"Middle Eastern, North African (Lebanese, Iranian, Egyptian, Moroccan...)"
+V,QID226_QuestionText,"Wat was uw huishoudinkomen vlak <strong>VOOR COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID226_Choice1,"$0 - $10,000 USD"
+V,QID226_Choice2,"$10,001 - $40,000 USD"
+V,QID226_Choice3,"$40,001 - $85,000 USD"
+V,QID226_Choice4,"$85,001 - $150,000 USD"
+V,QID226_Choice5,">$150,000 USD"
+V,QID226_Choice6,Zeg ik liever niet
+V,QID328_QuestionText,"Wat is uw huishoudinkomen nu,<strong> NA COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID328_Choice1,"$0 - $10,000 USD"
+V,QID328_Choice2,"$10,001 - $40,000 USD"
+V,QID328_Choice3,"$40,001 - $85,000 USD"
+V,QID328_Choice4,"$85,001 - $150,000 USD"
+V,QID328_Choice5,">$150,000 USD"
+V,QID328_Choice6,Zeg ik liever niet
+V,QID448_QuestionText,"Wat was uw huishoudinkomen vlak <strong>VOOR COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID448_Choice1,"$0 - $10,000 CAD"
+V,QID448_Choice2,"$10,001 - $40,000 CAD"
+V,QID448_Choice3,"$40,001 - $85,000 CAD"
+V,QID448_Choice4,"$85,001 - $150,000 CAD"
+V,QID448_Choice5,">$150,000 CAD"
+V,QID448_Choice6,Zeg ik liever niet
+V,QID449_QuestionText,"Wat is uw huishoudinkomen nu,<strong> NA COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID449_Choice1,"$0 - $10,000 CAD"
+V,QID449_Choice2,"$10,001 - $40,000 CAD"
+V,QID449_Choice3,"$40,001 - $85,000 CAD"
+V,QID449_Choice4,"$85,001 - $150,000 CAD"
+V,QID449_Choice5,">$150,000 CAD"
+V,QID449_Choice6,Zeg ik liever niet
+V,QID408_QuestionText,"Wat was uw huishoudinkomen vlak <strong>VOOR COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID408_Choice1,"£0 - £20,000 GBP"
+V,QID408_Choice2,"£20,000 - £40,000 GBP"
+V,QID408_Choice3,"£40,000 - £60,000 GBP"
+V,QID408_Choice4,"£60,000 - £80,000 GBP"
+V,QID408_Choice5,">£80,000 GBP"
+V,QID408_Choice6,Zeg ik liever niet
+V,QID409_QuestionText,"Wat is uw huishoudinkomen nu,<strong> NA COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID409_Choice1,"£0 - £20,000 GBP"
+V,QID409_Choice2,"£20,000 - £40,000 GBP"
+V,QID409_Choice3,"£40,000 - £60,000 GBP"
+V,QID409_Choice4,"£60,000 - £80,000 GBP"
+V,QID409_Choice5,">£80,000 GBP"
+V,QID409_Choice6,Zeg ik liever niet
+V,QID445_QuestionText,"Wat was uw huishoudinkomen vlak <strong>VOOR COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID445_Choice1,"€0 - €20,000 EUR"
+V,QID445_Choice2,"€20,000 - €40,000 EUR"
+V,QID445_Choice3,"€40,000 - €60,000 EUR"
+V,QID445_Choice4,"€60,000 - €80,000 EUR"
+V,QID445_Choice5,">€80,000 EUR"
+V,QID445_Choice6,Zeg ik liever niet
+V,QID447_QuestionText,"Wat is uw huishoudinkomen nu,<strong> NA COVID-19</strong>?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID447_Choice1,"€0 - €20,000 EUR"
+V,QID447_Choice2,"€20,000 - €40,000 EUR"
+V,QID447_Choice3,"€40,000 - €60,000 EUR"
+V,QID447_Choice4,"€60,000 - €80,000 EUR"
+V,QID447_Choice5,">€80,000 EUR"
+V,QID447_Choice6,Zeg ik liever niet
  ,QID228_QuestionText,"What is your highest educational level achieved?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID228_Choice1,Some high school or less
  ,QID228_Choice2,High school graduate
