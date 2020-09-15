@@ -590,26 +590,26 @@ V,QID13_Choice87,IgA-deficiëntie
 V,QID13_Choice88,TMJ (temporomandibulaire gewrichtsdisfunctie)
 V,QID13_Choice90,Duizeligheid
 V,QID13_Choice91,Zicht: bijziend / verziend
- ,QID14_QuestionText,"Please indicate other pre-existing conditions/diagnoses not listed here. If multiple, please separate them with a comma. Please only list the conditions, no descriptions or explanations.&nbsp;"
- ,QID15_QuestionText,Did any of your pre-existing conditions change during the course of your COVID19 symptoms?
- ,QID15_Choice1,"Yes, they got worse."
- ,QID15_Choice2,"Yes, they got better."
- ,QID15_Choice3,"Some got better, some stayed the same, some got worse (please add an explanation in the text boxes in the following page)."
- ,QID15_Choice4,"No, they stayed the same."
- ,QID15_Choice5,N/A (I did not have any pre-existing condition)
- ,QID16_QuestionText,"If any of your pre-existing conditions got worse, please describe here. (optional)"
- ,QID17_QuestionText,"If any of your pre-existing conditions got better, please describe here. (optional)"
- ,QID19_QuestionText,"What is your blood type? If you don't know, please select 'Don't know'.&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID19_Choice1,O positive
- ,QID19_Choice2,O negative
- ,QID19_Choice3,A positive
- ,QID19_Choice4,A negative
- ,QID19_Choice5,B positive
- ,QID19_Choice6,B negative
- ,QID19_Choice7,AB positive
- ,QID19_Choice8,AB negative
- ,QID19_Choice9,Don't know
- ,QID239_QuestionText,"<strong><span style=""font-size:19px;"">Hospitalization</span></strong>"
+V,QID14_QuestionText,"Geef andere reeds bestaande aandoeningen/diagnoses aan die hier niet worden vermeld. Als dit er meerdere zijn, scheid ze dan met een komma. Geef alleen de aandoening op, geen beschrijvingen of toelichtingen.&nbsp;"
+V,QID15_QuestionText,Veranderde één of meerdere van uw reeds bestaande aandoeningen tijdens uw COVID19-symptomen?
+V,QID15_Choice1,"Ja, ze werden erger."
+V,QID15_Choice2,"Ja, ze verbeterden."
+V,QID15_Choice3,"Sommige verbeterden, andere bleven hetzelfde, andere werden slechter (geef een uitleg in de tekstvakken op de volgende pagina)."
+V,QID15_Choice4,"Nee, ze bleven hetzelfde."
+V,QID15_Choice5,N.v.t (Ik had geen reeds bestaande aandoening)
+V,QID16_QuestionText,"Als één van uw reeds bestaande aandoeningen erger is geworden, geef dan hier een beschrijving. (optioneel)"
+V,QID17_QuestionText,"Als één van uw reeds bestaande aandoeningen is verbeterd, geef dan hier een beschrijving. (optioneel)"
+V,QID19_QuestionText,"Wat is uw bloedgroep? Als u dit niet weet, kies 'Weet ik niet'.&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+V,QID19_Choice1,O positief
+V,QID19_Choice2,O negatief
+V,QID19_Choice3,A positief
+V,QID19_Choice4,A negatief
+V,QID19_Choice5,B positief
+V,QID19_Choice6,B negatief
+V,QID19_Choice7,AB positief
+V,QID19_Choice8,AB negatief
+V,QID19_Choice9,Weet ik niet
+V,QID239_QuestionText,"<strong><span style=""font-size:19px;"">Ziekenhuisopname</span></strong>"
  ,QID65_QuestionText,"Did you consult with a physician(s) for your COVID symptoms? Select all that apply. This can include both in-person appointments and telemedicine, like phone calls.&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*&nbsp;</span>"
  ,QID65_Choice1,My primary care doctor/General practitioner
  ,QID65_Choice2,Hospitalist
@@ -2700,61 +2700,61 @@ V,QID79_QuestionText,"Optional: If you had any of these emotional experiences <b
  ,QID145_Choice1,Accomplished less than you would like
  ,QID145_Choice2,Were limited in the kind of work or other activities
  ,QID145_Choice3,Not limited
- ,QID150_QuestionText,"<div><strong>Mental Health Symptoms</strong><br />➘<em>You may choose not to answer any of questions.</em></div>➘➘<div>&nbsp;</div>➘➘<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">If you are having&nbsp;suicidal&nbsp;thoughts, these free helplines are available 24/7 to offer support:</span></span></strong>➘➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>US</b>:&nbsp;1-800-273-8255 (Crisis Text Line: text TALK to 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Netherlands</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />➘Find </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>additional crisis lines</u></span></a><span style=""color:#744210;""> for your country</span></span></div>➘</div>"
- ,QID151_QuestionText,"Have you ever (before COVID-19 symptoms) been diagnosed with a mental health condition (e.g. depression, anxiety, panic disorder, psychosis, etc.)?"
- ,QID151_Choice1,Yes
- ,QID151_Choice2,No
- ,QID152_QuestionText,Do you believe you have or have had a mental health condition that has not been diagnosed?
- ,QID152_Choice1,Yes
- ,QID152_Choice2,No
- ,QID153_QuestionText,"If you answered yes to either question above, Which of the following have you experienced? (check all that apply)"
- ,QID153_Choice1,Depression
- ,QID153_Choice2,Bipolar Disorder
- ,QID153_Choice4,Anxiety Disorder
- ,QID153_Choice5,Substance Use Disorder
- ,QID153_Choice6,Eating Disorder
- ,QID153_Choice7,Personality Disorder
- ,QID153_Choice8,Psychotic Disorder
- ,QID153_Choice9,Delirium
- ,QID153_Choice10,Other
- ,QID153_Choice11,Post-traumatic stress disorder (PTSD)
- ,QID154_QuestionText,"For each condition that apply to you, please specify:"
- ,QID154_Choice29,Depression
- ,QID154_Choice30,Bipolar Disorder
- ,QID154_Choice32,Anxiety Disorder
- ,QID154_Choice33,Substance Use Disorder
- ,QID154_Choice34,Eating Disorder
- ,QID154_Choice35,Personality Disorder
- ,QID154_Choice36,Psychotic Disorder
- ,QID154_Choice37,Delirium
- ,QID154_Choice39,Post-traumatic stress disorder (PTSD)
- ,QID154_Choice40,Other
- ,QID154_Answer1,N/A
- ,QID154_Answer2,No change during COVID-19
- ,QID154_Answer3,Onset during COVID-19
- ,QID154_Answer4,Significant worsening during COVID-19
- ,QID154_Answer5,Moderate worsening during COVID-19
- ,QID154_Answer6,Moderate improvement during COVID-19
- ,QID154_Answer7,Significant improvement during COVID-19
- ,QID155_QuestionText,Optionally describe how the conditions felt or affected you during COVID-19.
- ,QID156_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
- ,QID156_Choice1,Little interest or pleasure in doing things
- ,QID156_Choice2,"Feeling down, depressed, or hopeless"
- ,QID156_Choice3,"Trouble falling/staying asleep, sleeping too much"
- ,QID156_Choice4,Feeling tired or having little energy
- ,QID156_Choice5,Feeling bad about yourself or that you are a failure or have let yourself or your family down
- ,QID156_Choice6,Moving or speaking so slowly that other people could have noticed. Or the opposite; being so fidgety or restless that you have been moving around a lot more than usual.
- ,QID156_Choice7,Thoughts that you would be better off dead or of hurting yourself in some way.
- ,QID156_Answer1,Not at all
- ,QID156_Answer2,Several Days
- ,QID156_Answer3,More Than Half the Days
- ,QID156_Answer4,Nearly Every day
- ,QID157_QuestionText,"If you checked off any of the above problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
- ,QID157_Choice1,Not difficult at all
- ,QID157_Choice2,Somewhat difficult
- ,QID157_Choice3,Very difficult
- ,QID157_Choice4,Extremely difficult
- ,QID158_QuestionText,"(Optional) If desired, please share more about your experience."
+V,QID150_QuestionText,"<div><strong>Mental Health Symptoms</strong><br />➘<em>You may choose not to answer any of questions.</em></div>➘➘<div>&nbsp;</div>➘➘<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">If you are having&nbsp;suicidal&nbsp;thoughts, these free helplines are available 24/7 to offer support:</span></span></strong>➘➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>US</b>:&nbsp;1-800-273-8255 (Crisis Text Line: text TALK to 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Netherlands</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />➘Find </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>additional crisis lines</u></span></a><span style=""color:#744210;""> for your country</span></span></div>➘</div>"
+V,QID151_QuestionText,"Have you ever (before COVID-19 symptoms) been diagnosed with a mental health condition (e.g. depression, anxiety, panic disorder, psychosis, etc.)?"
+V,QID151_Choice1,Yes
+V,QID151_Choice2,No
+V,QID152_QuestionText,Do you believe you have or have had a mental health condition that has not been diagnosed?
+V,QID152_Choice1,Yes
+V,QID152_Choice2,No
+V,QID153_QuestionText,"If you answered yes to either question above, Which of the following have you experienced? (check all that apply)"
+V,QID153_Choice1,Depression
+V,QID153_Choice2,Bipolar Disorder
+V,QID153_Choice4,Anxiety Disorder
+V,QID153_Choice5,Substance Use Disorder
+V,QID153_Choice6,Eating Disorder
+V,QID153_Choice7,Personality Disorder
+V,QID153_Choice8,Psychotic Disorder
+V,QID153_Choice9,Delirium
+V,QID153_Choice10,Other
+V,QID153_Choice11,Post-traumatic stress disorder (PTSD)
+V,QID154_QuestionText,"For each condition that apply to you, please specify:"
+V,QID154_Choice29,Depression
+V,QID154_Choice30,Bipolar Disorder
+V,QID154_Choice32,Anxiety Disorder
+V,QID154_Choice33,Substance Use Disorder
+V,QID154_Choice34,Eating Disorder
+V,QID154_Choice35,Personality Disorder
+V,QID154_Choice36,Psychotic Disorder
+V,QID154_Choice37,Delirium
+V,QID154_Choice39,Post-traumatic stress disorder (PTSD)
+V,QID154_Choice40,Other
+V,QID154_Answer1,N/A
+V,QID154_Answer2,No change during COVID-19
+V,QID154_Answer3,Onset during COVID-19
+V,QID154_Answer4,Significant worsening during COVID-19
+V,QID154_Answer5,Moderate worsening during COVID-19
+V,QID154_Answer6,Moderate improvement during COVID-19
+V,QID154_Answer7,Significant improvement during COVID-19
+V,QID155_QuestionText,Optionally describe how the conditions felt or affected you during COVID-19.
+V,QID156_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
+V,QID156_Choice1,Little interest or pleasure in doing things
+V,QID156_Choice2,"Feeling down, depressed, or hopeless"
+V,QID156_Choice3,"Trouble falling/staying asleep, sleeping too much"
+V,QID156_Choice4,Feeling tired or having little energy
+V,QID156_Choice5,Feeling bad about yourself or that you are a failure or have let yourself or your family down
+V,QID156_Choice6,Moving or speaking so slowly that other people could have noticed. Or the opposite; being so fidgety or restless that you have been moving around a lot more than usual.
+V,QID156_Choice7,Thoughts that you would be better off dead or of hurting yourself in some way.
+V,QID156_Answer1,Not at all
+V,QID156_Answer2,Several Days
+V,QID156_Answer3,More Than Half the Days
+V,QID156_Answer4,Nearly Every day
+V,QID157_QuestionText,"If you checked off any of the above problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
+V,QID157_Choice1,Not difficult at all
+V,QID157_Choice2,Somewhat difficult
+V,QID157_Choice3,Very difficult
+V,QID157_Choice4,Extremely difficult
+V,QID158_QuestionText,"(Optional) If desired, please share more about your experience."
  ,QID160_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
  ,QID160_Choice1,"Feeling nervous, anxious, or on edge"
  ,QID160_Choice2,Not being able to stop or control worrying
