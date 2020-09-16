@@ -1285,682 +1285,682 @@ V,QID34_Choice1,Positief
 V,QID34_Choice2,Negatief
 V,QID34_Choice3,Onduidelijk/Ik wacht nog op resultaten
 V,QID35_QuestionText,"Als u nog meer tests heeft gehad, beschrijf deze hier. Begin voor iedere test een nieuwe regel met soort, datum, en uitslag gescheiden door komma's. Bijvoorbeeld: Nasofaryngeaal, 4-1-20, Positief. Als u de precieze datum niet meer herinnert, geef dan een zo precies mogelijke schatting."
- ,QID36_QuestionText,"Did you receive an antibody test?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID36_Choice1,"Yes, I was tested at least once for antibodies"
- ,QID36_Choice2,"No, I was NOT tested at all for antibodies"
- ,QID37_QuestionText,"How many times were you tested for antibodies?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID38_QuestionText,"What was your antibody test result?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID38_Choice1,I tested positive for both (IgG and IgM) antibodies
- ,QID38_Choice2,I only tested positive for IgM antibodies
- ,QID38_Choice3,I only tested positive for IgG antibodies
- ,QID38_Choice4,I tested negative for antibodies
- ,QID38_Choice5,I don't know the antibodies type but I tested positive.
- ,QID39_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgM?&nbsp;"
- ,QID40_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgG?&nbsp;"
- ,QID41_QuestionText,"What type of test was it?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID41_Choice1,Blood Draw
- ,QID41_Choice2,Blood Finger Prick
- ,QID333_QuestionText,"Enter the date of the antibody test (if you don't remember the exact date, enter an estimate).&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID333_Choice1,Please Select:
- ,QID333_Subquestion1_QuestionText,Month
- ,QID333_Subquestion1_Choice1,Please Select:
- ,QID333_Subquestion1_Answer1,January
- ,QID333_Subquestion1_Answer2,February
- ,QID333_Subquestion1_Answer3,March
- ,QID333_Subquestion1_Answer4,April
- ,QID333_Subquestion1_Answer5,May
- ,QID333_Subquestion1_Answer6,June
- ,QID333_Subquestion1_Answer7,July
- ,QID333_Subquestion1_Answer8,August
- ,QID333_Subquestion1_Answer9,September
- ,QID333_Subquestion1_Answer10,October
- ,QID333_Subquestion1_Answer11,November
- ,QID333_Subquestion1_Answer12,December
- ,QID333_Subquestion2_QuestionText,Day
- ,QID333_Subquestion2_Choice1,Please Select:
- ,QID333_Subquestion2_Answer1,1
- ,QID333_Subquestion2_Answer2,2
- ,QID333_Subquestion2_Answer3,3
- ,QID333_Subquestion2_Answer4,4
- ,QID333_Subquestion2_Answer5,5
- ,QID333_Subquestion2_Answer6,6
- ,QID333_Subquestion2_Answer7,7
- ,QID333_Subquestion2_Answer8,8
- ,QID333_Subquestion2_Answer9,9
- ,QID333_Subquestion2_Answer10,10
- ,QID333_Subquestion2_Answer11,11
- ,QID333_Subquestion2_Answer12,12
- ,QID333_Subquestion2_Answer13,13
- ,QID333_Subquestion2_Answer14,14
- ,QID333_Subquestion2_Answer15,15
- ,QID333_Subquestion2_Answer16,16
- ,QID333_Subquestion2_Answer17,17
- ,QID333_Subquestion2_Answer18,18
- ,QID333_Subquestion2_Answer19,19
- ,QID333_Subquestion2_Answer20,20
- ,QID333_Subquestion2_Answer21,21
- ,QID333_Subquestion2_Answer22,22
- ,QID333_Subquestion2_Answer23,23
- ,QID333_Subquestion2_Answer24,24
- ,QID333_Subquestion2_Answer25,25
- ,QID333_Subquestion2_Answer26,26
- ,QID333_Subquestion2_Answer27,27
- ,QID333_Subquestion2_Answer28,28
- ,QID333_Subquestion2_Answer29,29
- ,QID333_Subquestion2_Answer30,30
- ,QID333_Subquestion2_Answer31,31
- ,QID333_Subquestion3_QuestionText,Year
- ,QID333_Subquestion3_Choice1,Please Select:
- ,QID333_Subquestion3_Answer1,1900
- ,QID333_Subquestion3_Answer2,1901
- ,QID333_Subquestion3_Answer3,1902
- ,QID333_Subquestion3_Answer4,1903
- ,QID333_Subquestion3_Answer5,1904
- ,QID333_Subquestion3_Answer6,1905
- ,QID333_Subquestion3_Answer7,1906
- ,QID333_Subquestion3_Answer8,1907
- ,QID333_Subquestion3_Answer9,1908
- ,QID333_Subquestion3_Answer10,1909
- ,QID333_Subquestion3_Answer11,1910
- ,QID333_Subquestion3_Answer12,1911
- ,QID333_Subquestion3_Answer13,1912
- ,QID333_Subquestion3_Answer14,1913
- ,QID333_Subquestion3_Answer15,1914
- ,QID333_Subquestion3_Answer16,1915
- ,QID333_Subquestion3_Answer17,1916
- ,QID333_Subquestion3_Answer18,1917
- ,QID333_Subquestion3_Answer19,1918
- ,QID333_Subquestion3_Answer20,1919
- ,QID333_Subquestion3_Answer21,1920
- ,QID333_Subquestion3_Answer22,1921
- ,QID333_Subquestion3_Answer23,1922
- ,QID333_Subquestion3_Answer24,1923
- ,QID333_Subquestion3_Answer25,1924
- ,QID333_Subquestion3_Answer26,1925
- ,QID333_Subquestion3_Answer27,1926
- ,QID333_Subquestion3_Answer28,1927
- ,QID333_Subquestion3_Answer29,1928
- ,QID333_Subquestion3_Answer30,1929
- ,QID333_Subquestion3_Answer31,1930
- ,QID333_Subquestion3_Answer32,1931
- ,QID333_Subquestion3_Answer33,1932
- ,QID333_Subquestion3_Answer34,1933
- ,QID333_Subquestion3_Answer35,1934
- ,QID333_Subquestion3_Answer36,1935
- ,QID333_Subquestion3_Answer37,1936
- ,QID333_Subquestion3_Answer38,1937
- ,QID333_Subquestion3_Answer39,1938
- ,QID333_Subquestion3_Answer40,1939
- ,QID333_Subquestion3_Answer41,1940
- ,QID333_Subquestion3_Answer42,1941
- ,QID333_Subquestion3_Answer43,1942
- ,QID333_Subquestion3_Answer44,1943
- ,QID333_Subquestion3_Answer45,1944
- ,QID333_Subquestion3_Answer46,1945
- ,QID333_Subquestion3_Answer47,1946
- ,QID333_Subquestion3_Answer48,1947
- ,QID333_Subquestion3_Answer49,1948
- ,QID333_Subquestion3_Answer50,1949
- ,QID333_Subquestion3_Answer51,1950
- ,QID333_Subquestion3_Answer52,1951
- ,QID333_Subquestion3_Answer53,1952
- ,QID333_Subquestion3_Answer54,1953
- ,QID333_Subquestion3_Answer55,1954
- ,QID333_Subquestion3_Answer56,1955
- ,QID333_Subquestion3_Answer57,1956
- ,QID333_Subquestion3_Answer58,1957
- ,QID333_Subquestion3_Answer59,1958
- ,QID333_Subquestion3_Answer60,1959
- ,QID333_Subquestion3_Answer61,1960
- ,QID333_Subquestion3_Answer62,1961
- ,QID333_Subquestion3_Answer63,1962
- ,QID333_Subquestion3_Answer64,1963
- ,QID333_Subquestion3_Answer65,1964
- ,QID333_Subquestion3_Answer66,1965
- ,QID333_Subquestion3_Answer67,1966
- ,QID333_Subquestion3_Answer68,1967
- ,QID333_Subquestion3_Answer69,1968
- ,QID333_Subquestion3_Answer70,1969
- ,QID333_Subquestion3_Answer71,1970
- ,QID333_Subquestion3_Answer72,1971
- ,QID333_Subquestion3_Answer73,1972
- ,QID333_Subquestion3_Answer74,1973
- ,QID333_Subquestion3_Answer75,1974
- ,QID333_Subquestion3_Answer76,1975
- ,QID333_Subquestion3_Answer77,1976
- ,QID333_Subquestion3_Answer78,1977
- ,QID333_Subquestion3_Answer79,1978
- ,QID333_Subquestion3_Answer80,1979
- ,QID333_Subquestion3_Answer81,1980
- ,QID333_Subquestion3_Answer82,1981
- ,QID333_Subquestion3_Answer83,1982
- ,QID333_Subquestion3_Answer84,1983
- ,QID333_Subquestion3_Answer85,1984
- ,QID333_Subquestion3_Answer86,1985
- ,QID333_Subquestion3_Answer87,1986
- ,QID333_Subquestion3_Answer88,1987
- ,QID333_Subquestion3_Answer89,1988
- ,QID333_Subquestion3_Answer90,1989
- ,QID333_Subquestion3_Answer91,1990
- ,QID333_Subquestion3_Answer92,1991
- ,QID333_Subquestion3_Answer93,1992
- ,QID333_Subquestion3_Answer94,1993
- ,QID333_Subquestion3_Answer95,1994
- ,QID333_Subquestion3_Answer96,1995
- ,QID333_Subquestion3_Answer97,1996
- ,QID333_Subquestion3_Answer98,1997
- ,QID333_Subquestion3_Answer99,1998
- ,QID333_Subquestion3_Answer100,1999
- ,QID333_Subquestion3_Answer101,2000
- ,QID333_Subquestion3_Answer102,2001
- ,QID333_Subquestion3_Answer103,2002
- ,QID333_Subquestion3_Answer104,2003
- ,QID333_Subquestion3_Answer105,2004
- ,QID333_Subquestion3_Answer106,2005
- ,QID333_Subquestion3_Answer107,2006
- ,QID333_Subquestion3_Answer108,2007
- ,QID333_Subquestion3_Answer109,2008
- ,QID333_Subquestion3_Answer110,2009
- ,QID333_Subquestion3_Answer111,2010
- ,QID333_Subquestion3_Answer112,2011
- ,QID333_Subquestion3_Answer113,2012
- ,QID333_Subquestion3_Answer114,2013
- ,QID333_Subquestion3_Answer115,2014
- ,QID333_Subquestion3_Answer116,2015
- ,QID333_Subquestion3_Answer117,2016
- ,QID333_Subquestion3_Answer118,2017
- ,QID333_Subquestion3_Answer119,2018
- ,QID333_Subquestion3_Answer120,2019
- ,QID333_Subquestion3_Answer121,2020
- ,QID333_Subquestion3_Answer122,2021
- ,QID333_Subquestion3_Answer123,2022
- ,QID333_Subquestion3_Answer124,2023
- ,QID333_Subquestion3_Answer125,2024
- ,QID333_Subquestion3_Answer126,2025
- ,QID333_Subquestion3_Answer127,2026
- ,QID333_Subquestion3_Answer128,2027
- ,QID333_Subquestion3_Answer129,2028
- ,QID333_Subquestion3_Answer130,2029
- ,QID333_Subquestion3_Answer131,2030
- ,QID333_Subquestion3_Answer132,2031
- ,QID333_Subquestion3_Answer133,2032
- ,QID333_Subquestion3_Answer134,2033
- ,QID333_Subquestion3_Answer135,2034
- ,QID333_Subquestion3_Answer136,2035
- ,QID333_Subquestion3_Answer137,2036
- ,QID333_Subquestion3_Answer138,2037
- ,QID333_Subquestion3_Answer139,2038
- ,QID333_Subquestion3_Answer140,2039
- ,QID333_Subquestion3_Answer141,2040
- ,QID333_Subquestion3_Answer142,2041
- ,QID333_Subquestion3_Answer143,2042
- ,QID333_Subquestion3_Answer144,2043
- ,QID333_Subquestion3_Answer145,2044
- ,QID333_Subquestion3_Answer146,2045
- ,QID333_Subquestion3_Answer147,2046
- ,QID333_Subquestion3_Answer148,2047
- ,QID333_Subquestion3_Answer149,2048
- ,QID333_Subquestion3_Answer150,2049
- ,QID299_QuestionText,Was this an estimated date?
- ,QID299_Choice1,This was an estimated date
- ,QID43_QuestionText,"Who was the manufacturer of the test? (Please only select the specific manufacturer if you are certain. Otherwise select ""I don’t know."")&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID43_Choice1,Abbott
- ,QID43_Choice2,Roche
- ,QID43_Choice3,Mt. Sinai
- ,QID43_Choice4,EuroImmun
- ,QID43_Choice5,Ortho-Clinical Diagnostics Vitros
- ,QID43_Choice6,DiaSorin
- ,QID43_Choice7,I don't know
- ,QID45_QuestionText,"Do you have another antibody test to report?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID45_Choice1,Yes
- ,QID45_Choice2,No
- ,QID46_QuestionText,"What was your antibody test result?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID46_Choice1,I tested positive for both (IgG and IgM) antibodies
- ,QID46_Choice2,I only tested positive for IgM antibodies
- ,QID46_Choice3,I only tested positive for IgG antibodies
- ,QID46_Choice4,I tested negative for antibodies
- ,QID46_Choice5,I don't know the antibodies type but I tested positive.
- ,QID47_QuestionText,"If you tested positive and your test included a titer value, what was the value (in&nbsp;<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">mg/dL)&nbsp;</span>for IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID48_QuestionText,"If you tested positive and your test included a titer value, what was the value (in&nbsp;<span style=""font-family: arial, sans-serif; color: rgb(34, 34, 34); font-size: 14px;"">mg/dL)</span>&nbsp;for<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">&nbsp;</span>IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID49_QuestionText,"What type of test was it?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID49_Choice1,Blood Draw
- ,QID49_Choice2,Blood Finger Prick
- ,QID334_QuestionText,"Enter the date of the antibody test (if you don't remember the exact date, enter an estimate).&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID334_Choice1,Please Select:
- ,QID334_Subquestion1_QuestionText,Month
- ,QID334_Subquestion1_Choice1,Please Select:
- ,QID334_Subquestion1_Answer1,January
- ,QID334_Subquestion1_Answer2,February
- ,QID334_Subquestion1_Answer3,March
- ,QID334_Subquestion1_Answer4,April
- ,QID334_Subquestion1_Answer5,May
- ,QID334_Subquestion1_Answer6,June
- ,QID334_Subquestion1_Answer7,July
- ,QID334_Subquestion1_Answer8,August
- ,QID334_Subquestion1_Answer9,September
- ,QID334_Subquestion1_Answer10,October
- ,QID334_Subquestion1_Answer11,November
- ,QID334_Subquestion1_Answer12,December
- ,QID334_Subquestion2_QuestionText,Day
- ,QID334_Subquestion2_Choice1,Please Select:
- ,QID334_Subquestion2_Answer1,1
- ,QID334_Subquestion2_Answer2,2
- ,QID334_Subquestion2_Answer3,3
- ,QID334_Subquestion2_Answer4,4
- ,QID334_Subquestion2_Answer5,5
- ,QID334_Subquestion2_Answer6,6
- ,QID334_Subquestion2_Answer7,7
- ,QID334_Subquestion2_Answer8,8
- ,QID334_Subquestion2_Answer9,9
- ,QID334_Subquestion2_Answer10,10
- ,QID334_Subquestion2_Answer11,11
- ,QID334_Subquestion2_Answer12,12
- ,QID334_Subquestion2_Answer13,13
- ,QID334_Subquestion2_Answer14,14
- ,QID334_Subquestion2_Answer15,15
- ,QID334_Subquestion2_Answer16,16
- ,QID334_Subquestion2_Answer17,17
- ,QID334_Subquestion2_Answer18,18
- ,QID334_Subquestion2_Answer19,19
- ,QID334_Subquestion2_Answer20,20
- ,QID334_Subquestion2_Answer21,21
- ,QID334_Subquestion2_Answer22,22
- ,QID334_Subquestion2_Answer23,23
- ,QID334_Subquestion2_Answer24,24
- ,QID334_Subquestion2_Answer25,25
- ,QID334_Subquestion2_Answer26,26
- ,QID334_Subquestion2_Answer27,27
- ,QID334_Subquestion2_Answer28,28
- ,QID334_Subquestion2_Answer29,29
- ,QID334_Subquestion2_Answer30,30
- ,QID334_Subquestion2_Answer31,31
- ,QID334_Subquestion3_QuestionText,Year
- ,QID334_Subquestion3_Choice1,Please Select:
- ,QID334_Subquestion3_Answer1,1900
- ,QID334_Subquestion3_Answer2,1901
- ,QID334_Subquestion3_Answer3,1902
- ,QID334_Subquestion3_Answer4,1903
- ,QID334_Subquestion3_Answer5,1904
- ,QID334_Subquestion3_Answer6,1905
- ,QID334_Subquestion3_Answer7,1906
- ,QID334_Subquestion3_Answer8,1907
- ,QID334_Subquestion3_Answer9,1908
- ,QID334_Subquestion3_Answer10,1909
- ,QID334_Subquestion3_Answer11,1910
- ,QID334_Subquestion3_Answer12,1911
- ,QID334_Subquestion3_Answer13,1912
- ,QID334_Subquestion3_Answer14,1913
- ,QID334_Subquestion3_Answer15,1914
- ,QID334_Subquestion3_Answer16,1915
- ,QID334_Subquestion3_Answer17,1916
- ,QID334_Subquestion3_Answer18,1917
- ,QID334_Subquestion3_Answer19,1918
- ,QID334_Subquestion3_Answer20,1919
- ,QID334_Subquestion3_Answer21,1920
- ,QID334_Subquestion3_Answer22,1921
- ,QID334_Subquestion3_Answer23,1922
- ,QID334_Subquestion3_Answer24,1923
- ,QID334_Subquestion3_Answer25,1924
- ,QID334_Subquestion3_Answer26,1925
- ,QID334_Subquestion3_Answer27,1926
- ,QID334_Subquestion3_Answer28,1927
- ,QID334_Subquestion3_Answer29,1928
- ,QID334_Subquestion3_Answer30,1929
- ,QID334_Subquestion3_Answer31,1930
- ,QID334_Subquestion3_Answer32,1931
- ,QID334_Subquestion3_Answer33,1932
- ,QID334_Subquestion3_Answer34,1933
- ,QID334_Subquestion3_Answer35,1934
- ,QID334_Subquestion3_Answer36,1935
- ,QID334_Subquestion3_Answer37,1936
- ,QID334_Subquestion3_Answer38,1937
- ,QID334_Subquestion3_Answer39,1938
- ,QID334_Subquestion3_Answer40,1939
- ,QID334_Subquestion3_Answer41,1940
- ,QID334_Subquestion3_Answer42,1941
- ,QID334_Subquestion3_Answer43,1942
- ,QID334_Subquestion3_Answer44,1943
- ,QID334_Subquestion3_Answer45,1944
- ,QID334_Subquestion3_Answer46,1945
- ,QID334_Subquestion3_Answer47,1946
- ,QID334_Subquestion3_Answer48,1947
- ,QID334_Subquestion3_Answer49,1948
- ,QID334_Subquestion3_Answer50,1949
- ,QID334_Subquestion3_Answer51,1950
- ,QID334_Subquestion3_Answer52,1951
- ,QID334_Subquestion3_Answer53,1952
- ,QID334_Subquestion3_Answer54,1953
- ,QID334_Subquestion3_Answer55,1954
- ,QID334_Subquestion3_Answer56,1955
- ,QID334_Subquestion3_Answer57,1956
- ,QID334_Subquestion3_Answer58,1957
- ,QID334_Subquestion3_Answer59,1958
- ,QID334_Subquestion3_Answer60,1959
- ,QID334_Subquestion3_Answer61,1960
- ,QID334_Subquestion3_Answer62,1961
- ,QID334_Subquestion3_Answer63,1962
- ,QID334_Subquestion3_Answer64,1963
- ,QID334_Subquestion3_Answer65,1964
- ,QID334_Subquestion3_Answer66,1965
- ,QID334_Subquestion3_Answer67,1966
- ,QID334_Subquestion3_Answer68,1967
- ,QID334_Subquestion3_Answer69,1968
- ,QID334_Subquestion3_Answer70,1969
- ,QID334_Subquestion3_Answer71,1970
- ,QID334_Subquestion3_Answer72,1971
- ,QID334_Subquestion3_Answer73,1972
- ,QID334_Subquestion3_Answer74,1973
- ,QID334_Subquestion3_Answer75,1974
- ,QID334_Subquestion3_Answer76,1975
- ,QID334_Subquestion3_Answer77,1976
- ,QID334_Subquestion3_Answer78,1977
- ,QID334_Subquestion3_Answer79,1978
- ,QID334_Subquestion3_Answer80,1979
- ,QID334_Subquestion3_Answer81,1980
- ,QID334_Subquestion3_Answer82,1981
- ,QID334_Subquestion3_Answer83,1982
- ,QID334_Subquestion3_Answer84,1983
- ,QID334_Subquestion3_Answer85,1984
- ,QID334_Subquestion3_Answer86,1985
- ,QID334_Subquestion3_Answer87,1986
- ,QID334_Subquestion3_Answer88,1987
- ,QID334_Subquestion3_Answer89,1988
- ,QID334_Subquestion3_Answer90,1989
- ,QID334_Subquestion3_Answer91,1990
- ,QID334_Subquestion3_Answer92,1991
- ,QID334_Subquestion3_Answer93,1992
- ,QID334_Subquestion3_Answer94,1993
- ,QID334_Subquestion3_Answer95,1994
- ,QID334_Subquestion3_Answer96,1995
- ,QID334_Subquestion3_Answer97,1996
- ,QID334_Subquestion3_Answer98,1997
- ,QID334_Subquestion3_Answer99,1998
- ,QID334_Subquestion3_Answer100,1999
- ,QID334_Subquestion3_Answer101,2000
- ,QID334_Subquestion3_Answer102,2001
- ,QID334_Subquestion3_Answer103,2002
- ,QID334_Subquestion3_Answer104,2003
- ,QID334_Subquestion3_Answer105,2004
- ,QID334_Subquestion3_Answer106,2005
- ,QID334_Subquestion3_Answer107,2006
- ,QID334_Subquestion3_Answer108,2007
- ,QID334_Subquestion3_Answer109,2008
- ,QID334_Subquestion3_Answer110,2009
- ,QID334_Subquestion3_Answer111,2010
- ,QID334_Subquestion3_Answer112,2011
- ,QID334_Subquestion3_Answer113,2012
- ,QID334_Subquestion3_Answer114,2013
- ,QID334_Subquestion3_Answer115,2014
- ,QID334_Subquestion3_Answer116,2015
- ,QID334_Subquestion3_Answer117,2016
- ,QID334_Subquestion3_Answer118,2017
- ,QID334_Subquestion3_Answer119,2018
- ,QID334_Subquestion3_Answer120,2019
- ,QID334_Subquestion3_Answer121,2020
- ,QID334_Subquestion3_Answer122,2021
- ,QID334_Subquestion3_Answer123,2022
- ,QID334_Subquestion3_Answer124,2023
- ,QID334_Subquestion3_Answer125,2024
- ,QID334_Subquestion3_Answer126,2025
- ,QID334_Subquestion3_Answer127,2026
- ,QID334_Subquestion3_Answer128,2027
- ,QID334_Subquestion3_Answer129,2028
- ,QID334_Subquestion3_Answer130,2029
- ,QID334_Subquestion3_Answer131,2030
- ,QID334_Subquestion3_Answer132,2031
- ,QID334_Subquestion3_Answer133,2032
- ,QID334_Subquestion3_Answer134,2033
- ,QID334_Subquestion3_Answer135,2034
- ,QID334_Subquestion3_Answer136,2035
- ,QID334_Subquestion3_Answer137,2036
- ,QID334_Subquestion3_Answer138,2037
- ,QID334_Subquestion3_Answer139,2038
- ,QID334_Subquestion3_Answer140,2039
- ,QID334_Subquestion3_Answer141,2040
- ,QID334_Subquestion3_Answer142,2041
- ,QID334_Subquestion3_Answer143,2042
- ,QID334_Subquestion3_Answer144,2043
- ,QID334_Subquestion3_Answer145,2044
- ,QID334_Subquestion3_Answer146,2045
- ,QID334_Subquestion3_Answer147,2046
- ,QID334_Subquestion3_Answer148,2047
- ,QID334_Subquestion3_Answer149,2048
- ,QID334_Subquestion3_Answer150,2049
- ,QID300_QuestionText,Was this an estimated date?
- ,QID300_Choice1,This was an estimated date
- ,QID51_QuestionText,"Who was the manufacturer of the test? (Please only select specific manufacturer if you are certain. Otherwise select ""I don’t know."")&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID51_Choice1,Abbott
- ,QID51_Choice2,Roche
- ,QID51_Choice3,Mt. Sinai
- ,QID51_Choice4,EuroImmun
- ,QID51_Choice5,Ortho-Clinical Diagnostics Vitros
- ,QID51_Choice6,DiaSorin
- ,QID51_Choice7,I don't know
- ,QID53_QuestionText,"Do you have another antibody test to report?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID53_Choice1,Yes
- ,QID53_Choice2,No
- ,QID54_QuestionText,"What was your antibody test result?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID54_Choice1,I tested positive for both (IgG and IgM) antibodies
- ,QID54_Choice2,I only tested positive for IgM antibodies
- ,QID54_Choice3,I only tested positive for IgG antibodies
- ,QID54_Choice4,I tested negative for antibodies
- ,QID54_Choice5,I don't know the antibodies type but I tested positive.
- ,QID55_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID56_QuestionText,"If you tested positive and your test included a titer value, what was the value for IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID57_QuestionText,"What type of test was it?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID57_Choice1,Blood Draw
- ,QID57_Choice2,Blood Finger Prick
- ,QID335_QuestionText,"Enter the date of the antibody test (if you don't remember the exact date, enter an estimate).&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID335_Choice1,Please Select:
- ,QID335_Subquestion1_QuestionText,Month
- ,QID335_Subquestion1_Choice1,Please Select:
- ,QID335_Subquestion1_Answer1,January
- ,QID335_Subquestion1_Answer2,February
- ,QID335_Subquestion1_Answer3,March
- ,QID335_Subquestion1_Answer4,April
- ,QID335_Subquestion1_Answer5,May
- ,QID335_Subquestion1_Answer6,June
- ,QID335_Subquestion1_Answer7,July
- ,QID335_Subquestion1_Answer8,August
- ,QID335_Subquestion1_Answer9,September
- ,QID335_Subquestion1_Answer10,October
- ,QID335_Subquestion1_Answer11,November
- ,QID335_Subquestion1_Answer12,December
- ,QID335_Subquestion2_QuestionText,Day
- ,QID335_Subquestion2_Choice1,Please Select:
- ,QID335_Subquestion2_Answer1,1
- ,QID335_Subquestion2_Answer2,2
- ,QID335_Subquestion2_Answer3,3
- ,QID335_Subquestion2_Answer4,4
- ,QID335_Subquestion2_Answer5,5
- ,QID335_Subquestion2_Answer6,6
- ,QID335_Subquestion2_Answer7,7
- ,QID335_Subquestion2_Answer8,8
- ,QID335_Subquestion2_Answer9,9
- ,QID335_Subquestion2_Answer10,10
- ,QID335_Subquestion2_Answer11,11
- ,QID335_Subquestion2_Answer12,12
- ,QID335_Subquestion2_Answer13,13
- ,QID335_Subquestion2_Answer14,14
- ,QID335_Subquestion2_Answer15,15
- ,QID335_Subquestion2_Answer16,16
- ,QID335_Subquestion2_Answer17,17
- ,QID335_Subquestion2_Answer18,18
- ,QID335_Subquestion2_Answer19,19
- ,QID335_Subquestion2_Answer20,20
- ,QID335_Subquestion2_Answer21,21
- ,QID335_Subquestion2_Answer22,22
- ,QID335_Subquestion2_Answer23,23
- ,QID335_Subquestion2_Answer24,24
- ,QID335_Subquestion2_Answer25,25
- ,QID335_Subquestion2_Answer26,26
- ,QID335_Subquestion2_Answer27,27
- ,QID335_Subquestion2_Answer28,28
- ,QID335_Subquestion2_Answer29,29
- ,QID335_Subquestion2_Answer30,30
- ,QID335_Subquestion2_Answer31,31
- ,QID335_Subquestion3_QuestionText,Year
- ,QID335_Subquestion3_Choice1,Please Select:
- ,QID335_Subquestion3_Answer1,1900
- ,QID335_Subquestion3_Answer2,1901
- ,QID335_Subquestion3_Answer3,1902
- ,QID335_Subquestion3_Answer4,1903
- ,QID335_Subquestion3_Answer5,1904
- ,QID335_Subquestion3_Answer6,1905
- ,QID335_Subquestion3_Answer7,1906
- ,QID335_Subquestion3_Answer8,1907
- ,QID335_Subquestion3_Answer9,1908
- ,QID335_Subquestion3_Answer10,1909
- ,QID335_Subquestion3_Answer11,1910
- ,QID335_Subquestion3_Answer12,1911
- ,QID335_Subquestion3_Answer13,1912
- ,QID335_Subquestion3_Answer14,1913
- ,QID335_Subquestion3_Answer15,1914
- ,QID335_Subquestion3_Answer16,1915
- ,QID335_Subquestion3_Answer17,1916
- ,QID335_Subquestion3_Answer18,1917
- ,QID335_Subquestion3_Answer19,1918
- ,QID335_Subquestion3_Answer20,1919
- ,QID335_Subquestion3_Answer21,1920
- ,QID335_Subquestion3_Answer22,1921
- ,QID335_Subquestion3_Answer23,1922
- ,QID335_Subquestion3_Answer24,1923
- ,QID335_Subquestion3_Answer25,1924
- ,QID335_Subquestion3_Answer26,1925
- ,QID335_Subquestion3_Answer27,1926
- ,QID335_Subquestion3_Answer28,1927
- ,QID335_Subquestion3_Answer29,1928
- ,QID335_Subquestion3_Answer30,1929
- ,QID335_Subquestion3_Answer31,1930
- ,QID335_Subquestion3_Answer32,1931
- ,QID335_Subquestion3_Answer33,1932
- ,QID335_Subquestion3_Answer34,1933
- ,QID335_Subquestion3_Answer35,1934
- ,QID335_Subquestion3_Answer36,1935
- ,QID335_Subquestion3_Answer37,1936
- ,QID335_Subquestion3_Answer38,1937
- ,QID335_Subquestion3_Answer39,1938
- ,QID335_Subquestion3_Answer40,1939
- ,QID335_Subquestion3_Answer41,1940
- ,QID335_Subquestion3_Answer42,1941
- ,QID335_Subquestion3_Answer43,1942
- ,QID335_Subquestion3_Answer44,1943
- ,QID335_Subquestion3_Answer45,1944
- ,QID335_Subquestion3_Answer46,1945
- ,QID335_Subquestion3_Answer47,1946
- ,QID335_Subquestion3_Answer48,1947
- ,QID335_Subquestion3_Answer49,1948
- ,QID335_Subquestion3_Answer50,1949
- ,QID335_Subquestion3_Answer51,1950
- ,QID335_Subquestion3_Answer52,1951
- ,QID335_Subquestion3_Answer53,1952
- ,QID335_Subquestion3_Answer54,1953
- ,QID335_Subquestion3_Answer55,1954
- ,QID335_Subquestion3_Answer56,1955
- ,QID335_Subquestion3_Answer57,1956
- ,QID335_Subquestion3_Answer58,1957
- ,QID335_Subquestion3_Answer59,1958
- ,QID335_Subquestion3_Answer60,1959
- ,QID335_Subquestion3_Answer61,1960
- ,QID335_Subquestion3_Answer62,1961
- ,QID335_Subquestion3_Answer63,1962
- ,QID335_Subquestion3_Answer64,1963
- ,QID335_Subquestion3_Answer65,1964
- ,QID335_Subquestion3_Answer66,1965
- ,QID335_Subquestion3_Answer67,1966
- ,QID335_Subquestion3_Answer68,1967
- ,QID335_Subquestion3_Answer69,1968
- ,QID335_Subquestion3_Answer70,1969
- ,QID335_Subquestion3_Answer71,1970
- ,QID335_Subquestion3_Answer72,1971
- ,QID335_Subquestion3_Answer73,1972
- ,QID335_Subquestion3_Answer74,1973
- ,QID335_Subquestion3_Answer75,1974
- ,QID335_Subquestion3_Answer76,1975
- ,QID335_Subquestion3_Answer77,1976
- ,QID335_Subquestion3_Answer78,1977
- ,QID335_Subquestion3_Answer79,1978
- ,QID335_Subquestion3_Answer80,1979
- ,QID335_Subquestion3_Answer81,1980
- ,QID335_Subquestion3_Answer82,1981
- ,QID335_Subquestion3_Answer83,1982
- ,QID335_Subquestion3_Answer84,1983
- ,QID335_Subquestion3_Answer85,1984
- ,QID335_Subquestion3_Answer86,1985
- ,QID335_Subquestion3_Answer87,1986
- ,QID335_Subquestion3_Answer88,1987
- ,QID335_Subquestion3_Answer89,1988
- ,QID335_Subquestion3_Answer90,1989
- ,QID335_Subquestion3_Answer91,1990
- ,QID335_Subquestion3_Answer92,1991
- ,QID335_Subquestion3_Answer93,1992
- ,QID335_Subquestion3_Answer94,1993
- ,QID335_Subquestion3_Answer95,1994
- ,QID335_Subquestion3_Answer96,1995
- ,QID335_Subquestion3_Answer97,1996
- ,QID335_Subquestion3_Answer98,1997
- ,QID335_Subquestion3_Answer99,1998
- ,QID335_Subquestion3_Answer100,1999
- ,QID335_Subquestion3_Answer101,2000
- ,QID335_Subquestion3_Answer102,2001
- ,QID335_Subquestion3_Answer103,2002
- ,QID335_Subquestion3_Answer104,2003
- ,QID335_Subquestion3_Answer105,2004
- ,QID335_Subquestion3_Answer106,2005
- ,QID335_Subquestion3_Answer107,2006
- ,QID335_Subquestion3_Answer108,2007
- ,QID335_Subquestion3_Answer109,2008
- ,QID335_Subquestion3_Answer110,2009
- ,QID335_Subquestion3_Answer111,2010
- ,QID335_Subquestion3_Answer112,2011
- ,QID335_Subquestion3_Answer113,2012
- ,QID335_Subquestion3_Answer114,2013
- ,QID335_Subquestion3_Answer115,2014
- ,QID335_Subquestion3_Answer116,2015
- ,QID335_Subquestion3_Answer117,2016
- ,QID335_Subquestion3_Answer118,2017
- ,QID335_Subquestion3_Answer119,2018
- ,QID335_Subquestion3_Answer120,2019
- ,QID335_Subquestion3_Answer121,2020
- ,QID335_Subquestion3_Answer122,2021
- ,QID335_Subquestion3_Answer123,2022
- ,QID335_Subquestion3_Answer124,2023
- ,QID335_Subquestion3_Answer125,2024
- ,QID335_Subquestion3_Answer126,2025
- ,QID335_Subquestion3_Answer127,2026
- ,QID335_Subquestion3_Answer128,2027
- ,QID335_Subquestion3_Answer129,2028
- ,QID335_Subquestion3_Answer130,2029
- ,QID335_Subquestion3_Answer131,2030
- ,QID335_Subquestion3_Answer132,2031
- ,QID335_Subquestion3_Answer133,2032
- ,QID335_Subquestion3_Answer134,2033
- ,QID335_Subquestion3_Answer135,2034
- ,QID335_Subquestion3_Answer136,2035
- ,QID335_Subquestion3_Answer137,2036
- ,QID335_Subquestion3_Answer138,2037
- ,QID335_Subquestion3_Answer139,2038
- ,QID335_Subquestion3_Answer140,2039
- ,QID335_Subquestion3_Answer141,2040
- ,QID335_Subquestion3_Answer142,2041
- ,QID335_Subquestion3_Answer143,2042
- ,QID335_Subquestion3_Answer144,2043
- ,QID335_Subquestion3_Answer145,2044
- ,QID335_Subquestion3_Answer146,2045
- ,QID335_Subquestion3_Answer147,2046
- ,QID335_Subquestion3_Answer148,2047
- ,QID335_Subquestion3_Answer149,2048
- ,QID335_Subquestion3_Answer150,2049
- ,QID301_QuestionText,Was this an estimated date?
- ,QID301_Choice1,This was an estimated date
- ,QID59_QuestionText,"Who was the manufacturer of the test? (Please only select specific manufacturer if you are certain. Otherwise select ""I don’t know."")&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID59_Choice1,Abbott
- ,QID59_Choice2,Roche
- ,QID59_Choice3,Mt. Sinai
- ,QID59_Choice4,EuroImmun
- ,QID59_Choice5,Ortho-Clinical Diagnostics Vitros
- ,QID59_Choice6,DiaSorin
- ,QID59_Choice7,I don't know
+V,QID36_QuestionText,"Heeft u een antistoffentest gehad?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID36_Choice1,"Ja, ik ben ten minste één keer op antistoffen getest"
+V,QID36_Choice2,"Nee, ik ben NIET getest op antistoffen"
+V,QID37_QuestionText,"Hoe vaak bent u op antistoffen getest?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID38_QuestionText,"Wat was de uitslag van uw antistoffentest?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID38_Choice1,De uitslag was positief voor beide (IgG en IgM) antistoffen
+V,QID38_Choice2,De uitslag was positief alleen voor IgM antistoffen
+V,QID38_Choice3,De uitslag was positief alleen voor IgG antistoffen
+V,QID38_Choice4,De uitslag was negatief voor antistoffen
+V,QID38_Choice5,Ik weet niet welke antistoffen, maar de uitslag was positief
+V,QID39_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgM?&nbsp;"
+V,QID40_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgG?&nbsp;"
+V,QID41_QuestionText,"Wat voor soort test was het?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID41_Choice1,Bloedafname
+V,QID41_Choice2,Vingerprik
+V,QID333_QuestionText,"Op welke datum was uw antistoffentest? (als u de precieze datum niet meer herinnert, geef een schatting)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+V,QID333_Choice1,Maak een keuze:
+V,QID333_Subquestion1_QuestionText,Maand
+V,QID333_Subquestion1_Choice1,Maak een keuze:
+V,QID333_Subquestion1_Answer1,januari
+V,QID333_Subquestion1_Answer2,februari
+V,QID333_Subquestion1_Answer3,maart
+V,QID333_Subquestion1_Answer4,april
+V,QID333_Subquestion1_Answer5,mei
+V,QID333_Subquestion1_Answer6,juni
+V,QID333_Subquestion1_Answer7,juli
+V,QID333_Subquestion1_Answer8,augustus
+V,QID333_Subquestion1_Answer9,september
+V,QID333_Subquestion1_Answer10,oktober
+V,QID333_Subquestion1_Answer11,november
+V,QID333_Subquestion1_Answer12,december
+V,QID333_Subquestion2_QuestionText,Dag
+V,QID333_Subquestion2_Choice1,Maak een keuze:
+V,QID333_Subquestion2_Answer1,1
+V,QID333_Subquestion2_Answer2,2
+V,QID333_Subquestion2_Answer3,3
+V,QID333_Subquestion2_Answer4,4
+V,QID333_Subquestion2_Answer5,5
+V,QID333_Subquestion2_Answer6,6
+V,QID333_Subquestion2_Answer7,7
+V,QID333_Subquestion2_Answer8,8
+V,QID333_Subquestion2_Answer9,9
+V,QID333_Subquestion2_Answer10,10
+V,QID333_Subquestion2_Answer11,11
+V,QID333_Subquestion2_Answer12,12
+V,QID333_Subquestion2_Answer13,13
+V,QID333_Subquestion2_Answer14,14
+V,QID333_Subquestion2_Answer15,15
+V,QID333_Subquestion2_Answer16,16
+V,QID333_Subquestion2_Answer17,17
+V,QID333_Subquestion2_Answer18,18
+V,QID333_Subquestion2_Answer19,19
+V,QID333_Subquestion2_Answer20,20
+V,QID333_Subquestion2_Answer21,21
+V,QID333_Subquestion2_Answer22,22
+V,QID333_Subquestion2_Answer23,23
+V,QID333_Subquestion2_Answer24,24
+V,QID333_Subquestion2_Answer25,25
+V,QID333_Subquestion2_Answer26,26
+V,QID333_Subquestion2_Answer27,27
+V,QID333_Subquestion2_Answer28,28
+V,QID333_Subquestion2_Answer29,29
+V,QID333_Subquestion2_Answer30,30
+V,QID333_Subquestion2_Answer31,31
+V,QID333_Subquestion3_QuestionText,Jaar
+V,QID333_Subquestion3_Choice1,Maak een keuze:
+V,QID333_Subquestion3_Answer1,1900
+V,QID333_Subquestion3_Answer2,1901
+V,QID333_Subquestion3_Answer3,1902
+V,QID333_Subquestion3_Answer4,1903
+V,QID333_Subquestion3_Answer5,1904
+V,QID333_Subquestion3_Answer6,1905
+V,QID333_Subquestion3_Answer7,1906
+V,QID333_Subquestion3_Answer8,1907
+V,QID333_Subquestion3_Answer9,1908
+V,QID333_Subquestion3_Answer10,1909
+V,QID333_Subquestion3_Answer11,1910
+V,QID333_Subquestion3_Answer12,1911
+V,QID333_Subquestion3_Answer13,1912
+V,QID333_Subquestion3_Answer14,1913
+V,QID333_Subquestion3_Answer15,1914
+V,QID333_Subquestion3_Answer16,1915
+V,QID333_Subquestion3_Answer17,1916
+V,QID333_Subquestion3_Answer18,1917
+V,QID333_Subquestion3_Answer19,1918
+V,QID333_Subquestion3_Answer20,1919
+V,QID333_Subquestion3_Answer21,1920
+V,QID333_Subquestion3_Answer22,1921
+V,QID333_Subquestion3_Answer23,1922
+V,QID333_Subquestion3_Answer24,1923
+V,QID333_Subquestion3_Answer25,1924
+V,QID333_Subquestion3_Answer26,1925
+V,QID333_Subquestion3_Answer27,1926
+V,QID333_Subquestion3_Answer28,1927
+V,QID333_Subquestion3_Answer29,1928
+V,QID333_Subquestion3_Answer30,1929
+V,QID333_Subquestion3_Answer31,1930
+V,QID333_Subquestion3_Answer32,1931
+V,QID333_Subquestion3_Answer33,1932
+V,QID333_Subquestion3_Answer34,1933
+V,QID333_Subquestion3_Answer35,1934
+V,QID333_Subquestion3_Answer36,1935
+V,QID333_Subquestion3_Answer37,1936
+V,QID333_Subquestion3_Answer38,1937
+V,QID333_Subquestion3_Answer39,1938
+V,QID333_Subquestion3_Answer40,1939
+V,QID333_Subquestion3_Answer41,1940
+V,QID333_Subquestion3_Answer42,1941
+V,QID333_Subquestion3_Answer43,1942
+V,QID333_Subquestion3_Answer44,1943
+V,QID333_Subquestion3_Answer45,1944
+V,QID333_Subquestion3_Answer46,1945
+V,QID333_Subquestion3_Answer47,1946
+V,QID333_Subquestion3_Answer48,1947
+V,QID333_Subquestion3_Answer49,1948
+V,QID333_Subquestion3_Answer50,1949
+V,QID333_Subquestion3_Answer51,1950
+V,QID333_Subquestion3_Answer52,1951
+V,QID333_Subquestion3_Answer53,1952
+V,QID333_Subquestion3_Answer54,1953
+V,QID333_Subquestion3_Answer55,1954
+V,QID333_Subquestion3_Answer56,1955
+V,QID333_Subquestion3_Answer57,1956
+V,QID333_Subquestion3_Answer58,1957
+V,QID333_Subquestion3_Answer59,1958
+V,QID333_Subquestion3_Answer60,1959
+V,QID333_Subquestion3_Answer61,1960
+V,QID333_Subquestion3_Answer62,1961
+V,QID333_Subquestion3_Answer63,1962
+V,QID333_Subquestion3_Answer64,1963
+V,QID333_Subquestion3_Answer65,1964
+V,QID333_Subquestion3_Answer66,1965
+V,QID333_Subquestion3_Answer67,1966
+V,QID333_Subquestion3_Answer68,1967
+V,QID333_Subquestion3_Answer69,1968
+V,QID333_Subquestion3_Answer70,1969
+V,QID333_Subquestion3_Answer71,1970
+V,QID333_Subquestion3_Answer72,1971
+V,QID333_Subquestion3_Answer73,1972
+V,QID333_Subquestion3_Answer74,1973
+V,QID333_Subquestion3_Answer75,1974
+V,QID333_Subquestion3_Answer76,1975
+V,QID333_Subquestion3_Answer77,1976
+V,QID333_Subquestion3_Answer78,1977
+V,QID333_Subquestion3_Answer79,1978
+V,QID333_Subquestion3_Answer80,1979
+V,QID333_Subquestion3_Answer81,1980
+V,QID333_Subquestion3_Answer82,1981
+V,QID333_Subquestion3_Answer83,1982
+V,QID333_Subquestion3_Answer84,1983
+V,QID333_Subquestion3_Answer85,1984
+V,QID333_Subquestion3_Answer86,1985
+V,QID333_Subquestion3_Answer87,1986
+V,QID333_Subquestion3_Answer88,1987
+V,QID333_Subquestion3_Answer89,1988
+V,QID333_Subquestion3_Answer90,1989
+V,QID333_Subquestion3_Answer91,1990
+V,QID333_Subquestion3_Answer92,1991
+V,QID333_Subquestion3_Answer93,1992
+V,QID333_Subquestion3_Answer94,1993
+V,QID333_Subquestion3_Answer95,1994
+V,QID333_Subquestion3_Answer96,1995
+V,QID333_Subquestion3_Answer97,1996
+V,QID333_Subquestion3_Answer98,1997
+V,QID333_Subquestion3_Answer99,1998
+V,QID333_Subquestion3_Answer100,1999
+V,QID333_Subquestion3_Answer101,2000
+V,QID333_Subquestion3_Answer102,2001
+V,QID333_Subquestion3_Answer103,2002
+V,QID333_Subquestion3_Answer104,2003
+V,QID333_Subquestion3_Answer105,2004
+V,QID333_Subquestion3_Answer106,2005
+V,QID333_Subquestion3_Answer107,2006
+V,QID333_Subquestion3_Answer108,2007
+V,QID333_Subquestion3_Answer109,2008
+V,QID333_Subquestion3_Answer110,2009
+V,QID333_Subquestion3_Answer111,2010
+V,QID333_Subquestion3_Answer112,2011
+V,QID333_Subquestion3_Answer113,2012
+V,QID333_Subquestion3_Answer114,2013
+V,QID333_Subquestion3_Answer115,2014
+V,QID333_Subquestion3_Answer116,2015
+V,QID333_Subquestion3_Answer117,2016
+V,QID333_Subquestion3_Answer118,2017
+V,QID333_Subquestion3_Answer119,2018
+V,QID333_Subquestion3_Answer120,2019
+V,QID333_Subquestion3_Answer121,2020
+V,QID333_Subquestion3_Answer122,2021
+V,QID333_Subquestion3_Answer123,2022
+V,QID333_Subquestion3_Answer124,2023
+V,QID333_Subquestion3_Answer125,2024
+V,QID333_Subquestion3_Answer126,2025
+V,QID333_Subquestion3_Answer127,2026
+V,QID333_Subquestion3_Answer128,2027
+V,QID333_Subquestion3_Answer129,2028
+V,QID333_Subquestion3_Answer130,2029
+V,QID333_Subquestion3_Answer131,2030
+V,QID333_Subquestion3_Answer132,2031
+V,QID333_Subquestion3_Answer133,2032
+V,QID333_Subquestion3_Answer134,2033
+V,QID333_Subquestion3_Answer135,2034
+V,QID333_Subquestion3_Answer136,2035
+V,QID333_Subquestion3_Answer137,2036
+V,QID333_Subquestion3_Answer138,2037
+V,QID333_Subquestion3_Answer139,2038
+V,QID333_Subquestion3_Answer140,2039
+V,QID333_Subquestion3_Answer141,2040
+V,QID333_Subquestion3_Answer142,2041
+V,QID333_Subquestion3_Answer143,2042
+V,QID333_Subquestion3_Answer144,2043
+V,QID333_Subquestion3_Answer145,2044
+V,QID333_Subquestion3_Answer146,2045
+V,QID333_Subquestion3_Answer147,2046
+V,QID333_Subquestion3_Answer148,2047
+V,QID333_Subquestion3_Answer149,2048
+V,QID333_Subquestion3_Answer150,2049
+V,QID299_QuestionText,Was dit een geschatte datum?
+V,QID299_Choice1,Dit was een geschatte datum
+V,QID43_QuestionText,"Wie was de producent van de test? (Kies alleen een producent als u het zeker weet. Als u het niet zeker weet, kies ""Weet ik niet"")&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID43_Choice1,Abbott
+V,QID43_Choice2,Roche
+V,QID43_Choice3,Mt. Sinai
+V,QID43_Choice4,EuroImmun
+V,QID43_Choice5,Ortho-Clinical Diagnostics Vitros
+V,QID43_Choice6,DiaSorin
+V,QID43_Choice7,Weet ik niet
+V,QID45_QuestionText,"Heeft u nog een antistoffentest aan te geven?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID45_Choice1,Ja
+V,QID45_Choice2,Nee
+V,QID46_QuestionText,"Wat was het resultaat van uw antistoffentest?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID46_Choice1,De uitslag was positief voor beide (IgG en IgM) antistoffen
+V,QID46_Choice2,De uitslag was positief alleen voor IgM antistoffen
+V,QID46_Choice3,De uitslag was positief alleen voor IgG antistoffen
+V,QID46_Choice4,De uitslag was negatief voor antistoffen
+V,QID46_Choice5,Ik weet niet welke antistoffen, maar de uitslag was positief
+V,QID47_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde (in&nbsp;<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">mg/dL)&nbsp;</span>voor IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID48_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde (in&nbsp;<span style=""font-family: arial, sans-serif; color: rgb(34, 34, 34); font-size: 14px;"">mg/dL)</span>&nbsp;voor<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">&nbsp;</span>IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID49_QuestionText,"Wat voor soort test was het?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID49_Choice1,Bloedafname
+V,QID49_Choice2,Vingerprik
+V,QID334_QuestionText,"Op welke datum was uw antistoffentest? (als u de precieze datum niet meer herinnert, geef een schatting)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+V,QID334_Choice1,Maak een keuze:
+V,QID334_Subquestion1_QuestionText,Maand
+V,QID334_Subquestion1_Choice1,Maak een keuze:
+V,QID334_Subquestion1_Answer1,januari
+V,QID334_Subquestion1_Answer2,februari
+V,QID334_Subquestion1_Answer3,maart
+V,QID334_Subquestion1_Answer4,april
+V,QID334_Subquestion1_Answer5,mei
+V,QID334_Subquestion1_Answer6,juni
+V,QID334_Subquestion1_Answer7,juli
+V,QID334_Subquestion1_Answer8,augustus
+V,QID334_Subquestion1_Answer9,september
+V,QID334_Subquestion1_Answer10,oktober
+V,QID334_Subquestion1_Answer11,november
+V,QID334_Subquestion1_Answer12,december
+V,QID334_Subquestion2_QuestionText,Dag
+V,QID334_Subquestion2_Choice1,Maak een keuze:
+V,QID334_Subquestion2_Answer1,1
+V,QID334_Subquestion2_Answer2,2
+V,QID334_Subquestion2_Answer3,3
+V,QID334_Subquestion2_Answer4,4
+V,QID334_Subquestion2_Answer5,5
+V,QID334_Subquestion2_Answer6,6
+V,QID334_Subquestion2_Answer7,7
+V,QID334_Subquestion2_Answer8,8
+V,QID334_Subquestion2_Answer9,9
+V,QID334_Subquestion2_Answer10,10
+V,QID334_Subquestion2_Answer11,11
+V,QID334_Subquestion2_Answer12,12
+V,QID334_Subquestion2_Answer13,13
+V,QID334_Subquestion2_Answer14,14
+V,QID334_Subquestion2_Answer15,15
+V,QID334_Subquestion2_Answer16,16
+V,QID334_Subquestion2_Answer17,17
+V,QID334_Subquestion2_Answer18,18
+V,QID334_Subquestion2_Answer19,19
+V,QID334_Subquestion2_Answer20,20
+V,QID334_Subquestion2_Answer21,21
+V,QID334_Subquestion2_Answer22,22
+V,QID334_Subquestion2_Answer23,23
+V,QID334_Subquestion2_Answer24,24
+V,QID334_Subquestion2_Answer25,25
+V,QID334_Subquestion2_Answer26,26
+V,QID334_Subquestion2_Answer27,27
+V,QID334_Subquestion2_Answer28,28
+V,QID334_Subquestion2_Answer29,29
+V,QID334_Subquestion2_Answer30,30
+V,QID334_Subquestion2_Answer31,31
+V,QID334_Subquestion3_QuestionText,Jaar
+V,QID334_Subquestion3_Choice1,Maak een keuze:
+V,QID334_Subquestion3_Answer1,1900
+V,QID334_Subquestion3_Answer2,1901
+V,QID334_Subquestion3_Answer3,1902
+V,QID334_Subquestion3_Answer4,1903
+V,QID334_Subquestion3_Answer5,1904
+V,QID334_Subquestion3_Answer6,1905
+V,QID334_Subquestion3_Answer7,1906
+V,QID334_Subquestion3_Answer8,1907
+V,QID334_Subquestion3_Answer9,1908
+V,QID334_Subquestion3_Answer10,1909
+V,QID334_Subquestion3_Answer11,1910
+V,QID334_Subquestion3_Answer12,1911
+V,QID334_Subquestion3_Answer13,1912
+V,QID334_Subquestion3_Answer14,1913
+V,QID334_Subquestion3_Answer15,1914
+V,QID334_Subquestion3_Answer16,1915
+V,QID334_Subquestion3_Answer17,1916
+V,QID334_Subquestion3_Answer18,1917
+V,QID334_Subquestion3_Answer19,1918
+V,QID334_Subquestion3_Answer20,1919
+V,QID334_Subquestion3_Answer21,1920
+V,QID334_Subquestion3_Answer22,1921
+V,QID334_Subquestion3_Answer23,1922
+V,QID334_Subquestion3_Answer24,1923
+V,QID334_Subquestion3_Answer25,1924
+V,QID334_Subquestion3_Answer26,1925
+V,QID334_Subquestion3_Answer27,1926
+V,QID334_Subquestion3_Answer28,1927
+V,QID334_Subquestion3_Answer29,1928
+V,QID334_Subquestion3_Answer30,1929
+V,QID334_Subquestion3_Answer31,1930
+V,QID334_Subquestion3_Answer32,1931
+V,QID334_Subquestion3_Answer33,1932
+V,QID334_Subquestion3_Answer34,1933
+V,QID334_Subquestion3_Answer35,1934
+V,QID334_Subquestion3_Answer36,1935
+V,QID334_Subquestion3_Answer37,1936
+V,QID334_Subquestion3_Answer38,1937
+V,QID334_Subquestion3_Answer39,1938
+V,QID334_Subquestion3_Answer40,1939
+V,QID334_Subquestion3_Answer41,1940
+V,QID334_Subquestion3_Answer42,1941
+V,QID334_Subquestion3_Answer43,1942
+V,QID334_Subquestion3_Answer44,1943
+V,QID334_Subquestion3_Answer45,1944
+V,QID334_Subquestion3_Answer46,1945
+V,QID334_Subquestion3_Answer47,1946
+V,QID334_Subquestion3_Answer48,1947
+V,QID334_Subquestion3_Answer49,1948
+V,QID334_Subquestion3_Answer50,1949
+V,QID334_Subquestion3_Answer51,1950
+V,QID334_Subquestion3_Answer52,1951
+V,QID334_Subquestion3_Answer53,1952
+V,QID334_Subquestion3_Answer54,1953
+V,QID334_Subquestion3_Answer55,1954
+V,QID334_Subquestion3_Answer56,1955
+V,QID334_Subquestion3_Answer57,1956
+V,QID334_Subquestion3_Answer58,1957
+V,QID334_Subquestion3_Answer59,1958
+V,QID334_Subquestion3_Answer60,1959
+V,QID334_Subquestion3_Answer61,1960
+V,QID334_Subquestion3_Answer62,1961
+V,QID334_Subquestion3_Answer63,1962
+V,QID334_Subquestion3_Answer64,1963
+V,QID334_Subquestion3_Answer65,1964
+V,QID334_Subquestion3_Answer66,1965
+V,QID334_Subquestion3_Answer67,1966
+V,QID334_Subquestion3_Answer68,1967
+V,QID334_Subquestion3_Answer69,1968
+V,QID334_Subquestion3_Answer70,1969
+V,QID334_Subquestion3_Answer71,1970
+V,QID334_Subquestion3_Answer72,1971
+V,QID334_Subquestion3_Answer73,1972
+V,QID334_Subquestion3_Answer74,1973
+V,QID334_Subquestion3_Answer75,1974
+V,QID334_Subquestion3_Answer76,1975
+V,QID334_Subquestion3_Answer77,1976
+V,QID334_Subquestion3_Answer78,1977
+V,QID334_Subquestion3_Answer79,1978
+V,QID334_Subquestion3_Answer80,1979
+V,QID334_Subquestion3_Answer81,1980
+V,QID334_Subquestion3_Answer82,1981
+V,QID334_Subquestion3_Answer83,1982
+V,QID334_Subquestion3_Answer84,1983
+V,QID334_Subquestion3_Answer85,1984
+V,QID334_Subquestion3_Answer86,1985
+V,QID334_Subquestion3_Answer87,1986
+V,QID334_Subquestion3_Answer88,1987
+V,QID334_Subquestion3_Answer89,1988
+V,QID334_Subquestion3_Answer90,1989
+V,QID334_Subquestion3_Answer91,1990
+V,QID334_Subquestion3_Answer92,1991
+V,QID334_Subquestion3_Answer93,1992
+V,QID334_Subquestion3_Answer94,1993
+V,QID334_Subquestion3_Answer95,1994
+V,QID334_Subquestion3_Answer96,1995
+V,QID334_Subquestion3_Answer97,1996
+V,QID334_Subquestion3_Answer98,1997
+V,QID334_Subquestion3_Answer99,1998
+V,QID334_Subquestion3_Answer100,1999
+V,QID334_Subquestion3_Answer101,2000
+V,QID334_Subquestion3_Answer102,2001
+V,QID334_Subquestion3_Answer103,2002
+V,QID334_Subquestion3_Answer104,2003
+V,QID334_Subquestion3_Answer105,2004
+V,QID334_Subquestion3_Answer106,2005
+V,QID334_Subquestion3_Answer107,2006
+V,QID334_Subquestion3_Answer108,2007
+V,QID334_Subquestion3_Answer109,2008
+V,QID334_Subquestion3_Answer110,2009
+V,QID334_Subquestion3_Answer111,2010
+V,QID334_Subquestion3_Answer112,2011
+V,QID334_Subquestion3_Answer113,2012
+V,QID334_Subquestion3_Answer114,2013
+V,QID334_Subquestion3_Answer115,2014
+V,QID334_Subquestion3_Answer116,2015
+V,QID334_Subquestion3_Answer117,2016
+V,QID334_Subquestion3_Answer118,2017
+V,QID334_Subquestion3_Answer119,2018
+V,QID334_Subquestion3_Answer120,2019
+V,QID334_Subquestion3_Answer121,2020
+V,QID334_Subquestion3_Answer122,2021
+V,QID334_Subquestion3_Answer123,2022
+V,QID334_Subquestion3_Answer124,2023
+V,QID334_Subquestion3_Answer125,2024
+V,QID334_Subquestion3_Answer126,2025
+V,QID334_Subquestion3_Answer127,2026
+V,QID334_Subquestion3_Answer128,2027
+V,QID334_Subquestion3_Answer129,2028
+V,QID334_Subquestion3_Answer130,2029
+V,QID334_Subquestion3_Answer131,2030
+V,QID334_Subquestion3_Answer132,2031
+V,QID334_Subquestion3_Answer133,2032
+V,QID334_Subquestion3_Answer134,2033
+V,QID334_Subquestion3_Answer135,2034
+V,QID334_Subquestion3_Answer136,2035
+V,QID334_Subquestion3_Answer137,2036
+V,QID334_Subquestion3_Answer138,2037
+V,QID334_Subquestion3_Answer139,2038
+V,QID334_Subquestion3_Answer140,2039
+V,QID334_Subquestion3_Answer141,2040
+V,QID334_Subquestion3_Answer142,2041
+V,QID334_Subquestion3_Answer143,2042
+V,QID334_Subquestion3_Answer144,2043
+V,QID334_Subquestion3_Answer145,2044
+V,QID334_Subquestion3_Answer146,2045
+V,QID334_Subquestion3_Answer147,2046
+V,QID334_Subquestion3_Answer148,2047
+V,QID334_Subquestion3_Answer149,2048
+V,QID334_Subquestion3_Answer150,2049
+V,QID300_QuestionText,Is dit een geschatte datum?
+V,QID300_Choice1,Dit is een geschatte datum
+V,QID51_QuestionText,"Wie was de producent van de test? (Kies alleen een producent als u het zeker weet. Als u het niet zeker weet, kies ""Weet ik niet"")&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID51_Choice1,Abbott
+V,QID51_Choice2,Roche
+V,QID51_Choice3,Mt. Sinai
+V,QID51_Choice4,EuroImmun
+V,QID51_Choice5,Ortho-Clinical Diagnostics Vitros
+V,QID51_Choice6,DiaSorin
+V,QID51_Choice7,Weet ik niet
+V,QID53_QuestionText,"Heeft u nog een antistoffentest aan te geven?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID53_Choice1,Ja
+V,QID53_Choice2,Nee
+V,QID54_QuestionText,"Wat was het resultaat van uw antistoffentest?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID54_Choice1,De uitslag was positief voor beide (IgG en IgM) antistoffen
+V,QID54_Choice2,De uitslag was positief alleen voor IgM antistoffen
+V,QID54_Choice3,De uitslag was positief alleen voor IgG antistoffen
+V,QID54_Choice4,De uitslag was negatief voor antistoffen
+V,QID54_Choice5,Ik weet niet welke antistoffen, maar de uitslag was positief
+V,QID55_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID56_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID57_QuestionText,"Wat voor soort test was het?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID57_Choice1,Bloedafname
+V,QID57_Choice2,Vingerprik
+V,QID335_QuestionText,"Op welke datum was uw antistoffentest? (als u de precieze datum niet meer herinnert, geef een schatting)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+V,QID335_Choice1,Maak een keuze:
+V,QID335_Subquestion1_QuestionText,Maand
+V,QID335_Subquestion1_Choice1,Maak een keuze:
+V,QID335_Subquestion1_Answer1,januari
+V,QID335_Subquestion1_Answer2,februari
+V,QID335_Subquestion1_Answer3,maart
+V,QID335_Subquestion1_Answer4,april
+V,QID335_Subquestion1_Answer5,mei
+V,QID335_Subquestion1_Answer6,juni
+V,QID335_Subquestion1_Answer7,juli
+V,QID335_Subquestion1_Answer8,augustus
+V,QID335_Subquestion1_Answer9,september
+V,QID335_Subquestion1_Answer10,oktober
+V,QID335_Subquestion1_Answer11,november
+V,QID335_Subquestion1_Answer12,december
+V,QID335_Subquestion2_QuestionText,Dag
+V,QID335_Subquestion2_Choice1,Maak een keuze:
+V,QID335_Subquestion2_Answer1,1
+V,QID335_Subquestion2_Answer2,2
+V,QID335_Subquestion2_Answer3,3
+V,QID335_Subquestion2_Answer4,4
+V,QID335_Subquestion2_Answer5,5
+V,QID335_Subquestion2_Answer6,6
+V,QID335_Subquestion2_Answer7,7
+V,QID335_Subquestion2_Answer8,8
+V,QID335_Subquestion2_Answer9,9
+V,QID335_Subquestion2_Answer10,10
+V,QID335_Subquestion2_Answer11,11
+V,QID335_Subquestion2_Answer12,12
+V,QID335_Subquestion2_Answer13,13
+V,QID335_Subquestion2_Answer14,14
+V,QID335_Subquestion2_Answer15,15
+V,QID335_Subquestion2_Answer16,16
+V,QID335_Subquestion2_Answer17,17
+V,QID335_Subquestion2_Answer18,18
+V,QID335_Subquestion2_Answer19,19
+V,QID335_Subquestion2_Answer20,20
+V,QID335_Subquestion2_Answer21,21
+V,QID335_Subquestion2_Answer22,22
+V,QID335_Subquestion2_Answer23,23
+V,QID335_Subquestion2_Answer24,24
+V,QID335_Subquestion2_Answer25,25
+V,QID335_Subquestion2_Answer26,26
+V,QID335_Subquestion2_Answer27,27
+V,QID335_Subquestion2_Answer28,28
+V,QID335_Subquestion2_Answer29,29
+V,QID335_Subquestion2_Answer30,30
+V,QID335_Subquestion2_Answer31,31
+V,QID335_Subquestion3_QuestionText,Jaar
+V,QID335_Subquestion3_Choice1,Maak een keuze:
+V,QID335_Subquestion3_Answer1,1900
+V,QID335_Subquestion3_Answer2,1901
+V,QID335_Subquestion3_Answer3,1902
+V,QID335_Subquestion3_Answer4,1903
+V,QID335_Subquestion3_Answer5,1904
+V,QID335_Subquestion3_Answer6,1905
+V,QID335_Subquestion3_Answer7,1906
+V,QID335_Subquestion3_Answer8,1907
+V,QID335_Subquestion3_Answer9,1908
+V,QID335_Subquestion3_Answer10,1909
+V,QID335_Subquestion3_Answer11,1910
+V,QID335_Subquestion3_Answer12,1911
+V,QID335_Subquestion3_Answer13,1912
+V,QID335_Subquestion3_Answer14,1913
+V,QID335_Subquestion3_Answer15,1914
+V,QID335_Subquestion3_Answer16,1915
+V,QID335_Subquestion3_Answer17,1916
+V,QID335_Subquestion3_Answer18,1917
+V,QID335_Subquestion3_Answer19,1918
+V,QID335_Subquestion3_Answer20,1919
+V,QID335_Subquestion3_Answer21,1920
+V,QID335_Subquestion3_Answer22,1921
+V,QID335_Subquestion3_Answer23,1922
+V,QID335_Subquestion3_Answer24,1923
+V,QID335_Subquestion3_Answer25,1924
+V,QID335_Subquestion3_Answer26,1925
+V,QID335_Subquestion3_Answer27,1926
+V,QID335_Subquestion3_Answer28,1927
+V,QID335_Subquestion3_Answer29,1928
+V,QID335_Subquestion3_Answer30,1929
+V,QID335_Subquestion3_Answer31,1930
+V,QID335_Subquestion3_Answer32,1931
+V,QID335_Subquestion3_Answer33,1932
+V,QID335_Subquestion3_Answer34,1933
+V,QID335_Subquestion3_Answer35,1934
+V,QID335_Subquestion3_Answer36,1935
+V,QID335_Subquestion3_Answer37,1936
+V,QID335_Subquestion3_Answer38,1937
+V,QID335_Subquestion3_Answer39,1938
+V,QID335_Subquestion3_Answer40,1939
+V,QID335_Subquestion3_Answer41,1940
+V,QID335_Subquestion3_Answer42,1941
+V,QID335_Subquestion3_Answer43,1942
+V,QID335_Subquestion3_Answer44,1943
+V,QID335_Subquestion3_Answer45,1944
+V,QID335_Subquestion3_Answer46,1945
+V,QID335_Subquestion3_Answer47,1946
+V,QID335_Subquestion3_Answer48,1947
+V,QID335_Subquestion3_Answer49,1948
+V,QID335_Subquestion3_Answer50,1949
+V,QID335_Subquestion3_Answer51,1950
+V,QID335_Subquestion3_Answer52,1951
+V,QID335_Subquestion3_Answer53,1952
+V,QID335_Subquestion3_Answer54,1953
+V,QID335_Subquestion3_Answer55,1954
+V,QID335_Subquestion3_Answer56,1955
+V,QID335_Subquestion3_Answer57,1956
+V,QID335_Subquestion3_Answer58,1957
+V,QID335_Subquestion3_Answer59,1958
+V,QID335_Subquestion3_Answer60,1959
+V,QID335_Subquestion3_Answer61,1960
+V,QID335_Subquestion3_Answer62,1961
+V,QID335_Subquestion3_Answer63,1962
+V,QID335_Subquestion3_Answer64,1963
+V,QID335_Subquestion3_Answer65,1964
+V,QID335_Subquestion3_Answer66,1965
+V,QID335_Subquestion3_Answer67,1966
+V,QID335_Subquestion3_Answer68,1967
+V,QID335_Subquestion3_Answer69,1968
+V,QID335_Subquestion3_Answer70,1969
+V,QID335_Subquestion3_Answer71,1970
+V,QID335_Subquestion3_Answer72,1971
+V,QID335_Subquestion3_Answer73,1972
+V,QID335_Subquestion3_Answer74,1973
+V,QID335_Subquestion3_Answer75,1974
+V,QID335_Subquestion3_Answer76,1975
+V,QID335_Subquestion3_Answer77,1976
+V,QID335_Subquestion3_Answer78,1977
+V,QID335_Subquestion3_Answer79,1978
+V,QID335_Subquestion3_Answer80,1979
+V,QID335_Subquestion3_Answer81,1980
+V,QID335_Subquestion3_Answer82,1981
+V,QID335_Subquestion3_Answer83,1982
+V,QID335_Subquestion3_Answer84,1983
+V,QID335_Subquestion3_Answer85,1984
+V,QID335_Subquestion3_Answer86,1985
+V,QID335_Subquestion3_Answer87,1986
+V,QID335_Subquestion3_Answer88,1987
+V,QID335_Subquestion3_Answer89,1988
+V,QID335_Subquestion3_Answer90,1989
+V,QID335_Subquestion3_Answer91,1990
+V,QID335_Subquestion3_Answer92,1991
+V,QID335_Subquestion3_Answer93,1992
+V,QID335_Subquestion3_Answer94,1993
+V,QID335_Subquestion3_Answer95,1994
+V,QID335_Subquestion3_Answer96,1995
+V,QID335_Subquestion3_Answer97,1996
+V,QID335_Subquestion3_Answer98,1997
+V,QID335_Subquestion3_Answer99,1998
+V,QID335_Subquestion3_Answer100,1999
+V,QID335_Subquestion3_Answer101,2000
+V,QID335_Subquestion3_Answer102,2001
+V,QID335_Subquestion3_Answer103,2002
+V,QID335_Subquestion3_Answer104,2003
+V,QID335_Subquestion3_Answer105,2004
+V,QID335_Subquestion3_Answer106,2005
+V,QID335_Subquestion3_Answer107,2006
+V,QID335_Subquestion3_Answer108,2007
+V,QID335_Subquestion3_Answer109,2008
+V,QID335_Subquestion3_Answer110,2009
+V,QID335_Subquestion3_Answer111,2010
+V,QID335_Subquestion3_Answer112,2011
+V,QID335_Subquestion3_Answer113,2012
+V,QID335_Subquestion3_Answer114,2013
+V,QID335_Subquestion3_Answer115,2014
+V,QID335_Subquestion3_Answer116,2015
+V,QID335_Subquestion3_Answer117,2016
+V,QID335_Subquestion3_Answer118,2017
+V,QID335_Subquestion3_Answer119,2018
+V,QID335_Subquestion3_Answer120,2019
+V,QID335_Subquestion3_Answer121,2020
+V,QID335_Subquestion3_Answer122,2021
+V,QID335_Subquestion3_Answer123,2022
+V,QID335_Subquestion3_Answer124,2023
+V,QID335_Subquestion3_Answer125,2024
+V,QID335_Subquestion3_Answer126,2025
+V,QID335_Subquestion3_Answer127,2026
+V,QID335_Subquestion3_Answer128,2027
+V,QID335_Subquestion3_Answer129,2028
+V,QID335_Subquestion3_Answer130,2029
+V,QID335_Subquestion3_Answer131,2030
+V,QID335_Subquestion3_Answer132,2031
+V,QID335_Subquestion3_Answer133,2032
+V,QID335_Subquestion3_Answer134,2033
+V,QID335_Subquestion3_Answer135,2034
+V,QID335_Subquestion3_Answer136,2035
+V,QID335_Subquestion3_Answer137,2036
+V,QID335_Subquestion3_Answer138,2037
+V,QID335_Subquestion3_Answer139,2038
+V,QID335_Subquestion3_Answer140,2039
+V,QID335_Subquestion3_Answer141,2040
+V,QID335_Subquestion3_Answer142,2041
+V,QID335_Subquestion3_Answer143,2042
+V,QID335_Subquestion3_Answer144,2043
+V,QID335_Subquestion3_Answer145,2044
+V,QID335_Subquestion3_Answer146,2045
+V,QID335_Subquestion3_Answer147,2046
+V,QID335_Subquestion3_Answer148,2047
+V,QID335_Subquestion3_Answer149,2048
+V,QID335_Subquestion3_Answer150,2049
+V,QID301_QuestionText,Is dit een geschatte datum?
+V,QID301_Choice1,Dit is een geschatte datum
+V,QID59_QuestionText,"Wie was de producent van de test? (Kies alleen een producent als u het zeker weet. Als u het niet zeker weet, kies ""Weet ik niet"")&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID59_Choice1,Abbott
+V,QID59_Choice2,Roche
+V,QID59_Choice3,Mt. Sinai
+V,QID59_Choice4,EuroImmun
+V,QID59_Choice5,Ortho-Clinical Diagnostics Vitros
+V,QID59_Choice6,DiaSorin
+V,QID59_Choice7,Weet ik niet
  ,QID452_QuestionText,<strong>Memory Symptoms</strong>
  ,QID375_QuestionText,"Have you experienced any <strong>MEMORY RELATED SYMPTOMS</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
  ,QID375_Choice1,Yes
