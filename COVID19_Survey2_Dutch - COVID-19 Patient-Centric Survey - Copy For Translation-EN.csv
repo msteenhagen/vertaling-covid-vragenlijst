@@ -1966,7 +1966,7 @@ V,QID375_QuestionText,"Heeft u enige <strong>GEHEUGEN GERELATEERDE SYMPTOMEN</st
 V,QID375_Choice1,Ja
 V,QID375_Choice2,Nee
 V,QID336_QuestionText,"Welke van de volgende geheugen gerelateerde symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
-V,QID336_Choice1,"Verlies kortetermijngeheugen (geheugen dat ~30 seconden blijft, bijv. een telefoonnummer onthouden voor u het opschrijft, or vergeten met welke taak u bezig was)"
+V,QID336_Choice1,"Verlies kortetermijngeheugen (geheugen dat ~30 seconden blijft, bijv. een telefoonnummer onthouden voor u het opschrijft, of vergeten met welke taak u bezig was)"
 V,QID336_Choice2,"Verlies langetermijngeheugen (langetermijngeheugen loopt uiteen van het herinneren van de voorgaande dag, vergeten dat u een taak heeft uitgevoerd, het vergeten van onlangs geleerde informatie, of uw basisschoolervaring niet meer kunnen herinneren.)"
 V,QID336_Choice3,Geen nieuwe herinneringen meer kunnen vormen
 V,QID336_Choice4,"Vergeten hoe normale taken gedaan moeten worden (veters strikken, handen wassen)"
