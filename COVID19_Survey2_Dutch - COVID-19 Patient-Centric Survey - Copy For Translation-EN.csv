@@ -596,7 +596,7 @@ V,QID15_Choice1,"Ja, ze werden erger."
 V,QID15_Choice2,"Ja, ze verbeterden."
 V,QID15_Choice3,"Sommige verbeterden, andere bleven hetzelfde, andere werden slechter (geef een uitleg in de tekstvakken op de volgende pagina)."
 V,QID15_Choice4,"Nee, ze bleven hetzelfde."
-V,QID15_Choice5,N.v.t (Ik had geen reeds bestaande aandoening)
+V,QID15_Choice5,N.v.t. (Ik had geen reeds bestaande aandoening)
 V,QID16_QuestionText,"Als één van uw reeds bestaande aandoeningen erger is geworden, geef dan hier een beschrijving. (optioneel)"
 V,QID17_QuestionText,"Als één van uw reeds bestaande aandoeningen is verbeterd, geef dan hier een beschrijving. (optioneel)"
 V,QID19_QuestionText,"Wat is uw bloedgroep? Als u dit niet weet, kies 'Weet ik niet'.&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
