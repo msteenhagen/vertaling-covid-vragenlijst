@@ -1961,42 +1961,42 @@ V,QID59_Choice4,EuroImmun
 V,QID59_Choice5,Ortho-Clinical Diagnostics Vitros
 V,QID59_Choice6,DiaSorin
 V,QID59_Choice7,Weet ik niet
- ,QID452_QuestionText,<strong>Memory Symptoms</strong>
- ,QID375_QuestionText,"Have you experienced any <strong>MEMORY RELATED SYMPTOMS</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
- ,QID375_Choice1,Yes
- ,QID375_Choice2,No
- ,QID336_QuestionText,"Which of the following memory symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID336_Choice1,"Short-term memory loss (memory that lasts ~30 seconds, i.e. remembering a phone number before writing it down, or forgetting you’re in the middle of a task)"
- ,QID336_Choice2,"Long-term memory loss (long-term memory can be anything from remembering yesterday, forgetting you’ve done a task, forgetting recently learned information, or forgetting your third-grade experience)"
- ,QID336_Choice3,Not being able to make new memories
- ,QID336_Choice4,"Forgetting how to do routine tasks (tying your shoe laces, washing your hands)"
- ,QID336_Choice5,Other
- ,QID336_Choice6,None of the above
- ,QID68_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID68_Choice1,Memory symptoms
- ,QID68_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
- ,QID68_Answer2,Week 2
- ,QID68_Answer3,Week 3
- ,QID68_Answer4,Week 4
- ,QID68_Answer5,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Month 2</strong></span></span>"
- ,QID68_Answer6,Month 3
- ,QID68_Answer7,Month 4
- ,QID68_Answer8,Month 5
- ,QID68_Answer9,Month 6
- ,QID68_Answer12,Month 7
- ,QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">Have you experienced issues with <strong>BRAIN FOG</strong>&nbsp;(inability to focus, think clearly, plan, process, understand, and maintain a coherent stream of thought; abnormally slow or fast thoughts)&nbsp;since the start of your COVID-19 illness?&nbsp;<span style=""color:#e74c3c;"">*</span></span>"
- ,QID376_Choice1,Yes
- ,QID376_Choice2,No
- ,QID261_QuestionText,"Which of the following brain fog/cognitive functioning symptoms have you experienced since the start of your COVID-19 illness?<span style=""color:#e74c3c;""><strong>&nbsp;*</strong></span>"
- ,QID261_Choice1,"Difficulty with executive functioning (planning, organizing, figuring out the sequence of actions, abstracting)"
- ,QID261_Choice2,Agnosia (failure to recognize or identify objects despite intact sensory functioning)
- ,QID261_Choice3,Difficulty problem-solving or decision-making
- ,QID261_Choice4,Difficulty thinking
- ,QID261_Choice5,Thoughts moving too quickly
- ,QID261_Choice6,Slowed thoughts
- ,QID261_Choice7,Poor attention or concentration
- ,QID261_Choice8,Other
- ,QID261_Choice10,I did NOT have any Brain Fog symptoms
+V,QID452_QuestionText,<strong>Geheugensymptomen</strong>
+V,QID375_QuestionText,"Heeft u enige <strong>GEHEUGEN GERELATEERDE SYMPTOMEN</strong>&nbsp;ervaren sinds het begin van uw ziekte met COVID-19?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
+V,QID375_Choice1,Ja
+V,QID375_Choice2,Nee
+V,QID336_QuestionText,"Welke van de volgende geheugen gerelateerde symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID336_Choice1,"Verlies kortetermijngeheugen (geheugen dat ~30 seconden blijft, bijv. een telefoonnummer onthouden voor u het opschrijft, or vergeten met welke taak u bezig was)"
+V,QID336_Choice2,"Verlies langetermijngeheugen (langetermijngeheugen loopt uiteen van het herinneren van de voorgaande dag, vergeten dat u een taak heeft uitgevoerd, het vergeten van onlangs geleerde informatie, of uw basisschoolervaring niet meer kunnen herinneren.)"
+V,QID336_Choice3,Geen nieuwe herinneringen meer kunnen vormen
+V,QID336_Choice4,"Vergeten hoe normale taken gedaan moeten worden (veters strikken, handen wassen)"
+V,QID336_Choice5,Anders
+V,QID336_Choice6,Geen van deze
+V,QID68_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID68_Choice1,Geheugensymptomen
+V,QID68_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
+V,QID68_Answer2,Week 2
+V,QID68_Answer3,Week 3
+V,QID68_Answer4,Week 4
+V,QID68_Answer5,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Maand 2</strong></span></span>"
+V,QID68_Answer6,Maand 3
+V,QID68_Answer7,Maand 4
+V,QID68_Answer8,Maand 5
+V,QID68_Answer9,Maand 6
+V,QID68_Answer12,Maand 7
+V,QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">Heeft u problemen gehad met <strong>'BRAIN FOG' (HERSENMIST)</strong>&nbsp;(onvermogen om te concentreren, om te denken, om te plannen, om een gedachtengang te verwerken, begrijpen, en vol te houden; abnormaal langzame of snelle gedachten)&nbsp;sinds het begin van uw ziekte met COVID-19?&nbsp;<span style=""color:#e74c3c;"">*</span></span>"
+V,QID376_Choice1,Ja
+V,QID376_Choice2,Nee
+V,QID261_QuestionText,"Welke van de volgende symptomen gerelateerd aan 'brain fog' of cognitief functioneren hebt u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""color:#e74c3c;""><strong>&nbsp;*</strong></span>"
+V,QID261_Choice1,"Moeilijkheden met uitvoerend functioneren (plannen, organizeren, een volgorde van handelen bepalen, abstract denken)"
+V,QID261_Choice2,Agnosia (Onvermogen om dingen te herkennen of identificeren terwijl er niets mis is met uw zintuigen)
+V,QID261_Choice3,Moeilijkheden met probleemoplossing of besluitvorming
+V,QID261_Choice4,Moeilijkheden met nadenken
+V,QID261_Choice5,Gedachten die te snel gaan
+V,QID261_Choice6,Langzame gedachtengang
+V,QID261_Choice7,Slechte aandacht of concentratie
+V,QID261_Choice8,Anders
+V,QID261_Choice10,Ik heb GEEN 'brain fog' symptomen gehad
  ,QID337_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
  ,QID337_Choice1,Brain fog/cognitive functioning symptoms
  ,QID337_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
