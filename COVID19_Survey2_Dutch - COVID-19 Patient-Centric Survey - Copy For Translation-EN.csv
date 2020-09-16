@@ -627,18 +627,18 @@ V,QID65_Choice13,Ik heb geen contact met een arts gehad
 V,QID65_Choice14,Andere
 V,QID65_Choice15,Obstetricus/Gynaecoloog (OB-GYN)
 V,QID65_Choice16,Immunoloog/Allergoloog
- ,QID62_QuestionText,"Were you hospitalized?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID62_Choice1,Yes
- ,QID62_Choice2,No
- ,QID62_Choice3,I visited ER/Urgent care but was not admitted/did not stay overnight at a hospital
- ,QID63_QuestionText,"If yes: how long were you hospitalized for? [Number of days]&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID64_QuestionText,"Did you receive oxygen support in the hospital?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID64_Choice1,"Yes, nasal cannula"
- ,QID64_Choice2,"Yes, I was intubated"
- ,QID64_Choice3,No
- ,QID64_Choice4,Other
- ,QID64_Choice5,I was not hospitalized
- ,QID66_QuestionText,"(Optional) If you'd like, please describe your experience with medical care."
+V,QID62_QuestionText,"Bent u in het ziekenhuis opgenomen geweest?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID62_Choice1,Ja
+V,QID62_Choice2,Nee
+V,QID62_Choice3,Ik bezocht de Spoedeisende Hulp maar werd niet opgenomen/heb geen nacht in het ziekenhuis gelegen
+V,QID63_QuestionText,"Zo ja, hoe lang bent u in het ziekenhuis opgenomen geweest? [Aantal dagen]&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID64_QuestionText,"Kreeg u zuurstof in het ziekenhuis?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID64_Choice1,"Ja, neuscanule"
+V,QID64_Choice2,"Ja, ik werd geïntubeerd"
+V,QID64_Choice3,Nee
+V,QID64_Choice4,Andere
+V,QID64_Choice5,Ik ben niet in het ziekenhuis opgenomen geweest
+V,QID66_QuestionText,"(Optioneel) Als u wilt, beschrijf uw ervaring met de medische zorg."
  ,QID20_QuestionText,"Were you tested for COVID-19 using a Swab test? (This is not asking about antibody tests, which are covered in a separate section of the survey.)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
  ,QID20_Choice1,"Yes, I was tested at least once."
  ,QID20_Choice2,"No, I did not try to get tested."
