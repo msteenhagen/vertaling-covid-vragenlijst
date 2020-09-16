@@ -639,15 +639,15 @@ V,QID64_Choice3,Nee
 V,QID64_Choice4,Andere
 V,QID64_Choice5,Ik ben niet in het ziekenhuis opgenomen geweest
 V,QID66_QuestionText,"(Optioneel) Als u wilt, beschrijf uw ervaring met de medische zorg."
- ,QID20_QuestionText,"Bent u getest op COVID-19 met een wattenstaafje? (Deze vraag gaat niet over antistoffentests, welke in een ander deel van deze enquête aan de orde komen.)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID20_Choice1,"Ja, ik ben ten minste één keer getest."
- ,QID20_Choice2,"Nee, ik heb niet geprobeerd een test te krijgen."
- ,QID20_Choice3,"Nee, ik heb geprobeerd een test te krijgen maar dit is niet gelukt."
- ,QID22_QuestionText,"Hoe vaak werd u getest? (wattenstaafje)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID22_Choice4,1
- ,QID22_Choice5,2
- ,QID22_Choice6,3
- ,QID22_Choice9,Other
+V,QID20_QuestionText,"Bent u getest op COVID-19 met een wattenstaafje? (Deze vraag gaat niet over antistoffentests, welke in een ander deel van deze enquête aan de orde komen.)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+V,QID20_Choice1,"Ja, ik ben ten minste één keer getest."
+V,QID20_Choice2,"Nee, ik heb niet geprobeerd een test te krijgen."
+V,QID20_Choice3,"Nee, ik heb geprobeerd een test te krijgen maar dit is niet gelukt."
+V,QID22_QuestionText,"Hoe vaak werd u getest? (wattenstaafje)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+V,QID22_Choice4,1
+V,QID22_Choice5,2
+V,QID22_Choice6,3
+V,QID22_Choice9,Andere
  ,QID330_QuestionText,"On what date did you&nbsp;<span style=""color: rgb(231, 76, 60);"">first</span>&nbsp;get tested? (if you don't remember the exact date, enter an estimate)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
  ,QID330_Choice1,Please Select:
  ,QID330_Subquestion1_QuestionText,Month
