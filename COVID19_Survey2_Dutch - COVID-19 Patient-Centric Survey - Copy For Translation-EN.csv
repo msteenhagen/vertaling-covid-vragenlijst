@@ -639,11 +639,11 @@ V,QID64_Choice3,Nee
 V,QID64_Choice4,Andere
 V,QID64_Choice5,Ik ben niet in het ziekenhuis opgenomen geweest
 V,QID66_QuestionText,"(Optioneel) Als u wilt, beschrijf uw ervaring met de medische zorg."
- ,QID20_QuestionText,"Were you tested for COVID-19 using a Swab test? (This is not asking about antibody tests, which are covered in a separate section of the survey.)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
- ,QID20_Choice1,"Yes, I was tested at least once."
- ,QID20_Choice2,"No, I did not try to get tested."
- ,QID20_Choice3,"No, I tried to get tested but was unable."
- ,QID22_QuestionText,"How many times were you tested (Swab test)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+ ,QID20_QuestionText,"Bent u getest op COVID-19 met een wattenstaafje? (Deze vraag gaat niet over antistoffentests, welke in een ander deel van deze enquête aan de orde komen.)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
+ ,QID20_Choice1,"Ja, ik ben ten minste één keer getest."
+ ,QID20_Choice2,"Nee, ik heb niet geprobeerd een test te krijgen."
+ ,QID20_Choice3,"Nee, ik heb geprobeerd een test te krijgen maar dit is niet gelukt."
+ ,QID22_QuestionText,"Hoe vaak werd u getest? (wattenstaafje)&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
  ,QID22_Choice4,1
  ,QID22_Choice5,2
  ,QID22_Choice6,3
