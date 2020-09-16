@@ -610,23 +610,23 @@ V,QID19_Choice7,AB positief
 V,QID19_Choice8,AB negatief
 V,QID19_Choice9,Weet ik niet
 V,QID239_QuestionText,"<strong><span style=""font-size:19px;"">Ziekenhuisopname</span></strong>"
- ,QID65_QuestionText,"Did you consult with a physician(s) for your COVID symptoms? Select all that apply. This can include both in-person appointments and telemedicine, like phone calls.&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*&nbsp;</span>"
- ,QID65_Choice1,My primary care doctor/General practitioner
- ,QID65_Choice2,Hospitalist
- ,QID65_Choice3,Cardiologist
- ,QID65_Choice4,Neurologist/Neuroimmunologist
- ,QID65_Choice5,Hematologist
- ,QID65_Choice6,Psychiatrist
- ,QID65_Choice7,Gastroenterologist
- ,QID65_Choice8,Rheumatologist
- ,QID65_Choice9,Infectious disease specialist
- ,QID65_Choice10,Dermatologist
- ,QID65_Choice11,Pulmonologist
- ,QID65_Choice12,Alternative Medicine doctor
- ,QID65_Choice13,I have not seen any physician
- ,QID65_Choice14,Other
- ,QID65_Choice15,Obstetrician-Gynecologist (OB-GYN)
- ,QID65_Choice16,Immunologist/Allergist
+V,QID65_QuestionText,"Heeft u een arts(en) geraadpleegd voor uw COVID-symptomen? Selecteer alles wat van toepassing is. Dit kunnen zowel fysieke afspraken zijn als afspraken op afstand, zoals een telefoongesprek.&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*&nbsp;</span>"
+V,QID65_Choice1,Mijn huisarts
+V,QID65_Choice2,Ziekenhuisarts
+V,QID65_Choice3,Cardioloog
+V,QID65_Choice4,Neuroloog/Neuroimmunoloog
+V,QID65_Choice5,Hematoloog
+V,QID65_Choice6,Psychiater
+V,QID65_Choice7,Gastro-enteroloog (MDL-arts)
+V,QID65_Choice8,Reumatoloog
+V,QID65_Choice9,Infectioloog
+V,QID65_Choice10,Dermatoloog
+V,QID65_Choice11,Longarts
+V,QID65_Choice12,Alternatief geneeskundige
+V,QID65_Choice13,Ik heb geen contact met een dokter gehad
+V,QID65_Choice14,Andere
+V,QID65_Choice15,Obstetricus/Gynaecoloog (OB-GYN)
+V,QID65_Choice16,Immunoloog/Allergoloog
  ,QID62_QuestionText,"Were you hospitalized?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID62_Choice1,Yes
  ,QID62_Choice2,No
