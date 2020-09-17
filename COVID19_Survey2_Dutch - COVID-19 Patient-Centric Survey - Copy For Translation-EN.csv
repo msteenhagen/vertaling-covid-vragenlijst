@@ -2192,11 +2192,11 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID362_Answer8,Maand 5
  ,QID362_Answer9,Maand 6
  ,QID362_Answer12,Maand 7
- ,QID99_QuestionText,"If you have/had insomnia, which best describes the type of insomnia?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID99_Choice1,Difficulty falling asleep
- ,QID99_Choice2,Waking up early in the morning
- ,QID99_Choice3,Waking up several times during the night
- ,QID99_Choice4,None of the above
+ ,QID99_QuestionText,"Als u slapeloosheid heeft/heeft gehad have/had insomnia, welk beschrijft het beste het type slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+ ,QID99_Choice1,Moeite met in slaap vallen
+ ,QID99_Choice2,'s Octends vroeg wakker worden
+ ,QID99_Choice3,'s Nachts meerdere malen wakker worden
+ ,QID99_Choice4,Geen van bovenstaande
  ,QID100_QuestionText,"<p>What is causing/caused your insomnia?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p><p></p>"
  ,QID100_Choice1,Pain
  ,QID100_Choice2,Sensitivity to outside light/noise
