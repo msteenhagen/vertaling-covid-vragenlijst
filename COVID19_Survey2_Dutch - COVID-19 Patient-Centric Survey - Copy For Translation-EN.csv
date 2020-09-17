@@ -2163,10 +2163,10 @@ V,QID348_Answer8,Maand 5
 V,QID348_Answer9,Maand 6
 V,QID348_Answer12,Maand 7
 V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors of bevend gevoel tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>
- ,QID404_QuestionText,<strong>Sleeping issues</strong>
- ,QID380_QuestionText,"Have you experienced any <strong>SLEEPING ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""color:#e74c3c;""><strong> *</strong></span>"
- ,QID380_Choice1,Yes
- ,QID380_Choice2,No
+ ,QID404_QuestionText,<strong>Slaapproblemen</strong>
+ ,QID380_QuestionText,"Heeft u enige <strong>SLAAPPROBLEMEN</strong>&nbsp; gehad sinds het begin van uit COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
+ ,QID380_Choice1,Ja
+ ,QID380_Choice2,Nee
  ,QID98_QuestionText,"Which of the following sleeping issues have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID98_Choice1,Lucid dreams (dreams where you are aware you are dreaming or have some control over what you dream about)
  ,QID98_Choice2,Vivid dreams
