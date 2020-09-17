@@ -2215,18 +2215,18 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID349_Choice29,Auditieve (horen) Hallucinaties
  ,QID349_Choice30,Tactiele (aanraking) Hallucinaties
  ,QID349_Choice51,"Hallucinaties, anders"
- ,QID350_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID350_Choice28,Hallucinations
+ ,QID350_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+ ,QID350_Choice28,Hallucinaties
  ,QID350_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
  ,QID350_Answer2,Week 2
  ,QID350_Answer3,Week 3
  ,QID350_Answer4,Week 4
- ,QID350_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
- ,QID350_Answer6,Month 3
- ,QID350_Answer7,Month 4
- ,QID350_Answer8,Month 5
- ,QID350_Answer9,Month 6
- ,QID350_Answer12,Month 7
+ ,QID350_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
+ ,QID350_Answer6,Maand 3
+ ,QID350_Answer7,Maand 4
+ ,QID350_Answer8,Maand 5
+ ,QID350_Answer9,Maand 6
+ ,QID350_Answer12,Maand 7
  ,QID406_QuestionText,"<strong>Weakness, numbness, tingling, coldness, and other sensations</strong>"
  ,QID343_QuestionText,"Which of the following <strong>NEUROLOGICAL SENSATION SYMPTOMS</strong>&nbsp;have you experienced since the start of your COVID-19 illness, if any?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*<br />➘<br />➘Please specify the location on your body in the text box. If multiple locations, please separate them with a comma (i.e. hand, leg, foot).</span>"
  ,QID343_Choice1,"Skin sensations: burning, tingling, or itchiness without rash"
