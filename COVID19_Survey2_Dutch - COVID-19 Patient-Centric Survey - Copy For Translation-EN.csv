@@ -2207,14 +2207,14 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID100_Choice7,Gevoel alsof het virus me wakker hield
  ,QID100_Choice8,Anders
  ,QID405_QuestionText,<strong>Hallucinaties</strong>
- ,QID381_QuestionText,"Heeft u enige <strong>HALLUCINATIES</strong>&nbsp;(visueel, gehoor, of aanraking) gehad sinds het begin van uw COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
+ ,QID381_QuestionText,"Heeft u enige <strong>HALLUCINATIES</strong>&nbsp;(visueel, horen, of tactiel) gehad sinds het begin van uw COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
  ,QID381_Choice1,Ja
  ,QID381_Choice2,Nee
- ,QID349_QuestionText,"<span class=""qordoba-embed-panel__status""><div>Which of the following hallucinations have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></div><em></em><p><em></em></p></span>"
- ,QID349_Choice28,Visual (seeing) Hallucinations
- ,QID349_Choice29,Auditory (hearing) Hallucinations
- ,QID349_Choice30,Tactile (touch) Hallucinations
- ,QID349_Choice51,"Hallucinations, other"
+ ,QID349_QuestionText,"<span class=""qordoba-embed-panel__status""><div>Welke van de volgende hallucinaties heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></div><em></em><p><em></em></p></span>"
+ ,QID349_Choice28,Visuele (zien) Hallucinaties
+ ,QID349_Choice29,Auditieve (horen) Hallucinaties
+ ,QID349_Choice30,Tactiele (aanraking) Hallucinaties
+ ,QID349_Choice51,"Hallucinaties, anders"
  ,QID350_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID350_Choice28,Hallucinations
  ,QID350_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
