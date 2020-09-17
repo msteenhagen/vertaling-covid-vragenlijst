@@ -2356,31 +2356,31 @@ V,QID414_Answer7,Maand 4
 V,QID414_Answer8,Maand 5
 V,QID414_Answer9,Maand 6
 V,QID414_Answer12,Maand 7
- ,QID437_QuestionText,<strong>Respiratory and Sinus Symptoms</strong>
- ,QID437_Choice1,None of the below respiratory and sinus symptoms apply to me
- ,QID114_QuestionText,Respiratory and Sinus Symptoms
- ,QID114_Choice1,Dry cough
- ,QID114_Choice2,Cough with mucus production
- ,QID114_Choice3,Coughing up Blood
- ,QID114_Choice4,Shortness of Breath
- ,QID114_Choice5,Tightness of Chest
- ,QID114_Choice6,Sneezing
- ,QID114_Choice7,Runny nose
- ,QID114_Choice8,Pain/burning in chest
- ,QID114_Choice9,Rattling of breath
- ,QID114_Choice10,Sore Throat
- ,QID114_Choice11,Other
- ,QID114_Answer22,N/A
- ,QID114_Answer12,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
- ,QID114_Answer13,Week 2
- ,QID114_Answer14,Week 3
- ,QID114_Answer15,Week 4
- ,QID114_Answer16,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID114_Answer17,Month 3
- ,QID114_Answer18,Month 4
- ,QID114_Answer19,Month 5
- ,QID114_Answer20,Month 6
- ,QID114_Answer21,Month 7
+V,QID437_QuestionText,<strong>Ademhalings- en Sinussymptomen</strong>
+V,QID437_Choice1,Geen van de onderstaande ademhalings- en sinussymptomen zijn op mij van toepassing
+V,QID114_QuestionText,Ademhalings- en Sinussymptomen
+V,QID114_Choice1,Droge hoest
+V,QID114_Choice2,Hoest met slijmproductie
+V,QID114_Choice3,Bloed ophoesten
+V,QID114_Choice4,Kortademigheid
+V,QID114_Choice5,Drukkend gevoel op de borst
+V,QID114_Choice6,Niezen
+V,QID114_Choice7,Loopneus
+V,QID114_Choice8,Pijn/branderig gevoel op de borst
+V,QID114_Choice9,Reutelend geluid bij ademhaling
+V,QID114_Choice10,Keelpijn
+V,QID114_Choice11,Anders
+V,QID114_Answer22,N.v.t.
+V,QID114_Answer12,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
+V,QID114_Answer13,Week 2
+V,QID114_Answer14,Week 3
+V,QID114_Answer15,Week 4
+V,QID114_Answer16,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID114_Answer17,Maand 3
+V,QID114_Answer18,Maand 4
+V,QID114_Answer19,Maand 5
+V,QID114_Answer20,Maand 6
+V,QID114_Answer21,Maand 7
  ,QID438_QuestionText,<b>Ear and Hearing Symptoms</b>
  ,QID438_Choice1,None of the below ear and hearing symptoms apply to me
  ,QID396_QuestionText,Ear and Hearing Symptoms
