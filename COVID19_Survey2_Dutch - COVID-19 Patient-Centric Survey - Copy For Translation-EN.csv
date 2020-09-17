@@ -2227,7 +2227,7 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID350_Answer8,Maand 5
  ,QID350_Answer9,Maand 6
  ,QID350_Answer12,Maand 7
- ,QID406_QuestionText,"<strong>Weakness, numbness, tingling, coldness, and other sensations</strong>"
+ ,QID406_QuestionText,"<strong>Zwakte, gevoelloosheid, tintelingen, koudheid, en andere sensaties</strong>"
  ,QID343_QuestionText,"Which of the following <strong>NEUROLOGICAL SENSATION SYMPTOMS</strong>&nbsp;have you experienced since the start of your COVID-19 illness, if any?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*<br />➘<br />➘Please specify the location on your body in the text box. If multiple locations, please separate them with a comma (i.e. hand, leg, foot).</span>"
  ,QID343_Choice1,"Skin sensations: burning, tingling, or itchiness without rash"
  ,QID343_Choice2,Numbness/loss of sensation
