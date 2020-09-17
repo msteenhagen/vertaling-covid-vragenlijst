@@ -2262,7 +2262,6 @@ V,QID397_Choice2,Nee
  ,QID102_Choice4,Temperature lability (quick swings in and out of fever or elevated temperature)
  ,QID102_Choice5,Heat intolerance
  ,QID102_Choice6,Other temperature issues (not listed above or below)
->>>>>>> c8b753c4700780b7b49d2a9d4a7cad5e66258c3e
  ,QID359_QuestionText,"If you experienced any of the following temperature issues, when did you experience the following symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID359_Choice1,Chills/flushing/sweats
  ,QID359_Choice8,All other temperature issues
