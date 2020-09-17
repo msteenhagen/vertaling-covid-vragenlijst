@@ -2309,7 +2309,7 @@ V,QID120_Choice1,"Ja, het was hoger wanneer ik stond"
 V,QID120_Choice2,"Nee, het was hoger wanneer ik zat"
 V,QID120_Choice3,Het was ongeveer gelijk tijdens staan of zitten
 V,QID121_QuestionText,"Als u tachycardie had en dit kon meten, hoeveel veranderde uw hartslag over het algemeen van een liggende positie naar een staande, de laatste keer dat u dit mat? (In slagen per minuut)"
-V,QID443_QuestionText,"<div>Deze sectie heeft meerdere vragengroepen over meerdere symptomen/problemen georganiseerd per deel van het lichaam (<b>Algemene Problemen, Gastro-enterologische problmemen, Ademhalings- en sinussymptomen, oor-/gehoorsymptomen, oogsymptomen, Reproductieve and urinaire symptomen, huid- en allergiesymptomen, en spier- en gewrichtsproblemen</b>)</div><div><br></div>Heeft u deze symptomen gehad, en wanneer ervoer u ze?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad. <b>Als u geen van de symptomen in een verzameling gehad heeft, selecteer het vakje (Geen van de onderstaande problemen zijn op mij van toepassing) boveen de gegroepeerde verzameling.&nbsp;</b></div></div>"
+V,QID443_QuestionText,"<div>Deze sectie heeft meerdere vragengroepen over meerdere symptomen/problemen georganiseerd per deel van het lichaam (<b>Algemene Problemen, Gastro-enterologische problemen, Ademhalings- en sinussymptomen, oor-/gehoorsymptomen, oogsymptomen, Reproductieve and urinaire symptomen, huid- en allergiesymptomen, en spier- en gewrichtsproblemen</b>)</div><div><br></div>Heeft u deze symptomen gehad, en wanneer ervoer u ze?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad. <b>Als u geen van de symptomen in een verzameling gehad heeft, selecteer het vakje (Geen van de onderstaande problemen zijn op mij van toepassing) boveen de gegroepeerde verzameling.&nbsp;</b></div></div>"
 V,QID434_QuestionText,<strong>Algemene Problemen</strong>
 V,QID434_Choice1,Geen van de onderstaande algemene symptomen zijn op mij van toepassing
 V,QID394_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
@@ -2335,27 +2335,27 @@ V,QID394_Answer7,Maand 4
 V,QID394_Answer8,Maand 5
 V,QID394_Answer9,Maand 6
 V,QID394_Answer12,Maand 7
- ,QID436_QuestionText,<p><strong>Gastrointestinal Issues</strong></p>
- ,QID436_Choice1,None of the below gastrointestinal symptoms apply to me
- ,QID414_QuestionText,Gastrointestinal Issues
- ,QID414_Choice1,Abdominal pain
- ,QID414_Choice10,Constipation
- ,QID414_Choice11,Diarrhea
- ,QID414_Choice12,Vomiting
- ,QID414_Choice13,Nausea
- ,QID414_Choice14,Loss of Appetite
- ,QID414_Choice15,Lower Esophagus Burning / gastroesophageal reflux / acid reflux
- ,QID414_Answer13,N/A
- ,QID414_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID414_Answer2,Week 2
- ,QID414_Answer3,Week 3
- ,QID414_Answer4,Week 4
- ,QID414_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID414_Answer6,Month 3
- ,QID414_Answer7,Month 4
- ,QID414_Answer8,Month 5
- ,QID414_Answer9,Month 6
- ,QID414_Answer12,Month 7
+V,QID436_QuestionText,<p><strong>Gastro-enterologische Problemen</strong></p>
+V,QID436_Choice1,Geen van de onderstaande gastro-enterologische symptomen zijn op mij van toepassing
+V,QID414_QuestionText,Gastro-enterologische Problemen
+V,QID414_Choice1,Buikpijn
+V,QID414_Choice10,Constipatie
+V,QID414_Choice11,Diarree
+V,QID414_Choice12,Overgeven
+V,QID414_Choice13,Misselijkheid
+V,QID414_Choice14,Verlies van eetlust
+V,QID414_Choice15,Brandend maagzuur / gastro-oesofageale reflux / zure reflux
+V,QID414_Answer13,N.v.t.
+V,QID414_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID414_Answer2,Week 2
+V,QID414_Answer3,Week 3
+V,QID414_Answer4,Week 4
+V,QID414_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID414_Answer6,Maand 3
+V,QID414_Answer7,Maand 4
+V,QID414_Answer8,Maand 5
+V,QID414_Answer9,Maand 6
+V,QID414_Answer12,Maand 7
  ,QID437_QuestionText,<strong>Respiratory and Sinus Symptoms</strong>
  ,QID437_Choice1,None of the below respiratory and sinus symptoms apply to me
  ,QID114_QuestionText,Respiratory and Sinus Symptoms
