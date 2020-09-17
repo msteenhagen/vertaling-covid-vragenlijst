@@ -2227,20 +2227,20 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID350_Answer8,Maand 5
  ,QID350_Answer9,Maand 6
  ,QID350_Answer12,Maand 7
- ,QID406_QuestionText,"<strong>Zwakte, gevoelloosheid, tintelingen, koudheid, en andere sensaties</strong>"
- ,QID343_QuestionText,"Which of the following <strong>NEUROLOGICAL SENSATION SYMPTOMS</strong>&nbsp;have you experienced since the start of your COVID-19 illness, if any?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*<br />➘<br />➘Please specify the location on your body in the text box. If multiple locations, please separate them with a comma (i.e. hand, leg, foot).</span>"
- ,QID343_Choice1,"Skin sensations: burning, tingling, or itchiness without rash"
- ,QID343_Choice2,Numbness/loss of sensation
- ,QID343_Choice6,Numbness/weakness on one side of the body only
- ,QID343_Choice9,Coldness
- ,QID343_Choice14,Tingling/prickling/pins and needles sensation
- ,QID343_Choice17,Electrical zaps/electrical shock sensation
- ,QID343_Choice37,Weakness
- ,QID343_Choice51,"Sensation of facial pressure/numbness, left side"
- ,QID343_Choice52,"Sensation of facial pressure/numbness, right side"
- ,QID343_Choice53,"Sensation of facial pressure/numbness, other:"
- ,QID343_Choice56,Facial paralysis (please indicate where on face was paralyzed)
- ,QID343_Choice57,None of the above
+ ,QID406_QuestionText,"<strong>Zwakheid, gevoelloosheid, tintelingen, koudheid, en andere sensaties</strong>"
+ ,QID343_QuestionText,"Welke van de volgende <strong>NEUROLOGISCHE SENSATIE SYMPTOMEN</strong>&nbsp;heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*<br />➘<br />➘Specificeer de locatie in uw lichaam in het tekstveld. Betreft het meerdere locaties, scheid deze met een komma (bijv. hand, been, voet).</span>"
+ ,QID343_Choice1,"Huidsensaties: branden, tintelen, of jeuk zonder uitslag"
+ ,QID343_Choice2,Gevoelloosheid/verlies van gevoel
+ ,QID343_Choice6,Gevoelloosheid/zwakte in slechts één kant van het lichaam
+ ,QID343_Choice9,Koudheid
+ ,QID343_Choice14,Tinteling/prikkelen/gevoel van speldenprikken
+ ,QID343_Choice17,Elektrische schokken/elektrische schoksensaties
+ ,QID343_Choice37,Zwakheid
+ ,QID343_Choice51,"Gevoel van druk/gevoelloosheid in het gezicht, linkerkant"
+ ,QID343_Choice52,"Gevoel van druk/gevoelloosheid in het gezicht, rechterkant"
+ ,QID343_Choice53,"Gevoel van druk/gevoelloosheid in het gezicht, anders:"
+ ,QID343_Choice56,Aangezichtsverlamming (geef aan waar op het gezicht er verlamming was)
+ ,QID343_Choice57,Geen van bovenstaande
  ,QID344_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID344_Choice1,All neurological sensations
  ,QID344_Answer13,N/A
