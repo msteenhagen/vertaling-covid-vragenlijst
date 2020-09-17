@@ -2086,7 +2086,7 @@ V,QID302_Choice1,Ja
 V,QID302_Choice2,Nee
 V,QID134_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden van uw taalproblemen te beschrijven, waaronder met spreken, schrijven, lezen en luisteren naar woorden. Als er wijzigingen in uw spraak of taal zij die hierboven niet zijn vermeld, voeg deze dan ook toe. Bijvoorbeeld, als u meerdere talen spreekt en verschillende problemen hebt opgemerkt met uw eerste (moedertaal) en tweede of derde taal.&nbsp; &nbsp;"
 V,QID401_QuestionText,<strong>Hoofdpijn</strong>
-V,QID374_QuestionText,"Heeft u nieuwe <strong>HOOFDPIJN OF GERELATEERDE KLACHTEN</strong> gehad sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID374_QuestionText,"Heeft u nieuwe <strong>HOOFDPIJN OF GERELATEERDE SYMPTOMEN</strong> gehad sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID374_Choice1,Ja
 V,QID374_Choice2,Nee
 V,QID345_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
@@ -2101,46 +2101,46 @@ V,QID345_Choice27,Stijve nek
 V,QID345_Choice51,Gevoel van druk op hersenen
 V,QID345_Choice52,"Hoofdpijn, anders"
 V,QID345_Choice54,Geen van bovenstaande
- ,QID346_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable).&nbsp;</span>Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID346_Choice20,Headaches and related symptoms
- ,QID346_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
- ,QID346_Answer2,Week 2
- ,QID346_Answer3,Week 3
- ,QID346_Answer4,Week 4
- ,QID346_Answer5,"<span style=""font-size:16px;""><strong><span style=""color:#e74c3c;"">Month 2</span></strong></span>"
- ,QID346_Answer6,Month 3
- ,QID346_Answer7,Month 4
- ,QID346_Answer8,Month 5
- ,QID346_Answer9,Month 6
- ,QID346_Answer12,Month 7
- ,QID402_QuestionText,<strong>Sense of Smell and Taste</strong>
- ,QID379_QuestionText,"Have you experienced any changes to your <strong>SENSE OF SMELL OR TASTE</strong>&nbsp;since the start of your COVID-19 illness? <span style=""color:#e74c3c;""><strong>*</strong></span>&nbsp;"
- ,QID379_Choice1,Yes
- ,QID379_Choice2,No
- ,QID106_QuestionText,"Which of the following symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID106_Choice1,Loss of smell
- ,QID106_Choice2,Phantom smells (imagining/hallucinating smells - smelling things that aren't there)
- ,QID106_Choice3,Heightened sense of smell
- ,QID106_Choice4,Loss of taste
- ,QID106_Choice5,Phantom taste (imagining/hallucinating tastes - tasting things when there's nothing in your mouth)
- ,QID106_Choice6,Heightened sense of taste
- ,QID106_Choice7,Altered sense of smell
- ,QID106_Choice8,Altered sense of taste
- ,QID106_Choice9,None of the above
- ,QID363_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID363_Choice1,Changes to sense of smell and taste
- ,QID363_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID363_Answer2,Week 2
- ,QID363_Answer3,Week 3
- ,QID363_Answer4,Week 4
- ,QID363_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID363_Answer6,Month 3
- ,QID363_Answer7,Month 4
- ,QID363_Answer8,Month 5
- ,QID363_Answer9,Month 6
- ,QID363_Answer12,Month 7
- ,QID107_QuestionText,"If you had phantom tastes, please describe them:"
- ,QID108_QuestionText,"If you had phantom smells, please describe them:"
+V,QID346_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing).&nbsp;</span>Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID346_Choice20,Hoofdpijn en gerelateerde symptomen
+V,QID346_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
+V,QID346_Answer2,Week 2
+V,QID346_Answer3,Week 3
+V,QID346_Answer4,Week 4
+V,QID346_Answer5,"<span style=""font-size:16px;""><strong><span style=""color:#e74c3c;"">Maand 2</span></strong></span>"
+V,QID346_Answer6,Maand 3
+V,QID346_Answer7,Maand 4
+V,QID346_Answer8,Maand 5
+V,QID346_Answer9,Maand 6
+V,QID346_Answer12,Maand 7
+V,QID402_QuestionText,<strong>Reuk en Smaak</strong>
+V,QID379_QuestionText,"Heeft u veranderingen gemerkt in uw <strong>REUK OF SMAAK</strong>&nbsp;sinds het begin van uw ziekte met COVID-19? <span style=""color:#e74c3c;""><strong>*</strong></span>&nbsp;"
+V,QID379_Choice1,Ja
+V,QID379_Choice2,Nee
+V,QID106_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID106_Choice1,Verlies van reuk
+V,QID106_Choice2,Fantoomgeuren (inbeelden/hallucineren van geuren - iets ruiken dat er niet is)
+V,QID106_Choice3,Verscherping van de reukzin
+V,QID106_Choice4,Verlies van smaak
+V,QID106_Choice5,Fantoomsmaak (inbeelden/hallucineren van smaken - iets proeven dat niet in uw mond zit)
+V,QID106_Choice6,Verscherping van de smaak
+V,QID106_Choice7,Verandering in de reukzin
+V,QID106_Choice8,Verandeing in de smaak
+V,QID106_Choice9,Geen van bovenstaande
+V,QID363_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">manden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID363_Choice1,Veranderingen in reuk en smaak
+V,QID363_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID363_Answer2,Week 2
+V,QID363_Answer3,Week 3
+V,QID363_Answer4,Week 4
+V,QID363_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID363_Answer6,Maand 3
+V,QID363_Answer7,Maand 4
+V,QID363_Answer8,Maand 5
+V,QID363_Answer9,Maand 6
+V,QID363_Answer12,Maand 7
+V,QID107_QuestionText,"Als u fantoomsmaken proefde, geef hier een beschrijving:"
+V,QID108_QuestionText,"Als u fantoomgeuren rook, geef hier een beschrijving:"
  ,QID403_QuestionText,<strong>Tremors and Vibrating Sensations</strong>
  ,QID410_QuestionText,"Have you experienced any <strong>TREMOR OR VIBRATION SENTATIONS</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Involuntary, rhythmic muscle contraction leading to shaking movements in one or more parts of the body&nbsp;</div>➘➘<div><strong>Vibration sensation</strong>: A buzzing feeling, when you feel like your muscles, fingers, or legs are&nbsp;vibrating&nbsp;or shaking inside, but you don&#39;t see the movement&nbsp;</div>"
  ,QID410_Choice1,Yes
