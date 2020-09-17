@@ -1294,7 +1294,7 @@ V,QID38_Choice1,De uitslag was positief voor beide (IgG en IgM) antistoffen
 V,QID38_Choice2,De uitslag was positief alleen voor IgM antistoffen
 V,QID38_Choice3,De uitslag was positief alleen voor IgG antistoffen
 V,QID38_Choice4,De uitslag was negatief voor antistoffen
-V,QID38_Choice5,Ik weet niet welke antistoffen, maar de uitslag was positief
+V,QID38_Choice5,Ik weet niet welke antistoffen maar de uitslag was positief
 V,QID39_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgM?&nbsp;"
 V,QID40_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgG?&nbsp;"
 V,QID41_QuestionText,"Wat voor soort test was het?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
