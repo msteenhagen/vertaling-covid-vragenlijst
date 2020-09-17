@@ -2279,9 +2279,9 @@ V,QID359_Answer7,Maand 4
 V,QID359_Answer8,Maand 5
 V,QID359_Answer9,Maand 6
 V,QID359_Answer12,Maand 7
- ,QID103_QuestionText,"If you had a low temperature, what was your lowest temperature? Please input number only."
- ,QID104_QuestionText,"If you had a high temperature, what was your highest temperature? Please input number only."
- ,QID433_QuestionText,"<span style=""font-size: 19px;"">Cardiovascular Symptoms</span>"
+V,QID103_QuestionText,"Als u een lage temperatuur had, wat was uw laagste temperatuur? Voer alleen cijfers in."
+V,QID104_QuestionText,"Als u een hoge temperatuur had, wat was uw hoogste temperatuur? Voer alleen cijfers in."
+V,QID433_QuestionText,"<span style=""font-size: 19px;"">Hart- en Vaatsymptomen</span>"
  ,QID369_QuestionText,"<div>When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>, even if you have only experienced these symptoms for part of a week or month.</div></div><div>➘</div>"
  ,QID369_Choice1,"Tachycardia (high heart rate, >90 beats per minute)"
  ,QID369_Choice8,"Bradycardia (low heart rate, <60 beats per minute)"
