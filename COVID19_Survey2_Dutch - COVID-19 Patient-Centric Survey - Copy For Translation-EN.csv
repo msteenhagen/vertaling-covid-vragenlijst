@@ -2258,10 +2258,10 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID397_QuestionText,"Heeft u enige <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad (inclusief warmte-intolerantie, rillingen, hoge/lage temperatuur) sinds het begin van uw COVID-19 ziekte?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
  ,QID397_Choice1,Ja
  ,QID397_Choice2,Nee
- ,QID102_QuestionText,"Did you experience any of the following <strong>TEMPERATURE ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID102_Choice4,Temperature lability (quick swings in and out of fever or elevated temperature)
- ,QID102_Choice5,Heat intolerance
- ,QID102_Choice6,Other temperature issues (not listed above or below)
+ ,QID102_QuestionText,"Heeft u enige van de volgende <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID102_Choice4,Temperatuurlabiliteit (snelle schommelingen van en naar koorts of verhoogde temperatuur)
+V,QID102_Choice5,Warmte-intolerantie
+V,QID102_Choice6,Andere temperatuurproblemen (niet hierboven of onder genoemd)
  ,QID359_QuestionText,"If you experienced any of the following temperature issues, when did you experience the following symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID359_Choice1,Chills/flushing/sweats
  ,QID359_Choice8,All other temperature issues
