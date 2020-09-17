@@ -2167,16 +2167,16 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID380_QuestionText,"Heeft u enige <strong>SLAAPPROBLEMEN</strong>&nbsp; gehad sinds het begin van uit COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
  ,QID380_Choice1,Ja
  ,QID380_Choice2,Nee
- ,QID98_QuestionText,"Which of the following sleeping issues have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID98_Choice1,Lucid dreams (dreams where you are aware you are dreaming or have some control over what you dream about)
- ,QID98_Choice2,Vivid dreams
- ,QID98_Choice3,Nightmares
- ,QID98_Choice4,Insomnia
- ,QID98_Choice5,Night sweats
- ,QID98_Choice6,Restless leg syndrome
- ,QID98_Choice7,Awakened by feeling like you couldn’t breathe
- ,QID98_Choice8,Sleep apnea
- ,QID98_Choice9,Other
+ ,QID98_QuestionText,"Welk van de volgende slaapproblemen heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+ ,QID98_Choice1,Lucide dromen (dromen waarbij u zich bewust bent dat u droomt of enige controle heeft over waar u over droomt)
+ ,QID98_Choice2,Levendige dromen
+ ,QID98_Choice3,Nachtmerries
+ ,QID98_Choice4,Slapeloosheid
+ ,QID98_Choice5,Nachtzweten 
+ ,QID98_Choice6,Rustelozebenensyndroom
+ ,QID98_Choice7,Ontwaken door het gevoel dat u niet kunt ademen
+ ,QID98_Choice8,Slaapapneu
+ ,QID98_Choice9,Anders
  ,QID362_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID362_Choice1,Insomnia
  ,QID362_Choice9,Sleep apnea
