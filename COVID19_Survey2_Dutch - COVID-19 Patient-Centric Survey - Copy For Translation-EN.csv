@@ -2197,15 +2197,15 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID99_Choice2,'s Octends vroeg wakker worden
  ,QID99_Choice3,'s Nachts meerdere malen wakker worden
  ,QID99_Choice4,Geen van bovenstaande
- ,QID100_QuestionText,"<p>What is causing/caused your insomnia?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p><p></p>"
- ,QID100_Choice1,Pain
- ,QID100_Choice2,Sensitivity to outside light/noise
- ,QID100_Choice3,Other physical discomfort
- ,QID100_Choice4,Anxiety/depression/racing thoughts
- ,QID100_Choice5,Difficulty breathing
- ,QID100_Choice6,A sensation of adrenaline/energy
- ,QID100_Choice7,A sensation like the virus was keeping me awake
- ,QID100_Choice8,Other
+ ,QID100_QuestionText,"<p>Wat veroorzaakt/veroorzaakte uw slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p><p></p>"
+ ,QID100_Choice1,Pijn
+ ,QID100_Choice2,Gevoeligheid voor licht/lawaai van buiten
+ ,QID100_Choice3,Andere lichamelijke ongemakken
+ ,QID100_Choice4,Angst/depressie/vlucht van ideeën
+ ,QID100_Choice5,Moeite met ademen
+ ,QID100_Choice6,Gevoel van adrenaline/energie
+ ,QID100_Choice7,Gevoel alsof het virus me wakker hield
+ ,QID100_Choice8,Anders
  ,QID405_QuestionText,<strong>Hallucinations</strong>
  ,QID381_QuestionText,"Have you experienced any <strong>HALLUCINATIONS</strong>&nbsp;(visual, hearing, or touch) since the start of your COVID-19 illness?<span style=""color:#e74c3c;""><strong> *</strong></span>"
  ,QID381_Choice1,Yes
