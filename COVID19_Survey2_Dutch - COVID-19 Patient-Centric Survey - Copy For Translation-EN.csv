@@ -2309,32 +2309,32 @@ V,QID120_Choice1,"Ja, het was hoger wanneer ik stond"
 V,QID120_Choice2,"Nee, het was hoger wanneer ik zat"
 V,QID120_Choice3,Het was ongeveer gelijk tijdens staan of zitten
 V,QID121_QuestionText,"Als u tachycardie had en dit kon meten, hoeveel veranderde uw hartslag over het algemeen van een liggende positie naar een staande, de laatste keer dat u dit mat? (In slagen per minuut)"
- ,QID443_QuestionText,"<div>Deze sectie heeft meerdere vragengroepen over meerdere symptomen/problemen georganiseerd per deel van het lichaam (<b>Algemene Problemen, Gastro-enterologische problmemen, Ademhalings- en sinussymptomen, oor-/gehoorsymptomen, oogsymptomen, Reproductieve and urinaire symptomen, huid- en allergiesymptomen, en spier- en gewrichtsproblemen</b>)</div><div><br></div>Heeft u deze symptomen gehad, en wanneer ervoer u ze?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad. <b>Als u geen van de symptomen in een verzameling gehad heeft, selecteer het vakje (Geen van de onderstaande problemen zijn op mij van toepassing) boveen de gegroepeerde verzameling.&nbsp;</b></div></div>"
- ,QID434_QuestionText,<strong>Generic Issues</strong>
- ,QID434_Choice1,Geen van de onderstaande algemene symptomen zijn op mij van toepassing
- ,QID394_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID394_Choice1,Dizziness / vertigo / unsteadiness or balance issues
- ,QID394_Choice52,Neuralgia (nerve pain)
- ,QID394_Choice53,Seizures (confirmed)
- ,QID394_Choice54,Seizures (suspected)
- ,QID394_Choice55,Episodes of breathing difficulty/gasping for air when your oxygen saturation is normal
- ,QID394_Choice56,Low oxygen levels (<94%)
- ,QID394_Choice57,New/unexpected anaphylaxis reaction
- ,QID394_Choice58,Acute (sudden) confusion/disorientation
- ,QID394_Choice59,Slurring words/speech
- ,QID394_Choice60,High blood sugar (if measured)
- ,QID394_Choice61,Low blood sugar (if measured)
- ,QID394_Answer13,N/A
- ,QID394_Answer1,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
- ,QID394_Answer2,Week 2
- ,QID394_Answer3,Week 3
- ,QID394_Answer4,Week 4
- ,QID394_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
- ,QID394_Answer6,Month 3
- ,QID394_Answer7,Month 4
- ,QID394_Answer8,Month 5
- ,QID394_Answer9,Month 6
- ,QID394_Answer12,Month 7
+V,QID443_QuestionText,"<div>Deze sectie heeft meerdere vragengroepen over meerdere symptomen/problemen georganiseerd per deel van het lichaam (<b>Algemene Problemen, Gastro-enterologische problmemen, Ademhalings- en sinussymptomen, oor-/gehoorsymptomen, oogsymptomen, Reproductieve and urinaire symptomen, huid- en allergiesymptomen, en spier- en gewrichtsproblemen</b>)</div><div><br></div>Heeft u deze symptomen gehad, en wanneer ervoer u ze?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad. <b>Als u geen van de symptomen in een verzameling gehad heeft, selecteer het vakje (Geen van de onderstaande problemen zijn op mij van toepassing) boveen de gegroepeerde verzameling.&nbsp;</b></div></div>"
+V,QID434_QuestionText,<strong>Algemene Problemen</strong>
+V,QID434_Choice1,Geen van de onderstaande algemene symptomen zijn op mij van toepassing
+V,QID394_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID394_Choice1,Duizeligheid / vertigo (draaiduizeligheid) / instabiliteit of evenwichtsproblemen
+V,QID394_Choice52,Neuralgie (zenuwpijn)
+V,QID394_Choice53,Beroerte (bevestigd)
+V,QID394_Choice54,Beroerte (vermoeden)
+V,QID394_Choice55,Gevallen van ademhalingsproblemen/naar adem happen wanneer uw zuurstofverzadiging normaal is
+V,QID394_Choice56,Laag zuurstofgehalte (<94%)
+V,QID394_Choice57,Nieuwe/onverwachte anafylactische reactie
+V,QID394_Choice58,Acute (plotselinge) verwarring/desoriëntatie
+V,QID394_Choice59,Verwarde woorden/spraak
+V,QID394_Choice60,Hoge bloedsuiker (wanneer gemeten)
+V,QID394_Choice61,Lage bloedsuiker (wanneer gemeten)
+V,QID394_Answer13,N.v.t.
+V,QID394_Answer1,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
+V,QID394_Answer2,Week 2
+V,QID394_Answer3,Week 3
+V,QID394_Answer4,Week 4
+V,QID394_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
+V,QID394_Answer6,Maand 3
+V,QID394_Answer7,Maand 4
+V,QID394_Answer8,Maand 5
+V,QID394_Answer9,Maand 6
+V,QID394_Answer12,Maand 7
  ,QID436_QuestionText,<p><strong>Gastrointestinal Issues</strong></p>
  ,QID436_Choice1,None of the below gastrointestinal symptoms apply to me
  ,QID414_QuestionText,Gastrointestinal Issues
