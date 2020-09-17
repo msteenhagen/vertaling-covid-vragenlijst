@@ -1519,7 +1519,7 @@ V,QID46_Choice1,De uitslag was positief voor beide (IgG en IgM) antistoffen
 V,QID46_Choice2,De uitslag was positief alleen voor IgM antistoffen
 V,QID46_Choice3,De uitslag was positief alleen voor IgG antistoffen
 V,QID46_Choice4,De uitslag was negatief voor antistoffen
-V,QID46_Choice5,Ik weet niet welke antistoffen, maar de uitslag was positief
+V,QID46_Choice5,Ik weet niet welke antistoffen maar de uitslag was positief
 V,QID47_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde (in&nbsp;<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">mg/dL)&nbsp;</span>voor IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID48_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde (in&nbsp;<span style=""font-family: arial, sans-serif; color: rgb(34, 34, 34); font-size: 14px;"">mg/dL)</span>&nbsp;voor<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 14px;"">&nbsp;</span>IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID49_QuestionText,"Wat voor soort test was het?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
@@ -1744,7 +1744,7 @@ V,QID54_Choice1,De uitslag was positief voor beide (IgG en IgM) antistoffen
 V,QID54_Choice2,De uitslag was positief alleen voor IgM antistoffen
 V,QID54_Choice3,De uitslag was positief alleen voor IgG antistoffen
 V,QID54_Choice4,De uitslag was negatief voor antistoffen
-V,QID54_Choice5,Ik weet niet welke antistoffen, maar de uitslag was positief
+V,QID54_Choice5,Ik weet niet welke antistoffen maar de uitslag was positief
 V,QID55_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgM?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID56_QuestionText,"Als uw uitslag positief was en uw testresultaat noemde een titerwaarde, wat was de waarde voor IgG?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID57_QuestionText,"Wat voor soort test was het?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
