@@ -2302,13 +2302,13 @@ V,QID369_Answer7,Maand 4
 V,QID369_Answer8,Maand 5
 V,QID369_Answer9,Maand 6
 V,QID369_Answer12,Maand 7
- ,QID119_QuestionText,"If you had tachycardia and were able to measure it, what was the maximum heart rate (in bpm) that you measured, <strong><span style=""font-size:16px;"">at rest</span></strong><span style=""font-size:16px;"">?</span>"
- ,QID260_QuestionText,"If you had tachycardia and were able to measure it, what was the maximum heart rate (in bpm) that you measured, <strong><span style=""font-size:16px;"">at exertion </span></strong><span style=""font-size:16px;"">(during physical activity)?</span>"
- ,QID120_QuestionText,"If you had tachycardia and were able to measure it, was your heart rate higher when standing compared to sitting?&nbsp;"
- ,QID120_Choice1,"Yes, it was higher when I was standing"
- ,QID120_Choice2,"No, it was higher when I was sitting"
- ,QID120_Choice3,It was about the same while standing or sitting
- ,QID121_QuestionText,"If you had tachycardia and were able to measure it, how much did your heart rate generally change from lying position to standing, last time you measured? (In BPM, beats per minute)"
+V,QID119_QuestionText,"Als u tachycardie had en dit kon meten, wat was de maximale hartslag (in slagen per minuut) die u mat, <strong><span style=""font-size:16px;"">in rust</span></strong><span style=""font-size:16px;"">?</span>"
+V,QID260_QuestionText,"Als u tachycardie had en dit kon meten, wat was de maximale hartslag (in slagen per minuut) die u mat, <strong><span style=""font-size:16px;"">bij inspanning </span></strong><span style=""font-size:16px;"">(during physical activity)?</span>"
+V,QID120_QuestionText,"Als u tachycardie had en dit kon meten, was uw hartslag hoger tijdens het staan in vergelijking met zitten?&nbsp;"
+V,QID120_Choice1,"Ja, het was hoger wanneer ik stond"
+V,QID120_Choice2,"Nee, het was hoger wanneer ik zat"
+V,QID120_Choice3,Het was ongeveer gelijk tijdens staan of zitten
+V,QID121_QuestionText,"Als u tachycardie had en dit kon meten, hoeveel veranderde uw hartslag over het algemeen van een liggende positie naar een staande, de laatste keer dat u dit mat? (In slagen per minuut)"
  ,QID443_QuestionText,"<div>This section has multiple groups of questions about multiple symptoms/issues organized by body area (<b>Generic Issues, Gastrointestinal issues, Respiratory and sinus symptoms, ear/hearing symptoms, eye symptoms, Reproductive and urinary symptoms, skin and allergy symptoms, and muscle and joint issues</b>)</div><div><br></div>Did you experience these symptoms, and when did you experience them?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it. <b>If you experienced none of the symptoms in a set, select the checkbox (None of the below issues apply to me) above the grouped set.&nbsp;</b></div></div>"
  ,QID434_QuestionText,<strong>Generic Issues</strong>
  ,QID434_Choice1,None of the below generic symptoms apply to me
