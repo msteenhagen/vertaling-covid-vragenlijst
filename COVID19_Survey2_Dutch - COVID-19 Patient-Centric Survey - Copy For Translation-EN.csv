@@ -2163,105 +2163,106 @@ V,QID348_Answer8,Maand 5
 V,QID348_Answer9,Maand 6
 V,QID348_Answer12,Maand 7
 V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors of bevend gevoel tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>
- ,QID404_QuestionText,<strong>Slaapproblemen</strong>
- ,QID380_QuestionText,"Heeft u enige <strong>SLAAPPROBLEMEN</strong>&nbsp; gehad sinds het begin van uit COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
- ,QID380_Choice1,Ja
- ,QID380_Choice2,Nee
- ,QID98_QuestionText,"Welk van de volgende slaapproblemen heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID98_Choice1,Lucide dromen (dromen waarbij u zich bewust bent dat u droomt of enige controle heeft over waar u over droomt)
- ,QID98_Choice2,Levendige dromen
- ,QID98_Choice3,Nachtmerries
- ,QID98_Choice4,Slapeloosheid
- ,QID98_Choice5,Nachtzweten 
- ,QID98_Choice6,Rustelozebenensyndroom
- ,QID98_Choice7,Ontwaken door het gevoel dat u niet kunt ademen
- ,QID98_Choice8,Slaapapneu
- ,QID98_Choice9,Anders
- ,QID362_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
- ,QID362_Choice1,Slapeloosheid
- ,QID362_Choice9,Slaapapneu
- ,QID362_Choice10,Alle overige slaapproblemen
- ,QID362_Answer13,Niet van toepassing
- ,QID362_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
- ,QID362_Answer2,Week 2
- ,QID362_Answer3,Week 3
- ,QID362_Answer4,Week 4
- ,QID362_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
- ,QID362_Answer6,Maand 3
- ,QID362_Answer7,Maand 4
- ,QID362_Answer8,Maand 5
- ,QID362_Answer9,Maand 6
- ,QID362_Answer12,Maand 7
- ,QID99_QuestionText,"Als u slapeloosheid heeft/heeft gehad have/had insomnia, welk beschrijft het beste het type slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID99_Choice1,Moeite met in slaap vallen
- ,QID99_Choice2,'s Octends vroeg wakker worden
- ,QID99_Choice3,'s Nachts meerdere malen wakker worden
- ,QID99_Choice4,Geen van bovenstaande
- ,QID100_QuestionText,"<p>Wat veroorzaakt/veroorzaakte uw slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p><p></p>"
- ,QID100_Choice1,Pijn
- ,QID100_Choice2,Gevoeligheid voor licht/lawaai van buiten
- ,QID100_Choice3,Andere lichamelijke ongemakken
- ,QID100_Choice4,Angst/depressie/vlucht van ideeën
- ,QID100_Choice5,Moeite met ademen
- ,QID100_Choice6,Gevoel van adrenaline/energie
- ,QID100_Choice7,Gevoel alsof het virus me wakker hield
- ,QID100_Choice8,Anders
- ,QID405_QuestionText,<strong>Hallucinaties</strong>
- ,QID381_QuestionText,"Heeft u enige <strong>HALLUCINATIES</strong>&nbsp;(visueel, horen, of tactiel) gehad sinds het begin van uw COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
- ,QID381_Choice1,Ja
- ,QID381_Choice2,Nee
- ,QID349_QuestionText,"<span class=""qordoba-embed-panel__status""><div>Welke van de volgende hallucinaties heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></div><em></em><p><em></em></p></span>"
- ,QID349_Choice28,Visuele (zien) Hallucinaties
- ,QID349_Choice29,Auditieve (horen) Hallucinaties
- ,QID349_Choice30,Tactiele (aanraking) Hallucinaties
- ,QID349_Choice51,"Hallucinaties, anders"
- ,QID350_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
- ,QID350_Choice28,Hallucinaties
- ,QID350_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
- ,QID350_Answer2,Week 2
- ,QID350_Answer3,Week 3
- ,QID350_Answer4,Week 4
- ,QID350_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
- ,QID350_Answer6,Maand 3
- ,QID350_Answer7,Maand 4
- ,QID350_Answer8,Maand 5
- ,QID350_Answer9,Maand 6
- ,QID350_Answer12,Maand 7
- ,QID406_QuestionText,"<strong>Zwakheid, gevoelloosheid, tintelingen, koudheid, en andere sensaties</strong>"
- ,QID343_QuestionText,"Welke van de volgende <strong>NEUROLOGISCHE SENSATIE SYMPTOMEN</strong>&nbsp;heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*<br />➘<br />➘Specificeer de locatie in uw lichaam in het tekstveld. Betreft het meerdere locaties, scheid deze met een komma (bijv. hand, been, voet).</span>"
- ,QID343_Choice1,"Huidsensaties: branden, tintelen, of jeuk zonder uitslag"
- ,QID343_Choice2,Gevoelloosheid/verlies van gevoel
- ,QID343_Choice6,Gevoelloosheid/zwakte in slechts één kant van het lichaam
- ,QID343_Choice9,Koudheid
- ,QID343_Choice14,Tinteling/prikkelen/gevoel van speldenprikken
- ,QID343_Choice17,Elektrische schokken/elektrische schoksensaties
- ,QID343_Choice37,Zwakheid
- ,QID343_Choice51,"Gevoel van druk/gevoelloosheid in het gezicht, linkerkant"
- ,QID343_Choice52,"Gevoel van druk/gevoelloosheid in het gezicht, rechterkant"
- ,QID343_Choice53,"Gevoel van druk/gevoelloosheid in het gezicht, anders:"
- ,QID343_Choice56,Aangezichtsverlamming (geef aan waar op het gezicht er verlamming was)
- ,QID343_Choice57,Geen van bovenstaande
- ,QID344_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
- ,QID344_Choice1,Alle neurologische sensaties
- ,QID344_Answer13,N.v.t.
- ,QID344_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID344_Answer2,Week 2
- ,QID344_Answer3,Week 3
- ,QID344_Answer4,Week 4
- ,QID344_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
- ,QID344_Answer6,Maand 3
- ,QID344_Answer7,Maand 4
- ,QID344_Answer8,Maand 5
- ,QID344_Answer9,Maand 6
- ,QID344_Answer12,Maand 7
- ,QID407_QuestionText,<strong>Temperatuurproblemen</strong>
- ,QID397_QuestionText,"Heeft u enige <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad (inclusief warmte-intolerantie, rillingen, hoge/lage temperatuur) sinds het begin van uw COVID-19 ziekte?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
- ,QID397_Choice1,Ja
- ,QID397_Choice2,Nee
- ,QID102_QuestionText,"Heeft u enige van de volgende <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
-V,QID102_Choice4,Temperatuurlabiliteit (snelle schommelingen van en naar koorts of verhoogde temperatuur)
-V,QID102_Choice5,Warmte-intolerantie
-V,QID102_Choice6,Andere temperatuurproblemen (niet hierboven of onder genoemd)
+V,QID404_QuestionText,<strong>Slaapproblemen</strong>
+V,QID380_QuestionText,"Heeft u enige <strong>SLAAPPROBLEMEN</strong>&nbsp; gehad sinds het begin van uit COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
+V,QID380_Choice1,Ja
+V,QID380_Choice2,Nee
+V,QID98_QuestionText,"Welk van de volgende slaapproblemen heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID98_Choice1,Lucide dromen (dromen waarbij u zich bewust bent dat u droomt of enige controle heeft over waar u over droomt)
+V,QID98_Choice2,Levendige dromen
+V,QID98_Choice3,Nachtmerries
+V,QID98_Choice4,Slapeloosheid
+V,QID98_Choice5,Nachtzweten 
+V,QID98_Choice6,Rustelozebenensyndroom
+V,QID98_Choice7,Ontwaken door het gevoel dat u niet kunt ademen
+V,QID98_Choice8,Slaapapneu
+V,QID98_Choice9,Anders
+V,QID362_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID362_Choice1,Slapeloosheid
+V,QID362_Choice9,Slaapapneu
+V,QID362_Choice10,Alle overige slaapproblemen
+V,QID362_Answer13,Niet van toepassing
+V,QID362_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
+V,QID362_Answer2,Week 2
+V,QID362_Answer3,Week 3
+V,QID362_Answer4,Week 4
+V,QID362_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
+V,QID362_Answer6,Maand 3
+V,QID362_Answer7,Maand 4
+V,QID362_Answer8,Maand 5
+V,QID362_Answer9,Maand 6
+V,QID362_Answer12,Maand 7
+V,QID99_QuestionText,"Als u slapeloosheid heeft/heeft gehad have/had insomnia, welk beschrijft het beste het type slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID99_Choice1,Moeite met in slaap vallen
+V,QID99_Choice2,'s Octends vroeg wakker worden
+V,QID99_Choice3,'s Nachts meerdere malen wakker worden
+V,QID99_Choice4,Geen van bovenstaande
+V,QID100_QuestionText,"<p>Wat veroorzaakt/veroorzaakte uw slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p><p></p>"
+V,QID100_Choice1,Pijn
+V,QID100_Choice2,Gevoeligheid voor licht/lawaai van buiten
+V,QID100_Choice3,Andere lichamelijke ongemakken
+V,QID100_Choice4,Angst/depressie/vlucht van ideeën
+V,QID100_Choice5,Moeite met ademen
+V,QID100_Choice6,Gevoel van adrenaline/energie
+V,QID100_Choice7,Gevoel alsof het virus me wakker hield
+V,QID100_Choice8,Anders
+V,QID405_QuestionText,<strong>Hallucinaties</strong>
+V,QID381_QuestionText,"Heeft u enige <strong>HALLUCINATIES</strong>&nbsp;(visueel, horen, of tactiel) gehad sinds het begin van uw COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
+V,QID381_Choice1,Ja
+V,QID381_Choice2,Nee
+V,QID349_QuestionText,"<span class=""qordoba-embed-panel__status""><div>Welke van de volgende hallucinaties heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></div><em></em><p><em></em></p></span>"
+V,QID349_Choice28,Visuele (zien) Hallucinaties
+V,QID349_Choice29,Auditieve (horen) Hallucinaties
+V,QID349_Choice30,Tactiele (aanraking) Hallucinaties
+V,QID349_Choice51,"Hallucinaties, anders"
+V,QID350_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID350_Choice28,Hallucinaties
+V,QID350_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
+V,QID350_Answer2,Week 2
+V,QID350_Answer3,Week 3
+V,QID350_Answer4,Week 4
+V,QID350_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
+V,QID350_Answer6,Maand 3
+V,QID350_Answer7,Maand 4
+V,QID350_Answer8,Maand 5
+V,QID350_Answer9,Maand 6
+V,QID350_Answer12,Maand 7
+V,QID406_QuestionText,"<strong>Zwakheid, gevoelloosheid, tintelingen, koudheid, en andere sensaties</strong>"
+V,QID343_QuestionText,"Welke van de volgende <strong>NEUROLOGISCHE SENSATIE SYMPTOMEN</strong>&nbsp;heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*<br />➘<br />➘Specificeer de locatie in uw lichaam in het tekstveld. Betreft het meerdere locaties, scheid deze met een komma (bijv. hand, been, voet).</span>"
+V,QID343_Choice1,"Huidsensaties: branden, tintelen, of jeuk zonder uitslag"
+V,QID343_Choice2,Gevoelloosheid/verlies van gevoel
+V,QID343_Choice6,Gevoelloosheid/zwakte in slechts één kant van het lichaam
+V,QID343_Choice9,Koudheid
+V,QID343_Choice14,Tinteling/prikkelen/gevoel van speldenprikken
+V,QID343_Choice17,Elektrische schokken/elektrische schoksensaties
+V,QID343_Choice37,Zwakheid
+V,QID343_Choice51,"Gevoel van druk/gevoelloosheid in het gezicht, linkerkant"
+V,QID343_Choice52,"Gevoel van druk/gevoelloosheid in het gezicht, rechterkant"
+V,QID343_Choice53,"Gevoel van druk/gevoelloosheid in het gezicht, anders:"
+V,QID343_Choice56,Aangezichtsverlamming (geef aan waar op het gezicht er verlamming was)
+V,QID343_Choice57,Geen van bovenstaande
+V,QID344_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID344_Choice1,Alle neurologische sensaties
+V,QID344_Answer13,N.v.t.
+V,QID344_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID344_Answer2,Week 2
+V,QID344_Answer3,Week 3
+V,QID344_Answer4,Week 4
+V,QID344_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID344_Answer6,Maand 3
+V,QID344_Answer7,Maand 4
+V,QID344_Answer8,Maand 5
+V,QID344_Answer9,Maand 6
+V,QID344_Answer12,Maand 7
+V,QID407_QuestionText,<strong>Temperatuurproblemen</strong>
+V,QID397_QuestionText,"Heeft u enige <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad (inclusief warmte-intolerantie, rillingen, hoge/lage temperatuur) sinds het begin van uw COVID-19 ziekte?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
+V,QID397_Choice1,Ja
+V,QID397_Choice2,Nee
+ ,QID102_QuestionText,"Did you experience any of the following <strong>TEMPERATURE ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+ ,QID102_Choice4,Temperature lability (quick swings in and out of fever or elevated temperature)
+ ,QID102_Choice5,Heat intolerance
+ ,QID102_Choice6,Other temperature issues (not listed above or below)
+>>>>>>> c8b753c4700780b7b49d2a9d4a7cad5e66258c3e
  ,QID359_QuestionText,"If you experienced any of the following temperature issues, when did you experience the following symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID359_Choice1,Chills/flushing/sweats
  ,QID359_Choice8,All other temperature issues
