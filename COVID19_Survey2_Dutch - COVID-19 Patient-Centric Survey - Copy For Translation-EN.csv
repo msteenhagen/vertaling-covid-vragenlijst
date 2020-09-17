@@ -2254,10 +2254,10 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID344_Answer8,Maand 5
  ,QID344_Answer9,Maand 6
  ,QID344_Answer12,Maand 7
- ,QID407_QuestionText,<strong>Temperature Issues</strong>
- ,QID397_QuestionText,"Have you experienced any <strong>TEMPERATURE ISSUES</strong>&nbsp;(including heat intolerance, chills, high/low temperature) since the start of your COVID-19 illness?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
- ,QID397_Choice1,Yes
- ,QID397_Choice2,No
+ ,QID407_QuestionText,<strong>Temperatuurproblemen</strong>
+ ,QID397_QuestionText,"Heeft u enige <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad (inclusief warmte-intolerantie, rillingen, hoge/lage temperatuur) sinds het begin van uw COVID-19 ziekte?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
+ ,QID397_Choice1,Ja
+ ,QID397_Choice2,Nee
  ,QID102_QuestionText,"Did you experience any of the following <strong>TEMPERATURE ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID102_Choice4,Temperature lability (quick swings in and out of fever or elevated temperature)
  ,QID102_Choice5,Heat intolerance
