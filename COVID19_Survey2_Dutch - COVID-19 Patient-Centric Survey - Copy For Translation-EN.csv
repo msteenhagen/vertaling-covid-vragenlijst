@@ -2177,21 +2177,21 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID98_Choice7,Ontwaken door het gevoel dat u niet kunt ademen
  ,QID98_Choice8,Slaapapneu
  ,QID98_Choice9,Anders
- ,QID362_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID362_Choice1,Insomnia
- ,QID362_Choice9,Sleep apnea
- ,QID362_Choice10,All the other sleeping symptoms
- ,QID362_Answer13,N/A
+ ,QID362_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+ ,QID362_Choice1,Slapeloosheid
+ ,QID362_Choice9,Slaapapneu
+ ,QID362_Choice10,Alle overige slaapproblemen
+ ,QID362_Answer13,Niet van toepassing
  ,QID362_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
  ,QID362_Answer2,Week 2
  ,QID362_Answer3,Week 3
  ,QID362_Answer4,Week 4
- ,QID362_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
- ,QID362_Answer6,Month 3
- ,QID362_Answer7,Month 4
- ,QID362_Answer8,Month 5
- ,QID362_Answer9,Month 6
- ,QID362_Answer12,Month 7
+ ,QID362_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
+ ,QID362_Answer6,Maand 3
+ ,QID362_Answer7,Maand 4
+ ,QID362_Answer8,Maand 5
+ ,QID362_Answer9,Maand 6
+ ,QID362_Answer12,Maand 7
  ,QID99_QuestionText,"If you have/had insomnia, which best describes the type of insomnia?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID99_Choice1,Difficulty falling asleep
  ,QID99_Choice2,Waking up early in the morning
