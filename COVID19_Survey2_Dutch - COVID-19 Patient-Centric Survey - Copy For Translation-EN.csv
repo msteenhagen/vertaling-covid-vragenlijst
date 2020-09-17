@@ -1997,40 +1997,40 @@ V,QID261_Choice6,Langzame gedachtengang
 V,QID261_Choice7,Slechte aandacht of concentratie
 V,QID261_Choice8,Anders
 V,QID261_Choice10,Ik heb GEEN 'brain fog' symptomen gehad
- ,QID337_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
- ,QID337_Choice1,Brain fog/cognitive functioning symptoms
- ,QID337_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
- ,QID337_Answer2,Week 2
- ,QID337_Answer3,Week 3
- ,QID337_Answer4,Week 4
- ,QID337_Answer5,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Month 2</strong></span></span>"
- ,QID337_Answer6,Month 3
- ,QID337_Answer7,Month 4
- ,QID337_Answer8,Month 5
- ,QID337_Answer9,Month 6
- ,QID337_Answer12,Month 7
- ,QID73_QuestionText,"Have you felt significantly limited or unable to do any of the following due to<strong>&nbsp;MEMORY LOSS OR BRAIN FOG</strong> (including issues with attention, cognitive functioning, and awareness)&nbsp;specifically?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID73_Choice1,Drive
- ,QID73_Choice2,Watch children
- ,QID73_Choice3,Cook or use hot items
- ,QID73_Choice4,Feed yourself
- ,QID73_Choice5,Shower or bathe regularly
- ,QID73_Choice6,Make serious decisions
- ,QID73_Choice7,Leave the house and return without getting lost
- ,QID73_Choice8,Remember the correct month or year
- ,QID73_Choice9,Have conversations with others
- ,QID73_Choice10,Maintain your medication schedule (forgetting to take medication or forgetting you’ve taken medication)
- ,QID73_Choice11,Work
- ,QID73_Choice12,Follow simple instructions
- ,QID73_Choice13,Communicate your thoughts and needs
- ,QID73_Choice14,Other
- ,QID73_Answer1,Severely unable
- ,QID73_Answer2,Moderately unable
- ,QID73_Answer3,Mildly unable
- ,QID73_Answer4,Able
- ,QID73_Answer5,Not applicable
- ,QID74_QuestionText,"Optional: If you have other areas of your life that were affected by memory loss or brain fog, please include them here. Please note whether they were mildly, moderately, or severely limiting.&nbsp;"
- ,QID133_QuestionText,"Optional: Please use this space to describe examples of your brain fog, memory loss, and attention span.<div>Please do not include any identifying information (such as name or location).</div>"
+V,QID337_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID337_Choice1,'Brain fog' / symptomen gerelateerd aan cognitief functioneren
+V,QID337_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
+V,QID337_Answer2,Week 2
+V,QID337_Answer3,Week 3
+V,QID337_Answer4,Week 4
+V,QID337_Answer5,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Maand 2</strong></span></span>"
+V,QID337_Answer6,Maand 3
+V,QID337_Answer7,Maand 4
+V,QID337_Answer8,Maand 5
+V,QID337_Answer9,Maand 6
+V,QID337_Answer12,Maand 7
+V,QID73_QuestionText,"Voelde u zich aanzienlijk beperkt of niet in staat om één of meerdere van de volgende dingen te doen door <strong>&nbsp;GEHEUGENVERLIES OF 'BRAIN FOG'</strong> (dit omvat problemen met aandacht, cognitief functioneren, en bewustzijn)&nbsp;?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID73_Choice1,Autorijden
+V,QID73_Choice2,Op kinderen letten
+V,QID73_Choice3,Koken of met hete voorwerpen omgaan
+V,QID73_Choice4,Uzelf voeden
+V,QID73_Choice5,Regelmatig douchen of in bad
+V,QID73_Choice6,Belangrijke beslissingen maken
+V,QID73_Choice7,Van huis weggaan en terugkomen zonder te verdwalen
+V,QID73_Choice8,Herinneren welke maand of welk jaar het is
+V,QID73_Choice9,Gesprekken voeren met anderen
+V,QID73_Choice10,Uw medicijnen op tijd nemen (vergeten om medicijnen te nemen, of vergeten dat u ze al had genomen)
+V,QID73_Choice11,Werk
+V,QID73_Choice12,Eenvoudige aanwijzingen opvolgen
+V,QID73_Choice13,Uw gedachten en behoeftes communiceren
+V,QID73_Choice14,Anders
+V,QID73_Answer1,Ernstig beperkt
+V,QID73_Answer2,Matig beperkt
+V,QID73_Answer3,Licht beperkt
+V,QID73_Answer4,Niet beperkt
+V,QID73_Answer5,Niet van toepassing
+V,QID74_QuestionText,"Optioneel: Als er andere delen van uw leven zijn die werden beïnvloed door geheugenverlies of 'brain fog', vermeld deze dan hier. Beschrijf of ze licht, matig of ernstig beperkend waren.&nbsp;"
+V,QID133_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van uw 'brain fog', geheugenverlies, and aandachtsspanne.<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>"
  ,QID399_QuestionText,<strong>Emotional and Behavioral Changes</strong>
  ,QID77_QuestionText,"Compared to how you felt before COVID, have you experienced an increase in any of the following?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID77_Choice1,Difficulty controlling your emotions
