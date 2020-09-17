@@ -2052,55 +2052,55 @@ V,QID77_Choice16,Huilerigheid
 V,QID77_Choice17,Gevoel van onheil
 V,QID77_Choice18,Anders
 V,QID77_Choice20,Geen van bovenstaande
- ,QID136_QuestionText,"Optional: Please use this space to describe examples of your emotional changes during your illness.&nbsp;<div>Please do not include any identifying information (name, location, etc.).</div>"
- ,QID79_QuestionText,"Optional: If you had any of these emotional experiences <b>pre</b>-COVID, please describe how they differed <b>post</b>-COVID. <br><br>Please do not include any identifying information (name, location, etc.)."
- ,QID398_QuestionText,<strong>Speech and Language Issues</strong>
- ,QID411_QuestionText,"Have you experienced any issues with <strong>SPEECH AND LANGUAGE</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
- ,QID411_Choice1,Yes
- ,QID411_Choice2,No
- ,QID293_QuestionText,"Which of the following speech and language symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID293_Choice1,Difficulty finding the right words while speaking/writing
- ,QID293_Choice2,Difficulty communicating verbally
- ,QID293_Choice3,Difficulting speaking in complete sentences
- ,QID293_Choice4,Speaking unrecognizable words
- ,QID293_Choice5,Difficulty communicating in writing
- ,QID293_Choice6,Difficulty processing/understanding what others say
- ,QID293_Choice7,Difficulty reading/processing written text
- ,QID293_Choice8,Other
- ,QID293_Choice9,(If applicable) changes to your non-primary (second/third) language skills
- ,QID293_Choice11,None of the above
- ,QID341_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID341_Choice1,Speech/language issues
- ,QID341_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
- ,QID341_Answer2,Week 2
- ,QID341_Answer3,Week 3
- ,QID341_Answer4,Week 4
- ,QID341_Answer5,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Month 2</span></span></strong>"
- ,QID341_Answer6,Month 3
- ,QID341_Answer7,Month 4
- ,QID341_Answer8,Month 5
- ,QID341_Answer9,Month 6
- ,QID341_Answer12,Month 7
- ,QID302_QuestionText,"Do you speak multiple languages?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID302_Choice1,Yes
- ,QID302_Choice2,No
- ,QID134_QuestionText,"Optional: Please use this space to describe examples of your language issues, including speech, writing, reading, and listening to words. Please include any changes to your speech/language that are not mentioned above. For instance, if you speak multiple languages and have noticed different problems with your primary and non-primary language.&nbsp; &nbsp;"
- ,QID401_QuestionText,<strong>Headaches</strong>
- ,QID374_QuestionText,"Have you experienced any new <strong>HEADACHES OR RELATED ISSUES</strong> since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID374_Choice1,Yes
- ,QID374_Choice2,No
- ,QID345_QuestionText,"Which of the following symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID345_Choice20,"Headaches, at the base of the skull"
- ,QID345_Choice21,"Headaches, in the temples"
- ,QID345_Choice22,"Headaches, behind the eyes"
- ,QID345_Choice23,"Headaches, diffuse (entire brain)"
- ,QID345_Choice24,Headaches/pain after mental exertion
- ,QID345_Choice25,"Sensation of brain warmth/""on fire"""
- ,QID345_Choice26,Migraines
- ,QID345_Choice27,Stiff neck
- ,QID345_Choice51,Sensation of brain pressure
- ,QID345_Choice52,"Headaches, other"
- ,QID345_Choice54,None of the above
+V,QID136_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van emotionele veranderingen tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>"
+V,QID79_QuestionText,"Optioneel: Als u enkele van deze ervaringen met emoties al had <b>vóór</b> u COVID kreeg, beschrijf hoe deze verschilden met <b>nadat</b> u COVID kreeg. <br><br>Geef a.u.b. geen identificerende details (zoals namen of lokaties)."
+V,QID398_QuestionText,<strong>Spraak- en Taalproblemen</strong>
+V,QID411_QuestionText,"Heeft up problemen ervaren met <strong>SPRAAK EN TAAL</strong>&nbsp;sinds het begin van uw ziekte met COVID-19?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
+V,QID411_Choice1,Ja
+V,QID411_Choice2,Nee
+V,QID293_QuestionText,"Welke van de volgende spraak- en taalsymptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID293_Choice1,Moeite met het vinden van de juiste woorden tijdens spreken / schrijven
+V,QID293_Choice2,Moeite met verbaal te communiceren
+V,QID293_Choice3,Moeite met spreken in volledige zinnen
+V,QID293_Choice4,Onherkenbare woorden zeggen
+V,QID293_Choice5,Moeite met schriftelijke communicatie
+V,QID293_Choice6,Moeite met het verwerken / begrijpen van wat anderen zeggen
+V,QID293_Choice7,Moeite met het lezen / verwerken van geschreven tekst
+V,QID293_Choice8,Anders
+V,QID293_Choice9,(Indien van toepassing) veranderingen in taalvaardigheid met talen die niet uw moedertaal zijn (tweede/derde taal)
+V,QID293_Choice11,Geen van bovenstaande
+V,QID341_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID341_Choice1,Spraak-/taalproblemen
+V,QID341_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
+V,QID341_Answer2,Week 2
+V,QID341_Answer3,Week 3
+V,QID341_Answer4,Week 4
+V,QID341_Answer5,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Maand 2</span></span></strong>"
+V,QID341_Answer6,Maand 3
+V,QID341_Answer7,Maand 4
+V,QID341_Answer8,Maand 5
+V,QID341_Answer9,Maand 6
+V,QID341_Answer12,Maand 7
+V,QID302_QuestionText,"Spreekt u meerdere talen?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID302_Choice1,Ja
+V,QID302_Choice2,Nee
+V,QID134_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden van uw taalproblemen te beschrijven, waaronder met spreken, schrijven, lezen en luisteren naar woorden. Als er wijzigingen in uw spraak of taal zij die hierboven niet zijn vermeld, voeg deze dan ook toe. Bijvoorbeeld, als u meerdere talen spreekt en verschillende problemen hebt opgemerkt met uw eerste (moedertaal) en tweede of derde taal.&nbsp; &nbsp;"
+V,QID401_QuestionText,<strong>Hoofdpijn</strong>
+V,QID374_QuestionText,"Heeft u nieuwe <strong>HOOFDPIJN OF GERELATEERDE KLACHTEN</strong> gehad sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID374_Choice1,Ja
+V,QID374_Choice2,Nee
+V,QID345_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID345_Choice20,"Hoofdpijn, aan de achterkant van hoofd of nek"
+V,QID345_Choice21,"Hoofdpijn, rond de slapen"
+V,QID345_Choice22,"Hoofdpijn, achter de ogen"
+V,QID345_Choice23,"Hoofdpijn, difuus (gehele hoofd)"
+V,QID345_Choice24,Hoofdpijn/pijn na mentale inspanning
+V,QID345_Choice25,"Gevoel dat de hersenen warm zijn/""in brand staan"""
+V,QID345_Choice26,Migraines
+V,QID345_Choice27,Stijve nek
+V,QID345_Choice51,Gevoel van druk op hersenen
+V,QID345_Choice52,"Hoofdpijn, anders"
+V,QID345_Choice54,Geen van bovenstaande
  ,QID346_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable).&nbsp;</span>Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID346_Choice20,Headaches and related symptoms
  ,QID346_Answer1,"<strong><span style=""color:#e74c3c;""><span style=""font-size:16px;"">Week 1</span></span></strong>"
