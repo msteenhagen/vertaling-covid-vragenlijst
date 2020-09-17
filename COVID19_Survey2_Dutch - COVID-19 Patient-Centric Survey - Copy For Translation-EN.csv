@@ -2282,26 +2282,26 @@ V,QID359_Answer12,Maand 7
 V,QID103_QuestionText,"Als u een lage temperatuur had, wat was uw laagste temperatuur? Voer alleen cijfers in."
 V,QID104_QuestionText,"Als u een hoge temperatuur had, wat was uw hoogste temperatuur? Voer alleen cijfers in."
 V,QID433_QuestionText,"<span style=""font-size: 19px;"">Hart- en Vaatsymptomen</span>"
- ,QID369_QuestionText,"<div>When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>, even if you have only experienced these symptoms for part of a week or month.</div></div><div>➘</div>"
- ,QID369_Choice1,"Tachycardia (high heart rate, >90 beats per minute)"
- ,QID369_Choice8,"Bradycardia (low heart rate, <60 beats per minute)"
- ,QID369_Choice9,"Heart palpitations (sensation or awareness of your heart beating. Feeling like your heart is racing, thumping or skipping beats)"
- ,QID369_Choice10,Abnormally high blood pressure
- ,QID369_Choice11,Abnormally low blood pressure
- ,QID369_Choice12,Visibly inflamed/bulging veins
- ,QID369_Choice13,Fainting
- ,QID369_Choice14,Blood clots (Thrombosis)
- ,QID369_Answer13,N/A
- ,QID369_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
- ,QID369_Answer2,Week 2
- ,QID369_Answer3,Week 3
- ,QID369_Answer4,Week 4
- ,QID369_Answer5,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Month 2</span></span></strong>"
- ,QID369_Answer6,Month 3
- ,QID369_Answer7,Month 4
- ,QID369_Answer8,Month 5
- ,QID369_Answer9,Month 6
- ,QID369_Answer12,Month 7
+V,QID369_QuestionText,"<div>Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div></div><div>➘</div>"
+V,QID369_Choice1,"Tachycardie (hoge hartslag, >90 slagen per minuut)"
+V,QID369_Choice8,"Bradycardie (lage hartslag, <60 slagen per minuut)"
+V,QID369_Choice9,"Hartkloppingen (gevoel of bewustzijn van uw hartslag. Voelen alsof uw hart op hol slaat, bonst of slagen overslaat)"
+V,QID369_Choice10,Abnormaal hoge bloeddruk
+V,QID369_Choice11,Abnormaal lage bloeddruk
+V,QID369_Choice12,Zichtbaar ontstoken/gezwollen bloedvaten
+V,QID369_Choice13,Flauwvallen
+V,QID369_Choice14,Bloedproppen (Trombose)
+V,QID369_Answer13,N.v.t.
+V,QID369_Answer1,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Week 1</span></span></strong>"
+V,QID369_Answer2,Week 2
+V,QID369_Answer3,Week 3
+V,QID369_Answer4,Week 4
+V,QID369_Answer5,"<strong><span style=""font-size:16px;""><span style=""color:#e74c3c;"">Maand 2</span></span></strong>"
+V,QID369_Answer6,Maand 3
+V,QID369_Answer7,Maand 4
+V,QID369_Answer8,Maand 5
+V,QID369_Answer9,Maand 6
+V,QID369_Answer12,Maand 7
  ,QID119_QuestionText,"If you had tachycardia and were able to measure it, what was the maximum heart rate (in bpm) that you measured, <strong><span style=""font-size:16px;"">at rest</span></strong><span style=""font-size:16px;"">?</span>"
  ,QID260_QuestionText,"If you had tachycardia and were able to measure it, what was the maximum heart rate (in bpm) that you measured, <strong><span style=""font-size:16px;"">at exertion </span></strong><span style=""font-size:16px;"">(during physical activity)?</span>"
  ,QID120_QuestionText,"If you had tachycardia and were able to measure it, was your heart rate higher when standing compared to sitting?&nbsp;"
