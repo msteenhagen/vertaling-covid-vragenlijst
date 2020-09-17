@@ -2141,28 +2141,28 @@ V,QID363_Answer9,Maand 6
 V,QID363_Answer12,Maand 7
 V,QID107_QuestionText,"Als u fantoomsmaken proefde, geef hier een beschrijving:"
 V,QID108_QuestionText,"Als u fantoomgeuren rook, geef hier een beschrijving:"
- ,QID403_QuestionText,<strong>Tremors and Vibrating Sensations</strong>
- ,QID410_QuestionText,"Have you experienced any <strong>TREMOR OR VIBRATION SENTATIONS</strong>&nbsp;since the start of your COVID-19 illness?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Involuntary, rhythmic muscle contraction leading to shaking movements in one or more parts of the body&nbsp;</div>➘➘<div><strong>Vibration sensation</strong>: A buzzing feeling, when you feel like your muscles, fingers, or legs are&nbsp;vibrating&nbsp;or shaking inside, but you don&#39;t see the movement&nbsp;</div>"
- ,QID410_Choice1,Yes
- ,QID410_Choice2,No
- ,QID347_QuestionText,"Which of the following symptoms have you experienced since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span></div><div><span style=""color: rgb(231, 76, 60); font-size: 16px; caret-color: rgb(0, 0, 0);"">Please specify the location on your body in the text box. If multiple locations, please separate them with a comma (i.e. leg, torso, hand).</span><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span><div><br></div></div>"
- ,QID347_Choice33,Tremors
- ,QID347_Choice35,Vibrating sensations
- ,QID348_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID348_Choice33,Tremors
- ,QID348_Choice55,Vibrating Sensations
- ,QID348_Answer13,N/A
- ,QID348_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
- ,QID348_Answer2,Week 2
- ,QID348_Answer3,Week 3
- ,QID348_Answer4,Week 4
- ,QID348_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID348_Answer6,Month 3
- ,QID348_Answer7,Month 4
- ,QID348_Answer8,Month 5
- ,QID348_Answer9,Month 6
- ,QID348_Answer12,Month 7
- ,QID137_QuestionText,Please use this space to describe examples of your tremors or body vibration/shaking during your illness.&nbsp;<div>Please do not include any identifying information (such as name or location).</div>
+V,QID403_QuestionText,<strong>Tremors en Bevend Gevoel</strong>
+V,QID410_QuestionText,"Heeft u een <strong>TREMOR OF BEVEND GEVOEL</strong>&nbsp; gehad sinds het begin van uw ziekte met COVID-19?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Onwillekeurige, ritmische spiersamentrekking die leidt tot een schuddende beweging in één of meerdere lichaamsdelen&nbsp;</div>➘➘<div><strong>Bevend gevoel</strong>: Een trillende sensatie, die voelt alsof uw spieren, vingers, of benen&nbsp;vibreren&nbsp;of schudden van binnen, maar u ziet geen beweging&nbsp;</div>"
+V,QID410_Choice1,Ja
+V,QID410_Choice2,Nee
+V,QID347_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span></div><div><span style=""color: rgb(231, 76, 60); font-size: 16px; caret-color: rgb(0, 0, 0);"">Geef de plek in uw lichaam aan in het tekstvak. Als het om meerdere plekken gaat, scheidt deze met een komma (bijv. been, romp, hand).</span><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span><div><br></div></div>"
+V,QID347_Choice33,Tremors
+V,QID347_Choice35,Bevend gevoel
+V,QID348_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID348_Choice33,Tremors
+V,QID348_Choice55,Bevend gevoel
+V,QID348_Answer13,N.v.t.
+V,QID348_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
+V,QID348_Answer2,Week 2
+V,QID348_Answer3,Week 3
+V,QID348_Answer4,Week 4
+V,QID348_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID348_Answer6,Maand 3
+V,QID348_Answer7,Maand 4
+V,QID348_Answer8,Maand 5
+V,QID348_Answer9,Maand 6
+V,QID348_Answer12,Maand 7
+V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors of bevend gevoel tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>
  ,QID404_QuestionText,<strong>Sleeping issues</strong>
  ,QID380_QuestionText,"Have you experienced any <strong>SLEEPING ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""color:#e74c3c;""><strong> *</strong></span>"
  ,QID380_Choice1,Yes
