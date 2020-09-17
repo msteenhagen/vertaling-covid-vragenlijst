@@ -2258,27 +2258,27 @@ V,QID407_QuestionText,<strong>Temperatuurproblemen</strong>
 V,QID397_QuestionText,"Heeft u enige <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad (inclusief warmte-intolerantie, rillingen, hoge/lage temperatuur) sinds het begin van uw COVID-19 ziekte?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
 V,QID397_Choice1,Ja
 V,QID397_Choice2,Nee
- ,QID102_QuestionText,"Did you experience any of the following <strong>TEMPERATURE ISSUES</strong>&nbsp;since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID102_Choice4,Temperature lability (quick swings in and out of fever or elevated temperature)
- ,QID102_Choice5,Heat intolerance
- ,QID102_Choice6,Other temperature issues (not listed above or below)
- ,QID359_QuestionText,"If you experienced any of the following temperature issues, when did you experience the following symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if you haven't yet reached a week/month, please leave it blank)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID359_Choice1,Chills/flushing/sweats
- ,QID359_Choice8,All other temperature issues
- ,QID359_Choice10,"Elevated temperature (98.8-100.4 degrees Fahrenheit, 37.1-37.9 Celsius)"
- ,QID359_Choice11,Fever (100.4 degrees Fahrenheit / 38 degrees Celsius or above)
- ,QID359_Choice12,Low temperature
- ,QID359_Answer13,N/A
- ,QID359_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID359_Answer2,Week 2
- ,QID359_Answer3,Week 3
- ,QID359_Answer4,Week 4
- ,QID359_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID359_Answer6,Month 3
- ,QID359_Answer7,Month 4
- ,QID359_Answer8,Month 5
- ,QID359_Answer9,Month 6
- ,QID359_Answer12,Month 7
+V,QID102_QuestionText,"Heeft u enige van de volgende <strong>TEMPERATUURPROBLEMEN</strong>&nbsp;gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID102_Choice4,Temperatuurlabiliteit (snelle schommelingen van en naar koorts of verhoogde temperatuur)
+V,QID102_Choice5,Warmte-intolerantie
+V,QID102_Choice6,Andere temperatuurproblemen (niet hierboven of onder genoemd)
+V,QID359_QuestionText,"Als u enige van de volgende temperatuurproblemen heeft gehad, wanneer had u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID359_Choice1,Rillingen/opvlieging/zweten
+V,QID359_Choice8,Alle andere temperatuurproblemen
+V,QID359_Choice10,"Verhoogde temperatuur (98.8-100.4 graden Fahrenheit, 37.1-37.9 graden Celsius)"
+V,QID359_Choice11,Koorts (100.4 graden Fahrenheit / 38 graden Celsius of hoger)
+V,QID359_Choice12,Lage temperatuur
+V,QID359_Answer13,N.v.t.
+V,QID359_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID359_Answer2,Week 2
+V,QID359_Answer3,Week 3
+V,QID359_Answer4,Week 4
+V,QID359_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID359_Answer6,Maand 3
+V,QID359_Answer7,Maand 4
+V,QID359_Answer8,Maand 5
+V,QID359_Answer9,Maand 6
+V,QID359_Answer12,Maand 7
  ,QID103_QuestionText,"If you had a low temperature, what was your lowest temperature? Please input number only."
  ,QID104_QuestionText,"If you had a high temperature, what was your highest temperature? Please input number only."
  ,QID433_QuestionText,"<span style=""font-size: 19px;"">Cardiovascular Symptoms</span>"
