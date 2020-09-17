@@ -1971,7 +1971,7 @@ V,QID336_Choice2,"Verlies langetermijngeheugen (langetermijngeheugen loopt uitee
 V,QID336_Choice3,Geen nieuwe herinneringen meer kunnen vormen
 V,QID336_Choice4,"Vergeten hoe normale taken gedaan moeten worden (veters strikken, handen wassen)"
 V,QID336_Choice5,Anders
-V,QID336_Choice6,Geen van deze
+V,QID336_Choice6,Geen van bovenstaande
 V,QID68_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
 V,QID68_Choice1,Geheugensymptomen
 V,QID68_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
@@ -2031,27 +2031,27 @@ V,QID73_Answer4,Niet beperkt
 V,QID73_Answer5,Niet van toepassing
 V,QID74_QuestionText,"Optioneel: Als er andere delen van uw leven zijn die werden beïnvloed door geheugenverlies of 'brain fog', vermeld deze dan hier. Beschrijf of ze licht, matig of ernstig beperkend waren.&nbsp;"
 V,QID133_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van uw 'brain fog', geheugenverlies, and aandachtsspanne.<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>"
- ,QID399_QuestionText,<strong>Emotional and Behavioral Changes</strong>
- ,QID77_QuestionText,"Compared to how you felt before COVID, have you experienced an increase in any of the following?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID77_Choice1,Difficulty controlling your emotions
- ,QID77_Choice2,Lack of inhibition (difficulty controlling your behavior)
- ,QID77_Choice3,Irritability
- ,QID77_Choice4,Anger
- ,QID77_Choice5,Impulsivity (acting on a whim without self-control)
- ,QID77_Choice6,Aggression
- ,QID77_Choice7,Euphoria (a feeling or state of intense excitement and happiness)
- ,QID77_Choice8,Delusions
- ,QID77_Choice9,Depression
- ,QID77_Choice10,"Apathy (lack of feeling, emotion, interest, or concern)"
- ,QID77_Choice11,Suicidality
- ,QID77_Choice12,Mood swings
- ,QID77_Choice13,Anxiety
- ,QID77_Choice14,"Mania (abnormally elevated/excited mood, decreased need for sleep, occasionally with delusions)"
- ,QID77_Choice15,Hypomania (a milder form of mania)
- ,QID77_Choice16,Tearfulness
- ,QID77_Choice17,Sense of doom
- ,QID77_Choice18,Other
- ,QID77_Choice20,None of the above
+V,QID399_QuestionText,<strong>Veranderingen in Emoties en Gedrag</strong>
+V,QID77_QuestionText,"Heeft u, in vergelijking met hoe u zich vóór COVID voelde, een toename ervaren van één of meerdere van de volgende situaties?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID77_Choice1,Moeite emoties onder controle te houden
+V,QID77_Choice2,Ongeremdheid (moeite met het beheersen van uw gedrag)
+V,QID77_Choice3,Prikkelbaarheid
+V,QID77_Choice4,Boosheid
+V,QID77_Choice5,Impulsief gedrag (handelen in een opwelling zonder zelfbeheersing)
+V,QID77_Choice6,Agressie 
+V,QID77_Choice7,Euforie (een gevoel of staat van intense opwinding en geluk)
+V,QID77_Choice8,Waanbeelden
+V,QID77_Choice9,Depressie
+V,QID77_Choice10,"Apatie (gebrek aan gevoel, emotie, interesse of bezorgdheid)"
+V,QID77_Choice11,Suïcidaliteit
+V,QID77_Choice12,Stemminswisselingen
+V,QID77_Choice13,Angst
+V,QID77_Choice14,"Manie (abnormaal verhoogde / opgewonden stemming, verminderde behoefte aan slaap, soms met waanvoorstellingen)"
+V,QID77_Choice15,Hypomanie (een mildere vorm van manie)
+V,QID77_Choice16,Huilerigheid
+V,QID77_Choice17,Gevoel van onheil
+V,QID77_Choice18,Anders
+V,QID77_Choice20,Geen van bovenstaande
  ,QID136_QuestionText,"Optional: Please use this space to describe examples of your emotional changes during your illness.&nbsp;<div>Please do not include any identifying information (name, location, etc.).</div>"
  ,QID79_QuestionText,"Optional: If you had any of these emotional experiences <b>pre</b>-COVID, please describe how they differed <b>post</b>-COVID. <br><br>Please do not include any identifying information (name, location, etc.)."
  ,QID398_QuestionText,<strong>Speech and Language Issues</strong>
