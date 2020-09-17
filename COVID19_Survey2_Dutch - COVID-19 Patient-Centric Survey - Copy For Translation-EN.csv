@@ -2241,19 +2241,19 @@ V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors
  ,QID343_Choice53,"Gevoel van druk/gevoelloosheid in het gezicht, anders:"
  ,QID343_Choice56,Aangezichtsverlamming (geef aan waar op het gezicht er verlamming was)
  ,QID343_Choice57,Geen van bovenstaande
- ,QID344_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID344_Choice1,All neurological sensations
- ,QID344_Answer13,N/A
+ ,QID344_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+ ,QID344_Choice1,Alle neurologische sensaties
+ ,QID344_Answer13,N.v.t.
  ,QID344_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
  ,QID344_Answer2,Week 2
  ,QID344_Answer3,Week 3
  ,QID344_Answer4,Week 4
- ,QID344_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID344_Answer6,Month 3
- ,QID344_Answer7,Month 4
- ,QID344_Answer8,Month 5
- ,QID344_Answer9,Month 6
- ,QID344_Answer12,Month 7
+ ,QID344_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+ ,QID344_Answer6,Maand 3
+ ,QID344_Answer7,Maand 4
+ ,QID344_Answer8,Maand 5
+ ,QID344_Answer9,Maand 6
+ ,QID344_Answer12,Maand 7
  ,QID407_QuestionText,<strong>Temperature Issues</strong>
  ,QID397_QuestionText,"Have you experienced any <strong>TEMPERATURE ISSUES</strong>&nbsp;(including heat intolerance, chills, high/low temperature) since the start of your COVID-19 illness?<span style=""color: rgb(231, 76, 60);"">&nbsp;*</span>"
  ,QID397_Choice1,Yes
