@@ -2451,24 +2451,24 @@ V,QID361_Answer12,Maand 7
  ,QID367_Answer8,Maand 5
  ,QID367_Answer9,Maand 6
  ,QID367_Answer12,Maand 7
- ,QID442_QuestionText,<b>Muscle and Joint issues</b>
- ,QID442_Choice1,None of the below muscle and joint symptoms apply to me
- ,QID356_QuestionText,Muscle and Joint issues
- ,QID356_Choice2,Muscle spasms
- ,QID356_Choice23,Muscle aches
- ,QID356_Choice24,Joint pain
- ,QID356_Choice25,Bone ache or burning
- ,QID356_Answer13,N/A
+ ,QID442_QuestionText,<b>Spier- en Gewrichtsproblemen</b>
+ ,QID442_Choice1,Geen van de onderstaande spier- en gewrichtsproblemen zijn op mij van toepassing
+ ,QID356_QuestionText,Spier- en Gewrichtsproblemen
+ ,QID356_Choice2,Spasmen 
+ ,QID356_Choice23,Spierpijn
+ ,QID356_Choice24,Gewrichtspijn
+ ,QID356_Choice25,Botpijn of een brandend gevoel
+ ,QID356_Answer13,N.v.t.
  ,QID356_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
  ,QID356_Answer2,Week 2
  ,QID356_Answer3,Week 3
  ,QID356_Answer4,Week 4
- ,QID356_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID356_Answer6,Month 3
- ,QID356_Answer7,Month 4
- ,QID356_Answer8,Month 5
- ,QID356_Answer9,Month 6
- ,QID356_Answer12,Month 7
+ ,QID356_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+ ,QID356_Answer6,Maand 3
+ ,QID356_Answer7,Maand 4
+ ,QID356_Answer8,Maand 5
+ ,QID356_Answer9,Maand 6
+ ,QID356_Answer12,Maand 7
  ,QID377_QuestionText,"<span style=""font-weight: bolder;"">All Other Symptoms</span><div><b><br></b>Have you experienced any of these symptoms since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Please choose all options that&nbsp;apply)</div></div>"
  ,QID377_Choice42,Inability to cry
  ,QID377_Choice49,Lump in throat/difficulty swallowing
