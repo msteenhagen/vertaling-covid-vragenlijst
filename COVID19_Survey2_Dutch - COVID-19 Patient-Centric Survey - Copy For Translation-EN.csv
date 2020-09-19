@@ -1984,7 +1984,7 @@ V,QID68_Answer7,Maand 4
 V,QID68_Answer8,Maand 5
 V,QID68_Answer9,Maand 6
 V,QID68_Answer12,Maand 7
-V,QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">Heeft u problemen gehad met <strong>'BRAIN FOG' (HERSENMIST)</strong>&nbsp;(onvermogen om te concentreren, om te denken, om te plannen, om een gedachtengang te verwerken, begrijpen, en vol te houden; abnormaal langzame of snelle gedachten)&nbsp;sinds het begin van uw ziekte met COVID-19?&nbsp;<span style=""color:#e74c3c;"">*</span></span>"
+V,QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">Heeft u problemen gehad met <strong>'BRAIN FOG' (CONCENTRATIEPROBLEMEN)</strong>&nbsp;(onvermogen om te concentreren, om te denken, om te plannen, om een gedachtengang te verwerken, begrijpen, en vol te houden; abnormaal langzame of snelle gedachten)&nbsp;sinds het begin van uw ziekte met COVID-19?&nbsp;<span style=""color:#e74c3c;"">*</span></span>"
 V,QID376_Choice1,Ja
 V,QID376_Choice2,Nee
 V,QID261_QuestionText,"Welke van de volgende symptomen gerelateerd aan 'brain fog' of cognitief functioneren hebt u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""color:#e74c3c;""><strong>&nbsp;*</strong></span>"
