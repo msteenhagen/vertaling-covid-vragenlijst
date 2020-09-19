@@ -2381,23 +2381,23 @@ V,QID114_Answer18,Maand 4
 V,QID114_Answer19,Maand 5
 V,QID114_Answer20,Maand 6
 V,QID114_Answer21,Maand 7
- ,QID438_QuestionText,<b>Ear and Hearing Symptoms</b>
- ,QID438_Choice1,None of the below ear and hearing symptoms apply to me
- ,QID396_QuestionText,Ear and Hearing Symptoms
- ,QID396_Choice1,Hearing loss
- ,QID396_Choice52,Tinnitus
- ,QID396_Choice58,Other ear/hearing issues
- ,QID396_Answer13,N/A
- ,QID396_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID396_Answer2,Week 2
- ,QID396_Answer3,Week 3
- ,QID396_Answer4,Week 4
- ,QID396_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID396_Answer6,Month 3
- ,QID396_Answer7,Month 4
- ,QID396_Answer8,Month 5
- ,QID396_Answer9,Month 6
- ,QID396_Answer12,Month 7
+V,QID438_QuestionText,<b>Oor- en Gehoorsymptomen</b>
+V,QID438_Choice1,Geen van de onderstaande oor- en gehoorsymptomen zijn op mij van toepassing
+V,QID396_QuestionText,Oor- en Gehoorsymptomen
+V,QID396_Choice1,Gehoorverlies
+V,QID396_Choice52,Tinnitus
+V,QID396_Choice58,Andere oor-/gehoorproblemen
+V,QID396_Answer13,N.v.t.
+V,QID396_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID396_Answer2,Week 2
+V,QID396_Answer3,Week 3
+V,QID396_Answer4,Week 4
+V,QID396_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID396_Answer6,Maand 3
+V,QID396_Answer7,Maand 4
+V,QID396_Answer8,Maand 5
+V,QID396_Answer9,Maand 6
+V,QID396_Answer12,Maand 7
  ,QID439_QuestionText,<b>Eye and Vision Symptoms</b>
  ,QID439_Choice1,None of the below eye and vision symptoms apply to me
  ,QID361_QuestionText,Eye and Vision Symptoms
