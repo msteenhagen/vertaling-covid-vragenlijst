@@ -2606,19 +2606,19 @@ V,QID315_Choice1,Een paar uur
 V,QID315_Choice2,Een paar dagen
 V,QID315_Choice3,Een paar weken
 V,QID315_Choice4,Anders
- ,QID322_QuestionText,"(Optional) Please explain anything else you'd like to share about your experience with Post-Exertional Malaise. For instance, you can list the type of activities that worsens your symptoms strongest (walking, strenuous exercise, reading, watching movies, etc)."
- ,QID342_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID342_Choice1,Worsening/relapses of symptoms from physical and mental exertion
- ,QID342_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID342_Answer2,Week 2
- ,QID342_Answer4,Week 3
- ,QID342_Answer5,Week 4
- ,QID342_Answer6,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID342_Answer7,Month 3
- ,QID342_Answer8,Month 4
- ,QID342_Answer9,Month 5
- ,QID342_Answer10,Month 6
- ,QID342_Answer11,Month 7
+V,QID322_QuestionText,"(Optional) Beschrijf wat u nog meer wilt delen over uw ervaring met Post-Exertional Malaise. U kunt bijvoorbeeld het soort activiteiten opnoemen dat uw symptomen het sterkst verergert (wandelen, zware lichamelijke inspanning, lezen, films kijken, enz.)."
+V,QID342_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID342_Choice1,Verslechtering/terugval van symptomen door fysieke en mentale inspanning
+V,QID342_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID342_Answer2,Week 2
+V,QID342_Answer4,Week 3
+V,QID342_Answer5,Week 4
+V,QID342_Answer6,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID342_Answer7,Maand 3
+V,QID342_Answer8,Maand 4
+V,QID342_Answer9,Maand 5
+V,QID342_Answer10,Maand 6
+V,QID342_Answer11,Maand 7
  ,QID321_QuestionText,<b>Fatigue</b>
  ,QID146_QuestionText,"The following ten statements refer to how you feel at the <strong>current</strong> stage of your COVID-19&nbsp;recovery (over the past week).&nbsp;<strong>Please give an answer to each question, even if you do not have any complaints at the moment.&nbsp;<span style=""color:#c0392b;"">*</span>&nbsp;</strong>"
  ,QID146_Choice1,I am bothered by fatigue
