@@ -2569,7 +2569,7 @@ V,QID450_Choice29,Anders
 V,QID450_Choice30,Sporten
 V,QID450_Choice31,Lichaamsbeweging
 V,QID450_Choice32,Mentale inspanning
-V,QID430_QuestionText,"Hoe zou u zeggen dat u zich vandaag voelt, op een schaal van 0-100% (waarbij 100% uw pre-COVID-baseline is)?➘&nbsp;"
+V,QID430_QuestionText,"Hoe zou u zeggen dat u zich vandaag voelt, op een schaal van 0-100% (waarbij 100% weergeeft hoe u zich voelde voordat u COVID had)?➘&nbsp;"
 V,QID430_Choice1,%
 V,QID271_QuestionText,"Noem ten minste&nbsp;<b>drie symptomen</b> die het meest slopend zijn geweest tijdens uw herstel.<div>Op een schaal van 0-10, hoe ernstig waren deze symptomen? (0 is prima, 10 is volledig slopend).&nbsp;</div><div><div><br></div></div>"
 V,QID271_Choice4,"Symptoom 1<span style=""color:#e74c3c;""> *</span>"
