@@ -2528,55 +2528,55 @@ V,QID366_Choice32,Broze/verkleurde nagels
 V,QID366_Choice34,Geen van bovenstaande
 V,QID366_Choice35,Gordelroos
 V,QID147_QuestionText,"Hoe ernstig waren / zijn uw symptomen gedurende de <span style=""color:#c0392b;"">weken</span>/<span style=""color:#c0392b;"">maanden</span>?&nbsp;<span style=""color:#c0392b;"">*</span>➘<div>&nbsp;➘<div>Als u in een periode verschillende mate van ernst van symptomen heeft ondervonden, kies dan de meest ernstige binnen deze periode.</div>➘</div>"
- ,QID147_Choice1,Week 1
- ,QID147_Choice2,Week 2
- ,QID147_Choice3,Week 3
- ,QID147_Choice4,Week 4
- ,QID147_Choice5,Maand 2
- ,QID147_Choice6,Maand 3
- ,QID147_Choice7,Maand 4
- ,QID147_Choice8,Maand 5
- ,QID147_Choice9,Maand 6
- ,QID147_Choice18,Maand 7+
- ,QID147_Answer1,Geen symptomen
- ,QID147_Answer2,Heel mild
- ,QID147_Answer3,Mild
- ,QID147_Answer4,Matig
- ,QID147_Answer13,Ernstig
- ,QID147_Answer14,Zeer ernstig
- ,QID429_QuestionText,"Welke van deze omschrijvingen past bij uw ervaring met terugvallen, en uw symptoomverloop in het algemeen? Selecteer alles wat van toepassing is:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID429_Choice1,Ik ervaar geen terugvallen / heb nog geen terugval ervaren.
- ,QID429_Choice12,"Over het algemeen zijn mijn symptomen langzaamaan beter geworden."
- ,QID429_Choice13,"Over het algemeen zijn mijn symptomen ongeveer hetzelfde gebleven."
- ,QID429_Choice14,"Over het algemeen zijn mijn symptomen erger geworden."
- ,QID429_Choice15,Ik ging snel achteruit
- ,QID429_Choice16,"Mijn terugvallen hebben een regelmatig patroon (maandelijks, dagelijks of wekelijks)."
- ,QID429_Choice17,Mijn terugvallen hebben een onregelmatig patroon (onvoorspelbaar).
- ,QID429_Choice18,"Mijn terugvallen hebben komen na een trigger (stress, alcohol, sporten/inspanning, etc)."
- ,QID429_Choice19,Ik werd snel beter.
- ,QID429_Choice20,Mijn terugvallen worden in de loop van de tijd korter/lichter.
- ,QID429_Choice21,Mijn terugvallen worden in de loop van de tijd langer/zwaarder.
- ,QID429_Choice22,Mijn terugvallen zijn in de loop van de tijd ongeveer even zwaar gebleven.
- ,QID429_Choice23,Anders
- ,QID450_QuestionText,"Welke van de volgende veroorzaken een terugval of verergering van de symptomen? Kies alle opties die van toepassing zijn:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID450_Choice1,Stress
- ,QID450_Choice24,Alcohol
- ,QID450_Choice25,Cafeïne
- ,QID450_Choice26,Hitte
- ,QID450_Choice27,Ongesteldheid/menstruatie
- ,QID450_Choice28,De week vóór ongesteldheid/menstruatie
- ,QID450_Choice29,Anders
- ,QID450_Choice30,Sporten
- ,QID450_Choice31,Lichaamsbeweging
- ,QID450_Choice32,Mentale inspanning
- ,QID430_QuestionText,"Hoe zou u zeggen dat u zich vandaag voelt, op een schaal van 0-100% (waarbij 100% uw pre-COVID-baseline is)?➘&nbsp;"
- ,QID430_Choice1,%
- ,QID271_QuestionText,"Noem ten minste&nbsp;<b>drie symptomen</b> die het meest slopend zijn geweest tijdens uw herstel.<div>Op een schaal van 0-10, hoe ernstig waren deze symptomen? (0 is prima, 10 is volledig slopend).&nbsp;</div><div><div><br></div></div>"
- ,QID271_Choice4,"Symptoom 1<span style=""color:#e74c3c;""> *</span>"
- ,QID271_Choice5,"Symptoom 2<span style=""color:#e74c3c;""> *</span>"
- ,QID271_Choice6,"Symptoom 3<span style=""color:#e74c3c;""> *</span>"
- ,QID271_Choice7,Symptoom 4
- ,QID271_Choice8,Symptoom 5
+V,QID147_Choice1,Week 1
+V,QID147_Choice2,Week 2
+V,QID147_Choice3,Week 3
+V,QID147_Choice4,Week 4
+V,QID147_Choice5,Maand 2
+V,QID147_Choice6,Maand 3
+V,QID147_Choice7,Maand 4
+V,QID147_Choice8,Maand 5
+V,QID147_Choice9,Maand 6
+V,QID147_Choice18,Maand 7+
+V,QID147_Answer1,Geen symptomen
+V,QID147_Answer2,Heel mild
+V,QID147_Answer3,Mild
+V,QID147_Answer4,Matig
+V,QID147_Answer13,Ernstig
+V,QID147_Answer14,Zeer ernstig
+V,QID429_QuestionText,"Welke van deze omschrijvingen past bij uw ervaring met terugvallen, en uw symptoomverloop in het algemeen? Selecteer alles wat van toepassing is:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID429_Choice1,Ik ervaar geen terugvallen / heb nog geen terugval ervaren.
+V,QID429_Choice12,"Over het algemeen zijn mijn symptomen langzaamaan beter geworden."
+V,QID429_Choice13,"Over het algemeen zijn mijn symptomen ongeveer hetzelfde gebleven."
+V,QID429_Choice14,"Over het algemeen zijn mijn symptomen erger geworden."
+V,QID429_Choice15,Ik ging snel achteruit
+V,QID429_Choice16,"Mijn terugvallen hebben een regelmatig patroon (maandelijks, dagelijks of wekelijks)."
+V,QID429_Choice17,Mijn terugvallen hebben een onregelmatig patroon (onvoorspelbaar).
+V,QID429_Choice18,"Mijn terugvallen hebben komen na een trigger (stress, alcohol, sporten/inspanning, etc)."
+V,QID429_Choice19,Ik werd snel beter.
+V,QID429_Choice20,Mijn terugvallen worden in de loop van de tijd korter/lichter.
+V,QID429_Choice21,Mijn terugvallen worden in de loop van de tijd langer/zwaarder.
+V,QID429_Choice22,Mijn terugvallen zijn in de loop van de tijd ongeveer even zwaar gebleven.
+V,QID429_Choice23,Anders
+V,QID450_QuestionText,"Welke van de volgende veroorzaken een terugval of verergering van de symptomen? Kies alle opties die van toepassing zijn:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID450_Choice1,Stress
+V,QID450_Choice24,Alcohol
+V,QID450_Choice25,Cafeïne
+V,QID450_Choice26,Hitte
+V,QID450_Choice27,Ongesteldheid/menstruatie
+V,QID450_Choice28,De week vóór ongesteldheid/menstruatie
+V,QID450_Choice29,Anders
+V,QID450_Choice30,Sporten
+V,QID450_Choice31,Lichaamsbeweging
+V,QID450_Choice32,Mentale inspanning
+V,QID430_QuestionText,"Hoe zou u zeggen dat u zich vandaag voelt, op een schaal van 0-100% (waarbij 100% uw pre-COVID-baseline is)?➘&nbsp;"
+V,QID430_Choice1,%
+V,QID271_QuestionText,"Noem ten minste&nbsp;<b>drie symptomen</b> die het meest slopend zijn geweest tijdens uw herstel.<div>Op een schaal van 0-10, hoe ernstig waren deze symptomen? (0 is prima, 10 is volledig slopend).&nbsp;</div><div><div><br></div></div>"
+V,QID271_Choice4,"Symptoom 1<span style=""color:#e74c3c;""> *</span>"
+V,QID271_Choice5,"Symptoom 2<span style=""color:#e74c3c;""> *</span>"
+V,QID271_Choice6,"Symptoom 3<span style=""color:#e74c3c;""> *</span>"
+V,QID271_Choice7,Symptoom 4
+V,QID271_Choice8,Symptoom 5
  ,QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Worsening or relapse of symptoms after physical and/or mental activity</i></div></div>
  ,QID253_QuestionText,"During your COVID-19 recovery, have you experienced any worsening or relapse of your symptoms after physical activity or mental activity?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID253_Choice23,Yes
