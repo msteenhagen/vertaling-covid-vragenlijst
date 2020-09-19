@@ -3038,7 +3038,7 @@ V,QID212_Choice12,Hersenontsteking (encefalitis) (noem het type hersenontsteking
 V,QID212_Choice13,Meningo-encefalitis
 V,QID212_Choice14,Hersenvliesontsteking (meningitis) 
 V,QID212_Choice15,Acute gedissemineerde encefalomyelitis (ADEM)
-V,QID212_Choice16,Acute myelitis  
+V,QID212_Choice16,Acute slappe verlamming (acute myelitis)
 V,QID212_Choice17,Oogspierverlamming (oftalmoplegie)
 V,QID212_Choice18,Psychiatrische diagnose
 V,QID212_Choice19,Migraine
@@ -3050,7 +3050,7 @@ V,QID212_Choice24,Tapia Syndroom
 V,QID212_Choice25,Epilepsie
 V,QID212_Choice26,Traumatisch hersenletsel of Traumatisch hersenletsel-achtige symptomen
 V,QID212_Choice27,Myalgische encefalomyelitis (ME) / Chronisch vermoeidheidssyndroom (ME/CVS)
- ,QID212_Choice28,Cranial nerve involvement
+V,QID212_Choice28,Uitval hersenzenuw
 V,QID212_Choice29,Maculagat
 V,QID212_Choice30,Costochondritis
 V,QID212_Choice31,Bloedprop
@@ -3061,7 +3061,7 @@ V,QID373_Choice5,<strong>Behandelingsopties zonder medicatie</strong><br />Elekt
 V,QID373_Choice6,"Compressiekleding (sokken, leggings)"
 V,QID373_Choice7,"<strong>Vrij verkrijgbare pijnstillers</strong><br />➘Niet-NSAID's (Tylenol, Paracetamol)"
 V,QID373_Choice8,<strong>Cannabis&nbsp;</strong><br />➘CBD/THC producten
-V,QID373_Choice9,CBD-producten
+V,QID373_Choice9,Zuivere CBD-producten
 V,QID373_Choice10,Acupunctuur
 V,QID373_Choice11,Zout toevoegen aan eten en drinken
 V,QID373_Choice12,Lymfatische massage (lymfedrainage)
