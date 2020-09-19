@@ -2398,22 +2398,22 @@ V,QID396_Answer7,Maand 4
 V,QID396_Answer8,Maand 5
 V,QID396_Answer9,Maand 6
 V,QID396_Answer12,Maand 7
- ,QID439_QuestionText,<b>Eye and Vision Symptoms</b>
- ,QID439_Choice1,None of the below eye and vision symptoms apply to me
- ,QID361_QuestionText,Eye and Vision Symptoms
- ,QID361_Choice1,Vision symptoms
- ,QID361_Choice20,Other eye symptoms
- ,QID361_Answer13,N/A
- ,QID361_Answer1,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
- ,QID361_Answer2,Week 2
- ,QID361_Answer3,Week 3
- ,QID361_Answer4,Week 4
- ,QID361_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Month 2</span></strong></span>"
- ,QID361_Answer6,Month 3
- ,QID361_Answer7,Month 4
- ,QID361_Answer8,Month 5
- ,QID361_Answer9,Month 6
- ,QID361_Answer12,Month 7
+V,QID439_QuestionText,<b>Oog- en Gezichtssymptomen</b>
+V,QID439_Choice1,Geen van de onderstaande oog- en gezichtssymptomen zijn op mij van toepassing
+V,QID361_QuestionText,Oog- en Gezichtssymptomen
+V,QID361_Choice1,Gezichtssymptomen
+V,QID361_Choice20,Andere oogsymptomen
+V,QID361_Answer13,N.v.t.
+V,QID361_Answer1,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Week 1</span></strong></span>"
+V,QID361_Answer2,Week 2
+V,QID361_Answer3,Week 3
+V,QID361_Answer4,Week 4
+V,QID361_Answer5,"<span style=""color:#e74c3c;""><strong><span style=""font-size:16px;"">Maand 2</span></strong></span>"
+V,QID361_Answer6,Maand 3
+V,QID361_Answer7,Maand 4
+V,QID361_Answer8,Maand 5
+V,QID361_Answer9,Maand 6
+V,QID361_Answer12,Maand 7
  ,QID440_QuestionText,<b>Reproductive and Urinary Symptoms</b>
  ,QID440_Choice1,None of the below reproductive and urinary symptoms apply to me
  ,QID353_QuestionText,Reproductive and Urinary Symptoms
