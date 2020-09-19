@@ -2661,100 +2661,100 @@ V,QID422_Answer8,Maand 4
 V,QID422_Answer9,Maand 5
 V,QID422_Answer10,Maand 6
 V,QID422_Answer11,Maand 7
- ,QID245_QuestionText,<b>Changes in Sensitivity to Medication or Other Substances</b>
- ,QID109_QuestionText,"Did you experience issues with changes in sensitivity to medication or other substances?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID109_Choice1,Yes
- ,QID109_Choice2,No
- ,QID110_QuestionText,"What medication(s) or substance(s)? If multiple, please separate with a comma."
- ,QID111_QuestionText,"If medication, what do you take this for?&nbsp;"
- ,QID112_QuestionText,Please describe the changes you noticed:
- ,QID140_QuestionText,"In general, would you say your health BEFORE the onset of COVID was:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID140_Choice1,Excellent
- ,QID140_Choice2,Very good
- ,QID140_Choice3,Good
- ,QID140_Choice4,Fair
- ,QID140_Choice5,Poor
- ,QID141_QuestionText,"In general, would you say your health CURRENTLY is:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID141_Choice1,Excellent
- ,QID141_Choice2,Very good
- ,QID141_Choice3,Good
- ,QID141_Choice4,Fair
- ,QID141_Choice5,Poor
- ,QID143_QuestionText,"Does your health currently limit your ability to climb several flights of stairs?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID143_Choice1,"Yes, limited a lot"
- ,QID143_Choice2,"Yes, limited a little"
- ,QID143_Choice3,"No, not limited at all"
- ,QID419_QuestionText,"Does your health currently limit your ability to walk one block?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID419_Choice1,"Yes, limited a lot"
- ,QID419_Choice2,"Yes, limited a little"
- ,QID419_Choice3,"No, not limited at all"
- ,QID420_QuestionText,"Does your health currently limit your ability to bathe or dress yourself?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID420_Choice1,"Yes, limited a lot"
- ,QID420_Choice2,"Yes, limited a little"
- ,QID420_Choice3,"No, not limited at all"
- ,QID144_QuestionText,"During the last 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your <strong>physical health</strong>? (check all that apply)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID144_Choice1,Accomplished less than you would like
- ,QID144_Choice2,Were limited in the kind of work or other activities
- ,QID144_Choice3,Not limited
- ,QID145_QuestionText,"During the last 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your <strong>emotional health</strong>? (check all that apply)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID145_Choice1,Accomplished less than you would like
- ,QID145_Choice2,Were limited in the kind of work or other activities
- ,QID145_Choice3,Not limited
- ,QID150_QuestionText,"<div><strong>Mental Health Symptoms</strong><br />➘<em>You may choose not to answer any of questions.</em></div>➘➘<div>&nbsp;</div>➘➘<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">If you are having&nbsp;suicidal&nbsp;thoughts, these free helplines are available 24/7 to offer support:</span></span></strong>➘➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>US</b>:&nbsp;1-800-273-8255 (Crisis Text Line: text TALK to 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Netherlands</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />➘Find </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>additional crisis lines</u></span></a><span style=""color:#744210;""> for your country</span></span></div>➘</div>"
- ,QID151_QuestionText,"Have you ever (before COVID-19 symptoms) been diagnosed with a mental health condition (e.g. depression, anxiety, panic disorder, psychosis, etc.)?"
- ,QID151_Choice1,Yes
- ,QID151_Choice2,No
- ,QID152_QuestionText,Do you believe you have or have had a mental health condition that has not been diagnosed?
- ,QID152_Choice1,Yes
- ,QID152_Choice2,No
- ,QID153_QuestionText,"If you answered yes to either question above, Which of the following have you experienced? (check all that apply)"
- ,QID153_Choice1,Depression
- ,QID153_Choice2,Bipolar Disorder
- ,QID153_Choice4,Anxiety Disorder
- ,QID153_Choice5,Substance Use Disorder
- ,QID153_Choice6,Eating Disorder
- ,QID153_Choice7,Personality Disorder
- ,QID153_Choice8,Psychotic Disorder
- ,QID153_Choice9,Delirium
- ,QID153_Choice10,Other
- ,QID153_Choice11,Post-traumatic stress disorder (PTSD)
- ,QID154_QuestionText,"For each condition that apply to you, please specify:"
- ,QID154_Choice29,Depression
- ,QID154_Choice30,Bipolar Disorder
- ,QID154_Choice32,Anxiety Disorder
- ,QID154_Choice33,Substance Use Disorder
- ,QID154_Choice34,Eating Disorder
- ,QID154_Choice35,Personality Disorder
- ,QID154_Choice36,Psychotic Disorder
- ,QID154_Choice37,Delirium
- ,QID154_Choice39,Post-traumatic stress disorder (PTSD)
- ,QID154_Choice40,Other
- ,QID154_Answer1,N/A
- ,QID154_Answer2,No change during COVID-19
- ,QID154_Answer3,Onset during COVID-19
- ,QID154_Answer4,Significant worsening during COVID-19
- ,QID154_Answer5,Moderate worsening during COVID-19
- ,QID154_Answer6,Moderate improvement during COVID-19
- ,QID154_Answer7,Significant improvement during COVID-19
- ,QID155_QuestionText,Optionally describe how the conditions felt or affected you during COVID-19.
- ,QID156_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
- ,QID156_Choice1,Little interest or pleasure in doing things
- ,QID156_Choice2,"Feeling down, depressed, or hopeless"
- ,QID156_Choice3,"Trouble falling/staying asleep, sleeping too much"
- ,QID156_Choice4,Feeling tired or having little energy
- ,QID156_Choice5,Feeling bad about yourself or that you are a failure or have let yourself or your family down
- ,QID156_Choice6,Moving or speaking so slowly that other people could have noticed. Or the opposite; being so fidgety or restless that you have been moving around a lot more than usual.
- ,QID156_Choice7,Thoughts that you would be better off dead or of hurting yourself in some way.
- ,QID156_Answer1,Not at all
- ,QID156_Answer2,Several Days
- ,QID156_Answer3,More Than Half the Days
- ,QID156_Answer4,Nearly Every day
- ,QID157_QuestionText,"If you checked off any of the above problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
- ,QID157_Choice1,Not difficult at all
- ,QID157_Choice2,Somewhat difficult
- ,QID157_Choice3,Very difficult
- ,QID157_Choice4,Extremely difficult
- ,QID158_QuestionText,"(Optional) If desired, please share more about your experience."
+V,QID245_QuestionText,<b>Veranderingen in Gevoeligheid voor Medicatie of Andere Stoffen</b>
+V,QID109_QuestionText,"Heeft u problemen ondervonden met veranderingen in de gevoeligheid voor medicatie of andere stoffen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID109_Choice1,Ja
+V,QID109_Choice2,Nee
+V,QID110_QuestionText,"Welk(e) medicijn(en) of stof(fen)? Als er meerdere zijn, scheid ze dan met een komma."
+V,QID111_QuestionText,"In het geval van een medicijn, waar gebruikt u dit medicijn voor?&nbsp;"
+V,QID112_QuestionText,Beschrijf de veranderingen die u opmerkte:
+V,QID140_QuestionText,"In het algemeen, hoe zou u uw gezondheid VOOR de aanvang van COVID beschrijven:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID140_Choice1,Uitstekend
+V,QID140_Choice2,Heel goed
+V,QID140_Choice3,Goed
+V,QID140_Choice4,Redelijk
+V,QID140_Choice5,Slecht
+V,QID141_QuestionText,"In het algemeen, hoe zou u uw HUIDIGE gezondheid beschrijven:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID141_Choice1,Uitstekend
+V,QID141_Choice2,Heel goed
+V,QID141_Choice3,Goed
+V,QID141_Choice4,Redelijk
+V,QID141_Choice5,Slecht
+V,QID143_QuestionText,"Beperkt uw gezondheid momenteel uw vermogen om meerdere trappen op te lopen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID143_Choice1,"Ja, zeer beperkend"
+V,QID143_Choice2,"Ja, enigzins beperkend"
+V,QID143_Choice3,"Nee, helemaal niet beperkend"
+V,QID419_QuestionText,"Beperkt uw gezondheid momenteel uw vermogen om een blokje om te lopen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID419_Choice1,"Ja, zeer beperkend"
+V,QID419_Choice2,"Ja, enigzins beperkend"
+V,QID419_Choice3,"Nee, helemaal niet beperkend"
+V,QID420_QuestionText,"Beperkt uw gezondheid momenteel uw vermogen om uzelf te wassen of aan te kleden?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID420_Choice1,"Ja, zeer beperkend"
+V,QID420_Choice2,"Ja, enigzins beperkend"
+V,QID420_Choice3,"Nee, helemaal niet beperkend"
+V,QID144_QuestionText,"Heeft u in de afgelopen 4 weken één of meerdere van de volgende problemen gehad met uw werk of andere normale dagelijkse bezigheden als gevolg van uw <strong>lichamelijke gezondheid</strong>? (vink alles aan wat van toepassing is)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID144_Choice1,Minder bereikt dan u zou willen
+V,QID144_Choice2,U was beperkt in het soort werk of andere activiteiten
+V,QID144_Choice3,Niet beperkt
+V,QID145_QuestionText,"Heeft u in de afgelopen 4 weken één of meerdere van de volgende problemen gehad met uw werk of andere normale dagelijkse bezigheden als gevolg van uw <strong>emotionele gesteldheid</strong>? (vink alles aan wat van toepassing is)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID145_Choice1,Minder bereikt dan u zou willen
+V,QID145_Choice2,U was beperkt in het soort werk of andere activiteiten
+V,QID145_Choice3,Niet beperkt
+V,QID150_QuestionText,"<div><strong>Geestelijke Gezondheidssymptomen</strong><br />➘<em>Als u wilt hoeft u hier niet alle vragen te beantwoorden.</em></div>➘➘<div>&nbsp;</div>➘➘<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">Als u zelfmoordgedachten heeft, dan zijn de volgende gratis telefoonlijnen dag en nacht beschikbaar om u te steunen:</span></span></strong>➘➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>VS</b>:&nbsp;1-800-273-8255 (Crisis Text Line: SMS TALK naar 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Nederland</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />Vind </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>meer hulplijnen</u></span></a><span style=""color:#744210;""> voor uw land</span></span></div>➘</div>"
+V,QID151_QuestionText,"Heeft u ooit (vóór de symptomen van COVID-19) een diagnose van een psychische aandoening gehad (bijv. depressie, angst- of paniekstoornis, psychose, enz.)?"
+V,QID151_Choice1,Ja
+V,QID151_Choice2,Nee
+V,QID152_QuestionText,Gelooft u dat u een psychische aandoening heeft of heeft gehad die niet is vastgesteld?
+V,QID152_Choice1,Ja
+V,QID152_Choice2,Nee
+V,QID153_QuestionText,"Als u één van de bovenstaande vragen met ja hebt beantwoord, welke van de volgende heeft u ervaren? (vink alles aan wat van toepassing is)"
+V,QID153_Choice1,Depressie
+V,QID153_Choice2,Bipolaire stoornis
+V,QID153_Choice4,Angststoornis
+V,QID153_Choice5,Stoornis in het gebruik van middelen
+V,QID153_Choice6,Eetstoornis
+V,QID153_Choice7,Persoonlijkheidsstoornis
+V,QID153_Choice8,Psychotische stoornis
+V,QID153_Choice9,Delirium (Acute verwardheid)
+V,QID153_Choice10,Anders
+V,QID153_Choice11,Posttraumatische stressstoornis (PTSD)
+V,QID154_QuestionText,"Voor elke aandoening die op u betrekking heeft, geef het volgende aan:"
+V,QID154_Choice29,Depressie
+V,QID154_Choice30,Bipolaire stoornis
+V,QID154_Choice32,Angststoornis
+V,QID154_Choice33,Stoornis in het gebruik van middelen
+V,QID154_Choice34,Eetstoornis
+V,QID154_Choice35,Persoonlijkheidsstoornis
+V,QID154_Choice36,Psychotische stoornis
+V,QID154_Choice37,Delirium (Acute verwardheid)
+V,QID154_Choice39,Posttraumatische stressstoornis (PTSD)
+V,QID154_Choice40,Anders
+V,QID154_Answer1,N.v.t.
+V,QID154_Answer2,Geen verandering tijdens COVID-19
+V,QID154_Answer3,Begonnen tijdens COVID-19
+V,QID154_Answer4,Significante verslechtering tijdens COVID-19
+V,QID154_Answer5,Milde verslechtering tijdens COVID-19
+V,QID154_Answer6,Milde verbetering tijdens COVID-19
+V,QID154_Answer7,Significante verbetering tijdens COVID-19
+V,QID155_QuestionText,Beschrijf als u wilt hoe de aandoening voelde of u beïnvloedde tijdens COVID-19.
+V,QID156_QuestionText,"Hoe vaak heeft u de afgelopen 2 weken last gehad van een van de volgende problemen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
+V,QID156_Choice1,Weinig interesse of plezier om dingen te doen
+V,QID156_Choice2,"Neerslachtig, depressief of hopeloos voelen"
+V,QID156_Choice3,"Problemen met in slaap vallen/blijven, te veel slapen"
+V,QID156_Choice4,Moe voelen of weinig energie hebben
+V,QID156_Choice5,Slecht gevoel over uzelf of denken dat u een mislukking bent of dat u uzelf of uw familie teleurstelt
+V,QID156_Choice6,Zo langzaam bewegen of spreken dat andere mensen het kunnen hebben opgemerkt. Of het tegenovergestelde; zo onrustig of rusteloos zijn dat u veel meer dan normaal in beweging bent.
+V,QID156_Choice7,Denken dat het beter zou zijn als u dood was of erover denken om uzelf op de één of andere manier pijn doen.
+V,QID156_Answer1,Helemaal niet
+V,QID156_Answer2,Enkele dagen
+V,QID156_Answer3,Meer dagen wel dan niet
+V,QID156_Answer4,Bijna elke dag
+V,QID157_QuestionText,"Als u één of meerdere van de bovenstaande problemen heeft aangevinkt, hoe moeilijk hebben deze problemen het dan voor u gemaakt om uw werk te doen, het huishouden te doen of met andere mensen om te gaan?"
+V,QID157_Choice1,Helemaal niet moeilijk
+V,QID157_Choice2,Enigszins moeilijk
+V,QID157_Choice3,Erg moeilijk
+V,QID157_Choice4,Heel erg moeilijk
+V,QID158_QuestionText,"(Optioneel) Als u wilt, beschrijf uw ervaringen in meer detail."
  ,QID160_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
  ,QID160_Choice1,"Feeling nervous, anxious, or on edge"
  ,QID160_Choice2,Not being able to stop or control worrying
