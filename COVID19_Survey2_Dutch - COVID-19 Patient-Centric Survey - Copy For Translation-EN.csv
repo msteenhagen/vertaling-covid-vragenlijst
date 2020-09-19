@@ -2992,7 +2992,7 @@ V,QID204_QuestionText,"Als de uitkomst van de ruggenprik abnormaal was, beschrij
 V,QID205_QuestionText,"Als de uitkomst van de EMG abnormaal was, beschrijf dan hier de resultaten."
 V,QID206_QuestionText,"Als de uitkomst van één van de andere bovengenoemde tests abnormaal was, beschrijf dan hier de resultaten."
 V,QID207_QuestionText,"Als u een abnormale uitslag heeft van een test die hierboven niet wordt vermeld, beschrijf dan hier de resultaten."
-V,QID257_QuestionText,Heeft u diagnostisch bloedonderzoek gehad voor uw COVID-19-symptomen? (bijvoorbeeld CBC)
+V,QID257_QuestionText,Heeft u diagnostisch bloedonderzoek gehad voor uw COVID-19-symptomen? (bijvoorbeeld een compleet bloedbeeld of CBC)
 V,QID257_Choice4,Ja
 V,QID257_Choice5,Nee
 V,QID208_QuestionText,"Wat was het resultaat van uw bloedonderzoeken voor de volgende punten? Als uw resultaten op een bepaald moment abnormaal waren maar vervolgens zijn opgelost, vermeld dan het abnormale resultaat."
