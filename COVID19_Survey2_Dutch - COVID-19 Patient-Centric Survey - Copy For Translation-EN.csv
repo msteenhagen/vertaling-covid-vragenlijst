@@ -2414,22 +2414,22 @@ V,QID361_Answer7,Maand 4
 V,QID361_Answer8,Maand 5
 V,QID361_Answer9,Maand 6
 V,QID361_Answer12,Maand 7
- ,QID440_QuestionText,<b>Reproductive and Urinary Symptoms</b>
- ,QID440_Choice1,None of the below reproductive and urinary symptoms apply to me
- ,QID353_QuestionText,Reproductive and Urinary Symptoms
- ,QID353_Choice60,All menstrual/period issues
- ,QID353_Choice61,Bladder control issues
- ,QID353_Answer13,N/A
+ ,QID440_QuestionText,<b>Voortplantings- en Ureterale Symptomen</b>
+ ,QID440_Choice1,Geen van de onderstaande voortplantings- en ureterale symptomen zijn op mij van toepassing
+ ,QID353_QuestionText,Voortplantings- en Ureterale Symptomen
+ ,QID353_Choice60,All menstruatie-/ongesteldheidsproblemen
+ ,QID353_Choice61,Problemen met blaascontrole
+ ,QID353_Answer13,N.v.t.
  ,QID353_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
  ,QID353_Answer2,Week 2
  ,QID353_Answer3,Week 3
  ,QID353_Answer4,Week 4
- ,QID353_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID353_Answer6,Month 3
- ,QID353_Answer7,Month 4
- ,QID353_Answer8,Month 5
- ,QID353_Answer9,Month 6
- ,QID353_Answer12,Month 7
+ ,QID353_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+ ,QID353_Answer6,Maand 3
+ ,QID353_Answer7,Maand 4
+ ,QID353_Answer8,Maand 5
+ ,QID353_Answer9,Maand 6
+ ,QID353_Answer12,Maand 7
  ,QID441_QuestionText,<b>Skin and Allergy Symptoms</b>
  ,QID441_Choice1,None of the below skin and allergy symptoms apply to me
  ,QID367_QuestionText,Skin and Allergy Symptoms
