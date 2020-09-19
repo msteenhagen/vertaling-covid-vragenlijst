@@ -2942,7 +2942,7 @@ V,QID187_QuestionText,"(Optioneel) Ik geloof dat mijn regionale overheden en lan
 V,QID187_Choice1,Sterk mee eens
 V,QID187_Choice2,Mee eens
 V,QID187_Choice3,Een beetje mee eens
-V,QID187_Choice4,Niet mee eens, maar ook niet mee oneens
+V,QID187_Choice4,"Niet mee eens, maar ook niet mee oneens"
 V,QID187_Choice5,Een beetje mee oneens
 V,QID187_Choice6,Mee oneens
 V,QID187_Choice7,Sterk mee oneens
