@@ -2903,49 +2903,49 @@ V,QID176_Answer10,Enigszins bezorgd
 V,QID176_Answer11,Ondersteunend
 V,QID176_Answer12,Actief betrokken bij ondersteuning
 V,QID176_Answer13,N.v.t.
- ,QID182_QuestionText,"(Optioneel) Als u wilt, kunt u hier uw ervaringen met de steun of het gebrek aan steun van mensen tijdens uw ziekte delen."
- ,QID183_QuestionText,"Welke van deze scenario's passen bij uw ervaring terwijl u ziek was?"
- ,QID183_Choice1,I lived alone and felt well-equipped to take care of myself
- ,QID183_Choice2,I lived alone and needed more help than I could get
- ,QID183_Choice3,I lived with someone and they took care of me well
- ,QID183_Choice4,I lived with someone and needed more help than I could get
- ,QID183_Choice5,Other
- ,QID184_QuestionText,"If you were isolating, either in a space within the same house or in a different house, which of these scenarios matched your experienced best?<br>➘<br>➘Please consider '<span style=""color:#e74c3c;"">reunited</span>' to mean you began living with others again, not just visiting/socializing with others."
- ,QID184_Choice1,I was not isolating/I have been living with others throughout my illness.
- ,QID184_Choice2,I reunited with others at some point during weeks 1-3 and they did not get infected
- ,QID184_Choice3,I reunited with others at some point during weeks 4-6 and they got infected
- ,QID184_Choice4,I reunited with others at some point during weeks 4-6 and they did not get infected
- ,QID184_Choice5,I reunited with others at some point after week 6 and they got infected
- ,QID184_Choice6,I reunited with others at some point after week 6 and they did not get infected
- ,QID184_Choice9,I am still isolating/have not reunited with others
- ,QID184_Choice10,I reunited with others at some point during weeks 1-3 and they got infected (most likely from me)
- ,QID184_Choice12,N/A
- ,QID254_QuestionText,"Do you have any animal pets at home?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID254_Choice23,Yes
- ,QID254_Choice24,No
- ,QID255_QuestionText,"If yes, please specify:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID255_Choice1,Cats
- ,QID255_Choice2,Dogs
- ,QID255_Choice3,Rodents
- ,QID255_Choice4,Others
- ,QID185_QuestionText,"Regarding the medical care you have received during the COVID-19 pandemic:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID185_Choice1,I believe I received the appropriate amount of care
- ,QID185_Choice2,I believe I received somewhat below the appropriate amount of care
- ,QID185_Choice3,I believe I received significantly below the appropriate amount of care
- ,QID185_Choice4,I did not require any medical care
- ,QID186_QuestionText,"Regarding financial status during the COVID-19 pandemic (choose all that apply):<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID186_Choice1,I lost my job or have been unable to work if self-employed
- ,QID186_Choice2,I have been unable to afford basic necessities like food and rent
- ,QID186_Choice3,I have been under financial pressure but have been able to make ends meet
- ,QID186_Choice4,I have not felt any financial pressures
- ,QID187_QuestionText,"(Optional) I believe my federal government and national public health institutions did the best they possibly could in handling the COVID-19 pandemic<span style=""caret-color: rgb(0, 0, 0);"">.</span>"
- ,QID187_Choice1,Strongly agree
- ,QID187_Choice2,Agree
- ,QID187_Choice3,Somewhat agree
- ,QID187_Choice4,Neither agree nor disagree
- ,QID187_Choice5,Somewhat disagree
- ,QID187_Choice6,Disagree
- ,QID187_Choice7,Strongly disagree
+V,QID182_QuestionText,"(Optioneel) Als u wilt, kunt u hier uw ervaringen met de steun of het gebrek aan steun van mensen tijdens uw ziekte delen."
+V,QID183_QuestionText,"Welke van deze scenario's passen bij uw ervaring terwijl u ziek was?"
+V,QID183_Choice1,Ik woonde alleen en voelde me goed in staat om voor mezelf te zorgen
+V,QID183_Choice2,Ik woonde alleen en had meer hulp nodig dan ik kon krijgen
+V,QID183_Choice3,Ik woonde samen met iemand en deze zorgde(n) goed voor me
+V,QID183_Choice4,Ik woonde samen met iemand en had meer hulp nodig dan ik kon krijgen
+V,QID183_Choice5,Anders
+V,QID184_QuestionText,"Als u aan het isoleren was, hetzij in een ruimte in hetzelfde huis of in een ander huis, welke van deze scenario's kwamen het beste overeen met uw ervaring?<br>➘<br>➘Versta onder '<span style=""color:#e74c3c;"">herenigd</span>' dat u weer met anderen samenleefde, niet slechts bezoeken van of samenkomen met anderen."
+V,QID184_Choice1,Ik was niet aan het isoleren / ik heb tijdens mijn ziekte met anderen geleefd.
+V,QID184_Choice2,Ik heb me op een gegeven moment in week 1-3 met anderen herenigd en ze raakten niet geïnfecteerd
+V,QID184_Choice3,Ik heb me op een gegeven moment in week 4-6 met anderen herenigd en ze raakten geïnfecteerd
+V,QID184_Choice4,Ik heb me op een gegeven moment in week 4-6 met anderen herenigd en ze raakten niet geïnfecteerd
+V,QID184_Choice5,Ik heb me op een gegeven moment na week 6 met anderen herenigd en ze raakten geïnfecteerd
+V,QID184_Choice6,Ik heb me op een gegeven moment na week 6 met anderen herenigd en ze raakten niet geïnfecteerd
+V,QID184_Choice9,Ik ben nog steeds aan het isoleren / ben niet herenigd met anderen
+V,QID184_Choice10,Ik heb me op een gegeven moment in week 1-3 met anderen herenigd en ze raakten geïnfecteerd (waarschijnlijk via mij)
+V,QID184_Choice12,N.v.t.
+V,QID254_QuestionText,"Heeft u huisdieren in huis?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID254_Choice23,Ja
+V,QID254_Choice24,Nee
+V,QID255_QuestionText,"Zo ja, welke diersoort?:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID255_Choice1,Kat
+V,QID255_Choice2,Hond
+V,QID255_Choice3,Knaagdier
+V,QID255_Choice4,Andere
+V,QID185_QuestionText,"Wat betreft de medische zorg die u heeft gekregen tijdens de COVID-19-pandemie:<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID185_Choice1,Ik denk dat ik de juiste hoeveelheid zorg heb ontvangen
+V,QID185_Choice2,Ik denk dat ik de hoeveelheid zorg die ik heb ontvangen iets ondermaats is
+V,QID185_Choice3,Ik denk dat ik de hoeveelheid zorg die ik heb ontvangen significant ondermaats is
+V,QID185_Choice4,Ik had geen medische zorg nodig
+V,QID186_QuestionText,"Wat betreft uw financiële gesteldheid tijdens de COVID-19-pandemie (kies alle juiste antwoorden):<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID186_Choice1,Ik ben mijn baan kwijtgeraakt of heb als zelfstandige niet kunnen werken
+V,QID186_Choice2,Ik heb me geen basisbehoeften zoals eten en huur kunnen veroorloven
+V,QID186_Choice3,Ik sta onder financiële druk maar heb de eindjes aan elkaar kunnen knopen
+V,QID186_Choice4,Ik heb geen financiële druk gevoeld
+V,QID187_QuestionText,"(Optioneel) Ik geloof dat mijn regionale overheden en landelijke volksgezondheidsinstellingen hun uiterste best hebben gedaan om de COVID-19-pandemie aan te pakken<span style=""caret-color: rgb(0, 0, 0);"">.</span>"
+V,QID187_Choice1,Sterk mee eens
+V,QID187_Choice2,Mee eens
+V,QID187_Choice3,Een beetje mee eens
+V,QID187_Choice4,Niet mee eens, maar ook niet mee oneens
+V,QID187_Choice5,Een beetje mee oneens
+V,QID187_Choice6,Mee oneens
+V,QID187_Choice7,Sterk mee oneens
  ,QID427_QuestionText,"If you have children, have your children been sick with COVID (or suspected COVID) for over three weeks?&nbsp;"
  ,QID427_Choice1,I don't have children.
  ,QID427_Choice2,All of my children have been sick for over 3 weeks.
