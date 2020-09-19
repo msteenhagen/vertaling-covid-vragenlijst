@@ -2619,48 +2619,48 @@ V,QID342_Answer8,Maand 4
 V,QID342_Answer9,Maand 5
 V,QID342_Answer10,Maand 6
 V,QID342_Answer11,Maand 7
- ,QID321_QuestionText,<b>Fatigue</b>
- ,QID146_QuestionText,"The following ten statements refer to how you feel at the <strong>current</strong> stage of your COVID-19&nbsp;recovery (over the past week).&nbsp;<strong>Please give an answer to each question, even if you do not have any complaints at the moment.&nbsp;<span style=""color:#c0392b;"">*</span>&nbsp;</strong>"
- ,QID146_Choice1,I am bothered by fatigue
- ,QID146_Choice2,I get tired very quickly
- ,QID146_Choice3,I don't do much during the day
- ,QID146_Choice4,I have enough energy for everyday life
- ,QID146_Choice5,"Physically, I feel exhausted"
- ,QID146_Choice6,I have problems starting things
- ,QID146_Choice7,I have problems thinking clearly
- ,QID146_Choice8,I feel no desire to do anything
- ,QID146_Choice9,"Mentally, I feel exhausted"
- ,QID146_Choice10,"When I am doing something, I can concentrate quite well"
- ,QID146_Answer1,Never
- ,QID146_Answer2,Sometimes
- ,QID146_Answer3,Regularly
- ,QID146_Answer4,Often
- ,QID146_Answer5,Always
- ,QID313_QuestionText,"Compared to how you felt before contracting COVID-19, how would you describe your level of fatigue <strong>during</strong> COVID recovery?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*&nbsp;</span>"
- ,QID313_Choice1,Significantly more than pre-COVID
- ,QID313_Choice2,Moderately more than pre-COVID
- ,QID313_Choice3,Slightly more than pre-COVID
- ,QID313_Choice4,Same as pre-COVID
- ,QID313_Choice5,Less than pre-COVID
- ,QID276_QuestionText,"How much DAILY rest are/were you able to get on average, DURING your COVID-19 recovery? (Rest means time recovering/relaxing without work, childcare, or other obligations).&nbsp;<span style=""color: rgb(231, 76, 60);"">Please do not include your daily sleep, or naps.&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID276_Choice1,less than 2hrs per day
- ,QID276_Choice2,2-4hrs
- ,QID276_Choice3,4-6hrs
- ,QID276_Choice4,6-8hrs
- ,QID276_Choice5,more than 8 hours per day
- ,QID422_QuestionText,"If you experienced fatigue, when did you feel fatigue?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
- ,QID422_Choice1,Fatigue
- ,QID422_Answer13,N/A
- ,QID422_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID422_Answer2,Week 2
- ,QID422_Answer4,Week 3
- ,QID422_Answer5,Week 4
- ,QID422_Answer6,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID422_Answer7,Month 3
- ,QID422_Answer8,Month 4
- ,QID422_Answer9,Month 5
- ,QID422_Answer10,Month 6
- ,QID422_Answer11,Month 7
+V,QID321_QuestionText,<b>Vermoeidheid</b>
+V,QID146_QuestionText,"De volgende tien uitspraken gaan over hoe u zich voelde tijdens het <strong>huidige</strong> stadium van uw herstel van COVID-19 (gedurende de afgelopen week).&nbsp;<strong>Geef a.u.b antwoord op elke vraag, ook al heeft u op het moment geen klachten.&nbsp;<span style=""color:#c0392b;"">*</span>&nbsp;</strong>"
+V,QID146_Choice1,Ik heb last van vermoeidheid
+V,QID146_Choice2,Ik word heel snel moe
+V,QID146_Choice3,Ik doe overdag niet veel
+V,QID146_Choice4,Ik heb genoeg energie voor dagelijks leven
+V,QID146_Choice5,"Ik voel me fysiek uitgeput"
+V,QID146_Choice6,Ik heb moeite om dingen te beginnen
+V,QID146_Choice7,Ik heb moeite met helder denken
+V,QID146_Choice8,Ik heb geen zin om iets te doen
+V,QID146_Choice9,"Ik voel me mentaal uitgeput"
+V,QID146_Choice10,"Als ik iets aan het doen ben, kan ik me goed concentreren"
+V,QID146_Answer1,Nooit
+V,QID146_Answer2,Soms
+V,QID146_Answer3,Regelmatig
+V,QID146_Answer4,Vaak
+V,QID146_Answer5,Altijd
+V,QID313_QuestionText,"In vergelijking met hoe u zich voelde voordat u COVID-19 kreeg, hoe zou u uw vermoeidheidsniveau omschrijven <strong>tijdens</strong> het herstel van COVID?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*&nbsp;</span>"
+V,QID313_Choice1,Aanzienlijk hoger dan voor COVID
+V,QID313_Choice2,Matig hoger dan voor COVID
+V,QID313_Choice3,Iets hoger dan voor COVID
+V,QID313_Choice4,Hetzelfde vergeleken met voor COVID
+V,QID313_Choice5,Lager dan voor COVID
+V,QID276_QuestionText,"Hoeveel DAGELIJKSE rust kunt/kon u gemiddeld krijgen TIJDENS uw COVID-19-herstel? (Rust betekent tijd om te herstellen/ontspannen zonder werk, kinderopvang of andere verplichtingen).&nbsp;<span style=""color: rgb(231, 76, 60);"">Tel a.u.b. uw dagelijkse slaap of middagdutjes niet mee.&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID276_Choice1,Minder dan 2 uur per dag
+V,QID276_Choice2,2-4 uur
+V,QID276_Choice3,4-6 uur
+V,QID276_Choice4,6-8 uur
+V,QID276_Choice5,meer dan 8 uur per dag
+V,QID422_QuestionText,"Als u zich vermoeid voelde, wanneer voelde u zich dan vermoeid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>.  Vul dit in ook als u deze symptomen slechts voor een deel van een week of maand heeft gehad.</div>"
+V,QID422_Choice1,Vermoeidheid
+V,QID422_Answer13,N.v.t.
+V,QID422_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID422_Answer2,Week 2
+V,QID422_Answer4,Week 3
+V,QID422_Answer5,Week 4
+V,QID422_Answer6,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID422_Answer7,Maand 3
+V,QID422_Answer8,Maand 4
+V,QID422_Answer9,Maand 5
+V,QID422_Answer10,Maand 6
+V,QID422_Answer11,Maand 7
  ,QID245_QuestionText,<b>Changes in Sensitivity to Medication or Other Substances</b>
  ,QID109_QuestionText,"Did you experience issues with changes in sensitivity to medication or other substances?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID109_Choice1,Yes
