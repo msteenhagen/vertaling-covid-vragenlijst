@@ -2893,7 +2893,7 @@ V,QID176_Choice1,Medische zorgverleners
 V,QID176_Choice2,Vrienden
 V,QID176_Choice3,Echtgenoot / Partner
 V,QID176_Choice4,Werkgever
-V,QID176_Choice5,Anderem
+V,QID176_Choice5,Anderen
 V,QID176_Choice6,Familie (niet Echtgenoot/Partner)
 V,QID176_Answer1,Schadelijk
 V,QID176_Answer2,Afwijzend
@@ -2903,8 +2903,8 @@ V,QID176_Answer10,Enigszins bezorgd
 V,QID176_Answer11,Ondersteunend
 V,QID176_Answer12,Actief betrokken bij ondersteuning
 V,QID176_Answer13,N.v.t.
- ,QID182_QuestionText,"(Optional) If you'd like, feel free to share your experience of the support or lack of support of people during your illness."
- ,QID183_QuestionText,"While you have been ill, which of these scenarios matched your experience?"
+ ,QID182_QuestionText,"(Optioneel) Als u wilt, kunt u hier uw ervaringen met de steun of het gebrek aan steun van mensen tijdens uw ziekte delen."
+ ,QID183_QuestionText,"Welke van deze scenario's passen bij uw ervaring terwijl u ziek was?"
  ,QID183_Choice1,I lived alone and felt well-equipped to take care of myself
  ,QID183_Choice2,I lived alone and needed more help than I could get
  ,QID183_Choice3,I lived with someone and they took care of me well
