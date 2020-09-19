@@ -2700,7 +2700,7 @@ V,QID145_QuestionText,"Heeft u in de afgelopen 4 weken één of meerdere van de 
 V,QID145_Choice1,Minder bereikt dan u zou willen
 V,QID145_Choice2,U was beperkt in het soort werk of andere activiteiten
 V,QID145_Choice3,Niet beperkt
-V,QID150_QuestionText,"<div><strong>Geestelijke Gezondheidssymptomen</strong><br />➘<em>Als u wilt hoeft u hier niet alle vragen te beantwoorden.</em></div>➘➘<div>&nbsp;</div>➘➘<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">Als u zelfmoordgedachten heeft, dan zijn de volgende gratis telefoonlijnen dag en nacht beschikbaar om u te steunen:</span></span></strong>➘➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>VS</b>:&nbsp;1-800-273-8255 (Crisis Text Line: SMS TALK naar 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Nederland</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />Vind </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>meer hulplijnen</u></span></a><span style=""color:#744210;""> voor uw land</span></span></div>➘</div>"
+V,QID150_QuestionText,"<div><strong>Geestelijke Gezondheidssymptomen</strong><br />➘<em>Als u wilt hoeft u hier niet alle vragen te beantwoorden.</em></div>➘➘<div>&nbsp;</div>➘➘<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">Als u zelfmoordgedachten heeft, dan zijn de volgende gratis telefoonlijnen dag en nacht beschikbaar om u te steunen:</span></span></strong>➘➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>VS</b>:&nbsp;1-800-273-8255 (Crisis Text Line: SMS TALK naar 741741)<br />➘<b>VK</b>:&nbsp;116 123<br />➘<b>Nederland</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />Vind </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>meer hulplijnen</u></span></a><span style=""color:#744210;""> voor uw land</span></span></div>➘</div>"
 V,QID151_QuestionText,"Heeft u ooit (vóór de symptomen van COVID-19) een diagnose van een psychische aandoening gehad (bijv. depressie, angst- of paniekstoornis, psychose, enz.)?"
 V,QID151_Choice1,Ja
 V,QID151_Choice2,Nee
@@ -2749,160 +2749,160 @@ V,QID156_Answer1,Helemaal niet
 V,QID156_Answer2,Enkele dagen
 V,QID156_Answer3,Meer dagen wel dan niet
 V,QID156_Answer4,Bijna elke dag
-V,QID157_QuestionText,"Als u één of meerdere van de bovenstaande problemen heeft aangevinkt, hoe moeilijk hebben deze problemen het dan voor u gemaakt om uw werk te doen, het huishouden te doen of met andere mensen om te gaan?"
+V,QID157_QuestionText,"Als u één of meerdere van de bovenstaande problemen heeft aangevinkt, hoe moeilijk hebben deze problemen het dan voor u gemaakt om uw werk te doen, dingen in het huishouden te doen, of met andere mensen om te gaan?"
 V,QID157_Choice1,Helemaal niet moeilijk
 V,QID157_Choice2,Enigszins moeilijk
 V,QID157_Choice3,Erg moeilijk
 V,QID157_Choice4,Heel erg moeilijk
 V,QID158_QuestionText,"(Optioneel) Als u wilt, beschrijf uw ervaringen in meer detail."
- ,QID160_QuestionText,"Over the last 2 weeks, how often have you been bothered by any of the following problems?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
- ,QID160_Choice1,"Feeling nervous, anxious, or on edge"
- ,QID160_Choice2,Not being able to stop or control worrying
- ,QID160_Choice3,Worrying too much about different things
- ,QID160_Choice4,Trouble relaxing
- ,QID160_Choice5,Being so restless that it is hard to sit still
- ,QID160_Choice6,Becoming easily annoyed or irritable
- ,QID160_Choice7,Feeling afraid as if something awful might happen
- ,QID160_Answer1,Not at all
- ,QID160_Answer2,Several Days
- ,QID160_Answer3,More Than Half the Days
- ,QID160_Answer4,Nearly Every day
- ,QID161_QuestionText,"If you checked off any of the above problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?"
- ,QID161_Choice1,Not difficult at all
- ,QID161_Choice2,Somewhat difficult
- ,QID161_Choice3,Very difficult
- ,QID161_Choice5,Extremely difficult
- ,QID162_QuestionText,"(Optional) If desired, please share more about your experience."
- ,QID163_QuestionText,"<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">If you are having&nbsp;suicidal&nbsp;thoughts, these free helplines are available 24/7 to offer support:</span></span></strong>➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>US</b>:&nbsp;1-800-273-8255 (Crisis Text Line: text TALK to 741741)<br />➘<b>UK</b>:&nbsp;116 123<br />➘<b>Netherlands</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />➘Find </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>additional crisis lines</u></span></a><span style=""color:#744210;""> for your country</span></span></div>➘</div>➘<br />➘At any time during the COVID-19 pandemic, have you ever:"
- ,QID163_Choice1,Wished you were dead or wished you could go to sleep and not wake up
- ,QID163_Choice2,Had thoughts of killing yourself
- ,QID163_Choice3,Had thoughts of harming yourself
- ,QID163_Choice4,Done anything to harm yourself
- ,QID163_Choice5,Other
- ,QID163_Choice6,I did not have any suicidal thoughts
- ,QID164_QuestionText,Have you been taking prescribed psychiatric medication while in recovery?
- ,QID164_Choice4,Yes
- ,QID164_Choice5,No
- ,QID165_QuestionText,"At any time during the COVID-19 pandemic, were there changes to your psychiatric medication?"
- ,QID165_Choice1,"Yes, a dose adjustment was made to my prior medication"
- ,QID165_Choice2,"Yes, new medications were prescribed to me"
- ,QID165_Choice3,"No, I continued taking medication at the prior dose"
- ,QID165_Choice4,"No, I have not required psychiatric medication"
- ,QID166_QuestionText,"If you were prescribed NEW medications, what were they?"
- ,QID166_Choice23,Antidepressant (Not Bupropion)
- ,QID166_Choice24,Benzodiazepine (anti-anxiety medication)
- ,QID166_Choice25,Antipsychotic
- ,QID166_Choice26,"Z-drug for insomnia (e.g. zolpidem, zopiclone, zaleplon)"
- ,QID166_Choice27,Melatonin for insomnia
- ,QID166_Choice28,"Mood stabilizer (e.g. lithium, valproic acid, topiramate, etc)"
- ,QID166_Choice29,Stimulant
- ,QID166_Choice30,Other
- ,QID166_Choice31,Wellbutrin (Bupropion)
- ,QID264_QuestionText,"Have you been taking any of these medications, please indicate how they affected your condition. (Answer any that apply)"
- ,QID264_Choice1,"Antidepressant (SSRI/SNRI/Wellbutrin, etc.)"
- ,QID264_Choice2,Benzodiazepine (anti-anxiety medication)
- ,QID264_Choice3,Antipsychotic
- ,QID264_Choice4,"Z-drug for insomnia (e.g. zolpidem, zopiclone, zaleplon)"
- ,QID264_Choice5,Melatonin for insomnia
- ,QID264_Choice6,"Mood stabilizer (e.g. lithium, valproic acid, topiramate, etc)"
- ,QID264_Choice7,Stimulant
- ,QID264_Choice8,Other
- ,QID264_Answer15,Much better
- ,QID264_Answer16,Moderately better
- ,QID264_Answer17,Slightly better
- ,QID264_Answer18,About the same
- ,QID264_Answer19,Slightly worse
- ,QID264_Answer20,Moderately worse
- ,QID264_Answer21,Much worse
- ,QID167_QuestionText,"If you required psychiatric treatment during COVID-19, please check all that apply:"
- ,QID167_Choice1,I received treatment from my primary care provider / GP
- ,QID167_Choice2,I received treatment from my prior mental health practitioner
- ,QID167_Choice3,I received treatment from a new mental health practitioner
- ,QID167_Choice4,I was unable to obtain the treatment that I needed
- ,QID168_QuestionText,"If you were not able to get psychiatric treatment, which of the following factored into the inability to receive care?"
- ,QID168_Choice1,Cost
- ,QID168_Choice2,Access to a device compatible with tele-health
- ,QID168_Choice3,Preferred provider does not take my insurance
- ,QID168_Choice4,Preferred provider does not see patients via telehealth
- ,QID168_Choice5,Other
- ,QID169_QuestionText,What wellbeing activities have you done/participated in to help you cope? (check all that apply)
- ,QID169_Choice1,Online COVID-19 specific support groups/communities
- ,QID169_Choice2,Online non-COVID-19 specific support groups/communities
- ,QID169_Choice3,Therapy
- ,QID169_Choice4,Yoga
- ,QID169_Choice5,Aerobic exercise
- ,QID169_Choice6,Meditation
- ,QID169_Choice7,None of the above
- ,QID170_QuestionText,"If you have joined an online COVID-19 community, what is the effect of participation on your psychological wellbeing?"
- ,QID170_Choice1,Significantly improved my psychological wellbeing
- ,QID170_Choice2,Moderately improved my psychological wellbeing
- ,QID170_Choice3,Had no effect on my psychological wellbeing
- ,QID170_Choice4,Moderately worsened my psychological wellbeing
- ,QID170_Choice5,Significantly worsened my psychological wellbeing
- ,QID279_QuestionText,"Do you agree with this statement? ""I was not believed by one or more of my physicians"""
- ,QID279_Choice4,Strongly agree
- ,QID279_Choice5,Agree
- ,QID279_Choice6,Somewhat agree
- ,QID279_Choice7,Neither agree nor disagree
- ,QID279_Choice8,Somewhat disagree
- ,QID279_Choice9,Disagree
- ,QID279_Choice10,Strongly disagree
- ,QID171_QuestionText,(Optional) Describe how participation in online communities affect your wellbeing.
- ,QID172_QuestionText,Being physically secluded from others has:
- ,QID172_Choice1,Had a strong negative impact on my mental wellbeing
- ,QID172_Choice2,Had a negative impact on my mental wellbeing
- ,QID172_Choice3,Had no impact on my mental wellbeing
- ,QID172_Choice4,Had a positive impact on my mental wellbeing
- ,QID172_Choice5,Had a strong positive impact on my mental wellbeing
- ,QID172_Choice6,I have not been physically secluded from others
- ,QID173_QuestionText,(Optional) Rate the below 28 statements about methods of coping
- ,QID173_Choice1,I’ve been turning to work or other activities to take my mind off things
- ,QID173_Choice2,I’ve been concentrating my efforts on doing something about the situation I’m in
- ,QID173_Choice3,I’ve been saying to myself “this isn’t real”
- ,QID173_Choice4,I’ve been using alcohol or other drugs to make myself feel better
- ,QID173_Choice5,I’ve been getting emotional support from others
- ,QID173_Choice6,I’ve been giving up trying to deal with it
- ,QID173_Choice7,I’ve been taking action to try to make the situation better
- ,QID173_Choice8,I’ve been refusing to believe that it has happened
- ,QID173_Choice9,I’ve been saying things to let my unpleasant feelings escape
- ,QID173_Choice10,I’ve been getting help and advice from other people
- ,QID173_Choice12,"I’ve been trying to see it in a different light, to make it seem more positive"
- ,QID173_Choice13,I’ve been criticizing myself
- ,QID173_Choice14,I’ve been trying to come up with a strategy about what to do
- ,QID173_Choice15,I’ve been getting comfort and understanding from someone
- ,QID173_Choice16,I’ve been giving up the attempt to cope
- ,QID173_Choice17,I’ve been looking for something good in what is happening
- ,QID173_Choice18,I’ve been making jokes about it
- ,QID173_Choice19,"I’ve been doing something to think about it less, such as going to movies, watching TV, reading, daydreaming, sleeping, or shopping"
- ,QID173_Choice20,I’ve been accepting the reality of the fact that it has happened
- ,QID173_Choice21,I’ve been expressing my negative feelings
- ,QID173_Choice22,I've been trying to find comfort in my religion or spiritual beliefs
- ,QID173_Choice23,I’ve been trying to get advice or help from other people about what to do
- ,QID173_Choice24,I've been learning to live with it
- ,QID173_Choice25,I've been thinking hard about what steps to take
- ,QID173_Choice26,I’ve been blaming myself for things that happened
- ,QID173_Choice27,I've been praying or meditating
- ,QID173_Choice28,I've been making fun of the situation
- ,QID173_Answer1,I haven’t been doing this at all
- ,QID173_Answer2,A little bit
- ,QID173_Answer3,A medium amount
- ,QID173_Answer4,I’ve been doing this a lot
- ,QID175_QuestionText,Anything else you'd like to share regarding coping.
- ,QID176_QuestionText,How would you describe the support or lack of support from the following people during your illness?
- ,QID176_Choice1,Medical Providers
- ,QID176_Choice2,Friends
- ,QID176_Choice3,Spouse / Partner
- ,QID176_Choice4,Employer
- ,QID176_Choice5,Other
- ,QID176_Choice6,Family (not Spouse/Partner)
- ,QID176_Answer1,Harmful
- ,QID176_Answer2,Dismissive
- ,QID176_Answer4,Skeptical
- ,QID176_Answer5,Apathetic
- ,QID176_Answer10,Slightly concerned
- ,QID176_Answer11,Supportive
- ,QID176_Answer12,Actively engaged in support
- ,QID176_Answer13,N/A
+V,QID160_QuestionText,"Hoe vaak heeft u de afgelopen 2 weken last gehad van een van de volgende problemen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span>"
+V,QID160_Choice1,"Nerveus, angstig of zenuwachtig gevoel"
+V,QID160_Choice2,Niet kunnen stoppen met piekeren of het niet onder controle kunnen houden 
+V,QID160_Choice3,Te veel zorgen maken over verschillende dingen
+V,QID160_Choice4,Moeite met ontspannen
+V,QID160_Choice5,Zo onrustig zijn dat het moeilijk is om stil te zitten
+V,QID160_Choice6,Gemakkelijk geïrriteerd of prikkelbaar worden
+V,QID160_Choice7,Angstig zijn alsof er iets vreselijks staat te gebeuren
+V,QID160_Answer1,Helemaal niet 
+V,QID160_Answer2,Enkele dagen
+V,QID160_Answer3,Meer dagen wel dan niet
+V,QID160_Answer4,Bijna elke dag
+V,QID161_QuestionText,"Als u één of meerdere van de bovenstaande problemen heeft aangevinkt, hoe moeilijk hebben deze problemen het dan voor u gemaakt om uw werk te doen, dingen in het huishouden te doen, of met andere mensen om te gaan?"
+V,QID161_Choice1,Helemaal niet moeilijk
+V,QID161_Choice2,Enigszins moeilijk
+V,QID161_Choice3,Erg moeilijk
+V,QID161_Choice5,Heel erg moeilijk
+V,QID162_QuestionText,"(Optioneel) Vertel als u wilt meer over uw ervaringen."
+V,QID163_QuestionText,"<div style=""padding: 8px; border: 1px #744210 solid; background-color: #FFFAF0; border-radius: 4px;""><strong><span style=""font-size:13px;""><span style=""color:#744210;"">Als u zelfmoordgedachten heeft, dan zijn de volgende gratis telefoonlijnen dag en nacht beschikbaar om u te steunen:</span></span></strong>➘<div><br />➘<span style=""font-size:13px;""><span style=""color:#744210;""><b>VS</b>:&nbsp;1-800-273-8255 (Crisis Text Line: SMS TALK naar 741741)<br />➘<b>VK</b>:&nbsp;116 123<br />➘<b>Nederland</b>:&nbsp;0800 0113<br />➘<b>Canada</b>:&nbsp;833-456-4566<br />Vind </span><a href=""https://www.iasp.info/resources/Crisis_Centres/""><span style=""color:#744210;""><u>meer hulplijnen</u></span></a><span style=""color:#744210;""> voor uw land</span></span></div>➘</div>➘<br />➘Heeft u tijdens de COVID-19-pandemie op enig moment:"
+V,QID163_Choice1,Gewenst dat u dood was of dat u kon gaan slapen en niet meer wakker worden
+V,QID163_Choice2,Zelfmoordgedachten gehad
+V,QID163_Choice3,Gedachten gehad om uzelf iets aan te doen
+V,QID163_Choice4,Uzelf iets aangedaan
+V,QID163_Choice5,Anders
+V,QID163_Choice6,Ik had geen zelfmoordgedachten
+V,QID164_QuestionText,Heeft u tijdens uw herstel voorgeschreven psychiatrische medicatie genomen?
+V,QID164_Choice4,Ja
+V,QID164_Choice5,Nee
+V,QID165_QuestionText,"Zijn er op enig moment tijdens de COVID-19-pandemie wijzigingen geweest in uw psychiatrische medicatie?"
+V,QID165_Choice1,"Ja, de dosering van mijn eerdere medicijnen is aangepast"
+V,QID165_Choice2,"Ja, er werden nieuwe medicijnen aan mij voorgeschreven"
+V,QID165_Choice3,"Nee, ik bleef mijn medicijnen met een ongewijzigde dosering gebruiken"
+V,QID165_Choice4,"Nee, ik had geen psychiatrische medicatie nodig"
+V,QID166_QuestionText,"Als u NIEUWE medicijnen hebt voorgeschreven gekregen, welke waren dit?"
+V,QID166_Choice23,Antidepressiva (Niet Bupropion)
+V,QID166_Choice24,Benzodiazepine (angst verminderende medicijnen)
+V,QID166_Choice25,Antipsychotica
+V,QID166_Choice26,"Z-medicatie tegen slapeloosheid (bijv. zolpidem, zopiclon, zaleplon)"
+V,QID166_Choice27,Melatonine tegen slapeloosheid
+V,QID166_Choice28,"Stemmingsstabilisatoren (bijv. lithium, valproaat, topiramaat, etc.)"
+V,QID166_Choice29,Stimulantia
+V,QID166_Choice30,Andere
+V,QID166_Choice31,Wellbutrin (Bupropion)
+V,QID264_QuestionText,"Heeft u een van deze medicijnen gebruikt, geef dan aan hoe deze uw toestand hebben beïnvloed. (Geef een antwoord waar dit van toepassing is)"
+V,QID264_Choice1,"Antidepressiva (SSRI/SNRI/Wellbutrin, etc.)"
+V,QID264_Choice2,Benzodiazepine (angst verminderende medicijnen)
+V,QID264_Choice3,Antipsychotica
+V,QID264_Choice4,"Z-medicatie tegen slapeloosheid (bijv. zolpidem, zopiclon, zaleplon)"
+V,QID264_Choice5,Melatonine tegen slapeloosheid
+V,QID264_Choice6,"Stemmingsstabilisatoren (bijv. lithium, valproaat, topiramaat, etc.)"
+V,QID264_Choice7,Stimulantia
+V,QID264_Choice8,Andere
+V,QID264_Answer15,Veel beter
+V,QID264_Answer16,Redelijk wat beter
+V,QID264_Answer17,Iets beter
+V,QID264_Answer18,Ongeveer hetzelfde
+V,QID264_Answer19,Iets slechter
+V,QID264_Answer20,Redelijk wat slechter
+V,QID264_Answer21,Veel slechter
+V,QID167_QuestionText,"Als u tijdens COVID-19 psychiatrische behandeling nodig had, vink dan aan welke van toepassing zijn:"
+V,QID167_Choice1,Ik ben behandeld door mijn huisarts
+V,QID167_Choice2,Ik ben behandeld door mijn eerdere GGZ-arts (geestelijke gezondheidszorg)
+V,QID167_Choice3,Ik ben behandeld door mijn een nieuwe GGZ-arts (geestelijke gezondheidszorg)
+V,QID167_Choice4,Ik heb niet de behandeling gekregen die ik nodig had
+V,QID168_QuestionText,"Als u geen psychiatrische behandeling heeft kunnen krijgen, welke van de volgende factoren heeft hieraan bijgedragen?"
+V,QID168_Choice1,Kosten
+V,QID168_Choice2,Toegang tot een apparaat met voorziening voor consult op afstand (telemedicine)
+V,QID168_Choice3,De zorg(instelling) van mijn voorkeur wordt niet vergoed door mijn verzekering
+V,QID168_Choice4,De zorg(instelling) van mijn voorkeur staat biedt geen consult op afstand (telemedicine) aan
+V,QID168_Choice5,Anders
+V,QID169_QuestionText,Welke welzijns-activiteiten heeft u ondernomen/in deelgenomen om beter om te gaan met uw situatie? (vink alles aan wat van toepassing is)
+V,QID169_Choice1,Online COVID-19 ondersteuningsgroepen/gemeenschappen (specifiek voor COVID-19)
+V,QID169_Choice2,Online ondersteuningsgroepen/gemeenschappen (niet specifiek voor COVID-19)
+V,QID169_Choice3,Therapie
+V,QID169_Choice4,Yoga
+V,QID169_Choice5,Aerobics
+V,QID169_Choice6,Meditatie
+V,QID169_Choice7,Geen van bovenstaande
+V,QID170_QuestionText,"Als u zich heeft aangesloten bij een online COVID-19 gemeenschap, wat is het effect van deelname geweest op uw psychologische welzijn?"
+V,QID170_Choice1,Significante verbetering van mijn psychologische welzijn
+V,QID170_Choice2,Redelijke verbetering van mijn psychologische welzijn
+V,QID170_Choice3,Had geen effekt op mijn psychologische welzijn
+V,QID170_Choice4,Redelijke verslechtering van mijn psychologische welzijn
+V,QID170_Choice5,Significante verslechtering van mijn psychologische welzijn
+V,QID279_QuestionText,"Bent u het eens met de volgende uitspraak? ""Een of meer van mijn artsen geloofden mij niet"""
+V,QID279_Choice4,Sterk mee eens
+V,QID279_Choice5,Mee eens
+V,QID279_Choice6,Een beetje mee eens
+V,QID279_Choice7,Niet mee eens, maar ook niet mee oneens
+V,QID279_Choice8,Een beetje mee oneens
+V,QID279_Choice9,Mee oneens
+V,QID279_Choice10,Sterk mee oneens
+V,QID171_QuestionText,(Optioneel) Beschrijf hoe deelname aan online gemeenschappen uw welzijn beïnvloedt.
+V,QID172_QuestionText,Fysiek afgezonderd zijn van anderen heeft:
+V,QID172_Choice1,Heeft een sterke negatieve invloed op mijn mentale welzijn gehad
+V,QID172_Choice2,Heeft een negatieve invloed op mijn mentale welzijn gehad
+V,QID172_Choice3,Heeft geen invloed op mijn mentale welzijn gehad
+V,QID172_Choice4,Heeft een positieve invloed op mijn mentale welzijn gehad
+V,QID172_Choice5,Heeft een sterk positieve invloed op mijn mentale welzijn gehad
+V,QID172_Choice6,Ik ben niet fysiek afgezonderd geweest van anderen
+V,QID173_QuestionText,(Optioneel) Beoordeel de onderstaande 28 uitspraken over coping-strategieën (methoden om beter om te kunnen gaan met negatieve situaties)
+V,QID173_Choice1,Ik heb mij op werk of andere activiteiten gericht om mijn gedachten af te leiden
+V,QID173_Choice2,Ik heb mij ingespannen om iets aan mijn situatie te doen
+V,QID173_Choice3,Ik heb tegen mezelf gezegd: 'dit is niet echt'
+V,QID173_Choice4,Ik heb alcohol of andere drugs gebruikt om mezelf beter te laten voelen
+V,QID173_Choice5,Ik heb emotionele steun gekregen van anderen
+V,QID173_Choice6,Ik heb het opgegeven om te proberen ermee om te gaan
+V,QID173_Choice7,Ik heb actie ondernomen om de situatie te verbeteren
+V,QID173_Choice8,Ik heb niet willen geloven dat het is gebeurd
+V,QID173_Choice9,Ik heb dingen gezegd om mijn onaangename gevoelens te ventileren
+V,QID173_Choice10,Ik heb hulp en advies gekregen van andere mensen
+V,QID173_Choice12,"Ik heb geprobeerd dingen in een ander licht te zien, om ze positiever te laten lijken"
+V,QID173_Choice13,Ik heb mezelf bekritiseerd
+V,QID173_Choice14,Ik heb geprobeerd een strategie te bedenken voor wat ik moet doen
+V,QID173_Choice15,Ik heb troost en begrip gekregen van iemand
+V,QID173_Choice16,Ik heb de poging om ermee om te gaan opgegeven
+V,QID173_Choice17,Ik ben op zoek geweest naar iets goeds in wat er gebeurt
+V,QID173_Choice18,Ik heb er grappen over gemaakt
+V,QID173_Choice19,"Ik heb dingen gedaan om er minder over na te denken, zoals naar de film gaan, tv kijken, lezen, dagdromen, slapen of winkelen"
+V,QID173_Choice20,Ik heb het feit dat het is gebeurd geaccepteerd
+V,QID173_Choice21,Ik heb mijn negatieve gevoelens geuit
+V,QID173_Choice22,Ik heb geprobeerd troost te vinden in mijn religie of spirituele overtuigingen
+V,QID173_Choice23,Ik heb geprobeerd advies of hulp van andere mensen te krijgen over wat ik moest doen
+V,QID173_Choice24,Ik heb ermee leren leven
+V,QID173_Choice25,Ik heb goed nagedacht over welke stappen ik moet nemen
+V,QID173_Choice26,Ik heb mezelf de schuld gegeven voor dingen die zijn gebeurd
+V,QID173_Choice27,Ik heb gebeden of gemediteerd
+V,QID173_Choice28,Ik heb de situatie belachelijk gemaakt
+V,QID173_Answer1,Ik heb dit helemaal niet gedaan
+V,QID173_Answer2,Een beetje
+V,QID173_Answer3,Tot op redelijke hoogte
+V,QID173_Answer4,Ik heb dit veel gedaan
+V,QID175_QuestionText,Is er nog iets dat u zou willen delen met betrekking tot coping-strategieën?
+V,QID176_QuestionText,Hoe zou u de steun of het gebrek aan steun van de volgende mensen tijdens uw ziekte omschrijven?
+V,QID176_Choice1,Medische zorgverleners
+V,QID176_Choice2,Vrienden
+V,QID176_Choice3,Echtgenoot / Partner
+V,QID176_Choice4,Werkgever
+V,QID176_Choice5,Anderem
+V,QID176_Choice6,Familie (niet Echtgenoot/Partner)
+V,QID176_Answer1,Schadelijk
+V,QID176_Answer2,Afwijzend
+V,QID176_Answer4,Sceptisch
+V,QID176_Answer5,Apathisch
+V,QID176_Answer10,Enigszins bezorgd
+V,QID176_Answer11,Ondersteunend
+V,QID176_Answer12,Actief betrokken bij ondersteuning
+V,QID176_Answer13,N.v.t.
  ,QID182_QuestionText,"(Optional) If you'd like, feel free to share your experience of the support or lack of support of people during your illness."
  ,QID183_QuestionText,"While you have been ill, which of these scenarios matched your experience?"
  ,QID183_Choice1,I lived alone and felt well-equipped to take care of myself
