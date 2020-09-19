@@ -3055,38 +3055,38 @@ V,QID212_Choice29,Maculagat
 V,QID212_Choice30,Costochondritis
 V,QID212_Choice31,Bloedprop
 V,QID212_Choice32,Myocarditis
- ,QID216_QuestionText,"Please describe any other diagnosis you were given (if multiple, please put each diagnosis on a new line and press ""enter"" between each of them.)"
- ,QID373_QuestionText,"Have you tried any of the following treatments for your COVID19 symptoms, if yes, how helpful it was? (choose all that apply)➘<div>&nbsp;</div>➘➘<div><span style=""caret-color: rgb(29, 28, 29); color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif;"">This includes Prescription or off-the-counter&nbsp;Medications, or Alternative Treatments.</span></div>"
- ,QID373_Choice5,<strong>Non-medication treatment options</strong><br />➘Electrolytes
- ,QID373_Choice6,"Compression garments (socks, leggings)"
- ,QID373_Choice7,"<strong>Over the counter painkillers</strong><br />➘Non-NSAIDs (Tylenol, Paracetamol)"
- ,QID373_Choice8,<strong>Cannabis&nbsp;</strong><br />➘CBD/THC products
- ,QID373_Choice9,CBD-only products
- ,QID373_Choice10,Acupuncture
- ,QID373_Choice11,Adding salt to food and drinks
- ,QID373_Choice12,Lymphatic massage
- ,QID373_Choice15,<strong>Anti-inflammatories </strong><br />➘Curcumin (tumeric)
- ,QID373_Choice16,<strong>Blood-thinners</strong><br />➘Baby aspirin (75-81mg)
- ,QID373_Choice17,"<strong>Anti-histamines</strong><br />➘H1 type Anti-histamines (diphenhydramine, acrivastine and cetirizine, like benadryl, zyrtec, claritin)"
- ,QID373_Choice26,<strong>Steroids</strong><br />➘Prednisone and Dexamethasone
- ,QID373_Choice27,<strong>Immune system treatments</strong><br />➘Intravenous gamma globulin
- ,QID373_Choice28,<strong>Anti-viral medication</strong><br />➘Remsdesevir (Veklury)
- ,QID373_Choice29,Convalescent plasma
- ,QID373_Choice30,<strong>Antibiotics</strong><br />➘Azithromycin
- ,QID373_Choice31,<strong>Malaria treatments</strong><br />➘Chloroquine
- ,QID373_Choice33,<strong>Anti-oxidants</strong><br />➘Oxaloacetate
- ,QID373_Choice35,"H2 type Anti-histamines (cimetidine, famotidine, like Pepcid)"
- ,QID373_Choice38,Omega 3 / DHA / EPA (Fish oil)
- ,QID373_Choice39,Hydroxychloroquine
- ,QID373_Choice41,"NSAIDs (Ibuprofen, Naproxen,&nbsp;Adult aspirin (full dose))"
- ,QID373_Choice42,Pacing programs (regulating the amount of activity)
- ,QID373_Choice43,"Direct oral anticoagulants, Rivaroxaban (Xarelto)"
- ,QID373_Choice44,Warfarin (Coumadin)
- ,QID373_Answer1,Did not try this
- ,QID373_Answer2,Slightly helpful
- ,QID373_Answer5,Significantly helpful
- ,QID373_Answer6,Not Helpful
- ,QID373_Answer7,Unsure
- ,QID378_QuestionText,"<div>Please describe any other treatments, medications/supplements, or anything else that significantly improved your symptoms. (Please put each on a new line by pressing 'enter' after each one).</div><div>&nbsp;</div>"
+V,QID216_QuestionText,"Beschrijf elke andere diagnose die u heeft gekregen (indien er meerdere zijn, plaats dan elke diagnose op een nieuwe regel en druk op ""enter"" tussen elk van de diagnoses.)"
+V,QID373_QuestionText,"Heeft u een van de volgende behandelingen geprobeerd voor uw COVID19-symptomen, en zo ja, hoezeer hielp het? (kies alles dat van toepassing is)➘<div>&nbsp;</div>➘➘<div><span style=""caret-color: rgb(29, 28, 29); color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif;"">Dit geldt voor medicijnen op recept of vrij verkrijgbare medicijnen of alternatieve behandelingen.</span></div>"
+V,QID373_Choice5,<strong>Behandelingsopties zonder medicatie</strong><br />Elektrolyten
+V,QID373_Choice6,"Compressiekleding (sokken, leggings)"
+V,QID373_Choice7,"<strong>Vrij verkrijgbare pijnstillers</strong><br />➘Niet-NSAID's (Tylenol, Paracetamol)"
+V,QID373_Choice8,<strong>Cannabis&nbsp;</strong><br />➘CBD/THC producten
+V,QID373_Choice9,CBD-producten
+V,QID373_Choice10,Acupunctuur
+V,QID373_Choice11,Zout toevoegen aan eten en drinken
+V,QID373_Choice12,Lymfatische massage (lymfedrainage)
+V,QID373_Choice15,<strong>Ontstekingsremmers </strong><br />➘Curcumine (kurkuma)
+V,QID373_Choice16,<strong>Bloedverdunners</strong><br />➘Kinderaspirine (75-81mg)
+V,QID373_Choice17,"<strong>Antihistaminica</strong><br />➘H1 type Antihistaminica (difenhydramine, acrivastine en cetirizine, zoals benadryl, zyrtec, claritin)"
+V,QID373_Choice26,<strong>Steroïden</strong><br />➘Prednison en Dexamethason
+V,QID373_Choice27,<strong>Immuunsysteembehandelingen</strong><br />➘Intraveneus gammaglobuline
+V,QID373_Choice28,<strong>Antivirale medicatie</strong><br />➘Remdesivir (Veklury)
+V,QID373_Choice29,Convalescent plasma
+V,QID373_Choice30,<strong>Antibiotica</strong><br />➘Azithromycin
+V,QID373_Choice31,<strong>Malariabehandelingen</strong><br />➘Chloroquine
+V,QID373_Choice33,<strong>Antioxidanten</strong><br />➘Oxaalazijnzuur
+V,QID373_Choice35,"H2 type Antihistaminica (cimetidine, famotidine, zoals Pepcid)"
+V,QID373_Choice38,Omega 3 / DHA / EPA (visolie)
+V,QID373_Choice39,Hydroxychloroquine
+V,QID373_Choice41,"NSAID's (Ibuprofen, Naproxen,&nbsp;Aspirine voor volwassenen (volledige dosis))"
+V,QID373_Choice42,Stimulatieprogramma's (pacing)(reguleren van de hoeveelheid activiteit)
+V,QID373_Choice43,"Directe orale antistollingsmiddelen (anticoagulantia), Rivaroxaban (Xarelto)"
+V,QID373_Choice44,Warfarine (Coumadin)
+V,QID373_Answer1,Heb dit niet geprobeerd
+V,QID373_Answer2,Hielp enigszins
+V,QID373_Answer5,Hielp aanzienlijk
+V,QID373_Answer6,Hielp niet
+V,QID373_Answer7,Onzeker
+V,QID378_QuestionText,"<div>Beschrijf alle andere behandelingen, medicijnen/supplementen of iets anders dat uw symptomen aanzienlijk verbeterde. (Zet ze allemaal op een nieuwe regel door na elke regel op 'enter' te drukken).</div><div>&nbsp;</div>"
  ,QID138_QuestionText,"<b>Optional:</b> Please use this space to describe anything you particularly want others to know about the COVID experience, or that haven’t been captured here. Please do not include any identifying information (such as name or location).&nbsp;"
  ,QID454_QuestionText,"<strong><span style=""font-size:26px;"">You have recached the end of the survey!</span></strong><br>➘<br>Please take a moment to review&nbsp;anything you may have missed. Once you are sure of your responses, <em>hit next to submit.</em><br>➘<br>➘Once submitted, you cannot&nbsp;go back to make modifications. Thank you for your energy and time!&nbsp;"
