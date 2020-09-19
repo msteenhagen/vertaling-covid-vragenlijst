@@ -2141,16 +2141,16 @@ QID363_Answer9,Maand 6
 QID363_Answer12,Maand 7
 QID107_QuestionText,"Als u fantoomsmaken proefde, geef hier een beschrijving:"
 QID108_QuestionText,"Als u fantoomgeuren rook, geef hier een beschrijving:"
-QID403_QuestionText,<strong>Tremors en Bevend Gevoel</strong>
-QID410_QuestionText,"Heeft u een <strong>TREMOR OF BEVEND GEVOEL</strong>&nbsp; gehad sinds het begin van uw ziekte met COVID-19?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Onwillekeurige, ritmische spiersamentrekking die leidt tot een schuddende beweging in één of meerdere lichaamsdelen&nbsp;</div>➘➘<div><strong>Bevend gevoel</strong>: Een trillende sensatie, die voelt alsof uw spieren, vingers, of benen&nbsp;vibreren&nbsp;of schudden van binnen, maar u ziet geen beweging&nbsp;</div>"
+QID403_QuestionText,<strong>Tremors en Trillend Gevoel</strong>
+QID410_QuestionText,"Heeft u een <strong>TREMOR OF TRILLEND GEVOEL</strong>&nbsp; gehad sinds het begin van uw ziekte met COVID-19?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Onwillekeurige, ritmische spiersamentrekking die leidt tot een schuddende beweging in één of meerdere lichaamsdelen&nbsp;</div>➘➘<div><strong>Trillend gevoel</strong>: Een trillende sensatie, die voelt alsof uw spieren, vingers, of benen&nbsp;vibreren&nbsp;of schudden van binnen, maar u ziet geen beweging&nbsp;</div>"
 QID410_Choice1,Ja
 QID410_Choice2,Nee
 QID347_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span></div><div><span style=""color: rgb(231, 76, 60); font-size: 16px; caret-color: rgb(0, 0, 0);"">Geef de plek in uw lichaam aan in het tekstvak. Als het om meerdere plekken gaat, scheidt deze met een komma (bijv. been, romp, hand).</span><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span><div><br></div></div>"
 QID347_Choice33,Tremors
-QID347_Choice35,Bevend gevoel
+QID347_Choice35,Trillend gevoel
 QID348_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
 QID348_Choice33,Tremors
-QID348_Choice55,Bevend gevoel
+QID348_Choice55,Trillend gevoel
 QID348_Answer13,N.v.t.
 QID348_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
 QID348_Answer2,Week 2
@@ -2162,7 +2162,7 @@ QID348_Answer7,Maand 4
 QID348_Answer8,Maand 5
 QID348_Answer9,Maand 6
 QID348_Answer12,Maand 7
-QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors of bevend gevoel tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>
+QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors of trillend gevoel tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>
 QID404_QuestionText,<strong>Slaapproblemen</strong>
 QID380_QuestionText,"Heeft u enige <strong>SLAAPPROBLEMEN</strong>&nbsp; gehad sinds het begin van uit COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
 QID380_Choice1,Ja
