@@ -2992,28 +2992,28 @@ V,QID204_QuestionText,"Als de uitkomst van de ruggenprik abnormaal was, beschrij
 V,QID205_QuestionText,"Als de uitkomst van de EMG abnormaal was, beschrijf dan hier de resultaten."
 V,QID206_QuestionText,"Als de uitkomst van één van de andere bovengenoemde tests abnormaal was, beschrijf dan hier de resultaten."
 V,QID207_QuestionText,"Als u een abnormale uitslag heeft van een test die hierboven niet wordt vermeld, beschrijf dan hier de resultaten."
- ,QID257_QuestionText,Have you received diagnostic blood tests for your COVID-19 symptoms? (e.g. CBC)
- ,QID257_Choice4,Yes
- ,QID257_Choice5,No
- ,QID208_QuestionText,"What was the result of your blood tests for the following? If these were abnormal at one point but then resolved, please include the abnormal result."
- ,QID208_Choice1,Creatinine (usually part of the basic metabolic panel)
- ,QID208_Choice2,"Lymphocyte count (usually part of the CBC, complete blood count)"
- ,QID208_Choice3,Eosinophils count (usually part of the CBC)
- ,QID208_Choice4,Eosinophils % (usually part of the CBC)
- ,QID208_Choice5,Hepatic Panel/Liver function test
- ,QID208_Choice6,D-dimer
- ,QID208_Choice7,C-Reactive Protein
- ,QID208_Choice8,ESR (sedimentation rate)
- ,QID208_Choice9,Fibrinogen
- ,QID208_Choice10,Other
- ,QID208_Answer15,Not tested
- ,QID208_Answer10,Normal
- ,QID208_Answer11,"Abnormal, high"
- ,QID208_Answer12,"Abnormal, low"
- ,QID208_Answer13,Unsure/Can't find it
- ,QID208_Answer14,Wanted to get tested but was unable
- ,QID209_QuestionText,"For any abnormal blood tests, please describe the result further"
- ,QID210_QuestionText,List any other abnormal blood tests. (Please put each abnormal test on a new line).
+V,QID257_QuestionText,Heeft u diagnostisch bloedonderzoek gehad voor uw COVID-19-symptomen? (bijvoorbeeld CBC)
+V,QID257_Choice4,Ja
+V,QID257_Choice5,Nee
+V,QID208_QuestionText,"Wat was het resultaat van uw bloedonderzoeken voor de volgende punten? Als uw resultaten op een bepaald moment abnormaal waren maar vervolgens zijn opgelost, vermeld dan het abnormale resultaat."
+V,QID208_Choice1,Kreatinine (doorgaans onderdeel van uitgebreide metabolic panel)
+V,QID208_Choice2,"Aantal lymfocyten (doorgaans onderdeel van compleet bloedbeeld, CBC)"
+V,QID208_Choice3,Aantal eosinofielen (doorgaans onderdeel van compleet bloedbeeld, CBC)
+V,QID208_Choice4,Eosinofielen % (usually part of the CBC)
+V,QID208_Choice5,Leverfunctieonderzoek/Hepatic Panel
+V,QID208_Choice6,D-dimeer
+V,QID208_Choice7,C-reactief proteïne (CRP)
+V,QID208_Choice8,ESR (bezinkingssnelheid)
+V,QID208_Choice9,Fibrinogeen
+V,QID208_Choice10,Andere
+V,QID208_Answer15,Niet getest
+V,QID208_Answer10,Normaal
+V,QID208_Answer11,"Abnormaal, hoog"
+V,QID208_Answer12,"Abnormaal, laag"
+V,QID208_Answer13,Weet ik niet zeker/kan het niet vinden
+V,QID208_Answer14,Ik wilde een onderzoek, maar dit lukte niet
+V,QID209_QuestionText,"Beschrijf voor elk van de abnormale bloedwaarden het resultaat verder"
+V,QID210_QuestionText,Als u abnormale uitslagen hebt voor andere bloedonderzoeken, beschrijf deze hier. (Zet elke abnormale test op een nieuwe regel).
  ,QID211_QuestionText,Have you been tested for these conditions since COVID?
  ,QID211_Choice1,Epstein-Barr (mono)
  ,QID211_Choice2,Lyme disease
