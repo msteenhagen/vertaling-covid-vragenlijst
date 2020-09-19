@@ -2577,7 +2577,7 @@ V,QID271_Choice5,"Symptoom 2<span style=""color:#e74c3c;""> *</span>"
 V,QID271_Choice6,"Symptoom 3<span style=""color:#e74c3c;""> *</span>"
 V,QID271_Choice7,Symptoom 4
 V,QID271_Choice8,Symptoom 5
-V,QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Verslechtering of terugval van symptomen na fysieke en / of mentale activiteit</i></div></div>
+V,QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Verslechtering of terugval van symptomen na fysieke en/of mentale activiteit</i></div></div>
 V,QID253_QuestionText,"Heeft u tijdens uw herstel van COVID-19 na lichamelijke of mentale activiteit enige verergering of terugval van uw symptomen ervaren?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID253_Choice23,Ja
 V,QID253_Choice24,No
