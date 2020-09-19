@@ -235,10 +235,10 @@ V,QID451_Choice2,"Nee, postmenopauzaal"
 V,QID451_Choice3,N.v.t.
 V,QID451_Choice4,"Nee, andere reden"
 V,QID225_QuestionText,"Welke van de volgende beschrijft het beste uw afkomst? Kies alle die van toepassing zijn.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
-V,QID225_Choice1,"Aziatisch, Zuid-Aziatisch, Zuidoost-Aziatisch (Chinees, Asiatisch Indisch, Vietnamees, Filipino...)"
+V,QID225_Choice1,"Aziatisch, Zuid-Aziatisch, Zuidoost-Aziatisch (Chinees, Aziatisch Indisch, Vietnamees, Filipino...)"
 V,QID225_Choice2,"Zwart (Afro-Amerikaans, Jamaicaans, Nigeriaans, Haïtiaans...)"
 V,QID225_Choice3,"Wit (Duits, Italiaans, Engels, Pools, Frans...)"
-V,QID225_Choice4,"Hispanic, Latino, of Spaanse origine (Mexicaans, Mexicaans-Americaans, Puerto Ricaans, Cubaans...)"
+V,QID225_Choice4,"Hispanic, Latino, of Spaanse origine (Mexicaans, Mexicaans-Amerikaans, Puerto Ricaans, Cubaans...)"
 V,QID225_Choice5,"Inheemse volkeren (Navajo Nation, Blackfeet Tribe, Mayan, Inupiat...)"
 V,QID225_Choice6,"Pacifische Eilander (Inheems Hawaaïans, Samoaans, Fujiaans, Chamorro...)"
 V,QID225_Choice7,Zeg ik liever niet
@@ -625,7 +625,7 @@ V,QID65_Choice11,Longarts
 V,QID65_Choice12,Alternatief geneeskundige
 V,QID65_Choice13,Ik heb geen contact met een arts gehad
 V,QID65_Choice14,Andere
-V,QID65_Choice15,Obstetricus/Gynaecoloog (OB-GYN)
+V,QID65_Choice15,Verloskundige/Gynaecoloog (OB-GYN)
 V,QID65_Choice16,Immunoloog/Allergoloog
 V,QID62_QuestionText,"Bent u in het ziekenhuis opgenomen geweest?&nbsp;&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID62_Choice1,Ja
@@ -1988,7 +1988,7 @@ V,QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">H
 V,QID376_Choice1,Ja
 V,QID376_Choice2,Nee
 V,QID261_QuestionText,"Welke van de volgende symptomen gerelateerd aan 'brain fog' of cognitief functioneren hebt u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""color:#e74c3c;""><strong>&nbsp;*</strong></span>"
-V,QID261_Choice1,"Moeilijkheden met uitvoerend functioneren (plannen, organizeren, een volgorde van handelen bepalen, abstract denken)"
+V,QID261_Choice1,"Moeilijkheden met uitvoerend functioneren (plannen, organiseren, een volgorde van handelen bepalen, abstract denken)"
 V,QID261_Choice2,Agnosia (Onvermogen om dingen te herkennen of identificeren terwijl er niets mis is met uw zintuigen)
 V,QID261_Choice3,Moeilijkheden met probleemoplossing of besluitvorming
 V,QID261_Choice4,Moeilijkheden met nadenken
@@ -2030,7 +2030,7 @@ V,QID73_Answer3,Licht beperkt
 V,QID73_Answer4,Niet beperkt
 V,QID73_Answer5,Niet van toepassing
 V,QID74_QuestionText,"Optioneel: Als er andere delen van uw leven zijn die werden beïnvloed door geheugenverlies of 'brain fog', vermeld deze dan hier. Beschrijf of ze licht, matig of ernstig beperkend waren.&nbsp;"
-V,QID133_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van uw 'brain fog', geheugenverlies, and aandachtsspanne.<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>"
+V,QID133_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van uw 'brain fog', geheugenverlies, and aandachtsspanne.<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>"
 V,QID399_QuestionText,<strong>Veranderingen in Emoties en Gedrag</strong>
 V,QID77_QuestionText,"Heeft u, in vergelijking met hoe u zich vóór COVID voelde, een toename ervaren van één of meerdere van de volgende situaties?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID77_Choice1,Moeite emoties onder controle te houden
@@ -2042,7 +2042,7 @@ V,QID77_Choice6,Agressie
 V,QID77_Choice7,Euforie (een gevoel of staat van intense opwinding en geluk)
 V,QID77_Choice8,Waanbeelden
 V,QID77_Choice9,Depressie
-V,QID77_Choice10,"Apatie (gebrek aan gevoel, emotie, interesse of bezorgdheid)"
+V,QID77_Choice10,"Apathie (gebrek aan gevoel, emotie, interesse of bezorgdheid)"
 V,QID77_Choice11,Suïcidaliteit
 V,QID77_Choice12,Stemminswisselingen
 V,QID77_Choice13,Angst
@@ -2052,8 +2052,8 @@ V,QID77_Choice16,Huilerigheid
 V,QID77_Choice17,Gevoel van onheil
 V,QID77_Choice18,Anders
 V,QID77_Choice20,Geen van bovenstaande
-V,QID136_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van emotionele veranderingen tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>"
-V,QID79_QuestionText,"Optioneel: Als u enkele van deze ervaringen met emoties al had <b>vóór</b> u COVID kreeg, beschrijf hoe deze verschilden met <b>nadat</b> u COVID kreeg. <br><br>Geef a.u.b. geen identificerende details (zoals namen of lokaties)."
+V,QID136_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van emotionele veranderingen tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>"
+V,QID79_QuestionText,"Optioneel: Als u enkele van deze ervaringen met emoties al had <b>vóór</b> u COVID kreeg, beschrijf hoe deze verschilden met <b>nadat</b> u COVID kreeg. <br><br>Geef a.u.b. geen identificerende details (zoals namen of locaties)."
 V,QID398_QuestionText,<strong>Spraak- en Taalproblemen</strong>
 V,QID411_QuestionText,"Heeft up problemen ervaren met <strong>SPRAAK EN TAAL</strong>&nbsp;sinds het begin van uw ziekte met COVID-19?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
 V,QID411_Choice1,Ja
@@ -2093,7 +2093,7 @@ V,QID345_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het
 V,QID345_Choice20,"Hoofdpijn, aan de achterkant van hoofd of nek"
 V,QID345_Choice21,"Hoofdpijn, rond de slapen"
 V,QID345_Choice22,"Hoofdpijn, achter de ogen"
-V,QID345_Choice23,"Hoofdpijn, difuus (gehele hoofd)"
+V,QID345_Choice23,"Hoofdpijn, diffuus (gehele hoofd)"
 V,QID345_Choice24,Hoofdpijn/pijn na mentale inspanning
 V,QID345_Choice25,"Gevoel dat de hersenen warm zijn/""in brand staan"""
 V,QID345_Choice26,Migraines
@@ -2162,7 +2162,7 @@ V,QID348_Answer7,Maand 4
 V,QID348_Answer8,Maand 5
 V,QID348_Answer9,Maand 6
 V,QID348_Answer12,Maand 7
-V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors of bevend gevoel tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of lokaties).</div>
+V,QID137_QuestionText,Gebruik deze ruimte om voorbeelden te geven van uw tremors of bevend gevoel tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>
 V,QID404_QuestionText,<strong>Slaapproblemen</strong>
 V,QID380_QuestionText,"Heeft u enige <strong>SLAAPPROBLEMEN</strong>&nbsp; gehad sinds het begin van uit COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
 V,QID380_Choice1,Ja
@@ -2194,7 +2194,7 @@ V,QID362_Answer9,Maand 6
 V,QID362_Answer12,Maand 7
 V,QID99_QuestionText,"Als u slapeloosheid heeft/heeft gehad have/had insomnia, welk beschrijft het beste het type slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID99_Choice1,Moeite met in slaap vallen
-V,QID99_Choice2,'s Octends vroeg wakker worden
+V,QID99_Choice2,'s Ochtends vroeg wakker worden
 V,QID99_Choice3,'s Nachts meerdere malen wakker worden
 V,QID99_Choice4,Geen van bovenstaande
 V,QID100_QuestionText,"<p>Wat veroorzaakt/veroorzaakte uw slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p><p></p>"
@@ -2309,7 +2309,7 @@ V,QID120_Choice1,"Ja, het was hoger wanneer ik stond"
 V,QID120_Choice2,"Nee, het was hoger wanneer ik zat"
 V,QID120_Choice3,Het was ongeveer gelijk tijdens staan of zitten
 V,QID121_QuestionText,"Als u tachycardie had en dit kon meten, hoeveel veranderde uw hartslag over het algemeen van een liggende positie naar een staande, de laatste keer dat u dit mat? (In slagen per minuut)"
-V,QID443_QuestionText,"<div>Deze sectie heeft meerdere vragengroepen over meerdere symptomen/problemen georganiseerd per deel van het lichaam (<b>Algemene Problemen, Gastro-enterologische problemen, Ademhalings- en sinussymptomen, oor-/gehoorsymptomen, oogsymptomen, Reproductieve and urinaire symptomen, huid- en allergiesymptomen, en spier- en gewrichtsproblemen</b>)</div><div><br></div>Heeft u deze symptomen gehad, en wanneer ervoer u ze?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad. <b>Als u geen van de symptomen in een verzameling gehad heeft, selecteer het vakje (Geen van de onderstaande problemen zijn op mij van toepassing) boven de gegroepeerde verzameling.&nbsp;</b></div></div>"
+V,QID443_QuestionText,"<div>Deze sectie heeft meerdere vragengroepen over meerdere symptomen/problemen georganiseerd per deel van het lichaam (<b>Algemene Problemen, Gastro-enterologische problemen, Ademhalings- en sinussymptomen, oor-/gehoorsymptomen, oogsymptomen, Voortplantings- and urinaire symptomen, huid- en allergiesymptomen, en spier- en gewrichtsproblemen</b>)</div><div><br></div>Heeft u deze symptomen gehad, en wanneer ervoer u ze?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><div><br></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad. <b>Als u geen van de symptomen in een verzameling gehad heeft, selecteer het vakje (Geen van de onderstaande problemen zijn op mij van toepassing) boven de gegroepeerde verzameling.&nbsp;</b></div></div>"
 V,QID434_QuestionText,<strong>Algemene Problemen</strong>
 V,QID434_Choice1,Geen van de onderstaande algemene symptomen zijn op mij van toepassing
 V,QID394_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (waar van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
@@ -2414,9 +2414,9 @@ V,QID361_Answer7,Maand 4
 V,QID361_Answer8,Maand 5
 V,QID361_Answer9,Maand 6
 V,QID361_Answer12,Maand 7
-V,QID440_QuestionText,<b>Voortplantings- en Ureterale Symptomen</b>
-V,QID440_Choice1,Geen van de onderstaande voortplantings- en ureterale symptomen zijn op mij van toepassing
-V,QID353_QuestionText,Voortplantings- en Ureterale Symptomen
+V,QID440_QuestionText,<b>Voortplantings- en Urinaire Symptomen</b>
+V,QID440_Choice1,Geen van de onderstaande voortplantings- en urinaire symptomen zijn op mij van toepassing
+V,QID353_QuestionText,Voortplantings- en Urinaire Symptomen
 V,QID353_Choice60,All menstruatie-/ongesteldheidsproblemen
 V,QID353_Choice61,Problemen met blaascontrole
 V,QID353_Answer13,N.v.t.
@@ -2434,7 +2434,7 @@ V,QID441_QuestionText,<b>Huid- en Allergiesymptomen</b>
 V,QID441_Choice1,Geen van de onderstaande huid- en allergiesymptomen zijn op mij van toepassing
 V,QID367_QuestionText,Huid- en Allergiesymptomen
 V,QID367_Choice7,Schilferige huid
-V,QID367_Choice27,"Petechiën (kleine, roodpaarse of bruine puntjes in de huid, vooral op de armen, benen, buik, billen, en soms in de mond of op oogleden)"
+V,QID367_Choice27,"Petechiën (kleine, rood-paarse of bruine puntjes in de huid, vooral op de armen, benen, buik, billen, en soms in de mond of op oogleden)"
 V,QID367_Choice32,"COVID-tenen (verkleuring, zwelling, blaarvorming of pijnlijke tenen)"
 V,QID367_Choice33,Dermatographia (krassen op de huid veroorzaakt rode striemen)
 V,QID367_Choice34,"Nieuwe allegrieën (voedsel-, chemisch-, milieu-, etc.)"
@@ -2476,7 +2476,7 @@ V,QID377_Choice50,Veranderingen in de stem
 V,QID377_Choice52,Niet kunnen gapen
 V,QID377_Choice56,Bloed ophoesten
 V,QID377_Choice57,Geen van bovenstaande
-V,QID377_Choice58,Het gevoel dat u niet echt bent / alsof u uwzelf observeert van buiten uw lichaam (depersonalisatie)
+V,QID377_Choice58,Het gevoel dat u niet echt bent / alsof u uzelf observeert van buiten uw lichaam (depersonalisatie)
 V,QID377_Choice59,Het gevoel hebben dat de wereld niet echt is (derealisatie)
 V,QID377_Choice60,Extreme dorst
 V,QID360_QuestionText,<b>Oor- en Gehoor</b>
@@ -2501,13 +2501,13 @@ V,QID96_Choice11,Dingen zien in het perifere gezichtsveld
 V,QID96_Choice12,Andere oogproblemen:
 V,QID96_Choice13,Droge ogen
 V,QID96_Choice14,Geen van bovenstaande
-V,QID352_QuestionText,<b>Voortplanting en Ureteraal</b>
+V,QID352_QuestionText,<b>Voortplanting en Urinair</b>
 V,QID352_Choice7,Vervroegde menopauze
 V,QID352_Choice8,Abnormaal zware menstruatie / stolling
 V,QID352_Choice31,Verkleining van de testikels / penis
 V,QID352_Choice47,"Seksuele disfunctie (moeite om een erectie te behouden, vaginale droogheid, moeite met orgasmen)"
 V,QID352_Choice51,Postmenopauzaal bloedverlies/'spotting'
-V,QID352_Choice52,"Ureterale problemen, anders"
+V,QID352_Choice52,"Urinaire problemen, anders"
 V,QID352_Choice53,Pijn in testikels
 V,QID352_Choice54,Andere zaad-/penis-/testikelproblemen
 V,QID352_Choice55,Andere menstruatieproblemen
@@ -2587,19 +2587,19 @@ V,QID280_Choice2,Cognitief
 V,QID280_Label1,Geen post-exertional malaise
 V,QID280_Label2,Enige vorm van post-exertional malaise
 V,QID280_Label3,Sterke vorm van post-exersional malaise
-V,QID314_QuestionText,"<p>Als u een verlechtering of terugval hebt ervaren na &nbsp;<span style=""font-weight: bolder;"">Fysieke</span>&nbsp;Activiteit, wanneer vindt deze verslechtering/terugval plaats?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
-V,QID314_Choice1,Onmiddelijk
+V,QID314_QuestionText,"<p>Als u een verslechtering of terugval hebt ervaren na &nbsp;<span style=""font-weight: bolder;"">Fysieke</span>&nbsp;Activiteit, wanneer vindt deze verslechtering/terugval plaats?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
+V,QID314_Choice1,Onmiddellijk
 V,QID314_Choice2,"Dezelfde dag nog, na een paar uur"
 V,QID314_Choice3,De volgende dag
 V,QID314_Choice4,Een paar dagen later
-V,QID314_Choice5,Ik ervaar geen verlechtering of terugval van symptomen na Fysieke Activiteit
+V,QID314_Choice5,Ik ervaar geen verslechtering of terugval van symptomen na Fysieke Activiteit
 V,QID314_Choice6,Het wisselt
-V,QID319_QuestionText,"<p>Als u een verlechtering of terugval hebt ervaren na &nbsp;<span style=""font-weight: bolder;"">Mentale</span>&nbsp;Activiteit, wanneer vindt deze verslechtering/terugval plaats?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
-V,QID319_Choice1,Onmiddelijk
+V,QID319_QuestionText,"<p>Als u een verslechtering of terugval hebt ervaren na &nbsp;<span style=""font-weight: bolder;"">Mentale</span>&nbsp;Activiteit, wanneer vindt deze verslechtering/terugval plaats?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
+V,QID319_Choice1,Onmiddellijk
 V,QID319_Choice2,"Dezelfde dag nog, na een paar uur"
 V,QID319_Choice3,De volgende dag
 V,QID319_Choice4,Een paar dagen later
-V,QID319_Choice5,Ik ervaar geen verlechtering of terugval van symptomen na Mentale Activiteit
+V,QID319_Choice5,Ik ervaar geen verslechtering of terugval van symptomen na Mentale Activiteit
 V,QID319_Choice6,Het wisselt
 V,QID315_QuestionText,"Hoe lang duurt de verslechtering/terugval van symptomen doorgaans na Fysieke of Mentale Activiteit?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID315_Choice1,Een paar uur
@@ -2682,15 +2682,15 @@ V,QID141_Choice4,Redelijk
 V,QID141_Choice5,Slecht
 V,QID143_QuestionText,"Beperkt uw gezondheid momenteel uw vermogen om meerdere trappen op te lopen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID143_Choice1,"Ja, zeer beperkend"
-V,QID143_Choice2,"Ja, enigzins beperkend"
+V,QID143_Choice2,"Ja, enigszins beperkend"
 V,QID143_Choice3,"Nee, helemaal niet beperkend"
 V,QID419_QuestionText,"Beperkt uw gezondheid momenteel uw vermogen om een blokje om te lopen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID419_Choice1,"Ja, zeer beperkend"
-V,QID419_Choice2,"Ja, enigzins beperkend"
+V,QID419_Choice2,"Ja, enigszins beperkend"
 V,QID419_Choice3,"Nee, helemaal niet beperkend"
 V,QID420_QuestionText,"Beperkt uw gezondheid momenteel uw vermogen om uzelf te wassen of aan te kleden?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID420_Choice1,"Ja, zeer beperkend"
-V,QID420_Choice2,"Ja, enigzins beperkend"
+V,QID420_Choice2,"Ja, enigszins beperkend"
 V,QID420_Choice3,"Nee, helemaal niet beperkend"
 V,QID144_QuestionText,"Heeft u in de afgelopen 4 weken één of meerdere van de volgende problemen gehad met uw werk of andere normale dagelijkse bezigheden als gevolg van uw <strong>lichamelijke gezondheid</strong>? (vink alles aan wat van toepassing is)<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 V,QID144_Choice1,Minder bereikt dan u zou willen
@@ -2836,7 +2836,7 @@ V,QID169_Choice7,Geen van bovenstaande
 V,QID170_QuestionText,"Als u zich heeft aangesloten bij een online COVID-19 gemeenschap, wat is het effect van deelname geweest op uw psychologische welzijn?"
 V,QID170_Choice1,Significante verbetering van mijn psychologische welzijn
 V,QID170_Choice2,Redelijke verbetering van mijn psychologische welzijn
-V,QID170_Choice3,Had geen effekt op mijn psychologische welzijn
+V,QID170_Choice3,Had geen effect op mijn psychologische welzijn
 V,QID170_Choice4,Redelijke verslechtering van mijn psychologische welzijn
 V,QID170_Choice5,Significante verslechtering van mijn psychologische welzijn
 V,QID279_QuestionText,"Bent u het eens met de volgende uitspraak? ""Een of meer van mijn artsen geloofden mij niet"""
