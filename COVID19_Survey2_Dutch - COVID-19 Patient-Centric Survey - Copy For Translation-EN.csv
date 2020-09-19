@@ -2577,35 +2577,35 @@ V,QID271_Choice5,"Symptoom 2<span style=""color:#e74c3c;""> *</span>"
 V,QID271_Choice6,"Symptoom 3<span style=""color:#e74c3c;""> *</span>"
 V,QID271_Choice7,Symptoom 4
 V,QID271_Choice8,Symptoom 5
- ,QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Worsening or relapse of symptoms after physical and/or mental activity</i></div></div>
- ,QID253_QuestionText,"During your COVID-19 recovery, have you experienced any worsening or relapse of your symptoms after physical activity or mental activity?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID253_Choice23,Yes
- ,QID253_Choice24,No
- ,QID280_QuestionText,"How strongly have you experienced worsening/relapse of your symptoms, on average? Please keep the slider at 0 if you did not experience this.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID280_Choice1,Physical
- ,QID280_Choice2,Cognitive
- ,QID280_Label1,No post-exertional malaise
- ,QID280_Label2,Some post-exertional malaise
- ,QID280_Label3,Strong post-exersional malaise
- ,QID314_QuestionText,"<p>If you have experienced worsening or a relapse after&nbsp;<span style=""font-weight: bolder;"">Physical</span>&nbsp;Activity, when does the worsening/relapse of symptoms happen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
- ,QID314_Choice1,Immediately
- ,QID314_Choice2,"The same day, after a few hours"
- ,QID314_Choice3,The following day
- ,QID314_Choice4,A couple of days later
- ,QID314_Choice5,I do not experience worsening/relapse of symptoms after Physical Activity
- ,QID314_Choice6,It varies
- ,QID319_QuestionText,"<p>If you have experienced worsening or a relapse after&nbsp;<span style=""font-weight: bolder;"">Mental</span>&nbsp;Activity, when does the worsening/relapse of symptoms happen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
- ,QID319_Choice1,Immediately
- ,QID319_Choice2,"The same day, after a few hours"
- ,QID319_Choice3,The following day
- ,QID319_Choice4,A couple of days later
- ,QID319_Choice5,I do not experience worsening/relapse of symptoms after Mental Activity
- ,QID319_Choice6,It varies
- ,QID315_QuestionText,"How long does the worsening/relapse of symptoms usually last following Physical or Mental Activity?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID315_Choice1,Few hours
- ,QID315_Choice2,Few days
- ,QID315_Choice3,Few weeks
- ,QID315_Choice4,Other
+V,QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Verslechtering of terugval van symptomen na fysieke en / of mentale activiteit</i></div></div>
+V,QID253_QuestionText,"Heeft u tijdens uw herstel van COVID-19 na lichamelijke of mentale activiteit enige verergering of terugval van uw symptomen ervaren?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID253_Choice23,Ja
+V,QID253_Choice24,No
+V,QID280_QuestionText,"Hoe sterk ervoer u doorgaans een verergering/terugval van uw symptomen? Houd a.u.b. de schuifregelaar op 0 als u dit helemaal niet heeft ervaren.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID280_Choice1,Fysiek
+V,QID280_Choice2,Cognitief
+V,QID280_Label1,Geen post-exertional malaise
+V,QID280_Label2,Enige vorm van post-exertional malaise
+V,QID280_Label3,Sterke vorm van post-exersional malaise
+V,QID314_QuestionText,"<p>Als u een verlechtering of terugval hebt ervaren na &nbsp;<span style=""font-weight: bolder;"">Fysieke</span>&nbsp;Activiteit, wanneer vindt deze verslechtering/terugval plaats?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
+V,QID314_Choice1,Onmiddelijk
+V,QID314_Choice2,"Dezelfde dag nog, na een paar uur"
+V,QID314_Choice3,De volgende dag
+V,QID314_Choice4,Een paar dagen later
+V,QID314_Choice5,Ik ervaar geen verlechtering of terugval van symptomen na Fysieke Activiteit
+V,QID314_Choice6,Het wisselt
+V,QID319_QuestionText,"<p>Als u een verlechtering of terugval hebt ervaren na &nbsp;<span style=""font-weight: bolder;"">Mentale</span>&nbsp;Activiteit, wanneer vindt deze verslechtering/terugval plaats?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
+V,QID319_Choice1,Onmiddelijk
+V,QID319_Choice2,"Dezelfde dag nog, na een paar uur"
+V,QID319_Choice3,De volgende dag
+V,QID319_Choice4,Een paar dagen later
+V,QID319_Choice5,Ik ervaar geen verlechtering of terugval van symptomen na Mentale Activiteit
+V,QID319_Choice6,Het wisselt
+V,QID315_QuestionText,"Hoe lang duurt de verslechtering/terugval van symptomen doorgaans na Fysieke of Mentale Activiteit?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+V,QID315_Choice1,Een paar uur
+V,QID315_Choice2,Een paar dagen
+V,QID315_Choice3,Een paar weken
+V,QID315_Choice4,Anders
  ,QID322_QuestionText,"(Optional) Please explain anything else you'd like to share about your experience with Post-Exertional Malaise. For instance, you can list the type of activities that worsens your symptoms strongest (walking, strenuous exercise, reading, watching movies, etc)."
  ,QID342_QuestionText,"When did you experience these symptoms?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Please mark symptoms for the first&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weeks</span>, then&nbsp;<span style=""color: rgb(231, 76, 60);"">months (if applicable)</span>. Even if you have only experienced these symptoms for part of a week or month, please select it.</div>"
  ,QID342_Choice1,Worsening/relapses of symptoms from physical and mental exertion
