@@ -3022,39 +3022,39 @@ V,QID211_Answer1,Niet getest
 V,QID211_Answer2,Negatief
 V,QID211_Answer3,Huidige/recente infectie (sinds COVID)
 V,QID211_Answer4,Historische infectie
- ,QID212_QuestionText,Were you given any of these diagnoses for any of your symptoms? Please select all that apply.
- ,QID212_Choice1,Guillain-Barre Syndrome
- ,QID212_Choice2,Small fiber neuropathy
- ,QID212_Choice3,Autonomic neuropathy
- ,QID212_Choice4,Polyneuropathy
- ,QID212_Choice5,Neuralgia (please include type of neuralgia in text box)
- ,QID212_Choice6,"Antiphospholipid Syndrome, viral induced or autoimmune"
- ,QID212_Choice7,Sarcoidosis
- ,QID212_Choice8,Stroke (please include type of stroke in text box)
- ,QID212_Choice9,Demyelinating lesions
- ,QID212_Choice10,POTS
- ,QID212_Choice11,Encephalopathy
- ,QID212_Choice12,Encephalitis (please include type of encephalitis in text box)
- ,QID212_Choice13,Mengingoencephalitis
- ,QID212_Choice14,Meningitis
- ,QID212_Choice15,Acute Disseminated Encephalomyelitis
- ,QID212_Choice16,Acute myelitis
- ,QID212_Choice17,Ophthalmoparesis
- ,QID212_Choice18,Psychiatric Diagnosis
- ,QID212_Choice19,Migraine
- ,QID212_Choice20,Motor Peripheral or Cranial Neuropathies
- ,QID212_Choice21,Posterior reversible encephalopathy syndrome
- ,QID212_Choice22,Myasthenia
- ,QID212_Choice23,Thrombotic microangiopathy
- ,QID212_Choice24,Tapia Syndrome
- ,QID212_Choice25,Epilepsy
- ,QID212_Choice26,Traumatic Brain Injury (TBI) or TBI-like symptoms
- ,QID212_Choice27,Myalgic Encephalomyelitis / Chronic Fatigue Syndrome (ME/CFS)
+V,QID212_QuestionText,Heeft u een van deze diagnoses gekregen voor een van uw symptomen? Selecteer alles wat van toepassing is.
+V,QID212_Choice1,Guillain-Barré syndroom
+V,QID212_Choice2,Dunnevezelneuropathie
+V,QID212_Choice3,Autonome neuropathie
+V,QID212_Choice4,Polyneuropathie
+V,QID212_Choice5,Neuralgie (zenuwpijn) (noem het type neuralgie in het tekstvak)
+V,QID212_Choice6,"Antifosfolipidensyndroom, virusinfectie of auto-immuun"
+V,QID212_Choice7,Sarcoïdose
+V,QID212_Choice8,Beroerte (noem het type beroerte in het tekstvak)
+V,QID212_Choice9,Demyeliniserende laesies 
+V,QID212_Choice10,Posturale orthostatische tachycardie syndroom (POTS)
+V,QID212_Choice11,Encefalopathie
+V,QID212_Choice12,Hersenontsteking (encefalitis) (noem het type hersenontsteking in het tekstvak)
+V,QID212_Choice13,Meningo-encefalitis
+V,QID212_Choice14,Hersenvliesontsteking (meningitis) 
+V,QID212_Choice15,Acute gedissemineerde encefalomyelitis (ADEM)
+V,QID212_Choice16,Acute myelitis  
+V,QID212_Choice17,Oogspierverlamming (oftalmoplegie)
+V,QID212_Choice18,Psychiatrische diagnose
+V,QID212_Choice19,Migraine
+V,QID212_Choice20,Motorische Perifere of Craniale neuropathie
+V,QID212_Choice21,Posterieur reversibel encefalopathie syndroom (PERS)
+V,QID212_Choice22,Spierzwakte (myasthenie)
+V,QID212_Choice23,Trombotische microangiopathie
+V,QID212_Choice24,Tapia Syndroom
+V,QID212_Choice25,Epilepsie
+V,QID212_Choice26,Traumatisch hersenletsel of Traumatisch hersenletsel-achtige symptomen
+V,QID212_Choice27,Myalgische encefalomyelitis (ME) / Chronisch vermoeidheidssyndroom (ME/CVS)
  ,QID212_Choice28,Cranial nerve involvement
- ,QID212_Choice29,Macular hole
- ,QID212_Choice30,Costochondritis
- ,QID212_Choice31,Blood clot
- ,QID212_Choice32,Myocarditis
+V,QID212_Choice29,Maculagat
+V,QID212_Choice30,Costochondritis
+V,QID212_Choice31,Bloedprop
+V,QID212_Choice32,Myocarditis
  ,QID216_QuestionText,"Please describe any other diagnosis you were given (if multiple, please put each diagnosis on a new line and press ""enter"" between each of them.)"
  ,QID373_QuestionText,"Have you tried any of the following treatments for your COVID19 symptoms, if yes, how helpful it was? (choose all that apply)➘<div>&nbsp;</div>➘➘<div><span style=""caret-color: rgb(29, 28, 29); color: rgb(29, 28, 29); font-family: Slack-Lato, appleLogo, sans-serif;"">This includes Prescription or off-the-counter&nbsp;Medications, or Alternative Treatments.</span></div>"
  ,QID373_Choice5,<strong>Non-medication treatment options</strong><br />➘Electrolytes
