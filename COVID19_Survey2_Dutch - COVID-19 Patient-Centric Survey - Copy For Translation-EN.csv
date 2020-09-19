@@ -2430,27 +2430,27 @@ V,QID361_Answer12,Maand 7
  ,QID353_Answer8,Maand 5
  ,QID353_Answer9,Maand 6
  ,QID353_Answer12,Maand 7
- ,QID441_QuestionText,<b>Skin and Allergy Symptoms</b>
- ,QID441_Choice1,None of the below skin and allergy symptoms apply to me
- ,QID367_QuestionText,Skin and Allergy Symptoms
- ,QID367_Choice7,Peeling skin
- ,QID367_Choice27,"Petechiae (tiny purple, red, or brown spots on the skin, usually on arms, legs, stomach, buttocks, and occasionally inside mouth or on eyelids)"
- ,QID367_Choice32,"COVID toes (discoloration, swelling, painful, or blistering toes)"
- ,QID367_Choice33,Dermatographia (writing on your skin causes red lines where you scratched)
- ,QID367_Choice34,"New allergies (food, chemical, environmental, etc)"
- ,QID367_Choice35,Other
- ,QID367_Choice36,Skin rashes
- ,QID367_Answer13,N/A
+ ,QID441_QuestionText,<b>Huid- en Allergiesymptomen</b>
+ ,QID441_Choice1,Geen van de onderstaande huid- en allergiesymptomen zijn op mij van toepassing
+ ,QID367_QuestionText,Huid- en Allergiesymptomen
+ ,QID367_Choice7,Schilferige huid
+ ,QID367_Choice27,"Petechiën (kleine, roodpaarse of bruine puntjes in de huid, vooral op de armen, benen, buik, billen, en soms in de mond of op oogleden)"
+ ,QID367_Choice32,"COVID-tenen (verkleuring, zwelling, blaarvorming of pijnlijke tenen)"
+ ,QID367_Choice33,Dermatographia (krassen op de huid veroorzaakt rode striemen)
+ ,QID367_Choice34,"Nieuwe allegrieën (voedsel-, chemisch-, milieu-, etc.)"
+ ,QID367_Choice35,Anders
+ ,QID367_Choice36,Huiduitslag
+ ,QID367_Answer13,N.v.t.
  ,QID367_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
  ,QID367_Answer2,Week 2
  ,QID367_Answer3,Week 3
  ,QID367_Answer4,Week 4
- ,QID367_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Month 2</strong></span></span>"
- ,QID367_Answer6,Month 3
- ,QID367_Answer7,Month 4
- ,QID367_Answer8,Month 5
- ,QID367_Answer9,Month 6
- ,QID367_Answer12,Month 7
+ ,QID367_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+ ,QID367_Answer6,Maand 3
+ ,QID367_Answer7,Maand 4
+ ,QID367_Answer8,Maand 5
+ ,QID367_Answer9,Maand 6
+ ,QID367_Answer12,Maand 7
  ,QID442_QuestionText,<b>Muscle and Joint issues</b>
  ,QID442_Choice1,None of the below muscle and joint symptoms apply to me
  ,QID356_QuestionText,Muscle and Joint issues
