@@ -3014,14 +3014,14 @@ V,QID208_Answer13,Weet ik niet zeker/kan het niet vinden
 V,QID208_Answer14,Ik wilde een onderzoek maar dit lukte niet
 V,QID209_QuestionText,"Beschrijf voor elk van de abnormale bloedwaarden het resultaat verder"
 V,QID210_QuestionText,"Als u abnormale uitslagen hebt voor andere bloedonderzoeken, beschrijf deze dan hier. (Zet elke abnormale test op een nieuwe regel)."
- ,QID211_QuestionText,Have you been tested for these conditions since COVID?
- ,QID211_Choice1,Epstein-Barr (mono)
- ,QID211_Choice2,Lyme disease
- ,QID211_Choice3,Cytomegalovirus (CMV)
- ,QID211_Answer1,Not tested
- ,QID211_Answer2,Negative
- ,QID211_Answer3,Current/recent infection (since COVID)
- ,QID211_Answer4,Past infection
+V,QID211_QuestionText,Bent u voor deze aandoeningen getest sinds COVID?
+V,QID211_Choice1,Epstein-Barr (mono)
+V,QID211_Choice2,Ziekte van Lyme
+V,QID211_Choice3,Cytomegalovirus (CMV)
+V,QID211_Answer1,Niet getest
+V,QID211_Answer2,Negatief
+V,QID211_Answer3,Huidige/recente infectie (sinds COVID)
+V,QID211_Answer4,Historische infectie
  ,QID212_QuestionText,Were you given any of these diagnoses for any of your symptoms? Please select all that apply.
  ,QID212_Choice1,Guillain-Barre Syndrome
  ,QID212_Choice2,Small fiber neuropathy
