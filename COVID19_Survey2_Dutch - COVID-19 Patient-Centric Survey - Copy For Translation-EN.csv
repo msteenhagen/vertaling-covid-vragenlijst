@@ -301,10 +301,10 @@ QID447_Choice4,"€60,000 - €80,000 EUR"
 QID447_Choice5,">€80,000 EUR"
 QID447_Choice6,Zeg ik liever niet
 QID228_QuestionText,"Wat is uw hoogst afgeronde opleiding?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
-QID228_Choice1,Middelbare school niet afgemaakt
-QID228_Choice2,Middelbare school
-QID228_Choice3,Bachelor-opleiding
-QID228_Choice4,Master-opleiding of hoger
+QID228_Choice1,Geen schoolopleiding voltooid na de lagere school
+QID228_Choice2,Middelbare school of MBO
+QID228_Choice3,Bachelor-opleiding (HBO of WO)
+QID228_Choice4,Master-opleiding of hoger (HBO of WO)
 QID229_QuestionText,"Werkt u in de zorgsector?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID229_Choice1,Ja
 QID229_Choice2,Nee
