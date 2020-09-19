@@ -2843,7 +2843,7 @@ V,QID279_QuestionText,"Bent u het eens met de volgende uitspraak? ""Een of meer 
 V,QID279_Choice4,Sterk mee eens
 V,QID279_Choice5,Mee eens
 V,QID279_Choice6,Een beetje mee eens
-V,QID279_Choice7,Niet mee eens, maar ook niet mee oneens
+V,QID279_Choice7,"Niet mee eens, maar ook niet mee oneens"
 V,QID279_Choice8,Een beetje mee oneens
 V,QID279_Choice9,Mee oneens
 V,QID279_Choice10,Sterk mee oneens
