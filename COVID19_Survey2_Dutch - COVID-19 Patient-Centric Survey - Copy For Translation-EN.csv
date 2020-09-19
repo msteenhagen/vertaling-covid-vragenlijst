@@ -2967,7 +2967,7 @@ V,QID371_Choice6,"Anders, geef a.u.b. een beschrijving"
 V,QID258_QuestionText,"Heeft u medische diagnostische tests ondergaan voor uw lichamelijke symptomen van COVID-19? (Scans, echo's, ECG's)"
 V,QID258_Choice1,Ja
 V,QID258_Choice2,Nee
-V,QID201_QuestionText,"Heeft u één of meerdere van de volgende medische diagnostische tests uitgevoerd? Opmerking: als u een test meerdere keren hebt laten uitvoeren, voer dan "Abnormaal" in zodra u op in ieder geval één moment een abnormaal resultaat heeft ontvangen.&nbsp;"
+V,QID201_QuestionText,"Heeft u één of meerdere van de volgende medische diagnostische tests uitgevoerd? Opmerking: als u een test meerdere keren hebt laten uitvoeren, voer dan 'Abnormaal' in zodra u op in ieder geval één moment een abnormaal resultaat heeft ontvangen.&nbsp;"
 V,QID201_Choice1,MRI - hersenen
 V,QID201_Choice2,MRI - borst
 V,QID201_Choice3,CT scan - borst
