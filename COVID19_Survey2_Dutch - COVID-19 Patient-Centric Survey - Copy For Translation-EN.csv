@@ -2946,52 +2946,52 @@ V,QID187_Choice4,Niet mee eens, maar ook niet mee oneens
 V,QID187_Choice5,Een beetje mee oneens
 V,QID187_Choice6,Mee oneens
 V,QID187_Choice7,Sterk mee oneens
- ,QID427_QuestionText,"If you have children, have your children been sick with COVID (or suspected COVID) for over three weeks?&nbsp;"
- ,QID427_Choice1,I don't have children.
- ,QID427_Choice2,All of my children have been sick for over 3 weeks.
- ,QID427_Choice7,My children did not get sick.
- ,QID427_Choice8,My children got sick but recovered in less than 3 weeks.
- ,QID427_Choice9,"One or more of my children have been sick for over 3 weeks, and one or more of my children have recovered before 3 weeks."
- ,QID370_QuestionText,Were you employed pre-COVID?<div><br></div>
- ,QID370_Choice1,"Yes, full-time"
- ,QID370_Choice2,No
- ,QID370_Choice4,"Yes, part-time"
- ,QID370_Choice5,"I was self-employed, full-time"
- ,QID370_Choice6,"I was self-employed, part-time"
- ,QID371_QuestionText,Did/do you need accommodation or reduced hours because of persistent issues/symptoms?&nbsp;&nbsp;
- ,QID371_Choice2,"Yes, I needed to reduce my hours (working in-person)."
- ,QID371_Choice3,"No, I have been able to continue working as normal."
- ,QID371_Choice4,"Yes, I needed to reduce my hours (working remotely)."
- ,QID371_Choice5,"Yes, I had to quit my job or was fired."
- ,QID371_Choice6,"Other, please describe"
- ,QID258_QuestionText,"Have you received any medical diagnostic testing for your COVID-19 physical symptoms? (Scans, ultrasounds, ECGs)"
- ,QID258_Choice1,Yes
- ,QID258_Choice2,No
- ,QID201_QuestionText,"Have you completed any of the following medical diagnostic testing? Note: If you have had any test done multiple times, please enter “Abnormal” if you received an abnormal result at any time.&nbsp;"
- ,QID201_Choice1,MRI - brain
- ,QID201_Choice2,MRI - chest
- ,QID201_Choice3,CT scan - chest
- ,QID201_Choice4,CT scan - brain
- ,QID201_Choice5,CT scan - abdomen
- ,QID201_Choice6,CT scan - pulmonary angiogram
- ,QID201_Choice7,X-ray - chest
- ,QID201_Choice8,Spinal tap (lumbar puncture)
- ,QID201_Choice9,Ultrasound - leg
- ,QID201_Choice10,Ultrasound (echo) - heart
- ,QID201_Choice11,Ultrasound - abdomen
- ,QID201_Choice12,ECG/EKG (heart)
- ,QID201_Choice13,EEG (brain)
- ,QID201_Choice14,EMG (muscle/nerves)
- ,QID201_Choice15,Other
- ,QID201_Answer1,Not tested
- ,QID201_Answer2,Yes - normal
- ,QID201_Answer3,Yes - abnormal
- ,QID202_QuestionText,"If the brain MRI, brain CT, or brain EEG were abnormal, please describe the results here."
- ,QID203_QuestionText,"If the chest MRI, chest CT, or chest X-ray were abnormal, please describe the results here."
- ,QID204_QuestionText,"If the spinal tap was abnormal, please describe the results here."
- ,QID205_QuestionText,"If the EMG was abnormal, please describe the results here."
- ,QID206_QuestionText,"If any of the other tests listed above were abnormal, please describe the results here."
- ,QID207_QuestionText,"If you had any abnormal tests that were not listed here, please describe the results here."
+V,QID427_QuestionText,"Als u kinderen heeft, zijn uw kinderen dan meer dan drie weken (vermoedelijk) ziek geweest met COVID?&nbsp;"
+V,QID427_Choice1,Ik heb geen kinderen.
+V,QID427_Choice2,Al mijn kinderen zijn meer dan 3 weken ziek geweest.
+V,QID427_Choice7,Mijn kinderen zijn niet ziek geweest.
+V,QID427_Choice8,Mijn kinderen zijn ziek geweest maar ze herstelden binnen 3 weken.
+V,QID427_Choice9,"Eén of meer van mijn kinderen zijn al meer dan 3 weken ziek, en één of meer van mijn kinderen zijn binnen 3 weken hersteld."
+V,QID370_QuestionText,Had u een baan vóórdat u COVID kreeg?<div><br></div>
+V,QID370_Choice1,"Ja, voltijds"
+V,QID370_Choice2,Nee
+V,QID370_Choice4,"Ja, deeltijd"
+V,QID370_Choice5,"Ik was zelfstandige, voltijds"
+V,QID370_Choice6,"Ik was zelfstandige, deeltijd"
+V,QID371_QuestionText,Had/heeft u aanpassingen of verminderde uren nodig als gevolg van aanhoudende problemen/symptomen?&nbsp;&nbsp;
+V,QID371_Choice2,"Ja, ik moest mijn arbeidsuren verminderen (op de werkplek)."
+V,QID371_Choice3,"Nee, ik ben in staat geweest om normaal door te werken."
+V,QID371_Choice4,"Ja, ik moest mijn arbeidsuren verminderen (thuiswerken)."
+V,QID371_Choice5,"Ja, ik heb ontslag moeten nemen of ben ontslagen."
+V,QID371_Choice6,"Anders, geef a.u.b. een beschrijving"
+V,QID258_QuestionText,"Heeft u medische diagnostische tests ondergaan voor uw lichamelijke symptomen van COVID-19? (Scans, echo's, ECG's)"
+V,QID258_Choice1,Ja
+V,QID258_Choice2,Nee
+V,QID201_QuestionText,"Heeft u één of meerdere van de volgende medische diagnostische tests uitgevoerd? Opmerking: als u een test meerdere keren hebt laten uitvoeren, voer dan "Abnormaal" in zodra u op in ieder geval één moment een abnormaal resultaat heeft ontvangen.&nbsp;"
+V,QID201_Choice1,MRI - hersenen
+V,QID201_Choice2,MRI - borst
+V,QID201_Choice3,CT scan - borst
+V,QID201_Choice4,CT scan - hersenen
+V,QID201_Choice5,CT scan - buik
+V,QID201_Choice6,CT scan - pulmonair angiogram
+V,QID201_Choice7,Röntgenfoto - borst
+V,QID201_Choice8,Ruggenprik (lumbaalpunctie)
+V,QID201_Choice9,Echo - been
+V,QID201_Choice10,Echo - hart
+V,QID201_Choice11,Echo - buik
+V,QID201_Choice12,ECG/EKG (hartfilmpje)
+V,QID201_Choice13,EEG (hersenfilmpje)
+V,QID201_Choice14,EMG (spier-zenuwonderzoek)
+V,QID201_Choice15,Anders
+V,QID201_Answer1,Niet getest
+V,QID201_Answer2,Ja - normaal
+V,QID201_Answer3,Ja - abnormaal
+V,QID202_QuestionText,"Als de uitkomst van de MRI van de hersenen, CT van de hersenen of EEG van de hersenen abnormaal was, beschrijf dan hier de resultaten."
+V,QID203_QuestionText,"Als de uitkomst van de MRI van de borst, CT van de borst of röntgenfoto van de borst abnormaal was, beschrijf dan hier de resultaten."
+V,QID204_QuestionText,"Als de uitkomst van de ruggenprik abnormaal was, beschrijf dan hier de resultaten."
+V,QID205_QuestionText,"Als de uitkomst van de EMG abnormaal was, beschrijf dan hier de resultaten."
+V,QID206_QuestionText,"Als de uitkomst van één van de andere bovengenoemde tests abnormaal was, beschrijf dan hier de resultaten."
+V,QID207_QuestionText,"Als u een abnormale uitslag heeft van een test die hierboven niet wordt vermeld, beschrijf dan hier de resultaten."
  ,QID257_QuestionText,Have you received diagnostic blood tests for your COVID-19 symptoms? (e.g. CBC)
  ,QID257_Choice4,Yes
  ,QID257_Choice5,No
