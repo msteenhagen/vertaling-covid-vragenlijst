@@ -3013,7 +3013,7 @@ V,QID208_Answer12,"Abnormaal, laag"
 V,QID208_Answer13,Weet ik niet zeker/kan het niet vinden
 V,QID208_Answer14,Ik wilde een onderzoek maar dit lukte niet
 V,QID209_QuestionText,"Beschrijf voor elk van de abnormale bloedwaarden het resultaat verder"
-V,QID210_QuestionText,Als u abnormale uitslagen hebt voor andere bloedonderzoeken, beschrijf deze hier. (Zet elke abnormale test op een nieuwe regel).
+V,QID210_QuestionText,"Als u abnormale uitslagen hebt voor andere bloedonderzoeken, beschrijf deze dan hier. (Zet elke abnormale test op een nieuwe regel)."
  ,QID211_QuestionText,Have you been tested for these conditions since COVID?
  ,QID211_Choice1,Epstein-Barr (mono)
  ,QID211_Choice2,Lyme disease
