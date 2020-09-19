@@ -2414,169 +2414,169 @@ V,QID361_Answer7,Maand 4
 V,QID361_Answer8,Maand 5
 V,QID361_Answer9,Maand 6
 V,QID361_Answer12,Maand 7
- ,QID440_QuestionText,<b>Voortplantings- en Ureterale Symptomen</b>
- ,QID440_Choice1,Geen van de onderstaande voortplantings- en ureterale symptomen zijn op mij van toepassing
- ,QID353_QuestionText,Voortplantings- en Ureterale Symptomen
- ,QID353_Choice60,All menstruatie-/ongesteldheidsproblemen
- ,QID353_Choice61,Problemen met blaascontrole
- ,QID353_Answer13,N.v.t.
- ,QID353_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID353_Answer2,Week 2
- ,QID353_Answer3,Week 3
- ,QID353_Answer4,Week 4
- ,QID353_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
- ,QID353_Answer6,Maand 3
- ,QID353_Answer7,Maand 4
- ,QID353_Answer8,Maand 5
- ,QID353_Answer9,Maand 6
- ,QID353_Answer12,Maand 7
- ,QID441_QuestionText,<b>Huid- en Allergiesymptomen</b>
- ,QID441_Choice1,Geen van de onderstaande huid- en allergiesymptomen zijn op mij van toepassing
- ,QID367_QuestionText,Huid- en Allergiesymptomen
- ,QID367_Choice7,Schilferige huid
- ,QID367_Choice27,"Petechiën (kleine, roodpaarse of bruine puntjes in de huid, vooral op de armen, benen, buik, billen, en soms in de mond of op oogleden)"
- ,QID367_Choice32,"COVID-tenen (verkleuring, zwelling, blaarvorming of pijnlijke tenen)"
- ,QID367_Choice33,Dermatographia (krassen op de huid veroorzaakt rode striemen)
- ,QID367_Choice34,"Nieuwe allegrieën (voedsel-, chemisch-, milieu-, etc.)"
- ,QID367_Choice35,Anders
- ,QID367_Choice36,Huiduitslag
- ,QID367_Answer13,N.v.t.
- ,QID367_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID367_Answer2,Week 2
- ,QID367_Answer3,Week 3
- ,QID367_Answer4,Week 4
- ,QID367_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
- ,QID367_Answer6,Maand 3
- ,QID367_Answer7,Maand 4
- ,QID367_Answer8,Maand 5
- ,QID367_Answer9,Maand 6
- ,QID367_Answer12,Maand 7
- ,QID442_QuestionText,<b>Spier- en Gewrichtsproblemen</b>
- ,QID442_Choice1,Geen van de onderstaande spier- en gewrichtsproblemen zijn op mij van toepassing
- ,QID356_QuestionText,Spier- en Gewrichtsproblemen
- ,QID356_Choice2,Spasmen 
- ,QID356_Choice23,Spierpijn
- ,QID356_Choice24,Gewrichtspijn
- ,QID356_Choice25,Botpijn of een brandend gevoel
- ,QID356_Answer13,N.v.t.
- ,QID356_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
- ,QID356_Answer2,Week 2
- ,QID356_Answer3,Week 3
- ,QID356_Answer4,Week 4
- ,QID356_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
- ,QID356_Answer6,Maand 3
- ,QID356_Answer7,Maand 4
- ,QID356_Answer8,Maand 5
- ,QID356_Answer9,Maand 6
- ,QID356_Answer12,Maand 7
- ,QID377_QuestionText,"<span style=""font-weight: bolder;"">All Other Symptoms</span><div><b><br></b>Have you experienced any of these symptoms since the start of your COVID-19 illness?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Please choose all options that&nbsp;apply)</div></div>"
- ,QID377_Choice42,Inability to cry
- ,QID377_Choice49,Lump in throat/difficulty swallowing
- ,QID377_Choice50,Changes in the voice
- ,QID377_Choice52,Inability to yawn
- ,QID377_Choice56,Coughing up Blood
- ,QID377_Choice57,None of the above
- ,QID377_Choice58,Feeling like you aren’t real/like you’re observing yourself from outside your body (depersonalization)
- ,QID377_Choice59,Feeling like the world isn’t real (derealization)
- ,QID377_Choice60,Extreme thirst
- ,QID360_QuestionText,<b>Ear and Hearing</b>
- ,QID360_Choice1,Other ear/hearing symptoms
- ,QID360_Choice8,Ear pain
- ,QID360_Choice12,"Changes to the ear canal (such as pressure, blockage, burning, swelling)"
- ,QID360_Choice13,Numbness/loss of sensation
- ,QID360_Choice14,None of the above
- ,QID360_Choice15,Sensitivity to noise
- ,QID96_QuestionText,<b>Eye and Vision</b>
- ,QID96_Choice1,Vision symptoms - Blurred vision
- ,QID96_Choice2,Vision symptoms - Double vision
- ,QID96_Choice3,Vision symptoms - Sensitivity to light
- ,QID96_Choice4,Vision symptoms - Tunnel vision
- ,QID96_Choice5,Vision symptoms - Total loss of vision
- ,QID96_Choice6,Eye pressure or pain
- ,QID96_Choice7,Pink eye (conjunctivitis)
- ,QID96_Choice8,Bloodshot eyes
- ,QID96_Choice9,Redness on the outside of eyes
- ,QID96_Choice10,Floaters
- ,QID96_Choice11,Seeing things in your peripheral vision
- ,QID96_Choice12,Other eye issues:
- ,QID96_Choice13,Dry eyes
- ,QID96_Choice14,None of the above
- ,QID352_QuestionText,<b>Reproductive and Urinary</b>
- ,QID352_Choice7,Early Menopause
- ,QID352_Choice8,Abnormally heavy periods/clotting
- ,QID352_Choice31,Decrease in size of testicles/penis
- ,QID352_Choice47,"Sexual dysfunction (difficulty maintaining erection, vaginal dryness, difficulty orgasming)"
- ,QID352_Choice51,Post-Menopausal bleeding/spotting
- ,QID352_Choice52,"Urinary issues, other"
- ,QID352_Choice53,Pain in testicles
- ,QID352_Choice54,Other semen/penis/testicles issues
- ,QID352_Choice55,Other menstrual issues
- ,QID352_Choice56,Abnormally irregular periods
- ,QID352_Choice57,None of the above
- ,QID116_QuestionText,<b>Gastrointestinal</b>
- ,QID116_Choice6,Feeling full quickly when eating
- ,QID116_Choice7,Abdominal pain
- ,QID116_Choice8,Hyperactive bowel sensations
- ,QID116_Choice11,None of the above
- ,QID366_QuestionText,<b>Skin and Allergy</b>
- ,QID366_Choice22,"New allergies (food, chemical, environmental, etc)"
- ,QID366_Choice23,Heightened reaction to old allergies
- ,QID366_Choice24,Itchy skin
- ,QID366_Choice25,Itchy eyes
- ,QID366_Choice26,"Itchy, other"
- ,QID366_Choice32,Brittle/discolored nail
- ,QID366_Choice34,None of the above
- ,QID366_Choice35,Shingles
- ,QID147_QuestionText,"How severe were/are your symptoms over the course of the <span style=""color:#c0392b;"">weeks</span>/<span style=""color:#c0392b;"">months</span>?&nbsp;<span style=""color:#c0392b;"">*</span>➘<div>&nbsp;➘<div>If you experienced multiple severities for symptoms within the time period, select the most severe within that time period.</div>➘</div>"
+V,QID440_QuestionText,<b>Voortplantings- en Ureterale Symptomen</b>
+V,QID440_Choice1,Geen van de onderstaande voortplantings- en ureterale symptomen zijn op mij van toepassing
+V,QID353_QuestionText,Voortplantings- en Ureterale Symptomen
+V,QID353_Choice60,All menstruatie-/ongesteldheidsproblemen
+V,QID353_Choice61,Problemen met blaascontrole
+V,QID353_Answer13,N.v.t.
+V,QID353_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID353_Answer2,Week 2
+V,QID353_Answer3,Week 3
+V,QID353_Answer4,Week 4
+V,QID353_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID353_Answer6,Maand 3
+V,QID353_Answer7,Maand 4
+V,QID353_Answer8,Maand 5
+V,QID353_Answer9,Maand 6
+V,QID353_Answer12,Maand 7
+V,QID441_QuestionText,<b>Huid- en Allergiesymptomen</b>
+V,QID441_Choice1,Geen van de onderstaande huid- en allergiesymptomen zijn op mij van toepassing
+V,QID367_QuestionText,Huid- en Allergiesymptomen
+V,QID367_Choice7,Schilferige huid
+V,QID367_Choice27,"Petechiën (kleine, roodpaarse of bruine puntjes in de huid, vooral op de armen, benen, buik, billen, en soms in de mond of op oogleden)"
+V,QID367_Choice32,"COVID-tenen (verkleuring, zwelling, blaarvorming of pijnlijke tenen)"
+V,QID367_Choice33,Dermatographia (krassen op de huid veroorzaakt rode striemen)
+V,QID367_Choice34,"Nieuwe allegrieën (voedsel-, chemisch-, milieu-, etc.)"
+V,QID367_Choice35,Anders
+V,QID367_Choice36,Huiduitslag
+V,QID367_Answer13,N.v.t.
+V,QID367_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID367_Answer2,Week 2
+V,QID367_Answer3,Week 3
+V,QID367_Answer4,Week 4
+V,QID367_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID367_Answer6,Maand 3
+V,QID367_Answer7,Maand 4
+V,QID367_Answer8,Maand 5
+V,QID367_Answer9,Maand 6
+V,QID367_Answer12,Maand 7
+V,QID442_QuestionText,<b>Spier- en Gewrichtsproblemen</b>
+V,QID442_Choice1,Geen van de onderstaande spier- en gewrichtsproblemen zijn op mij van toepassing
+V,QID356_QuestionText,Spier- en Gewrichtsproblemen
+V,QID356_Choice2,Spasmen 
+V,QID356_Choice23,Spierpijn
+V,QID356_Choice24,Gewrichtspijn
+V,QID356_Choice25,Botpijn of een brandend gevoel
+V,QID356_Answer13,N.v.t.
+V,QID356_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
+V,QID356_Answer2,Week 2
+V,QID356_Answer3,Week 3
+V,QID356_Answer4,Week 4
+V,QID356_Answer5,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Maand 2</strong></span></span>"
+V,QID356_Answer6,Maand 3
+V,QID356_Answer7,Maand 4
+V,QID356_Answer8,Maand 5
+V,QID356_Answer9,Maand 6
+V,QID356_Answer12,Maand 7
+V,QID377_QuestionText,"<span style=""font-weight: bolder;"">Alle Andere Symptomen</span><div><b><br></b>Heeft u één of meerder van deze symptomen gehad sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Kies alle opties die&nbsp;van toepassing zijn)</div></div>"
+V,QID377_Choice42,Niet kunnen huilen
+V,QID377_Choice49,Brok in de keel / moeite met slikken
+V,QID377_Choice50,Veranderingen in de stem
+V,QID377_Choice52,Niet kunnen gapen
+V,QID377_Choice56,Bloed ophoesten
+V,QID377_Choice57,Geen van bovenstaande
+V,QID377_Choice58,Het gevoel dat u niet echt bent / alsof u uwzelf observeert van buiten uw lichaam (depersonalisatie)
+V,QID377_Choice59,Het gevoel hebben dat de wereld niet echt is (derealisatie)
+V,QID377_Choice60,Extreme dorst
+V,QID360_QuestionText,<b>Oor- en Gehoor</b>
+V,QID360_Choice1,Andere oor- en gehoorsymptomen
+V,QID360_Choice8,Oorpijn
+V,QID360_Choice12,"Veranderingen in de gehoorgang (zoals druk, verstopping, branderig gevoel, zwelling)"
+V,QID360_Choice13,Gevoelloosheid / verlies van gevoel
+V,QID360_Choice14,Geen van bovenstaande
+V,QID360_Choice15,Gevoeligheid voor lawaai
+V,QID96_QuestionText,<b>Ogen en Gezichtsvermogen</b>
+V,QID96_Choice1,Zichtsymptomen - Wazig zien
+V,QID96_Choice2,Zichtsymptomen - Dubbel zien
+V,QID96_Choice3,Zichtsymptomen - Lichtgevoeligheid
+V,QID96_Choice4,Zichtsymptomen - Tunnelvisie
+V,QID96_Choice5,Zichtsymptomen - Volledig verlies van zicht
+V,QID96_Choice6,Druk of pijn op/in het oog
+V,QID96_Choice7,Rood oog (conjunctivitis)
+V,QID96_Choice8,Bloeddoorlopen ogen
+V,QID96_Choice9,Roodheid aan de buitenkant van de ogen
+V,QID96_Choice10,Floaters (mouches volantes)
+V,QID96_Choice11,Dingen zien in het perifere gezichtsveld
+V,QID96_Choice12,Andere oogproblemen:
+V,QID96_Choice13,Droge ogen
+V,QID96_Choice14,Geen van bovenstaande
+V,QID352_QuestionText,<b>Voortplanting en Ureteraal</b>
+V,QID352_Choice7,Vervroegde menopauze
+V,QID352_Choice8,Abnormaal zware menstruatie / stolling
+V,QID352_Choice31,Verkleining van de testikels / penis
+V,QID352_Choice47,"Seksuele disfunctie (moeite om een erectie te behouden, vaginale droogheid, moeite met orgasmen)"
+V,QID352_Choice51,Postmenopauzaal bloedverlies/'spotting'
+V,QID352_Choice52,"Ureterale problemen, anders"
+V,QID352_Choice53,Pijn in testikels
+V,QID352_Choice54,Andere zaad-/penis-/testikelproblemen
+V,QID352_Choice55,Andere menstruatieproblemen
+V,QID352_Choice56,Abnormaal onregelmatige menstruatie
+V,QID352_Choice57,Geen van bovenstaande
+V,QID116_QuestionText,<b>Gastro-intestinaal</b>
+V,QID116_Choice6,Snel een vol gevoel bij het eten
+V,QID116_Choice7,Buikpijn
+V,QID116_Choice8,Voelbaar overactieve darm
+V,QID116_Choice11,Geen van bovenstaande
+V,QID366_QuestionText,<b>Huid en Allergie</b>
+V,QID366_Choice22,"Nieuwe allergieën (voedsel-, chemisch-, milieu-, etc.)"
+V,QID366_Choice23,Verhoogde reactie op oude allergieën
+V,QID366_Choice24,Jeukende huid
+V,QID366_Choice25,Jeukende ogen
+V,QID366_Choice26,"Jeuk, anders"
+V,QID366_Choice32,Broze/verkleurde nagels
+V,QID366_Choice34,Geen van bovenstaande
+V,QID366_Choice35,Gordelroos
+V,QID147_QuestionText,"Hoe ernstig waren / zijn uw symptomen gedurende de <span style=""color:#c0392b;"">weken</span>/<span style=""color:#c0392b;"">maanden</span>?&nbsp;<span style=""color:#c0392b;"">*</span>➘<div>&nbsp;➘<div>Als u in een periode verschillende mate van ernst van symptomen heeft ondervonden, kies dan de meest ernstige binnen deze periode.</div>➘</div>"
  ,QID147_Choice1,Week 1
  ,QID147_Choice2,Week 2
  ,QID147_Choice3,Week 3
  ,QID147_Choice4,Week 4
- ,QID147_Choice5,Month 2
- ,QID147_Choice6,Month 3
- ,QID147_Choice7,Month 4
- ,QID147_Choice8,Month 5
- ,QID147_Choice9,Month 6
- ,QID147_Choice18,Month 7+
- ,QID147_Answer1,No symptom
- ,QID147_Answer2,Very Mild
+ ,QID147_Choice5,Maand 2
+ ,QID147_Choice6,Maand 3
+ ,QID147_Choice7,Maand 4
+ ,QID147_Choice8,Maand 5
+ ,QID147_Choice9,Maand 6
+ ,QID147_Choice18,Maand 7+
+ ,QID147_Answer1,Geen symptomen
+ ,QID147_Answer2,Heel mild
  ,QID147_Answer3,Mild
- ,QID147_Answer4,Moderate
- ,QID147_Answer13,Severe
- ,QID147_Answer14,Very Severe
- ,QID429_QuestionText,"Which of these descriptions appropriately describes your experience with relapses, and your symptom course overall? Please select all that apply:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
- ,QID429_Choice1,I don't experience relapses/have not yet experienced relapses.
- ,QID429_Choice12,"Overall, my symptoms have slowly gotten better over time."
- ,QID429_Choice13,"Overall, my symptoms have stayed about the same over time."
- ,QID429_Choice14,"Overall, my symptoms have slowly worsened over time."
- ,QID429_Choice15,I got worse rapidly.
- ,QID429_Choice16,"My relapses happen in a regular pattern (monthly, daily, or weekly)."
- ,QID429_Choice17,My relapses happen in an irregular pattern (randomly).
- ,QID429_Choice18,"My relapses happen in response to a trigger (stress, alcohol, exercise/exertion, etc)."
- ,QID429_Choice19,I got better rapidly.
- ,QID429_Choice20,My relapses are getting shorter/easier over time.
- ,QID429_Choice21,My relapses are getting longer/harder over time.
- ,QID429_Choice22,My relapse severity has stayed about the same over time.
- ,QID429_Choice23,Other
- ,QID450_QuestionText,"Which of these trigger a relapse or worsening of symptoms? Please select all that apply:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+ ,QID147_Answer4,Matig
+ ,QID147_Answer13,Ernstig
+ ,QID147_Answer14,Zeer ernstig
+ ,QID429_QuestionText,"Welke van deze omschrijvingen past bij uw ervaring met terugvallen, en uw symptoomverloop in het algemeen? Selecteer alles wat van toepassing is:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+ ,QID429_Choice1,Ik ervaar geen terugvallen / heb nog geen terugval ervaren.
+ ,QID429_Choice12,"Over het algemeen zijn mijn symptomen langzaamaan beter geworden."
+ ,QID429_Choice13,"Over het algemeen zijn mijn symptomen ongeveer hetzelfde gebleven."
+ ,QID429_Choice14,"Over het algemeen zijn mijn symptomen erger geworden."
+ ,QID429_Choice15,Ik ging snel achteruit
+ ,QID429_Choice16,"Mijn terugvallen hebben een regelmatig patroon (maandelijks, dagelijks of wekelijks)."
+ ,QID429_Choice17,Mijn terugvallen hebben een onregelmatig patroon (onvoorspelbaar).
+ ,QID429_Choice18,"Mijn terugvallen hebben komen na een trigger (stress, alcohol, sporten/inspanning, etc)."
+ ,QID429_Choice19,Ik werd snel beter.
+ ,QID429_Choice20,Mijn terugvallen worden in de loop van de tijd korter/lichter.
+ ,QID429_Choice21,Mijn terugvallen worden in de loop van de tijd langer/zwaarder.
+ ,QID429_Choice22,Mijn terugvallen zijn in de loop van de tijd ongeveer even zwaar gebleven.
+ ,QID429_Choice23,Anders
+ ,QID450_QuestionText,"Welke van de volgende veroorzaken een terugval of verergering van de symptomen? Kies alle opties die van toepassing zijn:&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID450_Choice1,Stress
  ,QID450_Choice24,Alcohol
- ,QID450_Choice25,Caffeine
- ,QID450_Choice26,Heat
- ,QID450_Choice27,Period/menstruation
- ,QID450_Choice28,Week before period/menstruation
- ,QID450_Choice29,Other
- ,QID450_Choice30,Exercise
- ,QID450_Choice31,Physical activity
- ,QID450_Choice32,Mental activity
- ,QID430_QuestionText,"How would you rate how you feel today, on a scale of 0-100% (with 100% being your pre-COVID baseline)?➘&nbsp;"
+ ,QID450_Choice25,Cafeïne
+ ,QID450_Choice26,Hitte
+ ,QID450_Choice27,Ongesteldheid/menstruatie
+ ,QID450_Choice28,De week vóór ongesteldheid/menstruatie
+ ,QID450_Choice29,Anders
+ ,QID450_Choice30,Sporten
+ ,QID450_Choice31,Lichaamsbeweging
+ ,QID450_Choice32,Mentale inspanning
+ ,QID430_QuestionText,"Hoe zou u zeggen dat u zich vandaag voelt, op een schaal van 0-100% (waarbij 100% uw pre-COVID-baseline is)?➘&nbsp;"
  ,QID430_Choice1,%
- ,QID271_QuestionText,"List at least&nbsp;<b>three symptoms</b> that have been the most debilitating during recovery.<div>On a scale of 0-10, how severe have they been? (0 is completely fine, 10 is completely debilitating).&nbsp;</div><div><div><br></div></div>"
- ,QID271_Choice4,"Symptom 1<span style=""color:#e74c3c;""> *</span>"
- ,QID271_Choice5,"Symptom 2<span style=""color:#e74c3c;""> *</span>"
- ,QID271_Choice6,"Symptom 3<span style=""color:#e74c3c;""> *</span>"
- ,QID271_Choice7,Symptom 4
- ,QID271_Choice8,Symptom 5
+ ,QID271_QuestionText,"Noem ten minste&nbsp;<b>drie symptomen</b> die het meest slopend zijn geweest tijdens uw herstel.<div>Op een schaal van 0-10, hoe ernstig waren deze symptomen? (0 is prima, 10 is volledig slopend).&nbsp;</div><div><div><br></div></div>"
+ ,QID271_Choice4,"Symptoom 1<span style=""color:#e74c3c;""> *</span>"
+ ,QID271_Choice5,"Symptoom 2<span style=""color:#e74c3c;""> *</span>"
+ ,QID271_Choice6,"Symptoom 3<span style=""color:#e74c3c;""> *</span>"
+ ,QID271_Choice7,Symptoom 4
+ ,QID271_Choice8,Symptoom 5
  ,QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Worsening or relapse of symptoms after physical and/or mental activity</i></div></div>
  ,QID253_QuestionText,"During your COVID-19 recovery, have you experienced any worsening or relapse of your symptoms after physical activity or mental activity?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
  ,QID253_Choice23,Yes
