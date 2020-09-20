@@ -851,7 +851,7 @@ QID330_Subquestion3_Answer149,2048
 QID330_Subquestion3_Answer150,2049
 QID296_QuestionText,Is dit een geschatte datum?
 QID296_Choice1,Dit is een geschatte datum
-QID24_QuestionText,"Wat voor soort test was uw&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">eerste</span>&nbsp;COVID-19 test?➘<div><span style=""font-size:16px;""><strong>&nbsp;</strong></span></div>"
+QID24_QuestionText,"Wat voor soort test was uw&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">eerste</span>&nbsp;COVID-19 test? (Uw test had mogelijk meerdere onderdelen. Vink alle aan die van toepassing zijn.)➘<div><span style=""font-size:16px;""><strong>&nbsp;</strong></span></div>"
 QID24_Choice1,"Nasaal (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
 QID24_Choice2,"Nasofaryngeaal (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
 QID24_Choice3,Keel
@@ -1063,7 +1063,7 @@ QID29_Subquestion3_Answer149,2048
 QID29_Subquestion3_Answer150,2049
 QID297_QuestionText,Is dit een geschatte datum?
 QID297_Choice1,Dit is een geschatte datum
-QID28_QuestionText,"Wat voor soort test was uw <span style=""color:#e74c3c;"">tweede</span> COVID-19 test?"
+QID28_QuestionText,"Wat voor soort test was uw <span style=""color:#e74c3c;"">tweede</span> COVID-19 test?  (Uw test had mogelijk meerdere onderdelen. Vink alle aan die van toepassing zijn.)"
 QID28_Choice1,"Nasaal (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
 QID28_Choice2,"Nasofaryngeaal (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
 QID28_Choice3,Keel
@@ -1275,7 +1275,7 @@ QID331_Subquestion3_Answer149,2048
 QID331_Subquestion3_Answer150,2049
 QID298_QuestionText,Is dit een geschatte datum?
 QID298_Choice1,Dit is een geschatte datum
-QID32_QuestionText,"Wat voor soort test was uw&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">derde</span>&nbsp;COVID19 test?"
+QID32_QuestionText,"Wat voor soort test was uw&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">derde</span>&nbsp;COVID19 test?  (Uw test had mogelijk meerdere onderdelen. Vink alle aan die van toepassing zijn.)"
 QID32_Choice1,"Nasaal (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
 QID32_Choice2,"Nasofaryngeaal (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
 QID32_Choice3,Keel
@@ -1284,7 +1284,7 @@ QID34_QuestionText,"Wat was uw testuitslag?&nbsp;<span style=""caret-color: rgb(
 QID34_Choice1,Positief
 QID34_Choice2,Negatief
 QID34_Choice3,Onduidelijk/Ik wacht nog op resultaten
-QID35_QuestionText,"Als u nog meer tests heeft gehad, beschrijf deze hier. Begin voor iedere test een nieuwe regel met soort, datum, en uitslag gescheiden door komma's. Bijvoorbeeld: Nasofaryngeaal, 1 april '20, Positief. Als u de precieze datum niet meer herinnert, geef dan een zo precies mogelijke schatting."
+QID35_QuestionText,"Als u nog meer tests heeft gehad, beschrijf deze hier. Begin voor iedere test een nieuwe regel met soort, datum, en uitslag gescheiden door komma's. Bijvoorbeeld: Nasofaryngeaal/Keel, 1 april '20, Positief. Als u de precieze datum niet meer herinnert, geef dan een zo precies mogelijke schatting."
 QID36_QuestionText,"Heeft u een antistoffentest gehad?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID36_Choice1,"Ja, ik ben ten minste één keer op antistoffen getest"
 QID36_Choice2,"Nee, ik ben NIET getest op antistoffen"
