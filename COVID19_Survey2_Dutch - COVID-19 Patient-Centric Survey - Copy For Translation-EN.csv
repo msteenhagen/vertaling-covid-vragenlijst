@@ -2606,7 +2606,7 @@ QID315_Choice1,Een paar uur
 QID315_Choice2,Een paar dagen
 QID315_Choice3,Een paar weken
 QID315_Choice4,Anders
-QID322_QuestionText,"(Optional) Beschrijf wat u nog meer wilt delen over uw ervaring met malaise na inspanning. U kunt bijvoorbeeld het soort activiteiten opnoemen dat uw symptomen het sterkst verergert (wandelen, zware lichamelijke inspanning, lezen, films kijken, enz.)."
+QID322_QuestionText,"(Optioneel) Beschrijf wat u nog meer wilt delen over uw ervaring met malaise na inspanning. U kunt bijvoorbeeld het soort activiteiten opnoemen dat uw symptomen het sterkst verergert (wandelen, zware lichamelijke inspanning, lezen, films kijken, enz.)."
 QID342_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
 QID342_Choice1,Verslechtering/terugval van symptomen door fysieke en mentale inspanning
 QID342_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
