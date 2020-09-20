@@ -1962,10 +1962,10 @@ QID59_Choice5,Ortho-Clinical Diagnostics Vitros
 QID59_Choice6,DiaSorin
 QID59_Choice7,Weet ik niet
 QID452_QuestionText,<strong>Geheugensymptomen</strong>
-QID375_QuestionText,"Heeft u enige <strong>GEHEUGEN GERELATEERDE SYMPTOMEN</strong>&nbsp;ervaren sinds het begin van uw ziekte met COVID-19?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
+QID375_QuestionText,"Heeft u enige <strong>GEHEUGEN-GERELATEERDE SYMPTOMEN</strong>&nbsp;ervaren sinds het begin van uw ziekte met COVID-19?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
 QID375_Choice1,Ja
 QID375_Choice2,Nee
-QID336_QuestionText,"Welke van de volgende geheugen gerelateerde symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID336_QuestionText,"Welke van de volgende geheugen-gerelateerde symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID336_Choice1,"Verlies kortetermijngeheugen (geheugen dat ~30 seconden blijft, bijv. een telefoonnummer onthouden voor u het opschrijft, of vergeten met welke taak u bezig was)"
 QID336_Choice2,"Verlies langetermijngeheugen (langetermijngeheugen loopt uiteen van het herinneren van de voorgaande dag, vergeten dat u een taak heeft uitgevoerd, het vergeten van onlangs geleerde informatie, of uw basisschoolervaring niet meer kunnen herinneren.)"
 QID336_Choice3,Geen nieuwe herinneringen meer kunnen vormen
