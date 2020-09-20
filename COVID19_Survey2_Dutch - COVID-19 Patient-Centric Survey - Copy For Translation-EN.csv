@@ -2167,7 +2167,7 @@ QID404_QuestionText,<strong>Slaapproblemen</strong>
 QID380_QuestionText,"Heeft u enige <strong>SLAAPPROBLEMEN</strong>&nbsp; gehad sinds het begin van uit COVID-19 ziekte?<span style=""color:#e74c3c;""><strong> *</strong></span>"
 QID380_Choice1,Ja
 QID380_Choice2,Nee
-QID98_QuestionText,"Welk van de volgende slaapproblemen heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID98_QuestionText,"Welke van de volgende slaapproblemen heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID98_Choice1,Lucide dromen (dromen waarbij u zich bewust bent dat u droomt of enige controle heeft over waar u over droomt)
 QID98_Choice2,Levendige dromen
 QID98_Choice3,Nachtmerries
@@ -2192,7 +2192,7 @@ QID362_Answer7,Maand 4
 QID362_Answer8,Maand 5
 QID362_Answer9,Maand 6
 QID362_Answer12,Maand 7
-QID99_QuestionText,"Als u slapeloosheid heeft/heeft gehad have/had insomnia, welk beschrijft het beste het type slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID99_QuestionText,"Als u slapeloosheid heeft/heeft gehad, welke beschrijft het beste het type slapeloosheid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID99_Choice1,Moeite met in slaap vallen
 QID99_Choice2,'s Ochtends vroeg wakker worden
 QID99_Choice3,'s Nachts meerdere malen wakker worden
