@@ -2055,7 +2055,7 @@ QID77_Choice20,Geen van bovenstaande
 QID136_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van emotionele veranderingen tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>"
 QID79_QuestionText,"Optioneel: Als u enkele van deze ervaringen met emoties al had <b>vóór</b> u COVID kreeg, beschrijf hoe deze verschilden met <b>nadat</b> u COVID kreeg. <br><br>Geef a.u.b. geen identificerende details (zoals namen of locaties)."
 QID398_QuestionText,<strong>Spraak- en Taalproblemen</strong>
-QID411_QuestionText,"Heeft up problemen ervaren met <strong>SPRAAK EN TAAL</strong>&nbsp;sinds het begin van uw COVID-19 ziekte?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
+QID411_QuestionText,"Heeft u problemen ervaren met <strong>SPRAAK EN TAAL</strong>&nbsp;sinds het begin van uw COVID-19 ziekte?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
 QID411_Choice1,Ja
 QID411_Choice2,Nee
 QID293_QuestionText,"Welke van de volgende spraak- en taalsymptomen heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
