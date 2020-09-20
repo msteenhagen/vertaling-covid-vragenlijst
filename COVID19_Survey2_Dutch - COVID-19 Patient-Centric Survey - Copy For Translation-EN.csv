@@ -647,7 +647,7 @@ QID22_QuestionText,"Hoe vaak werd u getest? (wattenstaafje)&nbsp;<span style=""c
 QID22_Choice4,1
 QID22_Choice5,2
 QID22_Choice6,3
-QID22_Choice9,Andere
+QID22_Choice9,Anders
 QID330_QuestionText,"Op welke datum werd u&nbsp;<span style=""color: rgb(231, 76, 60);"">voor het eerst</span>&nbsp;getest? (als u de precieze datum niet meer herinnert, geef een schatting)&nbsp;<span style=""font-family: -webkit-standard; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 16px;""><span style=""color: rgb(231, 76, 60);"">*</span></span>"
 QID330_Choice1,Maak een keuze:
 QID330_Subquestion1_QuestionText,Maand
@@ -852,8 +852,8 @@ QID330_Subquestion3_Answer150,2049
 QID296_QuestionText,Is dit een geschatte datum?
 QID296_Choice1,Dit is een geschatte datum
 QID24_QuestionText,"Wat voor soort test was uw&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">eerste</span>&nbsp;COVID-19 test?➘<div><span style=""font-size:16px;""><strong>&nbsp;</strong></span></div>"
-QID24_Choice1,"Neus, oppervlakkig (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
-QID24_Choice2,"Neus, diep (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
+QID24_Choice1,"Nasaal (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
+QID24_Choice2,"Nasofaryngeaal (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
 QID24_Choice3,Keel
 QID24_Choice4,Anders
 QID26_QuestionText,"Wat was uw testuitslag?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
@@ -1064,8 +1064,8 @@ QID29_Subquestion3_Answer150,2049
 QID297_QuestionText,Is dit een geschatte datum?
 QID297_Choice1,Dit is een geschatte datum
 QID28_QuestionText,"Wat voor soort test was uw <span style=""color:#e74c3c;"">tweede</span> COVID-19 test?"
-QID28_Choice1,"Neus, oppervlakkig (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
-QID28_Choice2,"Neus, diep (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
+QID28_Choice1,"Nasaal (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
+QID28_Choice2,"Nasofaryngeaal (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
 QID28_Choice3,Keel
 QID28_Choice4,Anders
 QID30_QuestionText,"Wat was uw testuitslag?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
@@ -1276,8 +1276,8 @@ QID331_Subquestion3_Answer150,2049
 QID298_QuestionText,Is dit een geschatte datum?
 QID298_Choice1,Dit is een geschatte datum
 QID32_QuestionText,"Wat voor soort test was uw&nbsp;<span style=""caret-color: rgb(231, 76, 60); color: rgb(231, 76, 60);"">derde</span>&nbsp;COVID19 test?"
-QID32_Choice1,"Neus, oppervlakkig (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
-QID32_Choice2,"Neus, diep (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
+QID32_Choice1,"Nasaal (neusslijm van de neusvleugels, zonder diep in de neus en keel te gaan)"
+QID32_Choice2,"Nasofaryngeaal (neusslijm van achteraan de neusvleugels, door diep in de neus en keel te gaan)<br />➘<br />➘<img src=""https://qfreeaccountssjc1.az1.qualtrics.com/CP/Graphic.php?IM=IM_1Y88OHV4v4cQAND"" style=""width: 270px; height: 207px;"" />"
 QID32_Choice3,Keel
 QID32_Choice4,Anders
 QID34_QuestionText,"Wat was uw testuitslag?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
