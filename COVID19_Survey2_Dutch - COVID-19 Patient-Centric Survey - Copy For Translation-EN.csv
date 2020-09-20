@@ -2717,7 +2717,7 @@ QID153_Choice7,Persoonlijkheidsstoornis
 QID153_Choice8,Psychotische stoornis
 QID153_Choice9,Delirium (Acute verwardheid)
 QID153_Choice10,Anders
-QID153_Choice11,Posttraumatische stressstoornis (PTSD)
+QID153_Choice11,Posttraumatische stressstoornis (PTSS)
 QID154_QuestionText,"Voor elke aandoening die op u betrekking heeft, geef het volgende aan:"
 QID154_Choice29,Depressie
 QID154_Choice30,Bipolaire stoornis
@@ -2727,7 +2727,7 @@ QID154_Choice34,Eetstoornis
 QID154_Choice35,Persoonlijkheidsstoornis
 QID154_Choice36,Psychotische stoornis
 QID154_Choice37,Delirium (Acute verwardheid)
-QID154_Choice39,Posttraumatische stressstoornis (PTSD)
+QID154_Choice39,Posttraumatische stressstoornis (PTSS)
 QID154_Choice40,Anders
 QID154_Answer1,N.v.t.
 QID154_Answer2,Geen verandering tijdens COVID-19
