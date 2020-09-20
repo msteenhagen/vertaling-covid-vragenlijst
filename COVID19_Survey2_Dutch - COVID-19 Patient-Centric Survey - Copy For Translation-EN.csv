@@ -2213,7 +2213,7 @@ QID381_Choice2,Nee
 QID349_QuestionText,"<span class=""qordoba-embed-panel__status""><div>Welke van de volgende hallucinaties heeft u gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></div><em></em><p><em></em></p></span>"
 QID349_Choice28,Visuele (zien) Hallucinaties
 QID349_Choice29,Auditieve (horen) Hallucinaties
-QID349_Choice30,Tactiele (aanraking) Hallucinaties
+QID349_Choice30,Tactiele (tast) Hallucinaties
 QID349_Choice51,"Hallucinaties, anders"
 QID350_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
 QID350_Choice28,Hallucinaties
