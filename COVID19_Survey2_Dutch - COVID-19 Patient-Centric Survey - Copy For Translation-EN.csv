@@ -2469,7 +2469,7 @@ QID356_Answer7,Maand 4
 QID356_Answer8,Maand 5
 QID356_Answer9,Maand 6
 QID356_Answer12,Maand 7
-QID377_QuestionText,"<span style=""font-weight: bolder;"">Alle Andere Symptomen</span><div><b><br></b>Heeft u één of meerder van deze symptomen gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Kies alle opties die&nbsp;van toepassing zijn)</div></div>"
+QID377_QuestionText,"<span style=""font-weight: bolder;"">Alle Andere Symptomen</span><div><b><br></b>Heeft u één of meerdere van deze symptomen gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Kies alle opties die&nbsp;van toepassing zijn)</div></div>"
 QID377_Choice42,Niet kunnen huilen
 QID377_Choice49,Brok in de keel / moeite met slikken
 QID377_Choice50,Veranderingen in de stem
