@@ -309,8 +309,8 @@ QID229_QuestionText,"Werkt u in de zorgsector?<span style=""caret-color: rgb(0, 
 QID229_Choice1,Ja
 QID229_Choice2,Nee
 QID230_QuestionText,"Hoe heeft u deze enquête gevonden?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
-QID230_Choice1,Body Politic Slack Group
-QID230_Choice2,Long Haul COVID Fighters Group op Facebook
+QID230_Choice1,Body Politic Slack-groep
+QID230_Choice2,Long Haul COVID Fighters groep op Facebook
 QID230_Choice3,Long Covid Support Group op Facebook
 QID230_Choice4,Andere steungroep
 QID230_Choice5,Facebook
