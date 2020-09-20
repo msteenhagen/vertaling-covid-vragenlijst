@@ -319,7 +319,7 @@ QID230_Choice7,Instagram
 QID230_Choice8,Gedeeld door kennis of familielid
 QID230_Choice9,E-maillijst van patiëntenvereniging
 QID230_Choice10,"Media (artikel, krant, blog)"
-QID230_Choice11,Other
+QID230_Choice11,Anders
 QID7_QuestionText,"Wanneer begonnen uw symptomen?&nbsp;<span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID7_Choice1,Maak een keuze:
 QID7_Subquestion1_QuestionText,Maand
