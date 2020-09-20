@@ -2580,7 +2580,7 @@ QID271_Choice8,Symptoom 5
 QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Verslechtering of terugval van symptomen na fysieke en/of mentale activiteit</i></div></div>
 QID253_QuestionText,"Heeft u tijdens uw herstel van COVID-19 na lichamelijke of mentale activiteit enige verergering of terugval van uw symptomen ervaren?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID253_Choice23,Ja
-QID253_Choice24,No
+QID253_Choice24,Nee
 QID280_QuestionText,"Hoe sterk ervoer u doorgaans een verergering/terugval van uw symptomen? Houd a.u.b. de schuifregelaar op 0 als u dit helemaal niet heeft ervaren.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID280_Choice1,Fysiek
 QID280_Choice2,Cognitief
