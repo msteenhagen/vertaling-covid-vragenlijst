@@ -2577,16 +2577,16 @@ QID271_Choice5,"Symptoom 2<span style=""color:#e74c3c;""> *</span>"
 QID271_Choice6,"Symptoom 3<span style=""color:#e74c3c;""> *</span>"
 QID271_Choice7,Symptoom 4
 QID271_Choice8,Symptoom 5
-QID250_QuestionText,<strong>Post-Exertional Malaise</strong><div>➘<div><i>Verslechtering of terugval van symptomen na fysieke en/of mentale activiteit</i></div></div>
+QID250_QuestionText,<strong>Malaise na Inspanning</strong><div>➘<div><i>Verslechtering of terugval van symptomen na fysieke en/of mentale activiteit</i></div></div>
 QID253_QuestionText,"Heeft u tijdens uw herstel van COVID-19 na lichamelijke of mentale activiteit enige verergering of terugval van uw symptomen ervaren?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID253_Choice23,Ja
 QID253_Choice24,Nee
 QID280_QuestionText,"Hoe sterk ervoer u doorgaans een verergering/terugval van uw symptomen? Houd a.u.b. de schuifregelaar op 0 als u dit helemaal niet heeft ervaren.<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID280_Choice1,Fysiek
 QID280_Choice2,Cognitief
-QID280_Label1,Geen post-exertional malaise
-QID280_Label2,Enige vorm van post-exertional malaise
-QID280_Label3,Sterke vorm van post-exersional malaise
+QID280_Label1,Geen malaise na inspanning
+QID280_Label2,Enige vorm van malaise na inspanning
+QID280_Label3,Sterke vorm van malaise na inspanning
 QID314_QuestionText,"<p>Als u een verslechtering of terugval hebt ervaren na &nbsp;<span style=""font-weight: bolder;"">Fysieke</span>&nbsp;Activiteit, wanneer vindt deze verslechtering/terugval plaats?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span></p>"
 QID314_Choice1,Onmiddellijk
 QID314_Choice2,"Dezelfde dag nog, na een paar uur"
@@ -2606,7 +2606,7 @@ QID315_Choice1,Een paar uur
 QID315_Choice2,Een paar dagen
 QID315_Choice3,Een paar weken
 QID315_Choice4,Anders
-QID322_QuestionText,"(Optional) Beschrijf wat u nog meer wilt delen over uw ervaring met Post-Exertional Malaise. U kunt bijvoorbeeld het soort activiteiten opnoemen dat uw symptomen het sterkst verergert (wandelen, zware lichamelijke inspanning, lezen, films kijken, enz.)."
+QID322_QuestionText,"(Optional) Beschrijf wat u nog meer wilt delen over uw ervaring met malaise na inspanning. U kunt bijvoorbeeld het soort activiteiten opnoemen dat uw symptomen het sterkst verergert (wandelen, zware lichamelijke inspanning, lezen, films kijken, enz.)."
 QID342_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
 QID342_Choice1,Verslechtering/terugval van symptomen door fysieke en mentale inspanning
 QID342_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
