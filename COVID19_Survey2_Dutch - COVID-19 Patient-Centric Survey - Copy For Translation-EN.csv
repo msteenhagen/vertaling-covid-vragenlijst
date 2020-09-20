@@ -2620,7 +2620,7 @@ QID342_Answer9,Maand 5
 QID342_Answer10,Maand 6
 QID342_Answer11,Maand 7
 QID321_QuestionText,<b>Vermoeidheid</b>
-QID146_QuestionText,"De volgende tien uitspraken gaan over hoe u zich voelde tijdens het <strong>huidige</strong> stadium van uw herstel van COVID-19 (gedurende de afgelopen week).&nbsp;<strong>Geef a.u.b antwoord op elke vraag, ook al heeft u op het moment geen klachten.&nbsp;<span style=""color:#c0392b;"">*</span>&nbsp;</strong>"
+QID146_QuestionText,"De volgende tien uitspraken gaan over hoe u zich voelde tijdens het <strong>huidige</strong> stadium van uw herstel van COVID-19 (gedurende de afgelopen week).&nbsp;<strong>Geef a.u.b. antwoord op elke vraag, ook al heeft u op het moment geen klachten.&nbsp;<span style=""color:#c0392b;"">*</span>&nbsp;</strong>"
 QID146_Choice1,Ik heb last van vermoeidheid
 QID146_Choice2,Ik word heel snel moe
 QID146_Choice3,Ik doe overdag niet veel
