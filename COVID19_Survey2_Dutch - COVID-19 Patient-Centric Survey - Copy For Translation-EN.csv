@@ -2727,7 +2727,8 @@ QID154_Choice34,Eetstoornis
 QID154_Choice35,Persoonlijkheidsstoornis
 QID154_Choice36,Psychotische stoornis
 QID154_Choice37,Delirium (Acute verwardheid)
-QID154_Choice39,Posttraumatische stressstoornis (PTSS)
+QID154_Choice39,Posttraumatische stressstoornis (PTSS
+)
 QID154_Choice40,Anders
 QID154_Answer1,N.v.t.
 QID154_Answer2,Geen verandering tijdens COVID-19
@@ -2821,9 +2822,9 @@ QID167_Choice3,Ik ben behandeld door mijn een nieuwe GGZ-arts (geestelijke gezon
 QID167_Choice4,Ik heb niet de behandeling gekregen die ik nodig had
 QID168_QuestionText,"Als u geen psychiatrische behandeling heeft kunnen krijgen, welke van de volgende factoren heeft hieraan bijgedragen?"
 QID168_Choice1,Kosten
-QID168_Choice2,Toegang tot een apparaat met voorziening voor consult op afstand (telemedicine)
+QID168_Choice2,Toegang tot een apparaat met voorziening voor zorg op afstand
 QID168_Choice3,De zorg(instelling) van mijn voorkeur wordt niet vergoed door mijn verzekering
-QID168_Choice4,De zorg(instelling) van mijn voorkeur staat biedt geen consult op afstand (telemedicine) aan
+QID168_Choice4,De zorg(instelling) van mijn voorkeur staat biedt geen zorg op afstand aan
 QID168_Choice5,Anders
 QID169_QuestionText,Welke welzijns-activiteiten heeft u ondernomen/in deelgenomen om beter om te gaan met uw situatie? (vink alles aan wat van toepassing is)
 QID169_Choice1,Online COVID-19 ondersteuningsgroepen/gemeenschappen (specifiek voor COVID-19)
