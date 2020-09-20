@@ -2265,8 +2265,8 @@ QID102_Choice6,Andere temperatuurproblemen (niet hierboven of onder genoemd)
 QID359_QuestionText,"Als u enige van de volgende temperatuurproblemen heeft gehad, wanneer had u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
 QID359_Choice1,Rillingen/opvlieging/zweten
 QID359_Choice8,Alle andere temperatuurproblemen
-QID359_Choice10,"Verhoogde temperatuur (98.8-100.4 graden Fahrenheit, 37.1-37.9 graden Celsius)"
-QID359_Choice11,Koorts (100.4 graden Fahrenheit / 38 graden Celsius of hoger)
+QID359_Choice10,"Verhoogde temperatuur (37.1-37.9 graden Celsius, 98.8-100.4 graden Fahrenheit)"
+QID359_Choice11,Koorts (38 graden Celsius / 100.4 graden Fahrenheit of hoger)
 QID359_Choice12,Lage temperatuur
 QID359_Answer13,N.v.t.
 QID359_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
