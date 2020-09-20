@@ -1962,10 +1962,10 @@ QID59_Choice5,Ortho-Clinical Diagnostics Vitros
 QID59_Choice6,DiaSorin
 QID59_Choice7,Weet ik niet
 QID452_QuestionText,<strong>Geheugensymptomen</strong>
-QID375_QuestionText,"Heeft u enige <strong>GEHEUGEN-GERELATEERDE SYMPTOMEN</strong>&nbsp;ervaren sinds het begin van uw ziekte met COVID-19?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
+QID375_QuestionText,"Heeft u enige <strong>GEHEUGEN-GERELATEERDE SYMPTOMEN</strong>&nbsp;ervaren sinds het begin van uw COVID-19 ziekte?&nbsp;<strong><span style=""color:#e74c3c;"">*</span></strong>"
 QID375_Choice1,Ja
 QID375_Choice2,Nee
-QID336_QuestionText,"Welke van de volgende geheugen-gerelateerde symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID336_QuestionText,"Welke van de volgende geheugen-gerelateerde symptomen heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID336_Choice1,"Verlies kortetermijngeheugen (geheugen dat ~30 seconden blijft, bijv. een telefoonnummer onthouden voor u het opschrijft, of vergeten met welke taak u bezig was)"
 QID336_Choice2,"Verlies langetermijngeheugen (langetermijngeheugen loopt uiteen van het herinneren van de voorgaande dag, vergeten dat u een taak heeft uitgevoerd, het vergeten van onlangs geleerde informatie, of uw basisschoolervaring niet meer kunnen herinneren.)"
 QID336_Choice3,Geen nieuwe herinneringen meer kunnen vormen
@@ -1984,10 +1984,10 @@ QID68_Answer7,Maand 4
 QID68_Answer8,Maand 5
 QID68_Answer9,Maand 6
 QID68_Answer12,Maand 7
-QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">Heeft u problemen gehad met <strong>'BRAIN FOG' (CONCENTRATIEPROBLEMEN)</strong>&nbsp;(onvermogen om te concentreren, om te denken, om te plannen, om informatie te verwerken, begrijpen, en een gedachtengang vol te houden; abnormaal langzame of snelle gedachten)&nbsp;sinds het begin van uw ziekte met COVID-19?&nbsp;<span style=""color:#e74c3c;"">*</span></span>"
+QID376_QuestionText,"<span style=""font-family:Arial,Helvetica,sans-serif;"">Heeft u problemen gehad met <strong>HERSENMIST (BRAIN FOG)</strong>&nbsp;(onvermogen om te concentreren, om te denken, om te plannen, om informatie te verwerken, begrijpen, en een gedachtengang vol te houden; abnormaal langzame of snelle gedachten)&nbsp;sinds het begin van uw COVID-19 ziekte?&nbsp;<span style=""color:#e74c3c;"">*</span></span>"
 QID376_Choice1,Ja
 QID376_Choice2,Nee
-QID261_QuestionText,"Welke van de volgende symptomen gerelateerd aan 'brain fog' of cognitief functioneren hebt u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""color:#e74c3c;""><strong>&nbsp;*</strong></span>"
+QID261_QuestionText,"Welke van de volgende symptomen gerelateerd aan hersenmist (brain fog) of cognitief functioneren hebt u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""color:#e74c3c;""><strong>&nbsp;*</strong></span>"
 QID261_Choice1,"Moeilijkheden met uitvoerend functioneren (plannen, organiseren, een volgorde van handelen bepalen, abstract denken)"
 QID261_Choice2,Agnosia (Onvermogen om dingen te herkennen of identificeren terwijl er niets mis is met uw zintuigen)
 QID261_Choice3,Moeilijkheden met probleemoplossing of besluitvorming
@@ -1996,9 +1996,9 @@ QID261_Choice5,Gedachten die te snel gaan
 QID261_Choice6,Langzame gedachtengang
 QID261_Choice7,Slechte aandacht of concentratie
 QID261_Choice8,Anders
-QID261_Choice10,Ik heb GEEN 'brain fog' symptomen gehad
+QID261_Choice10,Ik heb GEEN hersenmist (brain fog) symptomen gehad
 QID337_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (als u nog niet aan een week/maand zit, laat het open)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
-QID337_Choice1,'Brain fog' / symptomen gerelateerd aan cognitief functioneren
+QID337_Choice1,hersenmist (brain fog) / symptomen gerelateerd aan cognitief functioneren
 QID337_Answer1,"<span style=""font-size:16px;""><span style=""color:#e74c3c;""><strong>Week 1</strong></span></span>"
 QID337_Answer2,Week 2
 QID337_Answer3,Week 3
@@ -2009,7 +2009,7 @@ QID337_Answer7,Maand 4
 QID337_Answer8,Maand 5
 QID337_Answer9,Maand 6
 QID337_Answer12,Maand 7
-QID73_QuestionText,"Voelde u zich aanzienlijk beperkt of niet in staat om één of meerdere van de volgende dingen te doen door <strong>&nbsp;GEHEUGENVERLIES OF 'BRAIN FOG'</strong> (dit omvat problemen met aandacht, cognitief functioneren, en bewustzijn)&nbsp;?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID73_QuestionText,"Voelde u zich aanzienlijk beperkt of niet in staat om één of meerdere van de volgende dingen te doen door <strong>&nbsp;GEHEUGENVERLIES OF HERSENMIST (BRAIN FOG)</strong> (dit omvat problemen met aandacht, cognitief functioneren, en bewustzijn)&nbsp;?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID73_Choice1,Autorijden
 QID73_Choice2,Op kinderen letten
 QID73_Choice3,Koken of met hete voorwerpen omgaan
@@ -2029,8 +2029,8 @@ QID73_Answer2,Matig beperkt
 QID73_Answer3,Licht beperkt
 QID73_Answer4,Niet beperkt
 QID73_Answer5,Niet van toepassing
-QID74_QuestionText,"Optioneel: Als er andere delen van uw leven zijn die werden beïnvloed door geheugenverlies of 'brain fog', vermeld deze dan hier. Beschrijf of ze licht, matig of ernstig beperkend waren.&nbsp;"
-QID133_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van uw 'brain fog', geheugenverlies, and aandachtsspanne.<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>"
+QID74_QuestionText,"Optioneel: Als er andere delen van uw leven zijn die werden beïnvloed door geheugenverlies of hersenmist (brain fog), vermeld deze dan hier. Beschrijf of ze licht, matig of ernstig beperkend waren.&nbsp;"
+QID133_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van uw hersenmist (brain fog), geheugenverlies, and aandachtsspanne.<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>"
 QID399_QuestionText,<strong>Veranderingen in Emoties en Gedrag</strong>
 QID77_QuestionText,"Heeft u, in vergelijking met hoe u zich vóór COVID voelde, een toename ervaren van één of meerdere van de volgende situaties?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID77_Choice1,Moeite emoties onder controle te houden
@@ -2055,10 +2055,10 @@ QID77_Choice20,Geen van bovenstaande
 QID136_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden te geven van emotionele veranderingen tijdens uw ziekte.&nbsp;<div>Geef a.u.b. geen identificerende details (zoals namen of locaties).</div>"
 QID79_QuestionText,"Optioneel: Als u enkele van deze ervaringen met emoties al had <b>vóór</b> u COVID kreeg, beschrijf hoe deze verschilden met <b>nadat</b> u COVID kreeg. <br><br>Geef a.u.b. geen identificerende details (zoals namen of locaties)."
 QID398_QuestionText,<strong>Spraak- en Taalproblemen</strong>
-QID411_QuestionText,"Heeft up problemen ervaren met <strong>SPRAAK EN TAAL</strong>&nbsp;sinds het begin van uw ziekte met COVID-19?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
+QID411_QuestionText,"Heeft up problemen ervaren met <strong>SPRAAK EN TAAL</strong>&nbsp;sinds het begin van uw COVID-19 ziekte?&nbsp;<span style=""color: rgb(231, 76, 60);"">*</span>"
 QID411_Choice1,Ja
 QID411_Choice2,Nee
-QID293_QuestionText,"Welke van de volgende spraak- en taalsymptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID293_QuestionText,"Welke van de volgende spraak- en taalsymptomen heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID293_Choice1,Moeite met het vinden van de juiste woorden tijdens spreken / schrijven
 QID293_Choice2,Moeite met verbaal te communiceren
 QID293_Choice3,Moeite met spreken in volledige zinnen
@@ -2086,10 +2086,10 @@ QID302_Choice1,Ja
 QID302_Choice2,Nee
 QID134_QuestionText,"Optioneel: Gebruik deze ruimte om voorbeelden van uw taalproblemen te beschrijven, waaronder met spreken, schrijven, lezen en luisteren naar woorden. Als er wijzigingen in uw spraak of taal zij die hierboven niet zijn vermeld, voeg deze dan ook toe. Bijvoorbeeld, als u meerdere talen spreekt en verschillende problemen hebt opgemerkt met uw eerste (moedertaal) en tweede of derde taal.&nbsp; &nbsp;"
 QID401_QuestionText,<strong>Hoofdpijn</strong>
-QID374_QuestionText,"Heeft u nieuwe <strong>HOOFDPIJN OF GERELATEERDE SYMPTOMEN</strong> gehad sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID374_QuestionText,"Heeft u nieuwe <strong>HOOFDPIJN OF GERELATEERDE SYMPTOMEN</strong> gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID374_Choice1,Ja
 QID374_Choice2,Nee
-QID345_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID345_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID345_Choice20,"Hoofdpijn, aan de achterkant van hoofd of nek"
 QID345_Choice21,"Hoofdpijn, rond de slapen"
 QID345_Choice22,"Hoofdpijn, achter de ogen"
@@ -2114,10 +2114,10 @@ QID346_Answer8,Maand 5
 QID346_Answer9,Maand 6
 QID346_Answer12,Maand 7
 QID402_QuestionText,<strong>Reuk en Smaak</strong>
-QID379_QuestionText,"Heeft u veranderingen gemerkt in uw <strong>REUK OF SMAAK</strong>&nbsp;sinds het begin van uw ziekte met COVID-19? <span style=""color:#e74c3c;""><strong>*</strong></span>&nbsp;"
+QID379_QuestionText,"Heeft u veranderingen gemerkt in uw <strong>REUK OF SMAAK</strong>&nbsp;sinds het begin van uw COVID-19 ziekte? <span style=""color:#e74c3c;""><strong>*</strong></span>&nbsp;"
 QID379_Choice1,Ja
 QID379_Choice2,Nee
-QID106_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
+QID106_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>"
 QID106_Choice1,Verlies van reuk
 QID106_Choice2,Fantoomgeuren (inbeelden/hallucineren van geuren - iets ruiken dat er niet is)
 QID106_Choice3,Verscherping van de reukzin
@@ -2142,10 +2142,10 @@ QID363_Answer12,Maand 7
 QID107_QuestionText,"Als u fantoomsmaken proefde, geef hier een beschrijving:"
 QID108_QuestionText,"Als u fantoomgeuren rook, geef hier een beschrijving:"
 QID403_QuestionText,<strong>Tremors en Trillend Gevoel</strong>
-QID410_QuestionText,"Heeft u een <strong>TREMOR OF TRILLEND GEVOEL</strong>&nbsp; gehad sinds het begin van uw ziekte met COVID-19?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Onwillekeurige, ritmische spiersamentrekking die leidt tot een schuddende beweging in één of meerdere lichaamsdelen&nbsp;</div>➘➘<div><strong>Trillend gevoel</strong>: Een trillende sensatie, die voelt alsof uw spieren, vingers, of benen&nbsp;vibreren&nbsp;of schudden van binnen, maar u ziet geen beweging&nbsp;</div>"
+QID410_QuestionText,"Heeft u een <strong>TREMOR OF TRILLEND GEVOEL</strong>&nbsp; gehad sinds het begin van uw COVID-19 ziekte?&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;➘<div><br />➘<strong>Tremor</strong>: Onwillekeurige, ritmische spiersamentrekking die leidt tot een schuddende beweging in één of meerdere lichaamsdelen&nbsp;</div>➘➘<div><strong>Trillend gevoel</strong>: Een trillende sensatie, die voelt alsof uw spieren, vingers, of benen&nbsp;vibreren&nbsp;of schudden van binnen, maar u ziet geen beweging&nbsp;</div>"
 QID410_Choice1,Ja
 QID410_Choice2,Nee
-QID347_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span></div><div><span style=""color: rgb(231, 76, 60); font-size: 16px; caret-color: rgb(0, 0, 0);"">Geef de plek in uw lichaam aan in het tekstvak. Als het om meerdere plekken gaat, scheidt deze met een komma (bijv. been, romp, hand).</span><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span><div><br></div></div>"
+QID347_QuestionText,"Welke van de volgende symptomen heeft u ervaren sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span></div><div><span style=""color: rgb(231, 76, 60); font-size: 16px; caret-color: rgb(0, 0, 0);"">Geef de plek in uw lichaam aan in het tekstvak. Als het om meerdere plekken gaat, scheidt deze met een komma (bijv. been, romp, hand).</span><span style=""font-size: 16px; caret-color: rgb(0, 0, 0);""><br></span><div><br></div></div>"
 QID347_Choice33,Tremors
 QID347_Choice35,Trillend gevoel
 QID348_QuestionText,"Wanneer ervoer u deze symptomen?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Selecteer een symptoom ook als u dit slechts voor een deel van een week of maand heeft gehad.</div>"
@@ -2469,7 +2469,7 @@ QID356_Answer7,Maand 4
 QID356_Answer8,Maand 5
 QID356_Answer9,Maand 6
 QID356_Answer12,Maand 7
-QID377_QuestionText,"<span style=""font-weight: bolder;"">Alle Andere Symptomen</span><div><b><br></b>Heeft u één of meerder van deze symptomen gehad sinds het begin van uw ziekte met COVID-19?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Kies alle opties die&nbsp;van toepassing zijn)</div></div>"
+QID377_QuestionText,"<span style=""font-weight: bolder;"">Alle Andere Symptomen</span><div><b><br></b>Heeft u één of meerder van deze symptomen gehad sinds het begin van uw COVID-19 ziekte?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span>➘<div>(Kies alle opties die&nbsp;van toepassing zijn)</div></div>"
 QID377_Choice42,Niet kunnen huilen
 QID377_Choice49,Brok in de keel / moeite met slikken
 QID377_Choice50,Veranderingen in de stem
