@@ -2648,7 +2648,7 @@ QID276_Choice2,2-4 uur
 QID276_Choice3,4-6 uur
 QID276_Choice4,6-8 uur
 QID276_Choice5,meer dan 8 uur per dag
-QID422_QuestionText,"Als u zich vermoeid voelde, wanneer voelde u zich dan vermoeid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>.  Vul dit in ook als u deze symptomen slechts voor een deel van een week of maand heeft gehad.</div>"
+QID422_QuestionText,"Als u zich vermoeid voelde, wanneer voelde u zich dan vermoeid?<span style=""caret-color: rgb(0, 0, 0);"">&nbsp;</span><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;"">*</span><div><span style=""caret-color: rgb(0, 0, 0); color: rgb(231, 76, 60); font-size: 16px;""><br></span></div><div>Selecteer symptomen voor de eerste&nbsp;<span style=""color: rgb(231, 76, 60);"">4 weken</span>, vervolgens&nbsp;<span style=""color: rgb(231, 76, 60);"">maanden (indien van toepassing)</span>. Vul dit in ook als u deze symptomen slechts voor een deel van een week of maand heeft gehad.</div>"
 QID422_Choice1,Vermoeidheid
 QID422_Answer13,N.v.t.
 QID422_Answer1,"<span style=""color:#e74c3c;""><span style=""font-size:16px;""><strong>Week 1</strong></span></span>"
