@@ -2997,7 +2997,7 @@ QID257_QuestionText,Heeft u diagnostisch bloedonderzoek gehad voor uw COVID-19-s
 QID257_Choice4,Ja
 QID257_Choice5,Nee
 QID208_QuestionText,"Wat was het resultaat van uw bloedonderzoeken voor de volgende punten? Als uw resultaten op een bepaald moment abnormaal waren maar vervolgens zijn opgelost, vermeld dan het abnormale resultaat."
-QID208_Choice1,Kreatinine (doorgaans onderdeel van het uitgebreide metabolic panel)
+QID208_Choice1,Kreatinine (doorgaans onderdeel van het uitgebreide metabole paneel, CMP)
 QID208_Choice2,"Aantal lymfocyten (doorgaans onderdeel van compleet bloedbeeld, CBC)"
 QID208_Choice3,"Aantal eosinofielen (doorgaans onderdeel van compleet bloedbeeld, CBC)"
 QID208_Choice4,"Eosinofielen % (doorgaans onderdeel van compleet bloedbeeld, CBC)"
